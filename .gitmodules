@@ -1,0 +1,6 @@
+[submodule "world"]
+	path = world
+	url = git@grea.me:world
+[submodule "color"]
+	path = color
+	url = git@grea.me:color
