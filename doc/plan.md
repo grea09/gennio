@@ -11,16 +11,15 @@ style: journal
 
 # Acknowledgements {-}
 
+
 # Table of Content {-}
 
-# Introduction \hfill (2 weeks) Due _2019-03-20_; Corrected _2019-04-29_ {-}
+# Introduction \hfill (2 weeks) Due _2019-03-11_; Corrected _2019-03-22_ {-}
 
 ## Thesis Context
 
-## Initial Subject
-
 ## Motivations
-
+ 
 ### Observation
 
 ### Abstraction
@@ -28,6 +27,8 @@ style: journal
 ### Cognition
 
 ## Issues
+
+## Contributions
 
 ## Plan
 
@@ -38,12 +39,16 @@ style: journal
 (Notation)
 
 ## Fundamentals
-
-(Fondation des maths et des système logique)
-(Grammaire)
-(Sémantique ontologie)
-
 État de l'art
+
+### Fundation of maths and logic systems
+(ZFC, DL, Category theory)
+
+### Grammar and Parsing
+(BNF, Dynamic Grammar, Context free)
+
+### Ontologies and their Languages
+(RDF, OWL, and Their limitations)
 
 ## WORLD
 
@@ -57,9 +62,13 @@ style: journal
 
 ### Extended Inference Mechanisms
 
-(préparer la notion de fluent)
+## Perpectives
 
-# Planning Framework \hfill (3 weeks) Due _2019-01-25_; Corrected _2019-02-08_
+### Literal definition using Peano's axioms
+
+### Advanced Inference
+
+# General Planning Framework \hfill (3 weeks) Due _2019-01-25_; Corrected _2019-02-08_
 
 ## Existing Languages and Frameworks
 
@@ -83,13 +92,24 @@ style: journal
 
 (Framework)
 
-# Planning Algorithms \hfill (2 weeks) Due _2019-02-12_; Corrected _2019-02-22_
+# Online and Flexible Planning Algorithms \hfill (3 weeks) Due _2019-02-24_; Corrected _2019-03-04_
+(Conference + poster + 4 half day of teachings adds a week)
 
 ## Existing Algorithms
 
 État de l'art
 
 ## Lollipop
+
+### Operator Graph
+
+### Negative Refinements
+
+### Usefullness Heuristic
+
+### Algorithm
+
+### Theoretical and Empirical Results
 
 ## HEART
 
@@ -103,14 +123,6 @@ style: journal
 
 ### Computational Profile
 
-# Perspectives and Discussions \hfill (2 weeks) Due _2019-03-05_; Corrected _2019-03-15_
-
-## Knowledge Extensions
-
-### Literal definition using Peano's axioms
-
-### Advanced Inference
-
 ## Planning Improvements
 
 ### Heuristics using Semantics
@@ -123,7 +135,7 @@ style: journal
 
 ### Rico
 
-# Conclusion \hfill + Finalisation (1 weeks) Due _2019-03-29_; Corrected _2019-04-10_ {-}
+# Conclusion \hfill + Finalisation (1 weeks) Due _2019-03-25_; Corrected _2019-04-01_ {-}
 
 # Apendix {-}
 

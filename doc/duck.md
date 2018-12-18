@@ -3698,4 +3698,28 @@ Gotta register as a speaker but I need to validate.
 
 Starting thesis redaction (plan only)
 
+### 12018-12-15
+
+I took a day off.
+
+I need to redo my plan to begin with.
+
+Language of description: describe a situation
+
+Generic system of knowledge description
+
+In color : speak of each planning paradigm (acording to taxonomy if found.)
+
+### 12018-12-16
+
+Starting the redaction of the thesis from Chapter 1.
+
+### 12018-12-17
+
+Trying to fix formating and enabling two columns in some parts of the thesis.
+
+ICAART doesn't like my formating…
+
+### 12018-12-18
+
 
