@@ -1,5 +1,4 @@
 
-
 ---
 title: "Duck"
 author: Antoine Gréa
@@ -3722,4 +3721,14 @@ ICAART doesn't like my formating…
 
 ### 12018-12-18
 
+Searching for more info on how to math. I found again the thing on wikipedia about edge-loops.
+
+### 12018-12-19
+
+The guy that made the changes on Wikipedia responded to me with a bucket load of info !!!
+
+I am reading all of this since it is so close to what I did. 
+I'm a bit sad that my stuff doesn't seem so unique anymore but glad that at least some people think like me.
+
+Fixing GitLab and stuff.
 
