@@ -3732,3 +3732,23 @@ I'm a bit sad that my stuff doesn't seem so unique anymore but glad that at leas
 
 Fixing GitLab and stuff.
 
+### 12018-12-20
+
+Reading all sheaf docs. More than 40 pages of highly complex maths to understand.
+
+### 12018-12-21
+
+ICAART is really bad. Reformatting the author and fixing their poorly written format.
+
+Getting back to read.
+
+So sheaves are interesting but apparently I may not need them ?
+
+### 12018-12-22
+
+Studying AtomSpace shown me that they don't really use sheaves.
+
+sgnmxps
+
+Atomspace is a tree structure. It is meant to be universal but super duper slow.
+
