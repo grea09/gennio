@@ -3752,3 +3752,24 @@ sgnmxps
 
 Atomspace is a tree structure. It is meant to be universal but super duper slow.
 
+### 12018-12-23
+
+Getting back to redact about sheaves and stuff.
+
+Finished until BNF.
+
+### 12018-12-24
+
+!["Almost Christmas" means it wasn't Christmas !](https://pbs.twimg.com/media/DRvqoMxVwAAySp5.jpg)
+
+Finished all the first part. It will need adjustments later.
+
+### 12018-12-25
+
+![It Christimas, Merr Chirstmas](https://i.kym-cdn.com/photos/images/newsfeed/000/875/649/1a4.png)
+
+### 12018-12-26
+
+I am transferring WORLD into the document.
+
+
