@@ -3772,4 +3772,12 @@ Finished all the first part. It will need adjustments later.
 
 I am transferring WORLD into the document.
 
+### 12018-12-27
+
+Light corrections and continuation.
+I am wanting to get this chapter complete by the end of the week at worse and tomorrow at best.
+
+The remaining week will be used for corrections, rewriting, formatting and diagrams. Diagrams last since I will use my screen at work for that.
+
+
 
