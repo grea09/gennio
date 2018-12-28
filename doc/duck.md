@@ -3779,5 +3779,9 @@ I am wanting to get this chapter complete by the end of the week at worse and to
 
 The remaining week will be used for corrections, rewriting, formatting and diagrams. Diagrams last since I will use my screen at work for that.
 
+### 12018-12-28
 
+Apparently if it doesn't follow the sheaf axioms it is not a sheaf so I created something entirely new. Also the seeds are to make localized algorithms easier since the structure has a different granularity. I will also rename WORLD even if that means some work.
+
+Now I am continuing on the last part of the chapter hopping to mostly finish today to start the corrections this weekend.
 
