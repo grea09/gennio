@@ -3785,3 +3785,9 @@ Apparently if it doesn't follow the sheaf axioms it is not a sheaf so I created 
 
 Now I am continuing on the last part of the chapter hopping to mostly finish today to start the corrections this weekend.
 
+*s(e) : (e scope s);*(e) : (e scope (e));
+
+Screw it I'm removing the scope operator.
+
+
+
