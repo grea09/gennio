@@ -3793,4 +3793,16 @@ Screw it I'm removing the scope operator.
 
 Yesterday was a bad day. I feel a bit better today. I've finished chapter 1, but there's ton of corrections to be made.
 
+Dynamic Knowledge Description Framework Language Grammar 
 
+DEF	  Data Expression Framework
+DROLE	  Data RepresentatiOn LanguagE
+ADELA	  Adaptative Data Expression LAnguage
+ASTRAL	  Adaptative STructure RepresentAtion Language
+ARE - Adaptative Reactive Expression
+REL - Reactive Expression Language
+SALAD	  Structure Adaptative LAnguage Definition
+SALAUD	  Structure Adaptative LAngUage Definition
+NODEF NODEF Operates Dynamic Expression Framework
+WAFFLE World Adaptative Framework For Language Expression
+SELF Structuraly Expressive Language Framework
