@@ -3789,5 +3789,8 @@ Now I am continuing on the last part of the chapter hopping to mostly finish tod
 
 Screw it I'm removing the scope operator.
 
+### 12018-12-30
+
+Yesterday was a bad day. I feel a bit better today. I've finished chapter 1, but there's ton of corrections to be made.
 
 
