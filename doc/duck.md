@@ -3808,8 +3808,15 @@ WAFFLE World Adaptative Framework For Language Expression
 
 SELF Structuraly Expressive Language Framework
 
-
 ### 12019-01-01
 
 Happy new year 12019 HE !!!
+
+I did some corrections.
+
+
+### 12019-01-02
+
+Finishing corrections and rewriting. Needs diagrams tho.
+
 
