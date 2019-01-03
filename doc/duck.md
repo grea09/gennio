@@ -3819,4 +3819,6 @@ I did some corrections.
 
 Finishing corrections and rewriting. Needs diagrams tho.
 
+### 12019-01-03
 
+Needs more corrections and reading.
