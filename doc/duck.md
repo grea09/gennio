@@ -3822,3 +3822,13 @@ Finishing corrections and rewriting. Needs diagrams tho.
 ### 12019-01-03
 
 Needs more corrections and reading.
+
+### 12019-01-04
+
+Day of dealine. I did a few graphics but need a bit of redacting + corrections.
+
+
+### 12019-01-05
+
+More graphics and more correction.
+
