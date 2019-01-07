@@ -35,19 +35,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="3840"
+     inkscape:window-height="2034"
      id="namedview4"
      showgrid="false"
      fit-margin-left="16"
      fit-margin-right="16"
      fit-margin-bottom="8"
      fit-margin-top="8"
-     inkscape:zoom="4.7573776"
-     inkscape:cx="172.77819"
-     inkscape:cy="36.969498"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:zoom="3.363974"
+     inkscape:cx="86.221469"
+     inkscape:cy="116.85843"
+     inkscape:window-x="1920"
+     inkscape:window-y="60"
      inkscape:window-maximized="1"
      inkscape:current-layer="g12"
      showguides="false" /><g
@@ -74,7 +74,9 @@
      x="332.92032"
      y="-724.33051"
      id="tspan292-7"
-     style="fill:#6c71c4">Set</tspan></text>
+     style="fill:#6c71c4;-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">Set</tspan></text>
+
+
 
 
 </g><g
@@ -97,10 +99,12 @@
    x="333.02832"
    id="text294-9-8"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"><tspan
-     style="fill:#268bd2;stroke-width:0.99999994"
+     style="fill:#268bd2;stroke-width:0.99999994;-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
      id="tspan292-7-5"
      y="-700.48041"
      x="333.02832">relation</tspan></text>
+
+
 
 
 </g><g
@@ -118,10 +122,14 @@
    x="332.27234"
    id="text294-9-8-8"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"><tspan
-     style="fill:#2aa198;stroke-width:0.99999994"
+     style="fill:#2aa198;stroke-width:0.99999994;-inkscape-font-specification:'Skolar PE';font-family:'Skolar PE';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan292-7-5-3"
      y="-672.73401"
-     x="332.27234">ℙower Set</tspan></text>
+     x="332.27234">ℙ<tspan
+   style="-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan973">ower Set</tspan></tspan></text>
+
+
 
 
 <g
@@ -140,10 +148,12 @@
    x="332.93832"
    id="text294-9-8-7"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"><tspan
-     style="fill:#dc322f;stroke-width:0.99999994"
+     style="fill:#dc322f;stroke-width:0.99999994;-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
      id="tspan292-7-5-9"
      y="-644.51465"
      x="332.93832">In⊂ludes</tspan></text>
+
+
 
 
 </g><g
@@ -157,7 +167,9 @@
      x="201.10001"
      y="-636.90002"
      id="tspan142-8"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#657b83">Legend</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Bold';fill:#657b83">Legend</tspan></text>
+
+
 
 
 </g><path
@@ -193,14 +205,17 @@
            id="path1057"
            style="fill:none;stroke:#073642;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M 297.7,578.1 Z" /></g><g
-         transform="translate(-1.657366,1.6565791)"
+         transform="translate(0.17818556,2.9065801)"
          id="g1059"><text
    id="text1063"
    style="font-variant:normal;font-weight:normal;font-size:40px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
    transform="matrix(1,0,0,-1,200.1,657.6)"><tspan
      id="tspan1061"
      y="0"
-     x="0">E</tspan></text>
+     x="0"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">E</tspan></text>
+
+
 
 </g><g
          transform="translate(-1.657366,1.6565791)"
@@ -221,14 +236,17 @@
            id="path1075"
            style="fill:none;stroke:#b58900;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M 285.8,650.4 Z" /></g><g
-         transform="translate(-1.657366,1.6565791)"
+         transform="translate(-2.2288035,0.3765791)"
          id="g1077"><text
    id="text1081"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#b58900;fill-opacity:1;fill-rule:nonzero;stroke:none"
    transform="matrix(1,0,0,-1,267.6,658.5)"><tspan
      id="tspan1079"
      y="0"
-     x="0">T</tspan></text>
+     x="0"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">T</tspan></text>
+
+
 
 </g><g
          transform="translate(-1.657366,1.6565791)"
@@ -249,7 +267,7 @@
            id="path1093"
            style="fill:none;stroke:#d33682;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M 229.4,599 Z" /></g><g
-         transform="translate(-1.657366,1.6565791)"
+         transform="translate(-1.3018658,2.1635791)"
          id="g1095"><text
    id="text1099"
    style="font-variant:normal;font-weight:normal;font-size:11px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#d33682;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -257,7 +275,10 @@
      id="tspan1097"
      sodipodi:role="line"
      y="0"
-     x="0 5.5879998 9.0749998 13.178 16.368 22.671">String</tspan></text>
+     x="0 5.5879998 9.0749998 13.178 16.368 22.671"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">String</tspan></text>
+
+
 
 </g><g
          transform="translate(-1.657366,1.6565791)"
@@ -279,7 +300,7 @@
            id="path1111"
            style="fill:none;stroke:#586e75;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M 226.5,697.7 Z" /></g><g
-         transform="translate(-1.657366,1.6565791)"
+         transform="translate(-0.39191145,0.2995791)"
          id="g1113"
          style="fill:#cb4b16"><text
    id="text1117"
@@ -288,7 +309,9 @@
      id="tspan1115"
      y="0"
      x="0"
-     style="fill:#cb4b16">D</tspan></text>
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic';fill:#cb4b16">D</tspan></text>
+
+
 
 </g><g
          transform="translate(-1.657366,1.6565791)"
@@ -313,14 +336,17 @@
            id="path1135"
            style="fill:none;stroke:#d33682;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M 240.7,595.7 Z" /></g><g
-         transform="translate(-1.657366,1.6565791)"
+         transform="translate(-2.096366,1.6565791)"
          id="g1137"><text
    id="text1141"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#d33682;fill-opacity:1;fill-rule:nonzero;stroke:none"
    transform="matrix(1,0,0,-1,208.6,636.9)"><tspan
      id="tspan1139"
      y="0"
-     x="0">L</tspan></text>
+     x="0"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">L</tspan></text>
+
+
 
 </g><g
          transform="translate(-1.657366,1.6565791)"
@@ -385,6 +411,8 @@
      x="0"
      style="fill:#cb4b16">ℙ</tspan></text>
 
+
+
 </g><g
          transform="translate(-1.657366,1.6565791)"
          id="g1181"><path
@@ -434,14 +462,17 @@
            id="path1209"
            style="fill:none;stroke:#859900;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="M 178.6,700 Z" /></g><g
-         transform="translate(-1.657366,1.6565791)"
+         transform="translate(-1.324366,0.3315791)"
          id="g1211"><text
    id="text1215"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#859900;fill-opacity:1;fill-rule:nonzero;stroke:none"
    transform="matrix(1,0,0,-1,160.7,707.8)"><tspan
      id="tspan1213"
      y="0"
-     x="0">P</tspan></text>
+     x="0"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">P</tspan></text>
+
+
 
 </g><g
          transform="translate(-1.657366,1.6565791)"
@@ -451,7 +482,7 @@
            id="path1219"
            style="fill:none;stroke:#657b83;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
            d="m 165.5,676.8 c 7.7,0 13.6,-5.9 13.6,-13.6 0,-7.6 -5.9,-13.5 -13.6,-13.5 -7.6,0 -13.5,5.9 -13.5,13.5 0,7.7 5.9,13.6 13.5,13.6 z" /></g><g
-         transform="translate(-1.657366,1.6565791)"
+         transform="translate(-1.526366,0.3765791)"
          id="g1229"
          style="fill:#657b83"><text
    id="text1233"
@@ -460,7 +491,9 @@
      id="tspan1231"
      y="0"
      x="0"
-     style="fill:#657b83">S</tspan></text>
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic';fill:#657b83">S</tspan></text>
+
+
 
 </g><g
          transform="translate(-1.657366,1.6565791)"
@@ -470,27 +503,36 @@
    transform="matrix(1,0,0,-1,197,582.6)"><tspan
      id="tspan1237"
      y="0"
-     x="0">ν</tspan></text>
+     x="0"
+     style="-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">ν</tspan></text>
+
+
 
 </g><g
-         transform="translate(-1.657366,1.6565791)"
+         transform="translate(-1.657366,-5.843421)"
          id="g1241"><text
    id="text1245"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
    transform="matrix(1,0,0,-1,261.6,707.8)"><tspan
      id="tspan1243"
      y="0"
-     x="0">τ</tspan></text>
+     x="0"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">τ</tspan></text>
+
+
 
 </g><g
-         transform="translate(-0.15736596,1.6565791)"
+         transform="translate(-1.32236,0.69097357)"
          id="g1247"><text
    id="text1251"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
    transform="matrix(1,0,0,-1,245.2,659.9)"><tspan
      id="tspan1249"
      y="0"
-     x="0">⊏</tspan></text>
+     x="0"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">⊏</tspan></text>
+
+
 
 </g><g
          transform="translate(-1.657366,1.6565791)"
@@ -500,10 +542,13 @@
    transform="matrix(1,0,0,-1,207.8,733.9)"><tspan
      id="tspan1255"
      y="0"
-     x="0">μ</tspan></text>
+     x="0"
+     style="-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">μ</tspan></text>
+
+
 
 </g><g
-         transform="translate(-1.657366,1.6565791)"
+         transform="translate(-0.50136986,1.6565791)"
          id="g1259"><text
    id="text1263"
    style="font-variant:normal;font-weight:normal;font-size:10.39999962px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -512,28 +557,38 @@
      y="0"
      x="0">−</tspan></text>
 
+
+
 </g><g
          transform="translate(-1.657366,1.6565791)"
          id="g1265"><text
    id="text1269"
-   style="font-variant:normal;font-weight:normal;font-size:10.39999962px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   transform="matrix(1,0,0,-1,224.9,736.8)"><tspan
+   style="font-variant:normal;font-weight:normal;font-size:7.89163828px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75881141"
+   transform="scale(1,-1)"
+   x="223.85901"
+   y="-737.44965"><tspan
      id="tspan1267"
-     y="0"
-     x="0">+</tspan></text>
+     y="-737.44965"
+     x="223.85901"
+     style="stroke-width:0.75881141">+</tspan></text>
+
+
 
 </g><g
-         transform="translate(-2.803274,15.358208)"
+         transform="translate(-105.19455,8.3404621)"
          id="g1271"><text
    id="text1275"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
    transform="matrix(1,0,0,-1,262.2,605.2)"><tspan
      id="tspan1273"
      y="0"
-     x="0">=</tspan></text>
+     x="0"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE'">=</tspan></text>
+
+
 
 </g><g
-         transform="translate(-17.152432,-8.9335744)"
+         transform="translate(-121.0437,-14.45132)"
          id="g1277"><text
    id="text1281"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -542,7 +597,10 @@
    y="-618.71637"><tspan
      id="tspan1279"
      y="-618.71637"
-     x="278.74097">ρ</tspan></text>
+     x="278.74097"
+     style="-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">ρ</tspan></text>
+
+
 
 </g><g
          transform="translate(-1.657366,1.6565791)"
@@ -584,7 +642,7 @@
            id="path188-9-1-7-7"
            inkscape:connector-curvature="0" /></g><g
          id="g1965"
-         transform="rotate(-2.7266624,38.519566,831.30437)"><path
+         transform="rotate(-92.726662,210.797,674.42469)"><path
            style="fill:none;stroke:#268bd2;stroke-width:2.65009499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="path1187-0"
            transform="matrix(-0.94414927,-0.32951807,-0.32951807,0.94414927,0,0)"
@@ -601,7 +659,7 @@
            style="fill:#268bd2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994"
            id="path188-9-1"
            inkscape:connector-curvature="0" /></g><g
-         transform="translate(-73.727271,-56.874114)"
+         transform="translate(-75.227271,-58.374114)"
          id="g1253-6"><text
    id="text1257-2"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -610,9 +668,12 @@
    y="-702.37"><tspan
      id="tspan1255-9"
      y="-702.37"
-     x="205.75055">ϕ<tspan
-   style="font-size:64.99999762%;baseline-shift:super"
+     x="205.75055"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">ϕ<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic';baseline-shift:super"
    id="tspan3163">±</tspan></tspan></text>
+
+
 
 <text
    id="text1257-2-1"
@@ -620,12 +681,14 @@
    x="215.98802"
    y="-741.79193"
    transform="scale(1,-1)"><tspan
-     style="stroke-width:0.99999994"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic';stroke-width:0.99999994"
      id="tspan1255-9-2"
      y="-741.79193"
      x="215.98802">ϕ<tspan
-   style="font-size:11.69999981px;baseline-shift:super;stroke-width:0.99999994"
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.69999981px;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic';baseline-shift:super;stroke-width:0.99999994"
    id="tspan3163-7">0</tspan></tspan></text>
+
+
 
 </g></g><path
        style="fill:none;fill-opacity:1;stroke:#cb4b16;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:6.00000015, 3.00000007999999996;stroke-dashoffset:0;stroke-opacity:1"

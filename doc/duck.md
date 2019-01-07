@@ -3832,3 +3832,13 @@ Day of dealine. I did a few graphics but need a bit of redacting + corrections.
 
 More graphics and more correction.
 
+
+### 12019-01-07
+
+Start of chapter 2. I need to make sure the plan is good and that information is already available.
+
+PDDL 3.1 official requirements :
+* :strips
+* :typing
+
+
