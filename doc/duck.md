@@ -3840,5 +3840,40 @@ Start of chapter 2. I need to make sure the plan is good and that information is
 PDDL 3.1 official requirements :
 * :strips
 * :typing
+...
+
+Diagram
+
+### 12019-01-08
+
+Today from home, its much more convinient.
+
+I need a new plan for the chapter.
+
+Samir corrections:
+
+Cite slow start 1.2
+
+System : implentation
+↓
+Model : theory
+
+Example ?
+
+
+theorems or not
+
+s : D → D notation in table
+
+Double arrow too for ±
+
+to port : porter une notion in smth
+
+
+1.2.2 : criterion
+
+Example of parsing
+
+1.2.6.1 : light defeasible logic
 
 
