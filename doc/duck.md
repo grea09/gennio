@@ -3876,4 +3876,20 @@ Example of parsing
 
 1.2.6.1 : light defeasible logic
 
+### 12019-01-09
+
+Samir wants an emergency commit. 
+
+No need to go to the conference.
+
+Reading and searching details on PDDL
+
+### 12019-01-10
+
+Getting deep in the search. Got to an old 90's server to find old files and manuals and papers.
+
+I got most of it, now I'm reading UCPOP. Apparently it went like this:
+
+STRIPS → ADL → UCPOP → PDDL
+
 
