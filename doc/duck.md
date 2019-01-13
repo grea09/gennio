@@ -3900,4 +3900,6 @@ Mostly reading and exploring explanable AI
 
 Getting back to redacting.
 
+### 12019-01-13
 
+I need to make sure to complete the part I am doing properly.
