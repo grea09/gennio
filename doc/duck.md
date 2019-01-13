@@ -3892,4 +3892,12 @@ I got most of it, now I'm reading UCPOP. Apparently it went like this:
 
 STRIPS → ADL → UCPOP → PDDL
 
+### 12019-01-11
+
+Mostly reading and exploring explanable AI
+
+### 12019-01-12
+
+Getting back to redacting.
+
 
