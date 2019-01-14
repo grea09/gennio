@@ -3878,7 +3878,7 @@ Example of parsing
 
 ### 12019-01-09
 
-Samir wants an emergency commit. 
+Samir wants an emergency commit.  
 
 No need to go to the conference.
 
@@ -3903,3 +3903,10 @@ Getting back to redacting.
 ### 12019-01-13
 
 I need to make sure to complete the part I am doing properly.
+
+I searched for IPC stuff and added a correct plan for the rest of the part.
+
+### 12019-01-14
+
+Adding extensions of PDDL.
+
