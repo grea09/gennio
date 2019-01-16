@@ -3913,3 +3913,10 @@ Adding extensions of PDDL.
 ### 12019-01-15
 
 Continuing languages
+
+### 12019-01-16
+
+I need to get more efficient on this for sure.
+Let's roll
+
+
