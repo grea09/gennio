@@ -3920,3 +3920,13 @@ I need to get more efficient on this for sure.
 Let's roll
 
 Almost finished.
+
+Ended
+
+### 12019-01-17
+
+Need to sprint a bit now.
+
+I need to clean things up, I can't work this way.
+
+
