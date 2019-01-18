@@ -3929,4 +3929,12 @@ Need to sprint a bit now.
 
 I need to clean things up, I can't work this way.
 
+### 12019-01-18
+
+Deadliiiiiiiiiiiiiiiiiiine closing in…
+And keyboard acting up………………
+Probably bluetooth stuff
+
+
+
 
