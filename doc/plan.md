@@ -1,25 +1,29 @@
 ---
-title: "Ph.D. DRAFT PLAN"
+title: "Ph.D. Previsional Plan"
 author: 
  - Antoine Gréa
-abstract: All dates are given only as an indication and are not subject to formal commitment.
 
 style: journal
 ---
+
+*All dates are given only as an indication and are not subject to formal commitment.*
 
 # Abstract {-}
 
 # Acknowledgements {-}
 
+# Introduction {-}
 
-# Table of Content {-}
-
-# Introduction \hfill (2 weeks) Due _2019-03-11_; Corrected _2019-03-22_ {-}
+* After all chapters done
+* **2 weeks**
+* Due _2019-03-22_
+* Corrected _2019-03-29_
+* Jury selected _2019-04-05_
 
 ## Thesis Context
 
 ## Motivations
- 
+
 ### Observation
 
 ### Abstraction
@@ -32,72 +36,144 @@ style: journal
 
 ## Plan
 
-(Presentation du plan)
+# Knowledge Representation
 
-# Knowledge representation \hfill (3 weeks) Due _2019-01-04_; Corrected _2019-01-11_
-
-(Notation)
+* **3 weeks**
+* Due _2019-01-04_
+* **Delivered** _2019-01-05_
+* Correction _2019-01-11_ (postponed)
 
 ## Fundamentals
-État de l'art
 
-### Fundation of maths and logic systems
-(ZFC, DL, Category theory)
+### Foundation of maths and logic systems
+
+#### First Order Logic
+
+#### Set Theory
+
+#### Graphs
+
+#### Hypergraphs
+
+#### Sheaf
 
 ### Grammar and Parsing
-(BNF, Dynamic Grammar, Context free)
+
+#### BNF
+
+#### Dynamic Grammar
+
+#### Description Logics
 
 ### Ontologies and their Languages
-(RDF, OWL, and Their limitations)
 
-## WORLD
+## Self
 
 ### Knowledge Structure
 
+#### Consequences
+
+#### Native properties
+
+### Syntax
+
 ### Dynamic Grammar
+
+#### Containers
+
+#### Parameters
+
+#### Operators
 
 ### Contextual Interpretation
 
+#### Naming and Scope
+
+#### Instanciation identification
+
 ### Structure as a Definition
 
-### Extended Inference Mechanisms
+#### Quantifiers
 
-## Perpectives
+#### Inferring Native Properties
 
-### Literal definition using Peano's axioms
+#### Extended Inference Mechanisms
+
+#### Type Inference
+
+#### Instanciation
+
+## Perspectives
+
+### Literal definition using Peano’s axioms
 
 ### Advanced Inference
 
-# General Planning Framework \hfill (3 weeks) Due _2019-01-25_; Corrected _2019-02-08_
+### Queries
+
+
+
+# General Planning Framework
+
+* **4 weeks**
+* Due _2019-01-30_
+* Addressing issues with chapter 1 and 2 _2019-02-06_
+* Both corrected _2019-02-14_
+
+## Classical Formalisms
+
+### State-transition planning
+
+## General Formalism
 
 ## Existing Languages and Frameworks
 
-État de l'art
+### Classical
 
-## Taxonomy
+### Temporality oriented
 
-### Action type
+#### PDDL+
 
-(Définition)
+### Probabilistic
 
-### Plan type
+#### PPDDL
 
-(Définition)
+#### RDDL
 
-### Problem type
+### Multi-agent
 
-(Définition)
+#### MAPL
 
-## Color
+#### MA-PDDL
 
-(Framework)
+### Hierarchical
 
-# Online and Flexible Planning Algorithms \hfill (3 weeks) Due _2019-02-24_; Corrected _2019-03-04_
-(Conference + poster + 4 half day of teachings adds a week)
+#### UMCP
+
+#### SHOP2
+
+#### HDDL
+
+#### HPDDL
+
+### Ontological
+
+#### WebPDDL
+
+#### OPT
+
+
+## Color and general planning representation
+
+
+
+# Online and Flexible Planning Algorithms
+
+* **3 weeks** + 10 half days of teachings
+* Due _2019-03-08_
+* Corrected _2019-03-15_
 
 ## Existing Algorithms
-
-État de l'art
 
 ## Lollipop
 
@@ -129,13 +205,27 @@ style: journal
 
 ### Macro-Action learning
 
+
+
 ## Recognition
 
 ### Existing approcahes
 
-### Rico
+### Rico 
 
-# Conclusion \hfill + Finalisation (1 weeks) Due _2019-03-25_; Corrected _2019-04-01_ {-}
+#### Probabilities and approximations
+
+
+
+
+
+# Conclusion {-}
+
+* Finalisation + Formating + Corrections
+* **2 weeks** 
+* Due _2019-04-02_
+* Corrected _2019-04-05_
+* Last refinements and printing _2019-04-12_
 
 # Apendix {-}
 
