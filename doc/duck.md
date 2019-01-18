@@ -3935,6 +3935,8 @@ Deadliiiiiiiiiiiiiiiiiiine closing in…
 And keyboard acting up………………
 Probably bluetooth stuff
 
+Redo plan and validate with everyone.
+
 
 
 
