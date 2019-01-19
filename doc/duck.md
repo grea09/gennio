@@ -3938,5 +3938,11 @@ Probably bluetooth stuff
 Redo plan and validate with everyone.
 
 
+### 12019-01-19
 
+Good day sir.
+
+Start with Color: Formalization of general automated planning. Cite all the people saying it can't be done (RDDL). We explain all that properly and then expose each existing paradigm using it.
+
+Then we give all existing planning language and frameworks. We then present our own.
 
