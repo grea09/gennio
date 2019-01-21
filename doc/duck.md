@@ -3946,3 +3946,21 @@ Start with Color: Formalization of general automated planning. Cite all the peop
 
 Then we give all existing planning language and frameworks. We then present our own.
 
+### 12019-01-20
+
+Populating the framework.
+
+_ p _ : Allows every combination
+_ p ! : Injective
+! p _ : Surjective
+! p ! : bijective
+
+Also !=0…1 & _=0…n
+
+Instead of assign, we use a fluent with a predicate being =
+
+States ARE domains : set of statements. They are by definition a conjonction since all need to be true at once.
+
+### 12019-01-21
+
+So the uniqueness quantifier cannot be evaluated at the level of individual fluents, unless we get information about other past fluent matching or not.
