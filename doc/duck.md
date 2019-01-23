@@ -3964,3 +3964,7 @@ States ARE domains : set of statements. They are by definition a conjonction sin
 ### 12019-01-21
 
 So the uniqueness quantifier cannot be evaluated at the level of individual fluents, unless we get information about other past fluent matching or not.
+
+### 12019-01-23
+
+
