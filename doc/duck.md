@@ -3967,4 +3967,9 @@ So the uniqueness quantifier cannot be evaluated at the level of individual flue
 
 ### 12019-01-23
 
+Finishing the formalism/
+
+### 12019-01-24
+
+Needing to finish the planner.
 
