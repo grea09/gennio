@@ -3973,3 +3973,11 @@ Finishing the formalism/
 
 Needing to finish the planner.
 
+### 12019-01-26
+
+Rush time !
+
+Antoine ! Je suis pas là pour jouer avec le chat !
+
+
+
