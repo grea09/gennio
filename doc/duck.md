@@ -3979,5 +3979,11 @@ Rush time !
 
 Antoine ! Je suis pas là pour jouer avec le chat !
 
+### 12019-01-27
 
+Finished the first part
+
+### 12019-01-28
+
+Need to finish the rest and to add examples.
 
