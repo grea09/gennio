@@ -3987,3 +3987,14 @@ Finished the first part
 
 Need to finish the rest and to add examples.
 
+### 12019-01-29
+
+Diagram time !
+
+### 12019-01-31
+
+Finishing the symbol table.
+
+
+
+
