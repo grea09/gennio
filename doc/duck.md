@@ -3995,6 +3995,9 @@ Diagram time !
 
 Finishing the symbol table.
 
+### 12019-02-01
+
+Refining symbols and correcting schema
 
 
 

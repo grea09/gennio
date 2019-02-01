@@ -35,8 +35,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3840"
-     inkscape:window-height="2034"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
      fit-margin-left="16"
@@ -44,10 +44,10 @@
      fit-margin-bottom="8"
      fit-margin-top="8"
      inkscape:zoom="3.363974"
-     inkscape:cx="86.221469"
+     inkscape:cx="218.05959"
      inkscape:cy="116.85843"
-     inkscape:window-x="1920"
-     inkscape:window-y="60"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="g12"
      showguides="false" /><g
@@ -75,6 +75,7 @@
      y="-724.33051"
      id="tspan292-7"
      style="fill:#6c71c4;-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">Set</tspan></text>
+
 
 
 
@@ -107,6 +108,7 @@
 
 
 
+
 </g><g
            id="g1422"
            transform="translate(13.5,-31.420587)"><g
@@ -128,6 +130,7 @@
      x="332.27234">ℙ<tspan
    style="-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
    id="tspan973">ower Set</tspan></tspan></text>
+
 
 
 
@@ -156,6 +159,7 @@
 
 
 
+
 </g><g
            transform="translate(79.535943,88.464949)"
            id="g140-3"><text
@@ -168,6 +172,7 @@
      y="-636.90002"
      id="tspan142-8"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Bold';fill:#657b83">Legend</tspan></text>
+
 
 
 
@@ -217,6 +222,7 @@
 
 
 
+
 </g><g
          transform="translate(-1.657366,1.6565791)"
          id="g1065"><path
@@ -248,8 +254,9 @@
 
 
 
+
 </g><g
-         transform="translate(-1.657366,1.6565791)"
+         transform="translate(-1.657366,3.1565791)"
          id="g1083"><path
            inkscape:connector-curvature="0"
            id="path1085"
@@ -277,6 +284,7 @@
      y="0"
      x="0 5.5879998 9.0749998 13.178 16.368 22.671"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">String</tspan></text>
+
 
 
 
@@ -313,6 +321,7 @@
 
 
 
+
 </g><g
          transform="translate(-1.657366,1.6565791)"
          id="g1119"><path
@@ -345,6 +354,7 @@
      y="0"
      x="0"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">L</tspan></text>
+
 
 
 
@@ -413,6 +423,7 @@
 
 
 
+
 </g><g
          transform="translate(-1.657366,1.6565791)"
          id="g1181"><path
@@ -474,6 +485,7 @@
 
 
 
+
 </g><g
          transform="translate(-1.657366,1.6565791)"
          id="g1217"
@@ -495,6 +507,7 @@
 
 
 
+
 </g><g
          transform="translate(-1.657366,1.6565791)"
          id="g1235"><text
@@ -505,6 +518,7 @@
      y="0"
      x="0"
      style="-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">ν</tspan></text>
+
 
 
 
@@ -521,6 +535,7 @@
 
 
 
+
 </g><g
          transform="translate(-1.32236,0.69097357)"
          id="g1247"><text
@@ -531,6 +546,7 @@
      y="0"
      x="0"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic'">⊏</tspan></text>
+
 
 
 
@@ -547,6 +563,7 @@
 
 
 
+
 </g><g
          transform="translate(-0.50136986,1.6565791)"
          id="g1259"><text
@@ -556,6 +573,7 @@
      id="tspan1261"
      y="0"
      x="0">−</tspan></text>
+
 
 
 
@@ -574,6 +592,7 @@
 
 
 
+
 </g><g
          transform="translate(-105.19455,8.3404621)"
          id="g1271"><text
@@ -584,6 +603,7 @@
      y="0"
      x="0"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE'">=</tspan></text>
+
 
 
 
@@ -599,6 +619,7 @@
      y="-618.71637"
      x="278.74097"
      style="-inkscape-font-specification:'Skolar PE Italic';font-family:'Skolar PE';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">ρ</tspan></text>
+
 
 
 
@@ -675,6 +696,7 @@
 
 
 
+
 <text
    id="text1257-2-1"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
@@ -687,6 +709,7 @@
      x="215.98802">ϕ<tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.69999981px;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Italic';baseline-shift:super;stroke-width:0.99999994"
    id="tspan3163-7">0</tspan></tspan></text>
+
 
 
 
