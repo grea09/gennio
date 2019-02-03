@@ -3999,5 +3999,11 @@ Finishing the symbol table.
 
 Refining symbols and correcting schema
 
+### 12019-02-02
 
+End of symbols !!!
+
+### 12019-02-03
+
+Trying…
 
