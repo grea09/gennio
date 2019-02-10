@@ -4011,5 +4011,25 @@ Trying…
 
 Feeling a bit better. I'll try to get things done today.
 
+### 12019-02-05
+
+Chapter 2 time !
+
+### 12019-02-08
+
+Lessons and teachings finished for this week. That was a lot !
+
+### 12019-02-09
+
+Getting through chapter 2.
+
+Got a big issue on font to import a symbol.
+
+### 12019-02-10
+
+Fixing last symbols.
+
+
+
 
 
