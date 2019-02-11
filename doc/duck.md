@@ -4029,6 +4029,12 @@ Got a big issue on font to import a symbol.
 
 Fixing last symbols.
 
+### 12019-02-11
+
+Explaining stuff at last !
+
+> The degree or valency of a vertex is the number of edges that connect to it, where an edge that connects a vertex to itself (a loop) is counted twice. -- Wikipedia
+
 
 
 
