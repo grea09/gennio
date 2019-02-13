@@ -4035,7 +4035,9 @@ Explaining stuff at last !
 
 > The degree or valency of a vertex is the number of edges that connect to it, where an edge that connects a vertex to itself (a loop) is counted twice. -- Wikipedia
 
+### 12019-02-12
 
+Schema time !
 
 
 
