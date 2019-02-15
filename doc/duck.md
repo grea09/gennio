@@ -4039,5 +4039,15 @@ Explaining stuff at last !
 
 Schema time !
 
+### 12019-02-14
+
+Teachings and stuff.
+
+### 12019-02-15
+
+I need to find a way to feel better again. I can't let this stupid disease mess this up !
+
+
+
 
 
