@@ -4047,7 +4047,9 @@ Teachings and stuff.
 
 I need to find a way to feel better again. I can't let this stupid disease mess this up !
 
+### 12019-02-18
 
+Took a weekend break. I REALLY needed it.
 
 
 
