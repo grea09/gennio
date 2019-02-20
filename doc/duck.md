@@ -4051,5 +4051,13 @@ I need to find a way to feel better again. I can't let this stupid disease mess 
 
 Took a weekend break. I REALLY needed it.
 
+Finished the schemas !
 
+### 12019-02-19
+
+Added a few examples
+
+### 12019-02-20
+
+More examples and corrections
 
