@@ -4064,3 +4064,15 @@ More examples and corrections
 ### 12019-02-21
 
 Schema and examples.
+
+Finished second phase for Chap 2
+
+### 12019-02-22
+
+Starting chapter 3
+
+### 12019-03-02
+
+… You know exactly what happened…
+
+
