@@ -4075,4 +4075,27 @@ Starting chapter 3
 
 … You know exactly what happened…
 
+### 12019-03-06
+
+Such a joke isn't it ?
+
+### 12019-03-07
+
+I'm back ? Well lets work at last.
+
+### 12019-03-10
+
+Stupid depression…
+
+I need to find a good way to express unifying and matching and stuff. The current definition isn't type coherent. I also need to have notation standards.
+
+### 12019-03-14
+
+The meds starts working. I am trying to make the most out of the little time I have left.
+
+### 12019-03-15
+
+Getting through symbol table
+
+
 
