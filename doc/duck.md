@@ -4097,5 +4097,9 @@ The meds starts working. I am trying to make the most out of the little time I h
 
 Getting through symbol table
 
+### 12019-03-25
+
+I wasted so much time.
+
 
 
