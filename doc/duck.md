@@ -4101,5 +4101,14 @@ Getting through symbol table
 
 I wasted so much time.
 
+TODO: split chap 1
+
+### 12019-03-30
+
+Sorry
+
+### 12019-03-31
+
+Trying
 
 
