@@ -4084,7 +4084,6 @@ Such a joke isn't it ?
 I'm back ? Well lets work at last.
 
 ### 12019-03-10
-
 Stupid depression…
 
 I need to find a good way to express unifying and matching and stuff. The current definition isn't type coherent. I also need to have notation standards.
@@ -4111,4 +4110,22 @@ Sorry
 
 Trying
 
+### 12019-04-02
+
+I missed joke day because I am the joke.
+
+### 12019-04-13
+
+I'm sick. I'll try anyway.
+
+### 12019-04-15
+
+dog is man's best friend
+
+dog n.
+is v. (3rd person singular)
+man n.
+'s possessive
+best adj. superlative of good
+friend n.
 
