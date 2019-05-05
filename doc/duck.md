@@ -4129,3 +4129,60 @@ man n.
 best adj. superlative of good
 friend n.
 
+ZFC -> FOL (quantifier + = + €) -> Formal grammar -> Set theory
+
+Type theory -> Typed Lambda calculus (no definition of type) -> Lambda claculus -> set theory or formal grammar
+
+Category theory -> Typed Lamda calculus 
+
+Proof Theory -> Hilbert calculus -> Mathematic logic -> (FOL | Set | etc)
+
+Reverse mathematics as a coping to non fondational mathematics.
+
+
+### 12019-04-16
+
+Getting harassed again…
+
+start with function application using natural language as host. Then the notion of fonction composition.
+
+f = x |-> f(x)
+
+### 12019-04-29
+
+Here I am.
+
+### 12019-05-02
+
+I may have found smth
+
+Either everything is symbols or everything is function.
+
+Symbols have values. 
+The values are functions. 
+Literals are function so that v = ⋗ ↦ v and 
+constants are functions that have a literal as value.
+
+
+→ for value and ↦ for type (domain co-domain)
+
+### 12019-05-05
+
+Functions 
+
+Null → Literals → = → "→" → Null
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
