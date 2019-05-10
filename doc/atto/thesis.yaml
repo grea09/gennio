@@ -1,0 +1,39 @@
+fontsize: 11pt
+papersize: a4
+multicol: true
+classoption:
+  - twoside
+  - openright
+  - titlepage
+  - numbers=noenddot
+  - headinclude
+  - cleardoublepage=empty
+  - openany
+  - parskip
+documentclass: scrreprt
+subparagraph: yes
+toc: true
+toc-title: Table of Content
+toc-depth: 4
+reference-section-title: References
+bibliography: bibliography/thesis.bib
+csl: bibliography/aaai.csl
+pancake-includes: 
+    - \usepackage{tfrupee}
+    
+    - \DeclareFontFamily{U}{mathb}{\hyphenchar\font45}
+    - \DeclareFontShape{U}{mathb}{m}{n}{<5> <6> <7> <8> <9> <10> gen * mathb <10.95> mathb10 <12> <14.4> <17.28> <20.74> <24.88> mathb12}{}
+    - \DeclareSymbolFont{mathb}{U}{mathb}{m}{n}
+    - \DeclareMathSymbol{\bigvarstar}{2}{mathb}{"0F}
+    
+    - \newcommand\colonvdash{\mathrel{\ooalign{\hss$\vdash$\hss\cr\kern0.6ex\raise0.15ex\hbox{\scalebox{1}{$:$}}}}}
+
+    - \usepackage{marginnote}
+    - \newcounter{mynote}
+    - \newcommand{\mynote}[1]{ \refstepcounter{mynote} \mbox{\textsuperscript{\themynote}} \marginnote{\mbox{\textsuperscript{\footnotesize{\themynote}}}#1}}
+    - \renewcommand*{\footnote}{\marginnote}
+    - \usepackage[ bottom = 3cm,]{geometry}
+    
+    - \newcommand{\bb}{\mathbb}
+    - \renewcommand{\cal}{\mathcal}
+

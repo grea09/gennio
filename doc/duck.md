@@ -4172,14 +4172,30 @@ Functions
 
 Null → Literals → = → "→" → Null
 
+### 12019-05-06
 
+Getting to it.
 
+I need to:
 
+* Check missing fonts
+* Fix all citation
+* Fix all refs
+* Fix Alg@line
+* Find bad chars
+* Fix listings and highlighting
 
+### 12019-05-07
 
+Getting to fix everything before resuming the redaction
 
+### 12019-05-09
 
+Back to it with new framework.
 
+### 12019-05-10
+
+Rush time !
 
 
 

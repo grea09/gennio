@@ -15,3 +15,5 @@ hs_err_pid*
 /recog/nbproject/private/
 /rico/nbproject/private/
 /rico/build/
+
+**/.cache
