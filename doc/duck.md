@@ -4197,8 +4197,25 @@ Back to it with new framework.
 
 Rush time !
 
+### 12019-05-11
+
+I got the framework to work !!!!
+
+Now I can redact with a better peace of mind.
+
+Look out for � when correcting.
+
+Currying: $c = f \to h$ such that:
+$c_0 = f \to f$
+$c_1 = f \to (x \to f(x))$
+$c_2 = f \to (y \to (x \to f(x,y)))$
+
+$c_n = f \to (x \to c_n-1(g)(x))$
+
+g = a_2,… a_n \to f(x, a_2, … a_n)
 
 
 
+c = f \to (x \to c(f(x)))
 
 
