@@ -17,6 +17,23 @@ author: Antoine GRÉA
 
 # Phase 2
 
+
+
+
+
+
+## 12019-05-16
+
+**Missing days: 4**
+
+I'm getting a "class" with a group of students soon. I'll try to resume my work after that. I need to finish the first chapter soon so I can catch up with the planned advancement.
+
+$\chi = v \to \{ e: v \in \chi(e) \}$
+$\chi = e \to \{ v: e \in \chi(v) \}$
+
+Barelly got anything done. But I did work.
+
+
 ## 12019-05-12
 
 * Phase 1: complete
