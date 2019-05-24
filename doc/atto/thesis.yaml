@@ -25,7 +25,24 @@ pancake-includes:
     - \DeclareFontShape{U}{mathb}{m}{n}{<5> <6> <7> <8> <9> <10> gen * mathb <10.95> mathb10 <12> <14.4> <17.28> <20.74> <24.88> mathb12}{}
     - \DeclareSymbolFont{mathb}{U}{mathb}{m}{n}
     - \DeclareMathSymbol{\bigvarstar}{2}{mathb}{"0F}
-    
+
+    - \newfontfamily\arcfont[]{Arc}
+    - \newfontfamily\lirisfont[]{LIRIS}
+    - \newfontfamily\dinfont[]{DIN}
+    - \newfontfamily\graphikregfont[]{Graphik LC Web Regular}
+    - \newfontfamily\graphikmedfont[]{Graphik LC Web Medium}
+    - \newfontfamily\lyondfont[]{Lyon2}
+    - \newfontfamily\perihelionbbfont[]{PerihelionBB-Bold}
+    - \newfontfamily\disp[]{Aller Display}
+
+    - \newcommand{\arc}{\textcolor{solarized-violet}{\vspace{0pt}\arcfont arc 2} \includegraphics[height=2.8mm]{logos/arc2_pastille.pdf} }
+    - \newcommand{\liris}{\textcolor{solarized-base02}{\lirisfont LỊRIS} }
+    - \newcommand{\sma}{\textcolor{solarized-base02}{\disp sma} \vspace{0pt}\includegraphics[height=2.8mm]{logos/sma_pastille.pdf} }
+    - \newcommand{\polytech}{\vspace{0pt}\includegraphics[height=2.8mm]{logos/polytech_pastille.pdf}\textcolor{solarized-base03}{ \perihelionbbfont P O L Y T E C H} }
+    - \newcommand{\ucbl}{\vspace{0pt}\includegraphics[height=4mm]{logos/lyon1_pastille.pdf}{\dinfont Lyon 1} }
+    - \newcommand{\ara}{{\graphikregfont Auvergne-Rhône-Alpes} \vspace{0pt}\includegraphics[height=2.6mm]{logos/ara_pastille.pdf} }
+    - \newcommand{\lumiere}{\textcolor{solarized-red}{\lyondfont lumière lyon 2} }
+
     - \newcommand\colonvdash{\mathrel{\ooalign{\hss$\vdash$\hss\cr\kern0.6ex\raise0.15ex\hbox{\scalebox{1}{$:$}}}}}
 
     - \usepackage{marginnote}

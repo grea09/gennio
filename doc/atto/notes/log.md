@@ -17,10 +17,11 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-05-24
 
+**Missing days: 8**
 
-
-
+Doing the introduction.
 
 ## 12019-05-16
 
