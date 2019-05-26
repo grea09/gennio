@@ -38,7 +38,7 @@ pancake-includes:
     - \newcommand{\arc}{\textcolor{solarized-violet}{\vspace{0pt}\arcfont arc 2} \includegraphics[height=2.8mm]{logos/arc2_pastille.pdf} }
     - \newcommand{\liris}{\textcolor{solarized-base02}{\lirisfont LỊRIS} }
     - \newcommand{\sma}{\textcolor{solarized-base02}{\disp sma} \vspace{0pt}\includegraphics[height=2.8mm]{logos/sma_pastille.pdf} }
-    - \newcommand{\polytech}{\vspace{0pt}\includegraphics[height=2.8mm]{logos/polytech_pastille.pdf}\textcolor{solarized-base03}{ \perihelionbbfont P O L Y T E C H} }
+    - \newcommand{\polytech}{\vspace{0pt}\includegraphics[height=2.8mm]{logos/polytech_pastille.pdf} \textcolor{solarized-base03}{ \perihelionbbfont POLYTECH} }
     - \newcommand{\ucbl}{\vspace{0pt}\includegraphics[height=4mm]{logos/lyon1_pastille.pdf}{\dinfont Lyon 1} }
     - \newcommand{\ara}{{\graphikregfont Auvergne-Rhône-Alpes} \vspace{0pt}\includegraphics[height=2.6mm]{logos/ara_pastille.pdf} }
     - \newcommand{\lumiere}{\textcolor{solarized-red}{\lyondfont lumière lyon 2} }
