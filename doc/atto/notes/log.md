@@ -17,13 +17,38 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-05-29
+
+**Missing day: 1**
+
+bleh
+
+!!!! Currying = valuation = meta ????!!???
+
+Also when currying the definition of $\gtrdot$ we obtains an interesting function.
+
+::: {.definition #def:valuation name="Valuation"}
+The valuation function turns any formula of function into its simplest value. We note the valuation of a function $[[x]]$ and define it as $x \to (\gtrdot \to x)$.^[$[[]] = x \to (\gtrdot \to x)$].
+:::
+
+If we compute its *inverse* (see @later) it becomes the *lifting function* (notted $]][[$) that turns any function into a variable. The currying of the definition of $\gtrdot$ can be noted as $]][[\gtrdot]][[$.
+
+
+I need to redo most of it again …
+
+[[ \ldbrack ]] \rdbrack
+
+
+
+## 12019-05-27
+
+Introduction finished, doing examples and dealing with margin figures.
+
 ## 12019-05-26
 
 **Missing day: 1**
 
 Trying to finish most of introduction.
-
-
 
 
 ## 12019-05-24
