@@ -17,6 +17,63 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-06-04
+
+**Missing day: 1**
+
+Did some stuff and almost finished chapter 1.
+
+commutative, associative
+
+> c   
+^ c a 
+X c a 
+V     
+o   a 
+ø   a 
+= c   
+
+Semiring then (F, X, o)
+
+
+## 12019-06-02
+
+Association today
+
+Association recursively uncurry the function application on the left of the specification operator
+
+
+
+## 12019-06-01
+
+**Missing day: 1**
+
+Not feeling well.
+…
+
+
+V = x, ? → ⦃D(x):&o?⦄
+Like currying but for sets. like map in python and stuff.
+
+Allpies a function on all elements of a set.
+
+
+## 12019-05-30
+
+All wrong with my thesis:
+
+* Russel's paradox is obviously here. There might be a way but its not addressed.
+* My "fondation" is too close to category theory. It seems like a rip off. And if not of that of lambda calculus and things. It's just a bad mashup of stuff I vaguely found on Wikipedia.
+* The "operators" I found are probably existing and misnommed. I bet on that being in a textbook or even on Wikipedia in places I was too lazy to read.
+* WORLD or SELF is just a small parser with a dummy hack to make it "dynamic". It barely evolve or infer anything ang is just a fancier way to write a for loop.
+* Color is probably way off in the applicability of it. Probabilistic planning is misrepresented and I clearly didn't understood any of it. Also I am betting that the satus quo is actually the most solid framework we'll have considering all the smarter people working on it. It is also flawed and internally inconsistent. It is barely theoritical and probably inefficient AF
+* I can't say that any of my planners are a success. The first is obviously badly coded and just a fraud. The rest is just misnommed notions found elsewhere or something. I don't deserve those publications. Heart is slightly better but is fundamentally flawed as the formalism is off and the domain has only one solution since actions cannot be repeated. That's its weakspot clearly. If I allow repeatability, I can't prevent cycles and the stuff gets haywire. And also my "proofs" all fall with that.
+* For recognition it's a 100% screwup on my part. It's just a smoking pile of failure and regrets. I simply did my thesis in the wrong way through and through.
+* And to top it off I am playing the depression card for years and I am too lazy to simply get to work and face my responssabilities. The redaction is lazy and weak and incoherent. It is unecessarily complex and misleading. Some of it are just copy and paste from previous jobs without even reading it...
+
+I am a real fraud and I won't deserve any of what good will happen next as I cheated my way there.
+
+
 ## 12019-05-29
 
 **Missing day: 1**
