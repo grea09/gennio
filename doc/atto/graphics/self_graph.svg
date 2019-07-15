@@ -35,8 +35,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="3840"
-     inkscape:window-height="2034"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
      fit-margin-top="16"
@@ -44,12 +44,12 @@
      fit-margin-right="16"
      fit-margin-bottom="16"
      inkscape:zoom="6.7279479"
-     inkscape:cx="195.58217"
+     inkscape:cx="177.00455"
      inkscape:cy="81.535455"
-     inkscape:window-x="1920"
-     inkscape:window-y="60"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10" /><g
+     inkscape:current-layer="g178" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="self_graph"
@@ -72,6 +72,7 @@
      y="0"
      x="0"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'">s</tspan></text>
+
 
 </g><g
      id="g32"><path
@@ -175,6 +176,7 @@
      x="0 3.905 9.8889999"
      style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">sub</tspan></text>
 
+
 </g><path
      inkscape:connector-curvature="0"
      id="path106"
@@ -189,6 +191,7 @@
      y="0"
      x="0 5.1919999 10.582"
      style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">obj</tspan></text>
+
 
 </g><g
      id="g114"><path
@@ -265,6 +268,7 @@
      x="0"
      style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">sub</tspan></text>
 
+
 </g><g
      id="g178"><text
    id="text182"
@@ -273,7 +277,8 @@
      id="tspan180"
      y="0"
      x="0"
-     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">sub</tspan></text>
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'">obj</tspan></text>
+
 
 </g><g
      id="g184"><text
@@ -285,6 +290,7 @@
      x="0"
      y="9.2015619" /></text>
 
+
 </g><g
      id="g190"><text
    id="text194"
@@ -294,6 +300,7 @@
      y="0"
      x="0"
      style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">pro</tspan></text>
+
 
 </g><g
      id="g196"><text
@@ -305,6 +312,7 @@
      x="0"
      y="9.2015619" /></text>
 
+
 </g><g
      id="g202"><text
    id="text206"
@@ -315,6 +323,7 @@
      y="0"
      x="0 5.5 9.6029997"
      style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">pro</tspan></text>
+
 
 </g></g><text
    xml:space="preserve"
@@ -329,6 +338,7 @@
      y="-773.51721"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aller Display';-inkscape-font-specification:'Aller Display';fill:#586e75;stroke-width:0.75">SELF</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Aller;-inkscape-font-specification:Aller;letter-spacing:0px;word-spacing:0px;fill:#eee8d5;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -341,5 +351,6 @@
      x="12.182849"
      y="-683.03729"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aller Display';-inkscape-font-specification:'Aller Display';fill:#eee8d5;stroke-width:0.75">RDF</tspan></text>
+
 
 </g></svg>

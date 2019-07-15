@@ -52,12 +52,42 @@ pancake-includes:
     - \renewcommand*{\footnote}{\marginnote}
     - \usepackage[ bottom = 3cm,]{geometry}
     
-    - \newcommand{\none}{\gtrdot}
-    - \newcommand{\all}{\lessdot}
+    - \newcommand{\bb}{\mathbb}
+    - \renewcommand{\cal}{\mathcal}
+    
     - \newcommand{\rrp}{\rrparenthesis}
     - \newcommand{\rrbp}{\rblkbrbrak}
     - \newcommand{\llp}{\llparenthesis}
     - \newcommand{\llbp}{\lblkbrbrak}
-    - \newcommand{\bb}{\mathbb}
-    - \renewcommand{\cal}{\mathcal}
+    
+    - \newcommand{\none}{\gtrdot}
+    - \newcommand{\all}{\lessdot}
+    
+    - \newcommand{\comb}{\bowtie}
+    - \newcommand{\super}{\vartriangle}
+    - \newcommand{\sub}{\triangledown}
+    - \newcommand{\comp}{\circ}
+    - \newcommand{\inv}{\bullet}
+
+    - \newcommand{\univ}{\bb{U}}
+    
+    - \newcommand{\proba}{\bb{P}}
+    - \newcommand{\dom}{\cal{D}}
+    - \newcommand{\pb}{\bb{p}}
+    - \newcommand{\imply}{\vdash}
+    - \newcommand{\powerset}{\wp}
+    - \newcommand{\landor}{\veeonwedge}
+    
+    - \newcommand{\seed}{\varstar}
+    - \newcommand{\sheaf}{\cal{F}}
+    
+    - \newcommand{\state}{\smwhtsquare}
+    - \newcommand{\states}{\square}
+    - \newcommand{\cstate}{\boxonbox}
+    - \newcommand{\plan}{\bb{\pi}}
+    - \newcommand{\plans}{\bb{\Pi}}
+    - \newcommand{\search}{\bb{s}}
+    - \newcommand{\searches}{\bb{S}}
+    - \newcommand{\pre}{\mathit{pre}}
+    - \newcommand{\eff}{\mathit{eff}}
 

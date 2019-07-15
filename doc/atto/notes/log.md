@@ -17,6 +17,102 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-07-15
+
+**Missing day: 1**
+
+Getting to fix everything
+Chapter 4 finished.
+
+## 12019-07-13
+
+**Missing day: 1**
+
+Did some more formalism
+
+Issues with compilation
+
+## 12019-07-11
+
+Getting to the general equation.
+
+
+## 12019-07-10
+
+**Missing days: 2**
+
+Doing all design in chap 4
+
+
+## 12019-07-08
+
+Fixing fonts
+
+Lots of rdv
+
+## 12019-07-07
+
+**Missing day: 1**
+
+Finishing chap 4
+
+Issues with fonts…
+
+
+## 12019-07-05
+
+Half of chap 4 done.
+
+
+## 12019-07-04
+
+Start of chap 4
+got some issues with notation and types.
+
+## 12019-07-03
+
+End of example.
+
+## 12019-07-02
+
+Example done but needs listings.
+
+
+## 12019-07-01
+
+**Missing day: 1**
+
+Getting to the example.
+
+
+## 12019-06-29
+
+Finished chapter 2 and good progress on 3
+
+
+## 12019-06-28
+
+**Missing days: 2**
+
+Finished the first chapter…
+
+
+## 12019-06-26
+
+**Missing days: 21**
+
+I… Really don't know
+
+I should just not care and do it.
+
+
+
+
+## 12019-06-05
+
+Small touches
+
+
 ## 12019-06-04
 
 **Missing day: 1**
