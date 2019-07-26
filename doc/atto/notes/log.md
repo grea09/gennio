@@ -17,6 +17,35 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-07-26
+
+Server down and no connection with anything at home.
+
+I'm worried.
+
+
+## 12019-07-25
+
+**Missing days: 6**
+
+…
+
+I don't feel too good
+
+
+
+## 12019-07-19
+
+Getting to chap 5
+
+## 12019-07-18
+
+**Missing days: 3**
+
+Bleh
+
+Doing gitlab first after loosing chap2
+
 ## 12019-07-15
 
 **Missing day: 1**
