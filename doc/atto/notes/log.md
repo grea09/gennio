@@ -17,6 +17,16 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-07-28
+
+Trying
+
+
+## 12019-07-27
+
+Server up again. Did work on tablet.
+
+
 ## 12019-07-26
 
 Server down and no connection with anything at home.
