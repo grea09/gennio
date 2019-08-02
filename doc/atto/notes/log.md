@@ -17,6 +17,11 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-07-30
+
+Getting outside to work on my tablet.
+
+
 ## 12019-07-28
 
 Trying
