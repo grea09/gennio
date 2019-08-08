@@ -17,6 +17,11 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-08-07
+
+Still woozy…
+
+
 ## 12019-08-06
 
 Doing schemas
