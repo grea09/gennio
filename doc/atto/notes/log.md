@@ -17,6 +17,23 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-08-14
+
+Worked without logs but slow.
+
+@alg7
+
+## 12019-08-11
+
+Messed up my sleep…
+
+
+## 12019-08-10
+
+Worked without logs for small tasks
+
+I feel better
+
 ## 12019-08-07
 
 Still woozy…
