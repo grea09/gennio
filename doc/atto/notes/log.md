@@ -17,6 +17,39 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-08-20
+
+**Missing days: 2**
+
+Just got back from some dark times. I managed to get symbols to display. Now I just need to make them closer and define a macro.
+
+
+## 12019-08-17
+
+$\leftblackspoon$
+
+$\leftrightspoon$
+
+$\bullet^{\uprightcurvearrow}_{\downrightcurvedarrow}$
+
+$\bullet^{\rightdowncurvedarrow}_{\rightupcurvedarrow}$
+
+## 12019-08-16
+
+**Missing day: 1**
+
+Fixing formulaes again.
+
+\multimap
+
+\multimapdotboth
+\multimapdot
+
+bullet + STRIKETHROUGH
+
+
+
+
 ## 12019-08-14
 
 Worked without logs but slow.
