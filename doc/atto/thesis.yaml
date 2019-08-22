@@ -32,10 +32,6 @@ pancake-includes:
     - \DeclareSymbolFont{fdarrows}{U}{FdSymbolC}{m}{n}
     - \DeclareMathSymbol{\leftblackspoon}{2}{fdarrows}{"6E}
     - \DeclareMathSymbol{\leftrightspoon}{2}{fdarrows}{"70}
-    - \DeclareMathSymbol{\uprightcurvearrow}{2}{fdarrows}{"A0}
-    - \DeclareMathSymbol{\downrightcurvedarrow}{2}{fdarrows}{"99}
-    - \DeclareMathSymbol{\rightdowncurvedarrow}{2}{fdarrows}{"A3}
-    - \DeclareMathSymbol{\rightupcurvedarrow}{2}{fdarrows}{"98}
     
     - \newfontfamily\arcfont[]{Arc}
     - \newfontfamily\lirisfont[]{LIRIS}
@@ -55,7 +51,10 @@ pancake-includes:
     - \newcommand{\lumiere}{\textcolor{solarized-red}{\lyondfont lumière lyon 2} }
 
     - \newcommand\colonvdash{\mathrel{\ooalign{\hss$\vdash$\hss\cr\kern0.6ex\raise0.15ex\hbox{\scalebox{1}{$:$}}}}}
-
+    
+    - \newcommand{\ingoing}{\mathrel{\raisebox{.1em}{\rotatebox[origin=c]{90}{$\scriptstyle\pmb\curlyveedownarrow$}}}}
+    - \newcommand{\outgoing}{\mathrel{\raisebox{.1em}{\rotatebox[origin=c]{270}{$\scriptstyle\pmb\curlyveeuparrow$}}}}
+    
     - \usepackage{marginnote}
     - \newcounter{mynote}
     - \newcommand{\mynote}[1]{ \refstepcounter{mynote} \mbox{\textsuperscript{\themynote}} \marginnote{\mbox{\textsuperscript{\footnotesize{\themynote}}}#1}}
@@ -78,6 +77,11 @@ pancake-includes:
     - \newcommand{\sub}{\triangledown}
     - \newcommand{\comp}{\circ}
     - \newcommand{\inv}{\bullet}
+
+    - \newcommand{\inci}{\mathrel{-\!\!\!\!\bullet\!\!\!\!-}}
+    - \newcommand{\adja}{\leftrightspoon}
+    - \newcommand{\ingo}{\ingoing\!\!\bullet}
+    - \newcommand{\outgo}{\bullet\!\!\!\outgoing}
 
     - \newcommand{\univ}{\bb{U}}
     

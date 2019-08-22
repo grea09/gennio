@@ -17,6 +17,13 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-08-22
+
+**Missing day: 1**
+
+Getting new symbols to work.
+
+
 ## 12019-08-20
 
 **Missing days: 2**
