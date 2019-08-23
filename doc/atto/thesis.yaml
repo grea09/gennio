@@ -52,8 +52,8 @@ pancake-includes:
 
     - \newcommand\colonvdash{\mathrel{\ooalign{\hss$\vdash$\hss\cr\kern0.6ex\raise0.15ex\hbox{\scalebox{1}{$:$}}}}}
     
-    - \newcommand{\ingoing}{\mathrel{\raisebox{.1em}{\rotatebox[origin=c]{90}{$\scriptstyle\pmb\curlyveedownarrow$}}}}
-    - \newcommand{\outgoing}{\mathrel{\raisebox{.1em}{\rotatebox[origin=c]{270}{$\scriptstyle\pmb\curlyveeuparrow$}}}}
+    - \newcommand{\ingoing}{\mathrel{\raisebox{.01em}{\rotatebox[origin=c]{90}{$\scriptstyle\pmb\curlyveedownarrow$}}}}
+    - \newcommand{\outgoing}{\mathrel{\raisebox{.01em}{\rotatebox[origin=c]{270}{$\scriptstyle\pmb\curlyveeuparrow$}}}}
     
     - \usepackage{marginnote}
     - \newcounter{mynote}
@@ -80,8 +80,8 @@ pancake-includes:
 
     - \newcommand{\inci}{\mathrel{-\!\!\!\!\bullet\!\!\!\!-}}
     - \newcommand{\adja}{\leftrightspoon}
-    - \newcommand{\ingo}{\ingoing\!\!\bullet}
-    - \newcommand{\outgo}{\bullet\!\!\!\outgoing}
+    - \newcommand{\ingo}{\ingoing\!\bullet}
+    - \newcommand{\outgo}{\bullet\!\outgoing}
 
     - \newcommand{\univ}{\bb{U}}
     
@@ -104,4 +104,6 @@ pancake-includes:
     - \newcommand{\searches}{\bb{S}}
     - \newcommand{\pre}{\mathit{pre}}
     - \newcommand{\eff}{\mathit{eff}}
+    
+    - \newcommand{\reward}{\text{\rupee}}
 

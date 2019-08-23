@@ -17,11 +17,17 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-08-23
+
+Making all the necessary explanation to rewrite formulas.
+
+
 ## 12019-08-22
 
 **Missing day: 1**
 
 Getting new symbols to work.
+
 
 
 ## 12019-08-20
