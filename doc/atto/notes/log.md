@@ -17,6 +17,33 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-08-29
+
+Trying
+
+
+## 12019-08-28
+
+**Missing day: 1**
+
+I don't feel good at all.
+
+number of cycles = |\{ c : c \in \chi_{g_O}^n(a) \land a \in c \land n>1 \}|
+
+autocycle = [ (a \rightarrow a) \in \chi_g_O ]
+
+h(a) = \lBrace f(µ££µ£µµ£
+
+## 12019-08-26
+
+**Missing day: 1**
+
+Unlogged two days
+
+I can't make it
+…
+
+
 ## 12019-08-23
 
 Making all the necessary explanation to rewrite formulas.

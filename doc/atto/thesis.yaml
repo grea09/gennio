@@ -106,4 +106,5 @@ pancake-includes:
     - \newcommand{\eff}{\mathit{eff}}
     
     - \newcommand{\reward}{\text{\rupee}}
+    - \newcommand{\cost}{¢}
 
