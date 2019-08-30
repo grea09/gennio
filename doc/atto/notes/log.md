@@ -17,9 +17,14 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-08-30
+
+Skipping and straight to chap 6.
+
+
 ## 12019-08-29
 
-Trying
+Trying...
 
 
 ## 12019-08-28
