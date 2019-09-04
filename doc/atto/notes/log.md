@@ -17,6 +17,26 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-09-03
+
+Stayed home.
+
+
+
+## 12019-09-02
+
+Unlogged days.
+
+Doing figures.
+
+The planning one:
+\plan_2[
+          actions -> pre eff -> action...
+]
+
+right side: sohrabi
+
+
 ## 12019-08-30
 
 Skipping and straight to chap 6.
