@@ -17,6 +17,11 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-09-04
+
+Roy uses frequencies with a learning perdiod. I need to make sure I got the right way to represent the tables.
+
+
 ## 12019-09-03
 
 Stayed home.
