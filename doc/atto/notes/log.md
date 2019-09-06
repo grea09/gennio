@@ -17,16 +17,19 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-09-06
+
+**Missing day : 1**
+
+Getting back at redaction.
+
 ## 12019-09-04
 
-Roy uses frequencies with a learning perdiod. I need to make sure I got the right way to represent the tables.
-
+Roy uses frequencies with a learning period. I need to make sure I got the right way to represent the tables.
 
 ## 12019-09-03
 
 Stayed home.
-
-
 
 ## 12019-09-02
 
