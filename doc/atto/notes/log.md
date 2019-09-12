@@ -17,12 +17,15 @@ author: Antoine GRÉA
 
 # Phase 2
 
-## 12019-09-09
+## 12019-09-12
 
 **Missing days : 3**
 
+…
 
+## 12019-09-09
 
+**Missing days : 3**
 
 ## 12019-09-06
 

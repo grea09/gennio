@@ -86,6 +86,7 @@ pancake-includes:
     - \newcommand{\univ}{\bb{U}}
     
     - \newcommand{\proba}{\bb{P}}
+    - \newcommand{\obs}{\cal{O}}
     - \newcommand{\dom}{\cal{D}}
     - \newcommand{\pb}{\bb{p}}
     - \newcommand{\imply}{\vdash}
