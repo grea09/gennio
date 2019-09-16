@@ -17,6 +17,114 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-09-16
+
+Unlogged days.
+
+Getting to recover Rico.
+
+Recovered: 
+
+P (G) Prior (function of time of day, can be learned)
+P (G|O) Posterior (distribution among all goals)
+P (G|O) = αP (O|G)P (G) : Bayes stuff where α is a normalizing constant
+
+Each observed fluent is provided with a prior probability.
+A goal can have several plans
+A partially ordered plan can have several total orders
+A separated system gives us the prior probability of goals (time of day, learning)
+P(pi|G) is inverse of cost function of pi
+P(G|O) = SUM_pi [P (O|pi)P (pi|G)] P (G)
+
+P(O|pi) = (a observed -  b (Missed + noisy) fluents) * P(O)
+P(pi|G) = cost of plan for all possible plans ?
+
+cost of abstract plan ?
+
+---
+
+For partial ordered plans. Sohrabi said that the less good plans have a negligeable impact on the probability and can be ignored. Compute the best score considering order constraints.
+
+Each steps that can be done at the same time are "merged" into a pool of infered things.
+
+P(G|O) = SUM_pi [P (O|pi)P (pi|G)] P (G)
+
+P(O|pi) = P(pi|O) * P(O)
+
+	P(pi|O) = (a observed -  b (Missed + noisy) fluents) * number of order merges *
+		P(pi) // function of abstraction
+
+
+P(pi|G) = cost of plan normalised for all possible plans * P(pi) // function of abstraction
+
+Comparison to POP with complete heuristic and only one plan.
+
+(POP with diverse results doesn't exists ?)
+
+---
+
+Bayes:
+P(A|B)= P(B|A)P(A) / P(B)
+
+P(pi|O) = P(O|pi) P(pi) / P(O)
+
+P(A) = P(A|B) P(B) / P(B|A)
+
+P(pi) = P(pi|G) P(G) / P(G|pi)
+
+P(G|pi) = 1
+
+P(pi|O) = P(O|pi) P(pi|G) P(G) / P(O)
+
+P(G|O) = P(O|G)P(G) / P(O)
+
+Total probabilities formula :
+P(A)= sum_{i\in I} P(A|B_i)P(B_i).
+P(A|B)= sum_{i\in I} P(A|B_i)P(B_i|B).
+
+P(O|G) = sum_pi P(O|pi) P(pi|G)
+
+P(G|O) = sum_pi P(O|pi) P(pi|G) P(G) / P(O)
+P(pi|G)P(G)/P(pi) = P(G|pi) = 1
+P(pi|G)P(G) = P(pi)
+
+P(G|O) = sum_pi P(O|pi) P(pi) / P(O)
+
+P(pi|O)= P(O|pi)P(pi) / P(O)
+
+P(G|O) = sum_pi P(pi|O)
+
+P(pi|G) ~ exp(-Beta cost(pi))
+
+Qualitative Probability Calculus (Goldszmidt and Pearl, 1996).
+
+---
+
+Bayes:
+P(A|B)= P(B|A)P(A) / P(B)
+
+P(pi|O) = P(O|pi) P(pi) / P(O)
+P(A) = P(A|B) P(B) / P(B|A)
+P(pi) = P(pi|G) P(G) / P(G|pi)
+P(G|pi) = 1
+P(pi|O) = P(O|pi) P(pi|G) P(G) / P(O)
+P(G|O) = P(O|G)P(G) / P(O)
+
+
+Total probability formula :
+P(A)= sum_{i in I} P(A|B_i)P(B_i).
+P(A|B)= sum_{i in I} P(A|B_i)P(B_i|B).
+
+P(O|G) = sum_pi P(O|pi) P(pi|G)
+P(G|O) = sum_pi P(O|pi) P(pi|G) P(G) / P(O)
+P(pi|G)P(G)/P(pi) = P(G|pi) = 1
+P(pi|G)P(G) = P(pi)
+P(G|O) = sum_pi P(O|pi) P(pi) / P(O)
+P(pi|O)= P(O|pi)P(pi) / P(O)
+P(G|O) = sum_pi P(pi|O)
+
+
+
 ## 12019-09-12
 
 **Missing days : 3**
