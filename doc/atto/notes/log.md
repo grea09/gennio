@@ -17,6 +17,14 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-09-19
+
+Deadline is now.
+I'm screwed.
+
+I deserve this.
+
+
 ## 12019-09-16
 
 Unlogged days.
