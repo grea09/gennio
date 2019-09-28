@@ -17,6 +17,15 @@ author: Antoine GRÉA
 
 # Phase 2
 
+## 12019-09-22
+
+Glossaries: entry in yaml
+(+abrev) or @gls:abrev ?
+
+(+^pop) = POP[^Partial Order Planning]
+(+pop) = POP
+
+
 ## 12019-09-19
 
 Deadline is now.

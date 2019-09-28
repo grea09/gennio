@@ -15,6 +15,7 @@ subparagraph: yes
 toc: true
 toc-title: Table of Content
 toc-depth: 4
+lof: true
 reference-section-title: References
 bibliography: bibliography/thesis.bib
 csl: bibliography/aaai.csl
