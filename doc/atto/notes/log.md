@@ -15,7 +15,19 @@ author: Antoine GRÉA
 * Sorted by date from most recent to most ancient.
 * Written in 21^st^ Century English.
 
-# Phase 2
+
+# Phase 3
+
+## 12019-09-29
+
+Chap 3
+
+
+## 12019-09-28
+
+Unlogged days + bad times.
+
+Correction up to chap 2
 
 ## 12019-09-22
 
@@ -25,6 +37,7 @@ Glossaries: entry in yaml
 (+^pop) = POP[^Partial Order Planning]
 (+pop) = POP
 
+# Phase 2
 
 ## 12019-09-19
 
