@@ -18,6 +18,17 @@ author: Antoine GRÉA
 
 # Phase 3
 
+## 12019-10-05
+
+Correction
+
+http://grea.me/apps/polls/poll/OKhXcLwjfScEwIA9
+
+## 12019-10-03
+
+Submitting the draft
+
+
 ## 12019-09-29
 
 Chap 3
