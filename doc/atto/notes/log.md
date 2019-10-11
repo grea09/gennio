@@ -18,6 +18,15 @@ author: Antoine GRÉA
 
 # Phase 3
 
+## 12019-10-09
+
+Explain what a fondation of mathematics is and how its no big deal.
+
+## 12019-10-06
+
+Getting filters fixed
+
+
 ## 12019-10-05
 
 Correction
