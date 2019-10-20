@@ -18,6 +18,40 @@ author: Antoine GRÉA
 
 # Phase 3
 
+## 12019-10-18
+
+Equation in FOL + defs of comb and sup
+
+
+## 12019-10-17
+
+\to → \to
+: → V \to
+\none → \none
+= → \none (variable) \to
+= → \bowtie \to ? (currying ?)
+
+…
+
+Association & Identity (affectation) in axioms
+
+## 12019-10-12
+
+Dans l'antiquité, la philosophie, les mathématiques et la logique étaient considéré comme une seule discipline. Depuis Aristote nous avons réalisé que le monde n'es pas que noir et blanc mais rempli de nuance et de couleur. L'inspiration de cette thèse viens d'un des philosophe et scientifique les plus influent de son époque: Alfred Korzibsky. Celui-ci a fondé une discipline qu'il a nommé *sémantique générale* qui consiste à traiter les problèmes de représentation des connaissance chez les humains. Korzibsky trouve alors que la connaissance complète de la réalité étant inaccessible, il nous faut abstraire. Cette abstraction n'a alors de ressemblance avec la réalité que de part sa structure. On retrouve alors dans ces travaux précurseurs, des notions similaires à celle des languages de description morderne.
+
+C'est à partir de cette inspiration que le présent document est construit. On démarre alors, hors des sentiers batut et au déla de l'informatique par une brève excursion dans le monde des formalisme mathématique et logique. Ceci permet de formaliser un language qui permet de se décrire lui-même par structure et qui évolue avec son usage. Le reste des travaux illustre les applications possibles à travers des dommaines spécifique comme la plannification automatique et la reconnaissance d'intention.
+
+
+
+## 12019-10-11
+
+Context: Theory of mind
+
+Intent recognition in AI
+
+Why ? Interest ? Problem ?
+
+
 ## 12019-10-09
 
 Explain what a fondation of mathematics is and how its no big deal.
