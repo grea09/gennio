@@ -18,6 +18,12 @@ author: Antoine GRÉA
 
 # Phase 3
 
+## 12019-10-20
+
+f1 x f2 = x → f1(x) x f2(x)
+null x f = f
+
+
 ## 12019-10-18
 
 Equation in FOL + defs of comb and sup
