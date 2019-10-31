@@ -18,6 +18,32 @@ author: Antoine GRÉA
 
 # Phase 3
 
+## 12019-10-30
+
+Schema of theory dependancies.
+
+Well, I won't lose a friend to work so here I go.
+Too bad I was feeling good for once.
+
+
+## 12019-10-29
+
+Lots of bad. Suicidal thoughts back again.
+
+Needs organization.
+
+Mindmap !!!!
+
+
+
+## 12019-10-27
+
+Bad rush.
+
+Schema of abstraction, structure, circularity and reification.
+
+
+
 ## 12019-10-20
 
 f1 x f2 = x → f1(x) x f2(x)
