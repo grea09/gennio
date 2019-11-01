@@ -18,6 +18,14 @@ author: Antoine GRÉA
 
 # Phase 3
 
+## 12019-11-01
+
+Speak about model theory
+Cite sections and chapters that uses stuff
+Add references to previous tools when needed.
+Check if enough explanation
+
+
 ## 12019-10-30
 
 Schema of theory dependancies.
