@@ -18,6 +18,19 @@ author: Antoine GRÉA
 
 # Phase 3
 
+## 12019-11-06
+
+
+
+## 12019-11-05
+
+Définition proba, diverse, temporal
+Bob the builder
+
+Section general search A*...
+Section general planner
+Section Applications
+
 ## 12019-11-01
 
 Speak about model theory

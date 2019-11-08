@@ -12,9 +12,9 @@
    version="1.1"
    id="svg2"
    xml:space="preserve"
-   width="504.69489"
+   width="655.40814"
    height="262.82822"
-   viewBox="0 0 504.69488 262.82821"
+   viewBox="0 0 655.40814 262.82821"
    sodipodi:docname="color_structure.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
      id="metadata8"><rdf:RDF><cc:Work
@@ -35,25 +35,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="3840"
+     inkscape:window-height="2034"
      id="namedview4"
      showgrid="false"
      fit-margin-top="16"
      fit-margin-left="16"
      fit-margin-right="16"
      fit-margin-bottom="16"
-     inkscape:zoom="2.3786888"
-     inkscape:cx="165.86613"
-     inkscape:cy="102.8038"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:zoom="4.7573776"
+     inkscape:cx="442.85791"
+     inkscape:cy="51.735752"
+     inkscape:window-x="1920"
+     inkscape:window-y="60"
      inkscape:window-maximized="1"
      inkscape:current-layer="g12" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="SELF+Color"
-     transform="matrix(1.3333333,0,0,-1.3333333,-152.10498,1015.7332)"><g
+     transform="matrix(1.3333333,0,0,-1.3333333,-160.64586,1013.9277)"><g
        id="g12"><g
          id="g14"
          clip-path="url(#clipPath18)"><g
@@ -82,6 +82,8 @@
      x="0">𝕌</tspan></text>
 
 
+
+
 </g><g
              id="g50"><path
                inkscape:connector-curvature="0"
@@ -105,6 +107,8 @@
      id="tspan64"
      y="0"
      x="0">T</tspan></text>
+
+
 
 
 </g><g
@@ -133,6 +137,8 @@
      x="0 5.8850002 9.0860004 13.288 16.379 22.671">String</tspan></text>
 
 
+
+
 </g><g
              id="g86"><path
                inkscape:connector-curvature="0"
@@ -156,6 +162,8 @@
      id="tspan100"
      y="0"
      x="0">𝒟</tspan></text>
+
+
 
 
 </g><g
@@ -185,6 +193,8 @@
      id="tspan124"
      y="0"
      x="0">L</tspan></text>
+
+
 
 
 </g><g
@@ -279,6 +289,8 @@
      x="0">P</tspan></text>
 
 
+
+
 </g><path
              inkscape:connector-curvature="0"
              id="path198"
@@ -308,6 +320,8 @@
      x="0">S</tspan></text>
 
 
+
+
 </g><g
              id="g218"><text
    id="text222"
@@ -318,6 +332,8 @@
      x="0">ν</tspan></text>
 
 
+
+
 </g><g
              id="g224"><text
    id="text228"
@@ -326,6 +342,8 @@
      id="tspan226"
      y="0"
      x="0">:</tspan></text>
+
+
 
 
 </g><g
@@ -339,6 +357,8 @@
      x="0">⊆</tspan></text>
 
 
+
+
 </g><g
              transform="translate(25.5,-4.7226732)"
              id="g236"><text
@@ -348,6 +368,8 @@
      id="tspan238"
      y="0"
      x="0">μ</tspan></text>
+
+
 
 
 </g><g
@@ -361,6 +383,8 @@
      x="0">=</tspan></text>
 
 
+
+
 </g><g
              transform="translate(0,1.5)"
              id="g260"><text
@@ -370,6 +394,8 @@
      id="tspan262"
      y="0"
      x="0">ρ</tspan></text>
+
+
 
 
 </g><g
@@ -438,6 +464,8 @@
      x="0">℘</tspan></text>
 
 
+
+
 </g><g
              id="g412"><path
                inkscape:connector-curvature="0"
@@ -452,6 +480,8 @@
      id="tspan532"
      y="0"
      x="0">χ</tspan></text>
+
+
 
 
 </g><g
@@ -499,6 +529,8 @@
      x="0">μ<tspan
    id="tspan966"
    style="font-size:64.99999762%;baseline-shift:super">•</tspan></tspan></text>
+
+
 
 
 </g></g><g
@@ -549,6 +581,8 @@
 
 
 
+
+
 </g><g
                id="g352"><path
                  d="m 406.9,727.8 c 12.2,0 21.5,-9.1 21.5,-20.9 0,-11.9 -9.3,-21 -21.5,-21 -12.1,0 -21.4,9.1 -21.4,21 0,11.8 9.3,20.9 21.4,20.9 z"
@@ -575,6 +609,8 @@
 
 
 
+
+
 </g><g
                id="g370"><path
                  d="m 406.8,651.9 c 7.2,0 12.7,-5.4 12.7,-12.5 0,-7.1 -5.5,-12.5 -12.7,-12.5 -7.3,0 -12.8,5.4 -12.8,12.5 0,7.1 5.5,12.5 12.8,12.5 z"
@@ -598,6 +634,8 @@
      x="0"
      y="0"
      id="tspan384">□</tspan></text>
+
+
 
 
 
@@ -633,6 +671,8 @@
 
 
 
+
+
 </g></g><g
                id="g416"><path
                  d="M 377,606.5 Z"
@@ -646,6 +686,8 @@
      x="0"
      y="0"
      id="tspan422">L</tspan></text>
+
+
 
 
 
@@ -676,6 +718,8 @@
 
 
 
+
+
 </g><g
                id="g444"><path
                  d="M 391.8,692 374.2,666.7"
@@ -700,6 +744,8 @@
 
 
 
+
+
 </g><g
                id="g468"
                transform="translate(0.22949647,3.9412471)"><text
@@ -709,6 +755,8 @@
      x="0"
      y="0"
      id="tspan470">γ</tspan></text>
+
+
 
 
 
@@ -724,6 +772,8 @@
      y="0">¢ <tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'"
    id="tspan2456">d</tspan> ℙ</tspan></text>
+
+
 
 
 
@@ -755,6 +805,8 @@
 
 
 
+
+
 </g><path
                d="m 406.5,708.6 c 5.3,0 9.3,-4.4 9.3,-10 0,-5.7 -4,-10 -9.3,-10 -5.3,0 -9.4,4.3 -9.4,10 0,5.6 4.1,10 9.4,10 z m -9.4,0 z m 18.8,-20.1 z"
                style="fill:#dc322f;fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -767,6 +819,8 @@
      x="0"
      y="0"
      id="tspan552">ω</tspan></text>
+
+
 
 
 
@@ -803,6 +857,8 @@
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'">eff</tspan></text>
 
 
+
+
 </g><g
                transform="translate(303.35398,8.8126553)"
                id="g530-0"><text
@@ -812,6 +868,8 @@
      id="tspan532-8"
      y="0"
      x="0">χ</tspan></text>
+
+
 
 
 </g><g
@@ -826,6 +884,8 @@
      y="-685.53772"
      x="146"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math'">⩙</tspan></text>
+
+
 
 
 </g></g><g
@@ -862,4 +922,143 @@
                    inkscape:connector-curvature="0"
                    id="path662"
                    style="fill:none;stroke:#93a1a1;stroke-width:5.99959993;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-                   d="m 255,640.5 c 11.1,0 19.7,-8.5 19.7,-19.7 0,-11.1 -8.6,-19.7 -19.7,-19.7 -11.2,0 -19.7,8.6 -19.7,19.7 0,11.2 8.5,19.7 19.7,19.7 z" /></g></g></g></g></g></g></g></svg>
+                   d="m 255,640.5 c 11.1,0 19.7,-8.5 19.7,-19.7 0,-11.1 -8.6,-19.7 -19.7,-19.7 -11.2,0 -19.7,8.6 -19.7,19.7 0,11.2 8.5,19.7 19.7,19.7 z" /></g></g></g></g></g><g
+         transform="translate(180.78006,-17.56691)"
+         id="g1530"><g
+           id="g1436"
+           transform="translate(6,-29.881494)"><g
+   transform="matrix(0.93385828,0,0,0.95237455,181.29108,90.220818)"
+   id="g208-7"
+   style="stroke:#6c71c4"><path
+     d="m 144.6,683.1 c 6.4,0 11.3,-4.9 11.3,-11.1 0,-6.3 -4.9,-11.1 -11.3,-11.1 -6.5,0 -11.4,4.8 -11.4,11.1 0,6.2 4.9,11.1 11.4,11.1 z"
+     style="fill:none;stroke:#6c71c4;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     id="path210-6"
+     inkscape:connector-curvature="0" /></g><text
+   y="-724.33051"
+   x="332.92032"
+   id="text294-9"
+   style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="scale(1,-1)"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic';fill:#6c71c4"
+     id="tspan292-7"
+     y="-724.33051"
+     x="332.92032"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math'"
+   id="tspan1821">𝒮</tspan>et</tspan></text>
+
+</g><g
+           transform="translate(13.5,-32.936655)"
+           id="g1430"><g
+   id="g1353-4"
+   transform="translate(4.5175348,1.8861127)"><g
+     id="g184-0"
+     transform="matrix(0,-1,1.3194792,0,-463.1601,917.45829)"
+     style="fill:none;stroke:#268bd2;stroke-width:3.04696012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><path
+       inkscape:connector-curvature="0"
+       id="path186-9"
+       style="fill:none;stroke:#268bd2;stroke-width:3.04696012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 212.6,578.2 v 7.2" /></g><path
+     inkscape:connector-curvature="0"
+     id="path188-7"
+     style="fill:#268bd2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994"
+     d="m 310.26303,698.3583 13,5.8 0.39999,0.3 0.10001,0.4 -0.10001,0.4 -0.29999,0.29999 -13.1,5.70001 -0.10001,0.1 h -0.1 l -0.29999,-0.1 -0.20001,-0.10001 -0.2,-0.19999 -0.1,-0.30001 v -11.6 l 0.1,-0.29999 0.2,-0.20001 0.20001,-0.2 h 0.29999 0.1 z" /></g><text
+   style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#dc322f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+   id="text294-9-8"
+   x="333.02832"
+   y="-700.48041"
+   transform="scale(1,-1)"><tspan
+     x="333.02832"
+     y="-700.48041"
+     id="tspan292-7-5"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic';fill:#268bd2;stroke-width:0.99999994">function</tspan></text>
+
+</g><g
+           transform="translate(13.5,-31.420587)"
+           id="g1422"><g
+   transform="matrix(0.93385048,0,0,0.95236734,181.2922,38.710156)"
+   id="g208-7-3"
+   style="stroke:#2aa198;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:6.00000015, 3.00000008;stroke-dashoffset:0"><path
+     d="m 144.6,683.1 c 6.4,0 11.3,-4.9 11.3,-11.1 0,-6.3 -4.9,-11.1 -11.3,-11.1 -6.5,0 -11.4,4.8 -11.4,11.1 0,6.2 4.9,11.1 11.4,11.1 z"
+     style="fill:none;stroke:#2aa198;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.00000015, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+     id="path210-6-3"
+     inkscape:connector-curvature="0" /></g><text
+   style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#2aa198;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+   id="text294-9-8-8"
+   x="332.27234"
+   y="-672.73401"
+   transform="scale(1,-1)"><tspan
+     x="332.27234"
+     y="-672.73401"
+     id="tspan292-7-5-3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text';fill:#2aa198;stroke-width:0.99999994"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'"
+       id="tspan1831">℘owerSet</tspan></tspan></text>
+
+</g><g
+           id="g1416"
+           transform="translate(6,-29.881494)"><path
+   style="fill:none;stroke:#b58900;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.00000008, 3.00000008;stroke-dashoffset:0;stroke-opacity:1"
+   d="m 304.28031,650.63465 h 24"
+   id="path1373"
+   inkscape:connector-curvature="0" /><text
+   style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#cb4b16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+   id="text294-9-8-7"
+   x="332.93832"
+   y="-644.51465"
+   transform="scale(1,-1)"><tspan
+     x="332.93832"
+     y="-644.51465"
+     id="tspan292-7-5-9"
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic';fill:#b58900;stroke-width:0.99999994">In<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math';fill:#b58900"
+   id="tspan1835">⊂</tspan>luded</tspan></text>
+
+</g><g
+           id="g140-3"
+           transform="translate(79.535943,88.464949)"><text
+   y="-636.90002"
+   x="201.10001"
+   id="text144-7"
+   style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#657b83;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="scale(1,-1)"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#657b83"
+     id="tspan142-8"
+     y="-636.90002"
+     x="201.10001">Legend</tspan></text>
+
+</g><path
+           d="m 285.38942,-727.30848 a 81.627121,81.627121 0 0 1 20.69687,61.40607 81.627121,81.627121 0 0 1 -30.56776,57.13737"
+           sodipodi:open="true"
+           sodipodi:end="0.89941176"
+           sodipodi:start="5.5499265"
+           sodipodi:ry="81.627121"
+           sodipodi:rx="81.627121"
+           sodipodi:cy="-672.6759"
+           sodipodi:cx="224.74069"
+           sodipodi:type="arc"
+           transform="scale(1,-1)"
+           id="path1482"
+           style="fill:none;fill-opacity:1;stroke:#657b83;stroke-width:5.02522755;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /></g><g
+         transform="translate(176.21733,-14.205285)"
+         id="g1092"><g
+           id="g1084"><path
+             inkscape:connector-curvature="0"
+             id="path198-3"
+             style="fill:#cb4b16;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.99999994"
+             d="m 307.99577,607.79079 c 7.7,0 13.6,-5.9 13.6,-13.6 0,-7.6 -5.9,-13.5 -13.6,-13.5 -7.6,0 -13.5,5.9 -13.5,13.5 0,7.7 5.9,13.6 13.5,13.6 z m -13.5,0 z m 27.2,-27.2 z" /><g
+             id="g200-6"
+             transform="translate(142.49576,-69.009201)"><path
+               inkscape:connector-curvature="0"
+               id="path202-7"
+               style="fill:none;stroke:#eee8d5;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               d="m 165.5,676.8 c 7.7,0 13.6,-5.9 13.6,-13.6 0,-7.6 -5.9,-13.5 -13.6,-13.5 -7.6,0 -13.5,5.9 -13.5,13.5 0,7.7 5.9,13.6 13.5,13.6 z" /></g></g><text
+           y="-589.8938"
+           x="328.59"
+           id="text1028"
+           style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#cb4b16;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+           transform="scale(1,-1)"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic';fill:#cb4b16;stroke-width:0.99999994"
+             id="tspan1026"
+             y="-589.8938"
+             x="328.59">graph</tspan></text>
+</g></g></g></svg>
