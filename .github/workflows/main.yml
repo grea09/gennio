@@ -20,5 +20,5 @@ jobs:
         sudo apt-get install -y docker-ce
         sudo usermod -aG docker ${USER}
         
-    - name: Launch pancake
-      run: docker run -v .:/doc pancake
+    - name: Docker Pancake
+      run: docker container run -d -v $GITHUB_WORKSPACE/gennio/doc/atto:/doc -v /tmp/cache:/data -e PANCAKE_ONCE=true -e PANCAKE_OPTIONS="--listings --top-level-division=chapter --number-sections" -e PANCAKE_OUTPUT="thesis.pdf" --name pancake grea09/pancake
