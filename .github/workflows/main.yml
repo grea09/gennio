@@ -28,6 +28,6 @@ jobs:
       with:
         commit_message: "[CI] PDF compiled"
         branch: ${{ github.head_ref }}
-        file_pattern: \*.pdf
+        file_pattern: "*.pdf"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
