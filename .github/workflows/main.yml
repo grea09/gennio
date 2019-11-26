@@ -1,0 +1,33 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+
+
+    - name: Install Docker
+      run: |
+        curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+        sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+        sudo apt-get update
+        apt-cache policy docker-ce
+        sudo apt-get install -y docker-ce
+        sudo usermod -aG docker ${USER}
+        
+    - name: Docker Pancake
+      run: docker container run -v /home/runner/work/gennio/gennio/doc/atto:/doc -v /tmp/cache:/data -e PANCAKE_ONCE=true -e PANCAKE_OPTIONS="--listings --top-level-division=chapter --number-sections" -e PANCAKE_OUTPUT="thesis.pdf" --name pancake grea09/pancake
+    
+    - name: Commit PDF
+      uses: stefanzweifel/git-auto-commit-action@v2.3.0
+      with:
+        commit_message: [CI] PDF compiled
+        branch: ${{ github.head_ref }}
+        file_pattern: \*/thesis.pdf
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
