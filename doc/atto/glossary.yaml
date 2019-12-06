@@ -1,0 +1,10 @@
+glossary:
+  title: Glossary
+  entries:
+    - name: State
+      symbol: \state
+      description: State of the world corresponding to a formula of fluent properties.
+  acronyms:
+    - label: pop
+      short: POP
+      long: Partial Order Planning
