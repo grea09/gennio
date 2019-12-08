@@ -15,12 +15,12 @@
    preserveAspectRatio="xMidYMid"
    xml:space="preserve"
    id="svg1398"
-   sodipodi:docname="compilr-compiler.svg"
+   sodipodi:docname="compiler-compiler.svg"
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata1402"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -38,12 +38,12 @@
    fit-margin-right="0"
    fit-margin-bottom="0"
    inkscape:zoom="1.1893044"
-   inkscape:cx="311.07688"
+   inkscape:cx="145.85425"
    inkscape:cy="205.65168"
-   inkscape:window-x="1"
+   inkscape:window-x="1920"
    inkscape:window-y="30"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g1396" />
+   inkscape:current-layer="id5" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -1225,6 +1225,7 @@
          style="fill:#002b36;stroke:none"
          id="tspan406">Compiler</tspan></tspan></tspan></text>
 
+
        </g><g
    id="id4">
         <rect
@@ -1480,6 +1481,7 @@
          style="fill:#586e75;stroke:none"
          id="tspan511">Compiler-compiler</tspan></tspan></tspan></text>
 
+
        </g><g
    id="id5">
         <rect
@@ -1532,7 +1534,8 @@
    d="M 4401,8751 Z" />
         <text
    id="text576"
-   class="TextShape"><tspan
+   class="TextShape"
+   x="-52.916668"><tspan
      style="font-weight:700;font-size:564px;font-family:Hack, monospace"
      id="tspan544"
      font-weight="700"
@@ -1540,7 +1543,7 @@
      class="TextParagraph"><tspan
        id="tspan542"
        y="6255"
-       x="1376"
+       x="1323.0834"
        class="TextPosition"><tspan
          style="fill:#073642;stroke:none"
          id="tspan540">Grammar</tspan></tspan></tspan><tspan
@@ -1551,7 +1554,7 @@
      class="TextParagraph"><tspan
        id="tspan552"
        y="6712"
-       x="1376"
+       x="1323.0834"
        class="TextPosition"><tspan
          style="font-weight:400;fill:#073642;stroke:none"
          id="tspan546"
@@ -1568,7 +1571,7 @@
      class="TextParagraph"><tspan
        id="tspan558"
        y="7123"
-       x="1376"
+       x="1323.0834"
        class="TextPosition"><tspan
          style="fill:#073642;stroke:none"
          id="tspan556">&lt;regex&gt;*</tspan></tspan></tspan><tspan
@@ -1579,7 +1582,7 @@
      class="TextParagraph"><tspan
        id="tspan566"
        y="7534"
-       x="1376"
+       x="1323.0834"
        class="TextPosition"><tspan
          style="fill:#073642;stroke:none"
          id="tspan562">| </tspan><tspan
@@ -1592,10 +1595,11 @@
      class="TextParagraph"><tspan
        id="tspan572"
        y="7945"
-       x="1376"
+       x="1323.0834"
        class="TextPosition"><tspan
          style="fill:#dc322f;stroke:none"
          id="tspan570">(evaluation)</tspan></tspan></tspan></text>
+
 
        </g><g
    id="id6">
@@ -1627,6 +1631,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan585">Result</tspan></tspan></tspan></text>
+
 
        </g><g
    id="id7">
@@ -1953,6 +1958,7 @@
          style="fill:#002b36;stroke:none"
          id="tspan718">Generated Compiler</tspan></tspan></tspan></text>
 
+
        </g><g
    id="id8">
         <rect
@@ -2204,6 +2210,7 @@
          style="fill:#d33682;stroke:none"
          id="tspan821">Parser</tspan></tspan></tspan></text>
 
+
        </g><g
    id="id9">
         <rect
@@ -2265,6 +2272,7 @@
          style="fill:#859900;stroke:none"
          id="tspan851">Tree</tspan></tspan></tspan></text>
 
+
        </g><g
    id="id11">
         <rect
@@ -2299,6 +2307,7 @@
        class="TextPosition"><tspan
          style="fill:#dc322f;stroke:none"
          id="tspan868">Compiler</tspan></tspan></tspan></text>
+
 
        </g><g
    id="id12">
@@ -2551,6 +2560,7 @@
          style="fill:#d33682;stroke:none"
          id="tspan971">Parser</tspan></tspan></tspan></text>
 
+
        </g><g
    id="id13">
         <rect
@@ -2585,6 +2595,7 @@
        class="TextPosition"><tspan
          style="fill:#dc322f;stroke:none"
          id="tspan988">Evaluator</tspan></tspan></tspan></text>
+
 
        </g><g
    id="id14">
@@ -2643,6 +2654,7 @@
        class="TextPosition"><tspan
          style="fill:#073642;stroke:none"
          id="tspan1019">The application</tspan></tspan></tspan></text>
+
 
        </g><g
    id="id15">
@@ -2895,6 +2907,7 @@
          style="fill:#d33682;stroke:none"
          id="tspan1122">Parser</tspan></tspan></tspan></text>
 
+
        </g><g
    id="id16">
         <rect
@@ -2956,6 +2969,7 @@
          style="fill:#859900;stroke:none"
          id="tspan1152">Tree</tspan></tspan></tspan></text>
 
+
        </g><g
    id="id18">
         <rect
@@ -2990,6 +3004,7 @@
        class="TextPosition"><tspan
          style="fill:#dc322f;stroke:none"
          id="tspan1169">Evaluator</tspan></tspan></tspan></text>
+
 
        </g><g
    id="id19">
@@ -3122,6 +3137,7 @@
          style="fill:#839496;stroke:none"
          id="tspan1229">Legend</tspan></tspan></tspan></text>
 
+
        </g><g
    id="id25"
    transform="matrix(1.2717966,0,0,1,-1409.3084,111.23449)">
@@ -3169,6 +3185,7 @@
          style="fill:#fdf6e3;stroke:none"
          id="tspan1251">Process</tspan></tspan></tspan></text>
 
+
        </g><g
    id="id27"
    transform="translate(2741.127,-1134.5918)">
@@ -3199,6 +3216,7 @@
        class="TextPosition"><tspan
          style="fill:#073642;stroke:none"
          id="tspan1266">Input</tspan></tspan></tspan></text>
+
 
        </g><g
    id="id28"
@@ -3231,6 +3249,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan1281">Output</tspan></tspan></tspan></text>
+
 
        </g><g
    id="id29"
@@ -3267,6 +3286,7 @@
        class="TextPosition"><tspan
          style="fill:#657b83;stroke:none"
          id="tspan1298">Evaluator</tspan></tspan></tspan></text>
+
 
        </g><g
    id="id30"
@@ -3457,6 +3477,7 @@
        class="TextPosition"><tspan
          style="fill:#eee8d5;stroke:none"
          id="tspan1379">Data</tspan></tspan></tspan></text>
+
 
        </g>
  </g>
