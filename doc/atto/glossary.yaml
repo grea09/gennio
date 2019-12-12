@@ -5,6 +5,6 @@ glossary:
       symbol: \state
       description: State of the world corresponding to a formula of fluent properties.
   acronyms:
-    - label: pop
-      short: POP
-      long: Partial Order Planning
+    - label: pocl
+      short: POCL
+      long: Partial Order Causal Links
