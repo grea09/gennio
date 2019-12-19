@@ -69,6 +69,11 @@ header-includes:
     - \newcommand{\bb}{\mathbb}
     - \renewcommand{\cal}{\mathcal}
     
+    - \newcommand{\rrp}{\rrparenthesis}
+    - \newcommand{\rrbp}{\rblkbrbrak}
+    - \newcommand{\llp}{\llparenthesis}
+    - \newcommand{\llbp}{\lblkbrbrak}
+    
     - \newcommand{\inci}{\ensuremath{\mathrel{-\!\!\!\!\bullet\!\!\!\!-}}}
     - \newcommand{\ingo}{\ensuremath{\curlyveeinarrow\!\bullet}}
     - \newcommand{\outgo}{\ensuremath{\bullet\!\curlyveeoutarrow}}

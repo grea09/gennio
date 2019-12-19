@@ -1,17 +1,20 @@
 glossary:
   symbols:
-    - label: rrp
-      symbol: \rrparenthesis
-      description: Right Currying.
-    - label: rrbp
-      symbol: \rblkbrbrak
-      description: Right unCurrying
-    - label: llp
-      symbol: \llparenthesis
-      description: Left Currying.
-    - label: llbp
-      symbol: \lblkbrbrak
-      description: Left unCurrying.
+    - label: appl
+      symbol: ()
+      description: Application function
+    - label: eq
+      symbol: =
+      description: Identity function
+    - label: asso
+      symbol: \mapsto
+      description: Association
+    - label: curry
+      symbol: \llp\rrp
+      description: Currying
+    - label: uncurry
+      symbol: \llbp\rrbp
+      description: unCurrying
     - label: none
       symbol: \gtrdot
       description: Null relation
@@ -26,65 +29,126 @@ glossary:
       description: Functionnal subposition
     - label: comp
       symbol: \circ
-      description: 
+      description: Functionnal composition
     - label: inv
       symbol: \bullet
-      description: 
+      description: Functionnal inverse
+    - label: tru
+      symbol: \top
+      description: "True"
+    - label: fls
+      symbol: \bot
+      description: "False"
+    - label: univ
+      symbol: \forall
+      description: Universal quantifier
+    - label: exist
+      symbol: \exists
+      description: Existential quantifier
+    - label: uniq
+      symbol: \exists!
+      description: Unicity quantifier
+    - label: exclu
+      symbol: \nexists
+      description: Exclusive quantifier
+    - label: sol
+      symbol: \textsection
+      description: Solution quantifier
+    - label: such
+      symbol: ":"
+      description: Specification
     - label: adja
       symbol: \leftrightspoon
-      description: 
-    - label: univ
+      description: Adjacency
+    - label: entities
       symbol: \bb{U}
-      description: 
+      description: Universal set of all entities
     - label: proba
       symbol: \bb{P}
-      description: 
+      description: Probability
     - label: obs
       symbol: \cal{O}
-      description: 
+      description: Observation
     - label: dom
       symbol: \cal{D}
-      description: 
+      description: Domain
     - label: pb
       symbol: \bb{p}
-      description: 
+      description: Problem
     - label: imply
       symbol: \vdash
-      description: 
+      description: Imply
     - label: powerset
       symbol: \wp
-      description: 
+      description: Powerset
     - label: sheaf
       symbol: \cal{F}
-      description: 
+      description: Sheaf
     - label: states
       symbol: \square
-      description: 
+      description: States
     - label: plan
       symbol: \bb{\pi}
-      description: 
+      description: Plan
     - label: plans
       symbol: \bb{\Pi}
-      description: 
+      description: Set of plans
     - label: search
       symbol: \bb{s}
-      description: 
+      description: Search
     - label: searches
       symbol: \bb{S}
-      description: 
+      description: Set of searches
     - label: pre
       symbol: \mathit{pre}
-      description: 
+      description: Precondition
     - label: eff
       symbol: \mathit{eff}
-      description: 
+      description: Effect
     - label: reward
       symbol: \text{\rupee}
-      description: 
+      description: Reward
     - label: cost
       symbol: ¢
-      description: 
+      description: Cost
 
   acronyms:
-    - POCL: Partial Order Causal Links
+    - AI: Artificial Intelligence
+    - BFS: Breadth-First Search
+    - DL: Description Logic
+    - FOL: First Order Logic
+    - HOL: Higher Order Logic
+    - PDDL: Planning Domain Description Language
     - POMDP: Partially Observable Markovian Decision Process
+    - RDF: Resource Description Framework
+    - W3C: World Wide Web Consortium
+    - ZFC: Zermelo–Fraenkel set theory with the axiom of Choice
+    - BNF: Backus-Naur Form
+    - OWL: Ontology Web Language
+    - CFG: Context-Free Grammar
+    - PEG: Parsing Expression Grammar
+    - DSL: Domain Specific Language
+    - URI: Uniform Resource Identier
+    - XML: eXtensible Markup Language
+    - AGI: Artificial General Intelligence
+    - SELF: Structurally Expressive Language Framework
+    - UTF-8: Unicode Transformation Format on 8-bits
+    - UCD: Unicode Character Database
+    - ASCII: American Standard Code for Information Interchange
+    - URL: Uniform Resource Locator
+    - PSP: Plan Space Planning
+    - POCL: Partial Order Causal Links
+    - CBP: Case-Based Planning
+    - HTN: Hierarchical Task Network
+    - HTN-TI: Hierarchical Task Network with Task Insersion
+    - STN: Simple Temporal Network
+    - ADL: Action Description Language
+    - STRIPS: Stanford Research Institute Problem Solver
+    - UCPOP: soUnd Complete Partial Order Planner
+    - AIPS: Artificial Intelligence Planning Systems
+    - IPC: International Planning Competitions
+    - ICAPS: International Conference on Automated Planning and Scheduling
+    - FD: Fast Downward
+    - LOLLIPOP: aLternative Optimization with partiaL pLan Injection Partial Ordered Planner
+    - HEART: HiErarchical Abstraction for Real-Time partial order planner
+    - BDI: Belief, Desire and Intention
