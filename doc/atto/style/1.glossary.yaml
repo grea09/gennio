@@ -1,0 +1,90 @@
+glossary:
+  symbols:
+    - label: rrp
+      symbol: \rrparenthesis
+      description: Right Currying.
+    - label: rrbp
+      symbol: \rblkbrbrak
+      description: Right unCurrying
+    - label: llp
+      symbol: \llparenthesis
+      description: Left Currying.
+    - label: llbp
+      symbol: \lblkbrbrak
+      description: Left unCurrying.
+    - label: none
+      symbol: \gtrdot
+      description: Null relation
+    - label: comb
+      symbol: \bowtie
+      description: Functionnal composition
+    - label: super
+      symbol: \vartriangle
+      description: Functionnal superposition
+    - label: sub
+      symbol: \triangledown
+      description: Functionnal subposition
+    - label: comp
+      symbol: \circ
+      description: 
+    - label: inv
+      symbol: \bullet
+      description: 
+    - label: adja
+      symbol: \leftrightspoon
+      description: 
+    - label: univ
+      symbol: \bb{U}
+      description: 
+    - label: proba
+      symbol: \bb{P}
+      description: 
+    - label: obs
+      symbol: \cal{O}
+      description: 
+    - label: dom
+      symbol: \cal{D}
+      description: 
+    - label: pb
+      symbol: \bb{p}
+      description: 
+    - label: imply
+      symbol: \vdash
+      description: 
+    - label: powerset
+      symbol: \wp
+      description: 
+    - label: sheaf
+      symbol: \cal{F}
+      description: 
+    - label: states
+      symbol: \square
+      description: 
+    - label: plan
+      symbol: \bb{\pi}
+      description: 
+    - label: plans
+      symbol: \bb{\Pi}
+      description: 
+    - label: search
+      symbol: \bb{s}
+      description: 
+    - label: searches
+      symbol: \bb{S}
+      description: 
+    - label: pre
+      symbol: \mathit{pre}
+      description: 
+    - label: eff
+      symbol: \mathit{eff}
+      description: 
+    - label: reward
+      symbol: \text{\rupee}
+      description: 
+    - label: cost
+      symbol: ¢
+      description: 
+
+  acronyms:
+    - POCL: Partial Order Causal Links
+    - POMDP: Partially Observable Markovian Decision Process
