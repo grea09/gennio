@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="423.46664"
+   height="251.73332"
+   viewBox="0 0 423.46664 251.73331"
+   sodipodi:docname="hypergraph.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath18"><path
+         d="M 0,0 H 595.2 V 841.8 H 0 Z"
+         id="path16"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd" /></clipPath></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="false"
+     fit-margin-top="16"
+     fit-margin-left="16"
+     fit-margin-right="16"
+     fit-margin-bottom="16"
+     inkscape:zoom="2"
+     inkscape:cx="139.73265"
+     inkscape:cy="109.98432"
+     inkscape:window-x="1"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14" /><g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="hypergraph"
+     transform="matrix(1.3333333,0,0,-1.3333333,-98.93333,1040.4)"><g
+       id="g12"><g
+         id="g14"
+         clip-path="url(#clipPath18)"><path
+           style="fill:none;fill-opacity:1;stroke:#073642;stroke-width:3;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1141"
+           transform="matrix(0.93948015,0.34260335,0.34260335,-0.93948015,0,0)"
+           sodipodi:type="arc"
+           sodipodi:cx="492.26959"
+           sodipodi:cy="-573.94012"
+           sodipodi:rx="10.813105"
+           sodipodi:ry="10.813105"
+           sodipodi:start="5.3598538"
+           sodipodi:end="3.9925454"
+           sodipodi:open="true"
+           d="m 498.79169,-582.56482 a 10.813105,10.813105 0 0 1 3.78988,11.87837 10.813105,10.813105 0 0 1 -9.92074,7.55235 10.813105,10.813105 0 0 1 -10.44092,-6.81515 10.813105,10.813105 0 0 1 2.92096,-12.12134" /><path
+           style="fill:none;fill-opacity:1;stroke:#073642;stroke-width:3;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1141-3"
+           transform="matrix(-0.96342217,0.26798828,0.26798828,0.96342217,0,0)"
+           sodipodi:type="arc"
+           sodipodi:cx="-101.07801"
+           sodipodi:cy="795.42853"
+           sodipodi:rx="10.813105"
+           sodipodi:ry="10.813105"
+           sodipodi:start="5.3598538"
+           sodipodi:end="3.9925454"
+           sodipodi:open="true"
+           d="m -94.555911,786.80383 a 10.813105,10.813105 0 0 1 3.789875,11.87838 10.813105,10.813105 0 0 1 -9.920744,7.55234 10.813105,10.813105 0 0 1 -10.44091,-6.81515 10.813105,10.813105 0 0 1 2.92096,-12.12134" /><path
+           d="m 97.7,768.3 c 6.4,0 11.4,-4.9 11.4,-11.4 0,-6.5 -5,-11.4 -11.4,-11.4 -6.5,0 -11.5,4.9 -11.5,11.4 0,6.5 5,11.4 11.5,11.4 z m -11.5,0 z m 22.9,-22.9 z"
+           style="fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path22"
+           inkscape:connector-curvature="0" /><g
+           id="g24"
+           style=""><text
+   transform="matrix(1,0,0,-1,91.7,754.4)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text28"><tspan
+     x="0"
+     y="0"
+     id="tspan26"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">v</tspan></text>
+
+</g><g
+           id="g30"
+           style=""><text
+   transform="matrix(1,0,0,-1,100.4,748.5)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text34"><tspan
+     x="0"
+     y="0"
+     id="tspan32"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1</tspan></text>
+
+</g><path
+           d="m 141.6,711.4 c 6.5,0 11.4,-4.9 11.4,-11.4 0,-6.5 -4.9,-11.4 -11.4,-11.4 -6.5,0 -11.4,4.9 -11.4,11.4 0,6.5 4.9,11.4 11.4,11.4 z m -11.4,0 z m 22.9,-22.9 z"
+           style="fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path36"
+           inkscape:connector-curvature="0" /><g
+           id="g38"
+           style=""><text
+   transform="matrix(1,0,0,-1,135,697.5)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text42"><tspan
+     x="0"
+     y="0"
+     id="tspan40"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">v</tspan></text>
+
+</g><g
+           id="g44"
+           style=""><text
+   transform="matrix(1,0,0,-1,143.7,691.6)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text48"><tspan
+     x="0"
+     y="0"
+     id="tspan46"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">3</tspan></text>
+
+</g><path
+           d="m 255.2,626.4 c 6.5,0 11.4,-4.9 11.4,-11.4 0,-6.5 -4.9,-11.5 -11.4,-11.5 -6.5,0 -11.4,5 -11.4,11.5 0,6.5 4.9,11.4 11.4,11.4 z m -11.4,0 z m 22.9,-22.9 z"
+           style="fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path50"
+           inkscape:connector-curvature="0" /><g
+           id="g52"
+           style=""><text
+   transform="matrix(1,0,0,-1,248.3,612.4)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text56"><tspan
+     x="0"
+     y="0"
+     id="tspan54"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">v</tspan></text>
+
+</g><g
+           id="g58"
+           style=""><text
+   transform="matrix(1,0,0,-1,257,606.5)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text62"><tspan
+     x="0"
+     y="0"
+     id="tspan60"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">6</tspan></text>
+
+</g><path
+           d="m 226.6,768.1 c 6.5,0 11.5,-4.9 11.5,-11.4 0,-6.5 -5,-11.4 -11.5,-11.4 -6.5,0 -11.4,4.9 -11.4,11.4 0,6.5 4.9,11.4 11.4,11.4 z m -11.4,0 z m 22.9,-22.9 z"
+           style="fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path64"
+           inkscape:connector-curvature="0" /><g
+           id="g66"
+           style=""><text
+   transform="matrix(1,0,0,-1,219.9,754.2)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text70"><tspan
+     x="0"
+     y="0"
+     id="tspan68"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">v</tspan></text>
+
+</g><g
+           id="g72"
+           style=""><text
+   transform="matrix(1,0,0,-1,228.5,748.3)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text76"><tspan
+     x="0"
+     y="0"
+     id="tspan74"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2</tspan></text>
+
+</g><path
+           d="m 250.7,694.4 c 6.5,0 11.5,-4.9 11.5,-11.4 0,-6.5 -5,-11.4 -11.5,-11.4 -6.5,0 -11.4,4.9 -11.4,11.4 0,6.5 4.9,11.4 11.4,11.4 z m -11.4,0 z m 22.9,-22.9 z"
+           style="fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path78"
+           inkscape:connector-curvature="0" /><g
+           id="g80"
+           style=""><text
+   transform="matrix(1,0,0,-1,244.1,680.5)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text84"><tspan
+     x="0"
+     y="0"
+     id="tspan82"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">v</tspan></text>
+
+</g><g
+           id="g86"
+           style=""><text
+   transform="matrix(1,0,0,-1,252.7,674.6)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text90"><tspan
+     x="0"
+     y="0"
+     id="tspan88"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">5</tspan></text>
+
+</g><path
+           d="m 198.3,654.9 c 6.5,0 11.4,-4.9 11.4,-11.4 0,-6.5 -4.9,-11.4 -11.4,-11.4 -6.5,0 -11.4,4.9 -11.4,11.4 0,6.5 4.9,11.4 11.4,11.4 z m -11.4,0 z M 209.8,632 Z"
+           style="fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path92"
+           inkscape:connector-curvature="0" /><g
+           id="g94"
+           style=""><text
+   transform="matrix(1,0,0,-1,191.4,641)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text98"><tspan
+     x="0"
+     y="0"
+     id="tspan96"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">v</tspan></text>
+
+</g><g
+           id="g100"
+           style=""><text
+   transform="matrix(1,0,0,-1,200,635.1)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text104"><tspan
+     x="0"
+     y="0"
+     id="tspan102"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">4</tspan></text>
+
+</g><path
+           d="m 311.9,654.9 c 6.5,0 11.4,-4.9 11.4,-11.4 0,-6.5 -4.9,-11.4 -11.4,-11.4 -6.5,0 -11.5,4.9 -11.5,11.4 0,6.5 5,11.4 11.5,11.4 z m -11.5,0 z M 323.3,632 Z"
+           style="fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path106"
+           inkscape:connector-curvature="0" /><g
+           id="g108"
+           style=""><text
+   transform="matrix(1,0,0,-1,305.3,641)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text112"><tspan
+     x="0"
+     y="0"
+     id="tspan110"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">v</tspan></text>
+
+</g><g
+           id="g114"
+           style=""><text
+   transform="matrix(1,0,0,-1,314,635.1)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text118"><tspan
+     x="0"
+     y="0"
+     id="tspan116"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">7</tspan></text>
+
+</g><path
+           d="m 368.4,654.7 c 6.5,0 11.4,-4.9 11.4,-11.4 0,-6.5 -4.9,-11.4 -11.4,-11.4 -6.5,0 -11.5,4.9 -11.5,11.4 0,6.5 5,11.4 11.5,11.4 z m -11.5,0 z m 22.9,-22.9 z"
+           style="fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path120"
+           inkscape:connector-curvature="0" /><g
+           id="g122"
+           style=""><text
+   transform="matrix(1,0,0,-1,361.5,640.8)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text126"><tspan
+     x="0"
+     y="0"
+     id="tspan124"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">v</tspan></text>
+
+</g><g
+           id="g128"
+           style=""><text
+   transform="matrix(1,0,0,-1,370.1,634.9)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text132"><tspan
+     x="0"
+     y="0"
+     id="tspan130"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">8</tspan></text>
+
+</g><path
+           d="m 311.9,737.1 c 6.5,0 11.4,-4.9 11.4,-11.4 0,-6.5 -4.9,-11.4 -11.4,-11.4 -6.5,0 -11.5,4.9 -11.5,11.4 0,6.5 5,11.4 11.5,11.4 z m -11.5,0 z m 22.9,-22.9 z"
+           style="fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="path134"
+           inkscape:connector-curvature="0" /><g
+           id="g136"
+           style=""><text
+   transform="matrix(1,0,0,-1,305,723.2)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text140"><tspan
+     x="0"
+     y="0"
+     id="tspan138"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">v</tspan></text>
+
+</g><g
+           id="g142"
+           style=""><text
+   transform="matrix(1,0,0,-1,313.7,717.3)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text146"><tspan
+     x="0"
+     y="0"
+     id="tspan144"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">9</tspan></text>
+
+</g><g
+           id="g148"
+           style="fill:#073642"><path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.99973321;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 145.4668,111.41406 v 2 l -0.004,2 h 0.004 c 14.0028,0 24.04192,4.71205 30.89062,14.28125 6.8487,9.5692 10.44141,24.28957 10.44141,44.25196 h 4 c 0,-19.59032 7.75341,-33.8047 23.61328,-43.52735 15.85954,-9.72244 41.17073,-14.81239 73.63233,-14.8126 h 0.002 v -1 l 0.006,-3 h -0.006 L 145.4707,111.41406 Z"
+             transform="matrix(0.75000002,0,0,-0.75000002,0,841.86145)"
+             id="path150"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccssccsccccccc" /></g><g
+           id="g152" /><g
+           id="g156" /><g
+           id="g160"
+           style="fill:#073642"><path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.99973321;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 332.71569,225.99234 c 0,11.97828 -4.52016,21.65444 -13.12389,27.52133 -8.60374,5.8669 -22.83042,9.38915 -40.80332,9.38915 v 4 c 20.07459,0 35.98554,1.50519 45.65683,5.14991 4.83566,1.82236 8.32037,4.05881 10.54688,6.57813 2.2265,2.51932 3.16833,6.34288 3.16833,9.70139 h 4 c 10e-6,-3.35851 1.15574,-7.18196 3.3805,-9.70139 2.22476,-2.51944 5.70397,-4.7559 10.53125,-6.57813 9.65454,-3.64442 25.95253,-5.57031 45.96005,-5.57031 v -4 c -21.9466,0 -39.58311,-3.12457 -50.11826,-9.06054 -10.53516,-5.93598 -15.19837,-15.55108 -15.19837,-27.42954 z"
+             transform="matrix(0.75000002,0,0,-0.75000002,0,841.86145)"
+             id="path162"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="csccccccccccscc" /></g><g
+           id="g164" /><g
+           id="g168" /><g
+           id="g172" /><g
+           id="g176"
+           style="fill:#073642"><path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.99973321;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 309.67773,125.4668 -1.41211,1.41601 -1.54687,1.26367 c 9.59666,15.3638 23.15249,46.06934 25.69336,68.69141 l 1.98047,-0.22266 h 2.00781 c 0,-13.40705 5.0764,-22.99633 15.59961,-29.625 10.52321,-6.62868 26.74151,-10.10742 48.66602,-10.10742 v -4 c -32.68475,0 -53.41732,-2.83856 -67.67188,-7.4082 -14.25456,-4.56963 -17.77583,-12.04278 -23.31641,-20.00781 z"
+             transform="matrix(0.75000002,0,0,-0.75000002,0,841.86145)"
+             id="path178"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="ccccccsccsc" /></g><g
+           id="g180" /><g
+           id="g184" /><g
+           id="g188"
+           style="fill:#073642;stroke:#073642"><path
+             d="M 323.3,643.5 357,643.3"
+             style="fill:#073642;stroke:#073642;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path190"
+             inkscape:connector-curvature="0" /></g><g
+           id="g192"
+           style="fill:#073642;stroke:#073642"><path
+             d="m 149.7,691.9 40.5,-40.3"
+             style="fill:#073642;stroke:#073642;stroke-width:2.99979997;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path194"
+             inkscape:connector-curvature="0" /></g><g
+           id="g196"
+           style="fill:#073642"><path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.99973321;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+             d="m 208.8418,131.73633 -1.65039,1.15039 -1.75391,0.93945 c 7.58616,14.19384 11.47442,23.12725 13.9668,35.70703 2.49238,12.57979 3.55656,28.90211 5.26562,57.4668 l 1.99805,-0.11914 1.82422,0.81641 C 240.69492,200.43087 261.58073,170.9678 323.36974,162.5 l -0.27344,-1.98438 -0.21094,-1.98437 c -0.0198,0.002 -0.0407,0.004 -0.0605,0.006 -6.5e-4,9e-5 -10e-4,-9e-5 -0.002,0 -19.44921,2.07668 -44.03245,3.25635 -64.47911,-0.0625 -20.46813,-3.32232 -38.58466,-11.09402 -49.50195,-26.73828 z"
+             transform="matrix(0.75000002,0,0,-0.75000002,0,841.86145)"
+             id="path198"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cccsccccccccscc" /></g><g
+           id="g200" /><g
+           id="g204" /><g
+           id="g208"
+           style=""><text
+   transform="matrix(1,0,0,-1,172,709.4)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text212"><tspan
+     x="0"
+     y="0"
+     id="tspan210"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">e</tspan></text>
+
+</g><g
+           id="g214"
+           style=""><text
+   transform="matrix(1,0,0,-1,179.5,703.4)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text218"><tspan
+     x="0"
+     y="0"
+     id="tspan216"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">2</tspan></text>
+
+</g><g
+           id="g220"
+           style=""><text
+   transform="matrix(1,0,0,-1,137.5,745.3)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text224"><tspan
+     x="0"
+     y="0"
+     id="tspan222"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">e</tspan></text>
+
+</g><g
+           id="g226"
+           style=""><text
+   transform="matrix(1,0,0,-1,144.9,739.4)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text230"><tspan
+     x="0"
+     y="0"
+     id="tspan228"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">1</tspan></text>
+
+</g><g
+           id="g232"
+           transform="translate(3)"
+           style=""><text
+   transform="matrix(1,0,0,-1,242.4,719.8)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text236"><tspan
+     x="0"
+     y="0"
+     id="tspan234"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">e</tspan></text>
+
+</g><g
+           id="g238"
+           transform="translate(3)"
+           style=""><text
+   transform="matrix(1,0,0,-1,249.8,713.9)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text242"><tspan
+     x="0"
+     y="0"
+     id="tspan240"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">3</tspan></text>
+
+</g><g
+           id="g244"
+           style=""><text
+   transform="matrix(1,0,0,-1,159.1,658.4)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text248"><tspan
+     x="0"
+     y="0"
+     id="tspan246"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">e</tspan></text>
+
+</g><g
+           id="g250"
+           style=""><text
+   transform="matrix(1,0,0,-1,166.5,652.4)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text254"><tspan
+     x="0"
+     y="0"
+     id="tspan252"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">4</tspan></text>
+
+</g><g
+           id="g256"
+           style=""><text
+   transform="matrix(1,0,0,-1,334.8,652.7)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text260"><tspan
+     x="0"
+     y="0"
+     id="tspan258"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">e</tspan></text>
+
+</g><g
+           id="g262"
+           style=""><text
+   transform="matrix(1,0,0,-1,342.3,646.7)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text266"><tspan
+     x="0"
+     y="0"
+     id="tspan264"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">6</tspan></text>
+
+</g><g
+           id="g268"
+           style=""><text
+   transform="matrix(1,0,0,-1,245.2,643.3)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text272"><tspan
+     x="0"
+     y="0"
+     id="tspan270"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">e</tspan></text>
+
+</g><g
+           id="g274"
+           style=""><text
+   transform="matrix(1,0,0,-1,252.6,637.3)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text278"><tspan
+     x="0"
+     y="0"
+     id="tspan276"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">5</tspan></text>
+
+</g><g
+           id="g280"
+           transform="translate(-21,-16.5)"
+           style=""><text
+   transform="matrix(1,0,0,-1,306.5,756.7)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text284"><tspan
+     x="0"
+     y="0"
+     id="tspan282"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">e</tspan></text>
+
+</g><g
+           id="g286"
+           transform="translate(-21,-16.5)"
+           style=""><text
+   transform="matrix(1,0,0,-1,313.9,750.7)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text290"><tspan
+     x="0"
+     y="0"
+     id="tspan288"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">7</tspan></text>
+
+</g><g
+           id="g292"
+           transform="translate(-6,3)"
+           style=""><text
+   transform="matrix(1,0,0,-1,281,691.5)"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text296"><tspan
+     x="0"
+     y="0"
+     id="tspan294"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">e</tspan></text>
+
+</g><g
+           id="g298"
+           transform="translate(-6,3)"
+           style=""><text
+   transform="matrix(1,0,0,-1,288.4,685.5)"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text302"><tspan
+     x="0"
+     y="0"
+     id="tspan300"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">8</tspan></text>
+
+</g><g
+           id="g1250"
+           transform="translate(-294.72839,-54.073773)"
+           style=""><g
+             transform="translate(74.26465,-76.021026)"
+             id="g280-7"
+             style=""><text
+   id="text284-5"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,306.5,756.7)"><tspan
+     id="tspan282-3"
+     y="0"
+     x="0"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">e</tspan></text>
+
+</g><g
+             transform="translate(74.26465,-76.021026)"
+             id="g286-5"
+             style=""><text
+   id="text290-6"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,313.9,750.7)"><tspan
+     id="tspan288-2"
+     y="0"
+     x="0"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">9</tspan></text>
+
+</g></g><path
+           style="fill:none;fill-opacity:1;stroke:#073642;stroke-width:3;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1141-3-6-9"
+           transform="matrix(-0.0192436,-0.99981482,-0.99981482,0.0192436,0,0)"
+           sodipodi:type="arc"
+           sodipodi:cx="-630.00916"
+           sodipodi:cy="-99.678658"
+           sodipodi:rx="10.813105"
+           sodipodi:ry="10.813105"
+           sodipodi:start="5.5413604"
+           sodipodi:end="3.8197998"
+           sodipodi:open="true"
+           d="m -622.03734,-106.98436 a 10.813105,10.813105 0 0 1 -0.27488,14.900465 10.813105,10.813105 0 0 1 -14.89546,0.473968 10.813105,10.813105 0 0 1 -1.22163,-14.852853" /><g
+           id="g1242"
+           transform="translate(-294.72839,-52.24826)"
+           style=""><g
+             transform="translate(128.40184,-77.846539)"
+             id="g280-7-1"
+             style=""><text
+   id="text284-5-2"
+   style="font-style:italic;font-variant:normal;font-size:18px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,306.5,756.7)"><tspan
+     id="tspan282-3-7"
+     y="0"
+     x="0"
+     style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">e</tspan></text>
+
+</g><g
+             transform="translate(128.40184,-77.846539)"
+             id="g286-5-0"
+             style=""><text
+   id="text290-6-9"
+   style="font-style:italic;font-variant:normal;font-size:10.39999962px;font-family:'Skolar PE';-inkscape-font-specification:SkolarPE-Italic;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="matrix(1,0,0,-1,313.9,750.7)"><tspan
+     id="tspan288-2-3"
+     y="0"
+     x="0"
+     style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">10</tspan></text>
+
+</g></g><path
+           style="fill:none;fill-opacity:1;stroke:#073642;stroke-width:3;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path1141-3-6-9-6"
+           transform="rotate(-88.897355)"
+           sodipodi:type="arc"
+           sodipodi:cx="-625.47473"
+           sodipodi:cy="135.90822"
+           sodipodi:rx="10.813105"
+           sodipodi:ry="10.813105"
+           sodipodi:start="5.5413604"
+           sodipodi:end="3.8197998"
+           sodipodi:open="true"
+           d="m -617.50291,128.60251 a 10.813105,10.813105 0 0 1 -0.27489,14.90047 10.813105,10.813105 0 0 1 -14.89546,0.47397 10.813105,10.813105 0 0 1 -1.22162,-14.85285" /></g></g></g></svg>

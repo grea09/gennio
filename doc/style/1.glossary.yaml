@@ -1,0 +1,248 @@
+glossary:
+  symbols:
+    - label: appl
+      symbol: ()
+      description: Application function
+    - label: eq
+      symbol: =
+      description: Identity function
+    - label: asso
+      symbol: \mapsto
+      description: Association
+    - label: curry
+      symbol: \llp\rrp
+      description: Currying
+    - label: uncurry
+      symbol: \llbp\rrbp
+      description: unCurrying
+    - label: mapping
+      symbol: \lBrace \rBrace
+      description: Mapping
+    - label: none
+      symbol: \gtrdot
+      description: Null relation
+    - label: comb
+      symbol: \bowtie
+      description: Functionnal composition
+    - label: super
+      symbol: \vartriangle
+      description: Functionnal superposition
+    - label: sub
+      symbol: \triangledown
+      description: Functionnal subposition
+    - label: comp
+      symbol: \circ
+      description: Functionnal composition
+    - label: inv
+      symbol: \bullet
+      description: Functionnal inverse
+    - label: tru
+      symbol: \top
+      description: "True"
+    - label: fls
+      symbol: \bot
+      description: "False"
+    - label: pred
+      symbol: q
+      description: Predicate
+    - label: univ
+      symbol: \forall
+      description: Universal quantifier
+    - label: exist
+      symbol: \exists
+      description: Existential quantifier
+    - label: uniq
+      symbol: \exists!
+      description: Unicity quantifier
+    - label: exclu
+      symbol: \nexists
+      description: Exclusive quantifier
+    - label: sol
+      symbol: \textsection
+      description: Solution quantifier
+    - label: such
+      symbol: ":"
+      description: Specification
+    - label: adja
+      symbol: \leftrightspoon
+      description: Adjacency
+    - label: uv
+      symbol: \bb{U}
+      description: Universal set of all entities
+    - label: proba
+      symbol: \bb{P}
+      description: Probability
+    - label: obs
+      symbol: \cal{O}
+      description: Observation
+    - label: dom
+      symbol: \cal{D}
+      description: Domain
+    - label: pb
+      symbol: \bb{p}
+      description: Problem
+    - label: imply
+      symbol: \vdash
+      description: Imply
+    - label: powerset
+      symbol: \wp
+      description: Powerset
+    - label: seed
+      nomacro: True
+      description: Seed
+    - label: sheaf
+      symbol: \cal{F}
+      description: Sheaf
+    - label: state
+      nomacro: True
+      description: State
+    - label: states
+      symbol: \square
+      description: States
+    - label: plan
+      symbol: \bb{\pi}
+      description: Plan
+    - label: plans
+      symbol: \bb{\Pi}
+      description: Set of plans
+    - label: search
+      symbol: \bb{s}
+      description: Search
+    - label: searches
+      symbol: \bb{S}
+      description: Set of searches
+    - label: pre
+      symbol: \mathit{pre}
+      description: Precondition
+    - label: eff
+      symbol: \mathit{eff}
+      description: Effect
+    - label: reward
+      symbol: \text{\rupee}
+      description: Reward
+    - label: cost
+      symbol: ¢
+      description: Cost
+    - label: prop
+      symbol: P
+      description: Properties
+    - label: sta
+      symbol: S
+      description: Statements
+    - label: typ
+      symbol: T
+      description: Types
+    - label: lit
+      symbol: L
+      description: Literals
+    - label: str
+      symbol: Str
+      description: Strings
+    - label: param
+      symbol: \rho
+      description: Parameter
+    - label: con
+      symbol: \chi
+      description: Connectivity
+    - label: meta
+      symbol: \mu
+      description: Meta
+    - label: reif
+      symbol: \meta^{\inv}
+      description: Reification
+    - label: subsum
+      symbol: \subseteq
+      description: Subsumption
+    - label: nam
+      symbol: \nu
+      description: Name
+    - label: gram
+      symbol: \bb{g}
+      description: Grammar
+    - label: flu
+      symbol: F
+      description: Fluents
+    - label: constr
+      symbol: \gamma
+      description: Constraints
+    - label: dur
+      symbol: d
+      description: Duration
+    - label: root
+      symbol: \omega
+      description: Root operator
+    - label: actions
+      symbol: A
+      description: Actions
+    - label: iter
+      symbol: \con_{\searches}
+      description: Search iterator
+    - label: heu
+      symbol: h
+      description: Heuristic
+    - label: start
+      symbol: \search_0
+      description: Search starting point
+    - label: solu
+      symbol: \search^*
+      description: Solution
+    - label: find
+      symbol: \pred_{\solu}
+      description: Solution predicate
+    - label: scons
+      symbol: \constr_{\searches}
+      description: Solution constraints
+    - label: dist
+      symbol: \Delta
+      description: Distance
+    - label: nsol
+      symbol: k
+      description: Number of solutions
+    - label: searcht
+      symbol: t_{\searches}
+      description: Search time
+    - label: opti
+      symbol:  t^*
+      description: Optimization time
+      
+
+  acronyms:
+    - AI: Artificial Intelligence
+    - BFS: Breadth-First Search
+    - DL: Description Logic
+    - FOL: First Order Logic
+    - HOL: Higher Order Logic
+    - PDDL: Planning Domain Description Language
+    - POMDP: Partially Observable Markovian Decision Process
+    - RDF: Resource Description Framework
+    - W3C: World Wide Web Consortium
+    - ZFC: Zermelo–Fraenkel set theory with the axiom of Choice
+    - BNF: Backus-Naur Form
+    - OWL: Ontology Web Language
+    - CFG: Context-Free Grammar
+    - PEG: Parsing Expression Grammar
+    - DSL: Domain Specific Language
+    - URI: Uniform Resource Identier
+    - XML: eXtensible Markup Language
+    - AGI: Artificial General Intelligence
+    - SELF: Structurally Expressive Language Framework
+    - UTF-8: Unicode Transformation Format on 8-bits
+    - UCD: Unicode Character Database
+    - ASCII: American Standard Code for Information Interchange
+    - URL: Uniform Resource Locator
+    - PSP: Plan Space Planning
+    - POCL: Partial Order Causal Links
+    - CBP: Case-Based Planning
+    - HTN: Hierarchical Task Network
+    - HTN-TI: Hierarchical Task Network with Task Insersion
+    - STN: Simple Temporal Network
+    - ADL: Action Description Language
+    - STRIPS: Stanford Research Institute Problem Solver
+    - UCPOP: soUnd Complete Partial Order Planner
+    - AIPS: Artificial Intelligence Planning Systems
+    - IPC: International Planning Competitions
+    - ICAPS: International Conference on Automated Planning and Scheduling
+    - FD: Fast Downward
+    - LOLLIPOP: aLternative Optimization with partiaL pLan Injection Partial Ordered Planner
+    - HEART: HiErarchical Abstraction for Real-Time partial order planner
+    - BDI: Belief, Desire and Intention

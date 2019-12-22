@@ -21,7 +21,7 @@ jobs:
         sudo usermod -aG docker ${USER}
         
     - name: Docker Pancake
-      run: docker container run -v /home/runner/work/gennio/gennio/doc/atto:/doc -v /tmp/cache:/data -e PANCAKE_ONCE=true -e PANCAKE_OPTIONS="--listings --top-level-division=chapter --number-sections" -e PANCAKE_OUTPUT="thesis.pdf" --name pancake grea09/pancake
+      run: docker container run -v /home/runner/work/gennio/gennio/doc:/doc -e PANCAKE_ONCE=true -e PANCAKE_OPTIONS="--listings --top-level-division=chapter --number-sections" -e PANCAKE_OUTPUT="thesis.pdf" --name pancake grea09/pancake
     
     - name: Commit PDF
       uses: stefanzweifel/git-auto-commit-action@v2.3.0
