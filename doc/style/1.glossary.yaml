@@ -214,6 +214,7 @@ glossary:
     - HOL: Higher Order Logic
     - PDDL: Planning Domain Description Language
     - POMDP: Partially Observable Markovian Decision Process
+    - DBN: Dynamic Bayesian Network
     - RDF: Resource Description Framework
     - W3C: World Wide Web Consortium
     - ZFC: Zermelo–Fraenkel set theory with the axiom of Choice
