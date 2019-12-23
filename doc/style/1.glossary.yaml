@@ -148,7 +148,7 @@ glossary:
       symbol: \mu
       description: Meta
     - label: reif
-      symbol: \metaˆ{\inv}
+      symbol: \superscript{\meta}{\inv}
       description: Reification
     - label: subsum
       symbol: \subseteq
@@ -175,22 +175,22 @@ glossary:
       symbol: A
       description: Actions
     - label: iter
-      symbol: \con_{\searches}
+      symbol: \subscript{\con}{\searches}
       description: Search iterator
     - label: heu
       symbol: h
       description: Heuristic
     - label: start
-      symbol: \search_0
+      symbol: \subscript{\search}{0}
       description: Search starting point
     - label: solu
-      symbol: \search^*
+      symbol: \superscript{\search}{*}
       description: Solution
     - label: find
-      symbol: \pred_{\solu}
+      symbol: \subscript{\pred}{\solu}
       description: Solution predicate
     - label: scons
-      symbol: \constr_{\searches}
+      symbol: \subscript{\constr}{\searches}
       description: Solution constraints
     - label: dist
       symbol: \Delta
@@ -199,10 +199,10 @@ glossary:
       symbol: k
       description: Number of solutions
     - label: searcht
-      symbol: t_{\searches}
+      symbol: \subscript{t}{\searches}
       description: Search time
     - label: opti
-      symbol:  t^*
+      symbol:  \superscript{t}{*}
       description: Optimization time
       
 
