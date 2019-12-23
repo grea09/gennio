@@ -148,7 +148,7 @@ glossary:
       symbol: \mu
       description: Meta
     - label: reif
-      symbol: \meta^{\inv}
+      symbol: \metaˆ{\inv}
       description: Reification
     - label: subsum
       symbol: \subseteq
