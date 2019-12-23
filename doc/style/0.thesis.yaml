@@ -78,6 +78,8 @@ header-includes:
     - \newcommand{\ingo}{\ensuremath{\curlyveeinarrow\!\bullet}}
     - \newcommand{\outgo}{\ensuremath{\bullet\!\curlyveeoutarrow}}
     - \newcommand{\landor}{\ensuremath{\veeonwedge}}
-    - \newcommand{\seed}{\ensuremath{\varstar}}
-    - \newcommand{\state}{\ensuremath{\smwhtsquare}}
     - \newcommand{\cstate}{\ensuremath{\boxonbox}}
+    
+    - \newcommand{\varstar}{✶}
+    - \newcommand{\smwhtsquare}{▫}
+    

@@ -88,13 +88,13 @@ glossary:
       symbol: \wp
       description: Powerset
     - label: seed
-      nomacro: True
+      symbol: \varstar
       description: Seed
     - label: sheaf
       symbol: \cal{F}
       description: Sheaf
     - label: state
-      nomacro: True
+      symbol: \smwhtsquare
       description: State
     - label: states
       symbol: \square
@@ -168,7 +168,7 @@ glossary:
     - label: dur
       symbol: d
       description: Duration
-    - label: root
+    - label: rootop
       symbol: \omega
       description: Root operator
     - label: actions
