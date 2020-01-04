@@ -204,7 +204,33 @@ glossary:
     - label: opti
       symbol:  \superscript{t}{*}
       description: Optimization time
-      
+    - label: flaw
+      symbol: \otimes
+      description: Flaw
+    - label: flaws
+      symbol: \bigotimes
+      description: Flaws
+    - label: subgoal
+      symbol: \superscript{\flaw}{\downarrowbarred}
+      description: Subgoal
+    - label: subgoals
+      symbol: \superscript{\flaws}{\downarrowbarred}
+      description: Subgoals
+    - label: threat
+      symbol: \superscript{\flaw}{\dagger}
+      description: Threat
+    - label: threats
+      symbol: \superscript{\flaws}{\dagger}
+      description: Threats
+    - label: resolver
+      symbol: \odot
+      description: Resolver
+    - label: resolvers
+      symbol: \bigodot
+      description: Resolvers
+    - label: agenda
+      symbol: \cal{A}
+      description: Agenda of flaws to fix
 
   acronyms:
     - AI: Artificial Intelligence
@@ -244,6 +270,7 @@ glossary:
     - IPC: International Planning Competitions
     - ICAPS: International Conference on Automated Planning and Scheduling
     - FD: Fast Downward
+    - FF: Fast Forward
     - LOLLIPOP: aLternative Optimization with partiaL pLan Injection Partial Ordered Planner
     - HEART: HiErarchical Abstraction for Real-Time partial order planner
     - BDI: Belief, Desire and Intention

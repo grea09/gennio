@@ -9,9 +9,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   width="124.09435mm"
-   height="61.549999mm"
-   viewBox="0 0 12409.435 6154.9999"
+   width="141.55685mm"
+   height="63.821671mm"
+   viewBox="0 0 14155.685 6382.167"
    preserveAspectRatio="xMidYMid"
    xml:space="preserve"
    id="svg939"
@@ -20,7 +20,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata943"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -37,13 +37,13 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="6.7277216"
-   inkscape:cx="305.25747"
-   inkscape:cy="170.90813"
-   inkscape:window-x="1"
+   inkscape:zoom="1.1893044"
+   inkscape:cx="117.06764"
+   inkscape:cy="140.35278"
+   inkscape:window-x="1920"
    inkscape:window-y="30"
    inkscape:window-maximized="1"
-   inkscape:current-layer="id34" />
+   inkscape:current-layer="g931" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -494,7 +494,7 @@
    id="defs165" />
  <g
    id="g170"
-   transform="translate(-2591.5652,-900)">
+   transform="translate(-2591.5651,-847.08333)">
   <g
    id="id2"
    class="Master_Slide">
@@ -509,7 +509,7 @@
  <g
    class="SlideGroup"
    id="g937"
-   transform="translate(-2591.5652,-900)">
+   transform="translate(-2591.5651,-847.08333)">
   <g
    id="g935">
    <g
@@ -522,6 +522,32 @@
    class="Page"
    id="g931">
       <g
+   transform="matrix(1,0,0,-1,-695.50691,8002.7999)"
+   id="g5235"
+   class="com.sun.star.drawing.ConnectorShape">
+       <g
+   id="g5233">
+        <rect
+   style="fill:none;stroke:none"
+   id="rect5227"
+   height="771"
+   width="361"
+   y="3745"
+   x="11497"
+   class="BoundingBox" />
+        <path
+   sodipodi:nodetypes="cc"
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linecap:round;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path5229"
+   d="M 11677,3442.0496 V 4138" />
+        <path
+   style="fill:#657b83;stroke:none"
+   inkscape:connector-curvature="0"
+   id="path5231"
+   d="m 11499,4143 159,357 8,11 10,4 12,-4 8,-9 159,-359 2,-5 v -3 l -2,-7 -5,-7 -6,-5 -7,-1 h -320 l -7,1 -8,5 -3,7 -1,7 v 3 z" />
+       </g>
+      </g><g
    class="com.sun.star.drawing.CustomShape"
    id="g177">
        <g
@@ -583,6 +609,7 @@
          style="fill:#fdf6e3;stroke:none">0</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -625,6 +652,7 @@
        id="tspan208"><tspan
          id="tspan206"
          style="fill:#073642;stroke:none">3</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -671,6 +699,7 @@
          style="fill:#073642;stroke:none">1</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -713,6 +742,7 @@
        id="tspan246"><tspan
          id="tspan244"
          style="fill:#073642;stroke:none">4</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -797,6 +827,7 @@
        id="tspan279"><tspan
          id="tspan277"
          style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -998,6 +1029,7 @@
          style="fill:#839496;stroke:none">2</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -1189,6 +1221,7 @@
          style="fill:#073642;stroke:none">1</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -1236,6 +1269,7 @@
        id="tspan452"><tspan
          id="tspan450"
          style="fill:#073642;stroke:none">2</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -1293,6 +1327,7 @@
          style="fill:#ce181e;stroke:none">⤈</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -1322,6 +1357,7 @@
        id="tspan491"><tspan
          id="tspan489"
          style="fill:#ce181e;stroke:none">†</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -1421,6 +1457,7 @@
        id="tspan531"><tspan
          id="tspan529"
          style="fill:#073642;stroke:none">2</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -1577,6 +1614,7 @@
          style="fill:#073642;stroke:none">3</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -1627,6 +1665,7 @@
        id="tspan616"><tspan
          id="tspan614"
          style="fill:#073642;stroke:none">2</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -1758,6 +1797,7 @@
          style="fill:#073642;stroke:none">5</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -1807,11 +1847,550 @@
          style="fill:#073642;stroke:none">4</tspan></tspan></tspan></text>
 
 
+
+       </g>
+      </g>
+      
+      
+      <g
+   class="com.sun.star.drawing.TextShape"
+   id="g782"
+   transform="translate(-317.50001,-52.916666)">
+       <g
+   id="id34">
+        <rect
+   class="BoundingBox"
+   x="10600"
+   y="900"
+   width="3145"
+   height="1099"
+   id="rect771"
+   style="fill:none;stroke:none" />
+        
+
+       <text
+   style="font-size:12.00000095px;fill-rule:evenodd;stroke-width:28.22200203;stroke-linejoin:round"
+   class="TextShape"
+   id="text638"
+   x="-28.472166"
+   y="-0.89098603"><tspan
+     class="TextParagraph"
+     font-size="847px"
+     font-weight="700"
+     id="tspan636"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:847.00012207px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';stroke-width:28.22200203"><tspan
+       class="TextPosition"
+       x="10821.529"
+       y="1667.1091"
+       id="tspan634"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#93a1a1;stroke:none;stroke-width:28.22200203">Legend</tspan></tspan></text>
+
+</g>
+      </g>
+      
+      <g
+   class="com.sun.star.drawing.ConnectorShape"
+   id="g800"
+   transform="translate(1746.2505,-52.916666)">
+       <g
+   id="id36">
+        <rect
+   class="BoundingBox"
+   x="11497"
+   y="5244"
+   width="361"
+   height="815"
+   id="rect793"
+   style="fill:none;stroke:none" />
+        <path
+   d="M 11677,4596.2227 V 5683.9752"
+   id="path795"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#657b83;stroke-width:105.99208069;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:423.96833251, 423.96833251;stroke-dashoffset:0"
+   sodipodi:nodetypes="cc" />
+        <path
+   d="m 11499,5686 159,357 8,11 10,4 12,-4 8,-9 159,-359 2,-5 v -3 l -2,-7 -5,-7 -6,-5 -7,-1 h -320 l -7,1 -8,5 -3,7 -1,7 v 3 z"
+   id="path797"
+   inkscape:connector-curvature="0"
+   style="fill:#657b83;stroke:none" />
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g752">
+   id="g819"
+   transform="translate(1746.2505,-1111.2501)">
+       <g
+   id="id37">
+        <rect
+   class="BoundingBox"
+   x="11282"
+   y="3016"
+   width="791"
+   height="785"
+   id="rect802"
+   style="fill:none;stroke:none" />
+        <path
+   d="m 11676,3016 c 223,0 394,170 394,391 0,221 -171,391 -394,391 -223,0 -394,-170 -394,-391 0,-221 171,-391 394,-391 z m -394,0 z m 790,783 z"
+   id="path804"
+   inkscape:connector-curvature="0"
+   style="fill:#268bd2;stroke:none" />
+        <text
+   class="TextShape"
+   id="text816"><tspan
+     class="TextParagraph"
+     font-size="368px"
+     font-weight="400"
+     id="tspan814"
+     style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
+       class="TextPosition"
+       x="11416"
+       y="3576"
+       id="tspan808"><tspan
+         font-size="635px"
+         font-style="italic"
+         id="tspan806"
+         style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#fdf6e3;stroke:none">a</tspan></tspan><tspan
+       class="TextPosition"
+       x="11755"
+       y="3366"
+       id="tspan812"><tspan
+         id="tspan810"
+         style="fill:#fdf6e3;stroke:none">0</tspan></tspan></tspan></text>
+
+
+
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.TextShape"
+   id="g834"
+   transform="translate(1746.2505,-1111.2501)">
+       <g
+   id="id38">
+        <rect
+   class="BoundingBox"
+   x="11959"
+   y="3017"
+   width="2301"
+   height="781"
+   id="rect821"
+   style="fill:none;stroke:none" />
+        <text
+   class="TextShape"
+   id="text831"><tspan
+     class="TextParagraph"
+     font-size="423px"
+     font-weight="400"
+     id="tspan829"
+     style="font-weight:400;font-size:423px;font-family:'STIX Two Math'"><tspan
+       class="TextPosition"
+       x="12209"
+       y="3544"
+       id="tspan827"><tspan
+         font-size="529px"
+         id="tspan823"
+         style="font-size:529px;fill:#839496;stroke:none">I</tspan><tspan
+         id="tspan825"
+         style="fill:#839496;stroke:none">NITIAL</tspan></tspan></tspan></text>
+
+
+
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g853"
+   transform="translate(1746.2505,-52.916666)">
+       <g
+   id="id39">
+        <rect
+   class="BoundingBox"
+   x="11282"
+   y="6058"
+   width="791"
+   height="785"
+   id="rect836"
+   style="fill:none;stroke:none" />
+        <path
+   d="m 11676,6058 c 223,0 394,170 394,391 0,221 -171,391 -394,391 -223,0 -394,-170 -394,-391 0,-221 171,-391 394,-391 z m -394,0 z m 790,783 z"
+   id="path838"
+   inkscape:connector-curvature="0"
+   style="fill:#d33682;stroke:none" />
+        <text
+   class="TextShape"
+   id="text850"><tspan
+     class="TextParagraph"
+     font-size="368px"
+     font-weight="400"
+     id="tspan848"
+     style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
+       class="TextPosition"
+       x="11431"
+       y="6618"
+       id="tspan842"><tspan
+         font-size="635px"
+         font-style="italic"
+         id="tspan840"
+         style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#fdf6e3;stroke:none">a</tspan></tspan><tspan
+       class="TextPosition"
+       x="11770"
+       y="6408"
+       id="tspan846"><tspan
+         id="tspan844"
+         style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
+
+
+
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.TextShape"
+   id="g868"
+   transform="translate(1746.2505,-52.916666)">
+       <g
+   id="id40">
+        <rect
+   class="BoundingBox"
+   x="11959"
+   y="6059"
+   width="1835"
+   height="781"
+   id="rect855"
+   style="fill:none;stroke:none" />
+        <text
+   class="TextShape"
+   id="text865"><tspan
+     class="TextParagraph"
+     font-size="423px"
+     font-weight="400"
+     id="tspan863"
+     style="font-weight:400;font-size:423px;font-family:'STIX Two Math'"><tspan
+       class="TextPosition"
+       x="12209"
+       y="6586"
+       id="tspan861"><tspan
+         font-size="529px"
+         id="tspan857"
+         style="font-size:529px;fill:#839496;stroke:none">G</tspan><tspan
+         id="tspan859"
+         style="fill:#839496;stroke:none">OAL</tspan></tspan></tspan></text>
+
+
+
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g883"
+   transform="translate(1746.2505,-793.75004)">
+       <g
+   id="id41">
+        <rect
+   class="BoundingBox"
+   x="11229"
+   y="4462"
+   width="897"
+   height="890"
+   id="rect870"
+   style="fill:none;stroke:none" />
+        <path
+   d="m 11676,4515 c 223,0 394,170 394,391 0,221 -171,391 -394,391 -223,0 -394,-170 -394,-391 0,-221 171,-391 394,-391 z"
+   id="path872"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
+        <text
+   class="TextShape"
+   id="text880"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-style="italic"
+     font-weight="400"
+     id="tspan878"
+     style="font-style:italic;font-weight:400;font-size:635px;font-family:'STIX Two Text'"><tspan
+       class="TextPosition"
+       x="11507"
+       y="5072"
+       id="tspan876"><tspan
+         id="tspan874"
+         style="fill:#073642;stroke:none">a</tspan></tspan></tspan></text>
+
+
+
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.TextShape"
+   id="g896"
+   transform="translate(1746.2505,-861.66671)">
+       <g
+   id="id42">
+        <rect
+   class="BoundingBox"
+   x="11959"
+   y="4516"
+   width="1601"
+   height="781"
+   id="rect885"
+   style="fill:none;stroke:none" />
+        <text
+   class="TextShape"
+   id="text893"><tspan
+     class="TextParagraph"
+     font-size="529px"
+     font-weight="400"
+     id="tspan891"
+     style="font-weight:400;font-size:529px;font-family:'STIX Two Text'"><tspan
+       class="TextPosition"
+       x="12209"
+       y="5043"
+       id="tspan889"><tspan
+         id="tspan887"
+         style="fill:#839496;stroke:none">Step</tspan></tspan></tspan></text>
+
+
+
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.TextShape"
+   id="g909"
+   transform="translate(1746.2505,-846.66671)">
+       <g
+   id="id43">
+        <rect
+   class="BoundingBox"
+   x="11959"
+   y="3700"
+   width="3042"
+   height="801"
+   id="rect898"
+   style="fill:none;stroke:none" />
+        <text
+   class="TextShape"
+   id="text906"><tspan
+     class="TextParagraph"
+     font-size="529px"
+     font-style="italic"
+     font-weight="400"
+     id="tspan904"
+     style="font-style:italic;font-weight:400;font-size:529px;font-family:'STIX Two Text'"><tspan
+       class="TextPosition"
+       x="12209"
+       y="4227"
+       id="tspan902"><tspan
+         id="tspan900"
+         style="fill:#839496;stroke:none">Causal link</tspan></tspan></tspan></text>
+
+
+
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.TextShape"
+   id="g922"
+   transform="translate(1746.2505,-88.916666)">
+       <g
+   id="id44">
+        <rect
+   class="BoundingBox"
+   x="11959"
+   y="5314"
+   width="3001"
+   height="781"
+   id="rect911"
+   style="fill:none;stroke:none" />
+        <text
+   class="TextShape"
+   id="text919"><tspan
+     class="TextParagraph"
+     font-size="529px"
+     font-style="italic"
+     font-weight="400"
+     id="tspan917"
+     style="font-style:italic;font-weight:400;font-size:529px;font-family:'STIX Two Text'"><tspan
+       class="TextPosition"
+       x="12209"
+       y="5841"
+       id="tspan915"><tspan
+         id="tspan913"
+         style="fill:#839496;stroke:none">Order link</tspan></tspan></tspan></text>
+
+
+
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.LineShape"
+   id="g929"
+   transform="translate(-317.50001,-52.916666)">
+       <g
+   id="id45">
+        <rect
+   class="BoundingBox"
+   x="10947"
+   y="1547"
+   width="107"
+   height="5107"
+   id="rect924"
+   style="fill:none;stroke:none" />
+        <path
+   d="M 11000,1600 V 6600"
+   id="path926"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#93a1a1;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
+       </g>
+      </g>
+     <g
+   id="g5101"
+   transform="translate(612.64244,-983.61516)"><g
+     id="g5091"><path
+       d="m 12567.999,7639.5562 -208.008,0.6609"
+       id="path378-5"
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#dc322f;stroke-width:106;stroke-linejoin:round" /><path
+       d="m 12253.999,7641.573 -106.004,0.356"
+       id="path380-6"
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#dc322f;stroke-width:106;stroke-linejoin:round" /></g><g
+     transform="translate(8052.5654,5611.8654)"
+     id="g472-2"
+     class="com.sun.star.drawing.TextShape"
+     style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"><g
+       id="id22-9"><rect
+         style="fill:none;stroke:none"
+         id="rect461-1"
+         height="1138"
+         width="965"
+         y="1463"
+         x="2800"
+         class="BoundingBox" /><g
+         id="text469-2"
+         transform="matrix(0.00286813,1.6433171,-1.6433171,0.00286813,5967.0686,-3681.4864)"
+         aria-label="⏚"><path
+           inkscape:connector-curvature="0"
+           id="path945-7"
+           style="fill:#ce181e;stroke:none"
+           d="m 3397.57,1732.05 h 149.86 v -49.53 h -149.86 z m -63.5,-85.725 h 276.86 v -49.53 h -276.86 z m 172.085,-135.89 v -302.26 h -64.77 v 302.26 H 3264.22 v 49.53 h 416.56 v -49.53 z" /></g></g></g></g><g
+   transform="translate(8349.2087,4511.8204)"
+   style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   class="com.sun.star.drawing.TextShape"
+   id="g485-0"><g
+     id="id23-9"><rect
+       class="BoundingBox"
+       x="3811"
+       y="1237"
+       width="990"
+       height="964"
+       id="rect474-3"
+       style="fill:none;stroke:none" /><text
+       class="TextShape"
+       id="text482-6"><tspan
+         class="TextParagraph"
+         font-size="635px"
+         font-weight="400"
+         id="tspan480-0"
+         style="font-weight:400;font-size:635px;font-family:'STIX Two Math'"><tspan
+           class="TextPosition"
+           x="4061"
+           y="1845"
+           id="tspan478-6"><tspan
+             id="tspan476-2"
+             style="fill:#ce181e;stroke:none">⤈</tspan></tspan></tspan></text>
+</g></g><g
+   transform="matrix(-1,0,0,1,18119.889,2943.1838)"
+   style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   class="com.sun.star.drawing.ConnectorShape"
+   id="g519-6"><g
+     id="id25-1"><g
+       id="g5192"
+       transform="rotate(-53.661329,1867.3352,3090.8155)"><path
+         style="fill:none;fill-rule:evenodd;stroke:#dc322f;stroke-width:106.00000763;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path502-7"
+         d="m 5306.5485,4552.1049 123,168" /><path
+         style="fill:none;fill-rule:evenodd;stroke:#dc322f;stroke-width:106.00000763;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path504-9"
+         d="m 5492.5486,4806.1049 124,168" /><path
+         style="fill:none;fill-rule:evenodd;stroke:#dc322f;stroke-width:106.00000763;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path506-2"
+         d="m 5678.5486,5060.1049 124,168" /><path
+         style="fill:none;fill-rule:evenodd;stroke:#dc322f;stroke-width:106.00000763;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path508-0"
+         d="m 5864.5486,5314.1049 63,85.0001" /><path
+         style="fill:none;fill-rule:evenodd;stroke:#dc322f;stroke-width:106.00000763;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path510-2"
+         d="m 5990.5486,5485.105 62,85" /><path
+         style="fill:none;fill-rule:evenodd;stroke:#dc322f;stroke-width:106.00000763;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path512-3"
+         d="m 6115.5486,5656.105 63,85" /><path
+         style="fill:none;fill-rule:evenodd;stroke:#dc322f;stroke-width:106.00000763;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path514-7"
+         d="m 6240.5486,5827.105 91,124" /><path
+         style="fill:#dc322f;fill-rule:evenodd;stroke:none;stroke-width:28.22200203;stroke-linejoin:round"
+         inkscape:connector-curvature="0"
+         id="path516-5"
+         d="m 6190.5486,6060.105 340.0001,194 12,4 11,-1.9999 7,-11.0001 1.0001,-12 -84,-383 -1.0002,-5 -1.9999,-2 -5,-5 -8,-4 h -8.0001 l -7,3 -258,190 -5,5 -3,8 2,8 3,7 2,2 z" /></g></g></g><g
+   transform="translate(6144.2505,-1365.7501)"
+   style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   class="com.sun.star.drawing.TextShape"
+   id="g498-9"><g
+     id="id24-2"><rect
+       class="BoundingBox"
+       x="6247"
+       y="4700"
+       width="854"
+       height="964"
+       id="rect487-2"
+       style="fill:none;stroke:none" /><text
+       class="TextShape"
+       id="text495-8"><tspan
+         class="TextParagraph"
+         font-size="635px"
+         font-weight="400"
+         id="tspan493-9"
+         style="font-weight:400;font-size:635px;font-family:'STIX Two Math'"><tspan
+           class="TextPosition"
+           x="6497"
+           y="5308"
+           id="tspan491-7"><tspan
+             id="tspan489-3"
+             style="fill:#ce181e;stroke:none">†</tspan></tspan></tspan></text>
+</g></g><g
+   class="com.sun.star.drawing.ConnectorShape"
+   id="g791"
+   transform="translate(1746.2505,-793.75004)">
+       <g
+   id="id35">
+        <rect
+   class="BoundingBox"
+   x="11497"
+   y="3745"
+   width="361"
+   height="771"
+   id="rect784"
+   style="fill:none;stroke:none" />
+        <path
+   d="M 11677,3442.0496 V 4138"
+   id="path786"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linecap:round;stroke-linejoin:round"
+   sodipodi:nodetypes="cc" />
+        <path
+   d="m 11499,4143 159,357 8,11 10,4 12,-4 8,-9 159,-359 2,-5 v -3 l -2,-7 -5,-7 -6,-5 -7,-1 h -320 l -7,1 -8,5 -3,7 -1,7 v 3 z"
+   id="path788"
+   inkscape:connector-curvature="0"
+   style="fill:#657b83;stroke:none" />
+       </g>
+      </g><g
+   class="com.sun.star.drawing.CustomShape"
+   id="g752"
+   transform="translate(1093.2505,2434.8333)">
        <g
    id="id32">
         <rect
@@ -1944,11 +2523,12 @@
          style="fill:#073642;stroke:none">pre</tspan></tspan></tspan></text>
 
 
+
        </g>
-      </g>
-      <g
+      </g><g
    class="com.sun.star.drawing.CustomShape"
-   id="g769">
+   id="g769"
+   transform="translate(1093.2505,2434.8333)">
        <g
    id="id33">
         <rect
@@ -1986,400 +2566,54 @@
          style="fill:#073642;stroke:none">eff</tspan></tspan></tspan></text>
 
 
+
        </g>
-      </g>
-      <g
+      </g><g
+   style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
    class="com.sun.star.drawing.TextShape"
-   id="g782">
-       <g
-   id="id34">
-        <rect
-   class="BoundingBox"
-   x="10600"
-   y="900"
-   width="3145"
-   height="1099"
-   id="rect771"
-   style="fill:none;stroke:none" />
-        
-
-       <text
-   style="font-size:12.00000095px;fill-rule:evenodd;stroke-width:28.22200203;stroke-linejoin:round"
-   class="TextShape"
-   id="text638"
-   x="-28.472166"
-   y="-0.89098603"><tspan
-     class="TextParagraph"
-     font-size="847px"
-     font-weight="700"
-     id="tspan636"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:847.00012207px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';stroke-width:28.22200203"><tspan
-       class="TextPosition"
-       x="10821.529"
-       y="1667.1091"
-       id="tspan634"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#93a1a1;stroke:none;stroke-width:28.22200203">Legend</tspan></tspan></text>
-</g>
-      </g>
-      <g
-   class="com.sun.star.drawing.ConnectorShape"
-   id="g791">
-       <g
-   id="id35">
-        <rect
-   class="BoundingBox"
-   x="11497"
-   y="3745"
-   width="361"
-   height="771"
-   id="rect784"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 11677,3798 v 340"
-   id="path786"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
-        <path
-   d="m 11499,4143 159,357 8,11 10,4 12,-4 8,-9 159,-359 2,-5 v -3 l -2,-7 -5,-7 -6,-5 -7,-1 h -320 l -7,1 -8,5 -3,7 -1,7 v 3 z"
-   id="path788"
-   inkscape:connector-curvature="0"
-   style="fill:#657b83;stroke:none" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.ConnectorShape"
-   id="g800">
-       <g
-   id="id36">
-        <rect
-   class="BoundingBox"
-   x="11497"
-   y="5244"
-   width="361"
-   height="815"
-   id="rect793"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 11677,5297 v 209"
-   id="path795"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
-        <path
-   d="m 11499,5686 159,357 8,11 10,4 12,-4 8,-9 159,-359 2,-5 v -3 l -2,-7 -5,-7 -6,-5 -7,-1 h -320 l -7,1 -8,5 -3,7 -1,7 v 3 z"
-   id="path797"
-   inkscape:connector-curvature="0"
-   style="fill:#657b83;stroke:none" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g819">
-       <g
-   id="id37">
-        <rect
-   class="BoundingBox"
-   x="11282"
-   y="3016"
-   width="791"
-   height="785"
-   id="rect802"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 11676,3016 c 223,0 394,170 394,391 0,221 -171,391 -394,391 -223,0 -394,-170 -394,-391 0,-221 171,-391 394,-391 z m -394,0 z m 790,783 z"
-   id="path804"
-   inkscape:connector-curvature="0"
-   style="fill:#268bd2;stroke:none" />
-        <text
-   class="TextShape"
-   id="text816"><tspan
-     class="TextParagraph"
-     font-size="368px"
-     font-weight="400"
-     id="tspan814"
-     style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="11416"
-       y="3576"
-       id="tspan808"><tspan
-         font-size="635px"
-         font-style="italic"
-         id="tspan806"
-         style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#fdf6e3;stroke:none">a</tspan></tspan><tspan
-       class="TextPosition"
-       x="11755"
-       y="3366"
-       id="tspan812"><tspan
-         id="tspan810"
-         style="fill:#fdf6e3;stroke:none">0</tspan></tspan></tspan></text>
-
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.TextShape"
-   id="g834">
-       <g
-   id="id38">
-        <rect
-   class="BoundingBox"
-   x="11959"
-   y="3017"
-   width="2301"
-   height="781"
-   id="rect821"
-   style="fill:none;stroke:none" />
-        <text
-   class="TextShape"
-   id="text831"><tspan
-     class="TextParagraph"
-     font-size="423px"
-     font-weight="400"
-     id="tspan829"
-     style="font-weight:400;font-size:423px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="12209"
-       y="3544"
-       id="tspan827"><tspan
+   id="g909-6"
+   transform="translate(-1417.7495,-1179.7501)"><g
+     id="id43-1"><rect
+       class="BoundingBox"
+       x="11959"
+       y="3700"
+       width="3042"
+       height="801"
+       id="rect898-2"
+       style="fill:none;stroke:none" /><text
+       class="TextShape"
+       id="text906-9"
+       x="102.5113"
+       y="189.09863"><tspan
+         class="TextParagraph"
          font-size="529px"
-         id="tspan823"
-         style="font-size:529px;fill:#839496;stroke:none">I</tspan><tspan
-         id="tspan825"
-         style="fill:#839496;stroke:none">NITIAL</tspan></tspan></tspan></text>
-
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g853">
-       <g
-   id="id39">
-        <rect
-   class="BoundingBox"
-   x="11282"
-   y="6058"
-   width="791"
-   height="785"
-   id="rect836"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 11676,6058 c 223,0 394,170 394,391 0,221 -171,391 -394,391 -223,0 -394,-170 -394,-391 0,-221 171,-391 394,-391 z m -394,0 z m 790,783 z"
-   id="path838"
-   inkscape:connector-curvature="0"
-   style="fill:#d33682;stroke:none" />
-        <text
-   class="TextShape"
-   id="text850"><tspan
-     class="TextParagraph"
-     font-size="368px"
-     font-weight="400"
-     id="tspan848"
-     style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="11431"
-       y="6618"
-       id="tspan842"><tspan
-         font-size="635px"
          font-style="italic"
-         id="tspan840"
-         style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#fdf6e3;stroke:none">a</tspan></tspan><tspan
-       class="TextPosition"
-       x="11770"
-       y="6408"
-       id="tspan846"><tspan
-         id="tspan844"
-         style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
-
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.TextShape"
-   id="g868">
-       <g
-   id="id40">
-        <rect
-   class="BoundingBox"
-   x="11959"
-   y="6059"
-   width="1835"
-   height="781"
-   id="rect855"
-   style="fill:none;stroke:none" />
-        <text
-   class="TextShape"
-   id="text865"><tspan
-     class="TextParagraph"
-     font-size="423px"
-     font-weight="400"
-     id="tspan863"
-     style="font-weight:400;font-size:423px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="12209"
-       y="6586"
-       id="tspan861"><tspan
+         font-weight="400"
+         id="tspan904-3"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic'"><tspan
+           class="TextPosition"
+           x="12311.511"
+           y="4416.0986"
+           id="tspan902-1"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic';fill:#839496;stroke:none">Threat</tspan></tspan></text>
+<text
+       style="font-size:12.00000095px;fill-rule:evenodd;stroke-width:28.22200203;stroke-linejoin:round"
+       class="TextShape"
+       id="text906-9-4"
+       x="127.3729"
+       y="2725.189"><tspan
+         class="TextParagraph"
          font-size="529px"
-         id="tspan857"
-         style="font-size:529px;fill:#839496;stroke:none">G</tspan><tspan
-         id="tspan859"
-         style="fill:#839496;stroke:none">OAL</tspan></tspan></tspan></text>
-
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g883">
-       <g
-   id="id41">
-        <rect
-   class="BoundingBox"
-   x="11229"
-   y="4462"
-   width="897"
-   height="890"
-   id="rect870"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 11676,4515 c 223,0 394,170 394,391 0,221 -171,391 -394,391 -223,0 -394,-170 -394,-391 0,-221 171,-391 394,-391 z"
-   id="path872"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-        <text
-   class="TextShape"
-   id="text880"><tspan
-     class="TextParagraph"
-     font-size="635px"
-     font-style="italic"
-     font-weight="400"
-     id="tspan878"
-     style="font-style:italic;font-weight:400;font-size:635px;font-family:'STIX Two Text'"><tspan
-       class="TextPosition"
-       x="11507"
-       y="5072"
-       id="tspan876"><tspan
-         id="tspan874"
-         style="fill:#073642;stroke:none">a</tspan></tspan></tspan></text>
-
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.TextShape"
-   id="g896">
-       <g
-   id="id42">
-        <rect
-   class="BoundingBox"
-   x="11959"
-   y="4516"
-   width="1601"
-   height="781"
-   id="rect885"
-   style="fill:none;stroke:none" />
-        <text
-   class="TextShape"
-   id="text893"><tspan
-     class="TextParagraph"
-     font-size="529px"
-     font-weight="400"
-     id="tspan891"
-     style="font-weight:400;font-size:529px;font-family:'STIX Two Text'"><tspan
-       class="TextPosition"
-       x="12209"
-       y="5043"
-       id="tspan889"><tspan
-         id="tspan887"
-         style="fill:#839496;stroke:none">Step</tspan></tspan></tspan></text>
-
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.TextShape"
-   id="g909">
-       <g
-   id="id43">
-        <rect
-   class="BoundingBox"
-   x="11959"
-   y="3700"
-   width="3042"
-   height="801"
-   id="rect898"
-   style="fill:none;stroke:none" />
-        <text
-   class="TextShape"
-   id="text906"><tspan
-     class="TextParagraph"
-     font-size="529px"
-     font-style="italic"
-     font-weight="400"
-     id="tspan904"
-     style="font-style:italic;font-weight:400;font-size:529px;font-family:'STIX Two Text'"><tspan
-       class="TextPosition"
-       x="12209"
-       y="4227"
-       id="tspan902"><tspan
-         id="tspan900"
-         style="fill:#839496;stroke:none">Causal link</tspan></tspan></tspan></text>
-
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.TextShape"
-   id="g922">
-       <g
-   id="id44">
-        <rect
-   class="BoundingBox"
-   x="11959"
-   y="5314"
-   width="3001"
-   height="781"
-   id="rect911"
-   style="fill:none;stroke:none" />
-        <text
-   class="TextShape"
-   id="text919"><tspan
-     class="TextParagraph"
-     font-size="529px"
-     font-style="italic"
-     font-weight="400"
-     id="tspan917"
-     style="font-style:italic;font-weight:400;font-size:529px;font-family:'STIX Two Text'"><tspan
-       class="TextPosition"
-       x="12209"
-       y="5841"
-       id="tspan915"><tspan
-         id="tspan913"
-         style="fill:#839496;stroke:none">Order link</tspan></tspan></tspan></text>
-
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.LineShape"
-   id="g929">
-       <g
-   id="id45">
-        <rect
-   class="BoundingBox"
-   x="10947"
-   y="1547"
-   width="107"
-   height="5107"
-   id="rect924"
-   style="fill:none;stroke:none" />
-        <path
-   d="M 11000,1600 V 6600"
-   id="path926"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#93a1a1;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
-       </g>
-      </g>
-     </g>
+         font-style="italic"
+         font-weight="400"
+         id="tspan904-3-7"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529.00006104px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic';stroke-width:28.22200203"><tspan
+           class="TextPosition"
+           x="12336.374"
+           y="6952.1895"
+           id="tspan902-1-8"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic';fill:#839496;stroke:none;stroke-width:28.22200203">Subgoal</tspan></tspan></text>
+</g></g></g>
     </g>
    </g>
   </g>

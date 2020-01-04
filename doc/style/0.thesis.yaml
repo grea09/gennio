@@ -82,5 +82,6 @@ header-includes:
     
     - \newcommand{\varstar}{✶}
     - \newcommand{\smwhtsquare}{▫}
+    - \newcommand{\downarrowbarred}{⤈}
     - \newcommand{\superscript}[2]{{#1}^{#2}}
     - \newcommand{\subscript}[2]{{#1}_{#2}}
