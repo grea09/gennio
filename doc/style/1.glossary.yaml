@@ -22,7 +22,7 @@ glossary:
       symbol: \gtrdot
       description: Null relation
     - label: comb
-      symbol: \bowtie
+      symbol: ⨝
       description: Functionnal composition
     - label: super
       symbol: \vartriangle
