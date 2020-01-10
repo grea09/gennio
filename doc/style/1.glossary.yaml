@@ -222,6 +222,18 @@ glossary:
     - label: threats
       symbol: \superscript{\flaws}{\dagger}
       description: Threats
+    - label: alt
+      symbol: \superscript{\flaw}{\curvearrowrightminus}
+      description: Alternative
+    - label: alts
+      symbol: \superscript{\flaws}{\curvearrowrightminus}
+      description: Alternatives
+    - label: orphan
+      symbol: \superscript{\flaw}{\rightdotarrow}
+      description: Orphan
+    - label: orphans
+      symbol: \superscript{\flaws}{\rightdotarrow}
+      description: Orphans
     - label: resolver
       symbol: \odot
       description: Resolver
