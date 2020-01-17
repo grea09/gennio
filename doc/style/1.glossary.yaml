@@ -243,6 +243,10 @@ glossary:
     - label: agenda
       symbol: \cal{A}
       description: Agenda of flaws to fix
+    - label: replace
+      symbol: \hookrightarrow
+      description: Replacement
+      
 
   acronyms:
     - AI: Artificial Intelligence
