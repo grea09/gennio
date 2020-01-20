@@ -1,0 +1,277 @@
+@font-face {
+  font-family: Aller;
+  src: local("Aller"),
+       local("Aller Regular"),
+       url('./Aller/Aller_Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Aller;
+  src: local("Aller Italic"),
+       url('./Aller/Aller_Italic.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Aller;
+  src: local("Aller Bold"),
+       url('./Aller/Aller_Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Aller;
+  src: local("Aller Bold Italic"),
+       url('./Aller/Aller_Bold_Italic.ttf');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Aller;
+  src: local("Aller Light Regular"),
+       url('./Aller/Aller_Light_Regular.ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Aller;
+  src: local("Aller Light"),
+       url('./Aller/Aller_Light.ttf');
+  font-weight: thin;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Aller;
+  src: local("Aller Light Italic"),
+       url('./Aller/Aller_Light_Italic.ttf');
+  font-weight: thin;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Aller Display;
+  src: local("Aller Display"),
+       url('./Aller/Aller_Display.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Century Gothic;
+  src: local("Century Gothic"),
+       local("Century Gothic Normal"),
+       url('./Century Gothic/Century_Gothic_Normal.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Century Gothic;
+  src: local("Century Gothic Italic"),
+       url('./Century Gothic/Century_Gothic_Italic.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Century Gothic;
+  src: local("Century Gothic Bold"),
+       url('./Century Gothic/Century_Gothic_Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Century Gothic;
+  src: local("Century Gothic Bold Italic"),
+       url('./Century Gothic/Century_Gothic_Bold_Italic.ttf');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: DIN;
+  src: local("DIN Bold"),
+       url('./DIN/DIN_Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Graphik;
+  src: local("Graphik ExtraLight"),
+       url('./Graphik/Graphik_LC_Web_Extralight_Ultra_Light.ttf');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Graphik;
+  src: local("Graphik Light"),
+       url('./Graphik/Graphik_LC_Web_Light_Light.ttf');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Graphik;
+  src: local("Graphik Thin"),
+       url('./Graphik/Graphik_LC_Web_Thin_Thin.ttf');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Graphik;
+  src: local("Graphik Regular"),
+       url('./Graphik/Graphik_LC_Web_Regular_Regular.ttf');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Graphik;
+  src: local("Graphik Medium"),
+       url('./Graphik/Graphik_LC_Web_Medium_Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Graphik;
+  src: local("Graphik Bold"),
+       url('./Graphik/Graphik_LC_Web_Bold_Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: LIRIS;
+  src: local("LIRIS"),
+       url('./LIRIS/LIRIS_Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Lyon 2;
+  src: local("Lyon 2"),
+       url('./Lyon 2/Lyon 2.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: PerihelionBB;
+  src: local("PerihelionBB Bold"),
+       url('./PerihelionBB-Bold/PerihelionBB_Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Redacted Script;
+  src: local("Redacted Script Light"),
+       url('./Redacted Script/redacted-script-light.ttf');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Redacted Script;
+  src: local("Redacted Script"),
+       local("Redacted Script Regular"),
+       url('./Redacted Script/redacted-script-regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Redacted Script;
+  src: local("Redacted Script Bold"),
+       url('./Redacted Script/redacted-script-bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Space Mono;
+  src: local("Space Mono"),
+       local("Space Mono Regular"),
+       url('./Space Mono/SpaceMono-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Space Mono;
+  src: local("Space Mono Italic"),
+       url('./Space Mono/SpaceMono-Italic.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Space Mono;
+  src: local("Space Mono Bold"),
+       url('./Space Mono/SpaceMono-Bold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Space Mono;
+  src: local("Space Mono Bold Italic"),
+       url('./Space Mono/SpaceMono-BoldItalic.ttf');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: STIX Two Math;
+  src: local("STIX Two Math"),
+       url('./STIX Two Math/STIX_Two_Math_Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: STIX Two Text;
+  src: local("STIX Two Text"),
+       local("STIX Two Text Regular")
+       url('./STIX Two Text/STIX_Two_Text_Regular.otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: STIX Two Text;
+  src: local("STIX Two Text Italic")
+       url('./STIX Two Text/STIX_Two_Text_Italic.otf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: STIX Two Text;
+  src: local("STIX Two Text Bold")
+       url('./STIX Two Text/STIX_Two_Text_Bold.otf');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: STIX Two Text;
+  src: local("STIX Two Text Bold Italic")
+       url('./STIX Two Text/STIX_Two_Text_Bold_Italic.otf');
+  font-weight: bold;
+  font-style: italic;
+}
+
