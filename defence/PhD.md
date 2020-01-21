@@ -1,8 +1,21 @@
 ---
 theme: gaia
-class:
-  - invert
 marp: true
+paginate: true
+backgroundColor: #fdf6e3
+color: #073642
+
+_paginate: false
+_class: lead
+headingDivider: 3
+style: |
+  @import 'fonts/fonts.css';
+  section {
+    font-family: 'Aller'
+  }
+  code {
+    font-family: 'Space Mono', monospace;
+  }
 ---
 
 # Endomorphic metalanguage and abstract planning for real-time intent recognition 
@@ -12,12 +25,10 @@ marp: true
 * Reviewers: Eva Onaindia, Damien Pellier
 * Jurry: Hamamache Kheddouci, Ivan Varzinczak
 
----
+## **1** Introduction
 
-## **1** What is it all about ?
-
-1. Introduction
-2. Fondation and Tools
+1. Introduction _← You are here_
+2. Foundation and Tools
 3. Knowledge Representation
 4. General Planning Formalism
 5. COLOR Framework
@@ -25,17 +36,15 @@ marp: true
 7. Toward Intent Recognition
 8. Conclusion and Perspectives
 
----
-
 ## **2** Foundation and Tools
+
+![bg right:60% fit](graphics/theory_dep.svg)
 
 Start from: What is mathematics ?
 Then Foundation
 Then Function, leads to logic
 Logic allows for sets and graphs
 Hypergraphs
-
----
 
 ## **3** Knowledge Representation
 
@@ -44,8 +53,6 @@ Grammars
 DL
 Ontologies
 
----
-
 ## **3** Knowledge Representation
 
 Problem with Ontologies
@@ -53,8 +60,6 @@ Grammar
 Inference of meta-rules
 Definition by structure
 Example
-
----
 
 ## **4** General Planning Formalism
 
@@ -67,16 +72,12 @@ Search Space
 General Algorithm
 Examples of paradigms
 
----
-
 ## **5** COLOR Framework
 
 PDDL
 Existing languages per paradigms…
 Our framework.
 VS PDDL
-
----
 
 ## **6** Online and Flexible Planning Algorithms
 
@@ -86,8 +87,6 @@ HTN + Existing
 1. LOLLIPOP
 2. HEART
 
----
-
 ## **7** Toward Intent Recognition
 
 What is intent recognition ?
@@ -95,14 +94,10 @@ Classical techniques
 Inverted Planning + Existing
 How Our work can be exploited
 
----
-
 ## **8** Conclusion and Perspectives
 
 ????????
 
----
+## Thank you for listening
 
-## Thank You
-
-Thesis Offence Comic
+![bg left:60% fit](https://imgs.xkcd.com/comics/thesis_defense.png)

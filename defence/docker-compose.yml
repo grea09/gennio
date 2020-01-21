@@ -3,7 +3,7 @@ services:
   pres:
     container_name: web_pres
     image: marpteam/marp-cli
-    command: ["-w", "-s", "."]
+    command: ["--theme", "themes/solarized.scss", "-w", "-s", "."]
     ports:
      - 80:8080
     volumes:
