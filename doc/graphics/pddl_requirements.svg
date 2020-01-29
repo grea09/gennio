@@ -15,12 +15,12 @@
    preserveAspectRatio="xMidYMid"
    xml:space="preserve"
    id="svg699"
-   sodipodi:docname="PDDL-req.svg"
+   sodipodi:docname="pddl_requirements.svg"
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata703"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -29,19 +29,19 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="3840"
+   inkscape:window-height="2034"
    id="namedview701"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="0.2973261"
-   inkscape:cx="1544.5916"
-   inkscape:cy="-80.887433"
-   inkscape:window-x="1"
-   inkscape:window-y="30"
+   inkscape:zoom="2.3786088"
+   inkscape:cx="492.39372"
+   inkscape:cy="287.85098"
+   inkscape:window-x="1920"
+   inkscape:window-y="60"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg699" />
  <defs
@@ -67,7 +67,222 @@
    height="29641"
    id="rect5" />
   </clipPath>
- </defs>
+ 
+  
+ 
+  
+ 
+   
+  
+   
+   
+  
+    
+   
+     
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+     
+       
+      
+       
+       
+      
+       
+       
+      
+       
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+       
+      
+        
+        
+       
+        
+        
+       
+        
+        
+
+       
+        
+        
+       
+        
+        
+
+       
+        
+        
+        
+        
+
+       
+        
+        
+        
+        
+
+       
+        
+        
+
+       
+        
+        
+        
+        
+
+       
+        
+        
+        
+        
+
+       
+        
+        
+       
+        
+        
+       
+        
+        
+        
+        
+
+       
+        
+        
+       
+        
+        
+       
+        
+        
+       
+        
+        
+       
+        
+        
+
+       
+        
+       
+        
+        
+        
+        
+        
+       
+        
+       
+        
+        
+        
+        
+       
+        
+       
+        
+        
+       
+        
+        
+       
+         
+        
+         
+         
+         
+        
+         
+         
+
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+         
+
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+        
+         
+         
+
+        </defs>
  <defs
    id="defs63">
   <font
@@ -580,668 +795,272 @@
  <defs
    class="TextEmbeddedBitmaps"
    id="defs201" />
- <g
-   id="g206"
-   transform="translate(-925,-9987)">
-  <g
-   id="id2"
-   class="Master_Slide">
-   <g
-   id="bg-id2"
-   class="Background" />
-   <g
-   id="bo-id2"
-   class="BackgroundObjects" />
-  </g>
- </g>
- <g
-   class="SlideGroup"
-   id="g697"
-   transform="translate(-925,-9987)">
-  <g
-   id="g695">
-   <g
-   id="container-id1">
-    <g
-   id="id1"
-   class="Slide"
-   clip-path="url(#presentation_clip_path)">
-     <g
-   class="Page"
-   id="g691">
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g213">
-       <g
-   id="id3">
-        <rect
-   class="BoundingBox"
-   x="1653"
-   y="15946"
-   width="543"
-   height="544"
+ 
+ <rect
+   style="fill:none;stroke:none"
    id="rect208"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 1923,15999 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z"
-   id="path210"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g220">
-       <g
-   id="id4">
-        <rect
-   class="BoundingBox"
-   x="1653"
-   y="13446"
+   height="544"
    width="543"
-   height="544"
+   y="5959"
+   x="728"
+   class="BoundingBox" /><path
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path210"
+   d="m 998,6012 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z" /><rect
+   style="fill:none;stroke:none"
    id="rect215"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 1923,13499 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z"
-   id="path217"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.TextShape"
-   id="g233">
-       <g
-   id="id5">
-        <rect
-   class="BoundingBox"
-   x="10144"
-   y="10087"
-   width="1557"
-   height="1014"
-   id="rect222"
-   style="fill:none;stroke:none" />
-        <text
-   class="TextShape"
-   id="text230"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="700"
-     id="tspan228"
-     style="font-weight:700;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="10394"
-       y="10733"
-       id="tspan226"><tspan
-         id="tspan224"
-         style="fill:#dc322f;stroke:none">adl</tspan></tspan></tspan></text>
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.ConnectorShape"
-   id="g240">
-       <g
-   id="id6">
-        <rect
-   class="BoundingBox"
-   x="8047"
-   y="12380"
-   width="2570"
-   height="107"
-   id="rect235"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 8100,12433 h 2463"
-   id="path237"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.TextShape"
-   id="g253">
-       <g
-   id="id7">
-        <rect
-   class="BoundingBox"
-   x="2000"
-   y="18900"
-   width="15601"
-   height="1014"
-   id="rect242"
-   style="fill:none;stroke:none" />
-        <text
-   class="TextShape"
-   id="text250"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan248"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="2250"
-       y="19546"
-       id="tspan246"><tspan
-         id="tspan244"
-         style="fill:#657b83;stroke:none">derived-predicates constraints preferences</tspan></tspan></tspan></text>
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.TextShape"
-   id="g276">
-       <g
-   id="id8">
-        <rect
-   class="BoundingBox"
-   x="1847"
-   y="13647"
-   width="6357"
-   height="1988"
-   id="rect255"
-   style="fill:none;stroke:none" />
-        <path
-   d="M 5025,15581 H 1900 v -1881 h 6250 v 1881 z"
-   id="path257"
-   inkscape:connector-curvature="0"
-   style="fill:#fdf6e3;stroke:none" />
-        <path
-   d="M 5025,15581 H 1900 v -1881 h 6250 v 1881 z"
-   id="path259"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#586e75;stroke-width:106;stroke-linejoin:round" />
-        <text
-   class="TextShape"
-   id="text273"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan265"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="2203"
-       y="14399"
-       id="tspan263"><tspan
-         id="tspan261"
-         style="fill:#657b83;stroke:none">action-costs</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan271"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="2203"
-       y="15051"
-       id="tspan269"><tspan
-         id="tspan267"
-         style="fill:#657b83;stroke:none">durative-actions</tspan></tspan></tspan></text>
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g299">
-       <g
-   id="id9">
-        <rect
-   class="BoundingBox"
-   x="1847"
-   y="10947"
-   width="6107"
-   height="2007"
-   id="rect278"
-   style="fill:none;stroke:none" />
-        <path
-   d="M 4900,12900 H 1900 v -1900 h 6000 v 1900 z"
-   id="path280"
-   inkscape:connector-curvature="0"
-   style="fill:#fdf6e3;stroke:none" />
-        <path
-   d="M 4900,12900 H 1900 v -1900 h 6000 v 1900 z"
-   id="path282"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-        <text
-   class="TextShape"
-   id="text296"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan288"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="2203"
-       y="11819"
-       id="tspan286"><tspan
-         id="tspan284"
-         style="fill:#657b83;stroke:none">object-fluents</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan294"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="2203"
-       y="12471"
-       id="tspan292"><tspan
-         id="tspan290"
-         style="fill:#657b83;stroke:none">numeric-fluents</tspan></tspan></tspan></text>
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.TextShape"
-   id="g312">
-       <g
-   id="id10">
-        <rect
-   class="BoundingBox"
-   x="1240"
-   y="9987"
-   width="3061"
-   height="1014"
-   id="rect301"
-   style="fill:none;stroke:none" />
-        <text
-   class="TextShape"
-   id="text309"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="700"
-     id="tspan307"
-     style="font-weight:700;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="1490"
-       y="10633"
-       id="tspan305"><tspan
-         id="tspan303"
-         style="fill:#859900;stroke:none">fluents</tspan></tspan></tspan></text>
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g365">
-       <g
-   id="id11">
-        <rect
-   class="BoundingBox"
-   x="10747"
-   y="10947"
-   width="9507"
-   height="7307"
-   id="rect314"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 15500,18200 h -4700 v -7200 h 9400 v 7200 z"
-   id="path316"
-   inkscape:connector-curvature="0"
-   style="fill:#fdf6e3;stroke:none" />
-        <path
-   d="m 15500,18200 h -4700 v -7200 h 9400 v 7200 z"
-   id="path318"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#dc322f;stroke-width:106;stroke-linejoin:round" />
-        <text
-   class="TextShape"
-   id="text362"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan324"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="11103"
-       y="11699"
-       id="tspan322"><tspan
-         id="tspan320"
-         style="fill:#657b83;stroke:none">strips</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan330"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="11103"
-       y="12351"
-       id="tspan328"><tspan
-         id="tspan326"
-         style="fill:#657b83;stroke:none">equality</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan336"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="11103"
-       y="13003"
-       id="tspan334"><tspan
-         id="tspan332"
-         style="fill:#657b83;stroke:none">typing</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan342"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="11103"
-       y="13655"
-       id="tspan340"><tspan
-         id="tspan338"
-         style="fill:#657b83;stroke:none">negative-preconditions</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan348"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="11103"
-       y="14307"
-       id="tspan346"><tspan
-         id="tspan344"
-         style="fill:#657b83;stroke:none">disjunctive-preconditions</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="700"
-     id="tspan354"
-     style="font-weight:700;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="11103"
-       y="14959"
-       id="tspan352"><tspan
-         id="tspan350"
-         style="fill:#268bd2;stroke:none">quantified-preconditions</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan360"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="11103"
-       y="17822"
-       id="tspan358"><tspan
-         id="tspan356"
-         style="fill:#657b83;stroke:none">conditional-effects</tspan></tspan></tspan></text>
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g388">
-       <g
-   id="id12">
-        <rect
-   class="BoundingBox"
-   x="10947"
-   y="15247"
-   width="9107"
-   height="2007"
-   id="rect367"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 15500,17200 h -4500 v -1900 h 9000 v 1900 z"
-   id="path369"
-   inkscape:connector-curvature="0"
-   style="fill:#eee8d5;stroke:none" />
-        <path
-   d="m 15500,17200 h -4500 v -1900 h 9000 v 1900 z"
-   id="path371"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#268bd2;stroke-width:106;stroke-linejoin:round" />
-        <text
-   class="TextShape"
-   id="text385"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan377"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="11303"
-       y="16119"
-       id="tspan375"><tspan
-         id="tspan373"
-         style="fill:#657b83;stroke:none">existential-preconditions</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan383"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="11303"
-       y="16771"
-       id="tspan381"><tspan
-         id="tspan379"
-         style="fill:#657b83;stroke:none">universal-preconditions</tspan></tspan></tspan></text>
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g395">
-       <g
-   id="id13">
-        <rect
-   class="BoundingBox"
-   x="10562"
-   y="12214"
-   width="437"
-   height="438"
-   id="rect390"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 10779,12214 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z m -217,0 z m 436,436 z"
-   id="path392"
-   inkscape:connector-curvature="0"
-   style="fill:#657b83;stroke:none" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g402">
-       <g
-   id="id14">
-        <rect
-   class="BoundingBox"
-   x="1706"
-   y="12214"
-   width="437"
-   height="438"
-   id="rect397"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 1923,12214 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z m -217,0 z m 436,436 z"
-   id="path399"
-   inkscape:connector-curvature="0"
-   style="fill:#657b83;stroke:none" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g431">
-       <g
-   id="id15">
-        <rect
-   class="BoundingBox"
-   x="1847"
-   y="16147"
-   width="8407"
-   height="2707"
-   id="rect404"
-   style="fill:none;stroke:none" />
-        <path
-   d="M 6050,18800 H 1900 v -2600 h 8300 v 2600 z"
-   id="path406"
-   inkscape:connector-curvature="0"
-   style="fill:#fdf6e3;stroke:none" />
-        <path
-   d="M 6050,18800 H 1900 v -2600 h 8300 v 2600 z"
-   id="path408"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
-        <text
-   class="TextShape"
-   id="text428"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan414"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="2203"
-       y="17187"
-       id="tspan412"><tspan
-         id="tspan410"
-         style="fill:#657b83;stroke:none">duration-inequalities</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan420"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="2203"
-       y="17839"
-       id="tspan418"><tspan
-         id="tspan416"
-         style="fill:#657b83;stroke:none">continious-effects</tspan></tspan></tspan><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan426"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
-       class="TextPosition"
-       x="2203"
-       y="18491"
-       id="tspan424"><tspan
-         id="tspan422"
-         style="fill:#657b83;stroke:none">timed-initial-literals</tspan></tspan></tspan></text>
-
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g438">
-       <g
-   id="id16">
-        <rect
-   class="BoundingBox"
-   x="7611"
-   y="12161"
-   width="544"
    height="544"
-   id="rect433"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 7881,12214 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z"
-   id="path435"
+   width="543"
+   y="3459"
+   x="728"
+   class="BoundingBox" /><path
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round"
    inkscape:connector-curvature="0"
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g445">
-       <g
-   id="id17">
-        <rect
-   class="BoundingBox"
-   x="1706"
-   y="14885"
-   width="437"
-   height="437"
-   id="rect440"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 1923,14885 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z m -217,0 z m 436,436 z"
-   id="path442"
-   inkscape:connector-curvature="0"
-   style="fill:#657b83;stroke:none" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.ConnectorShape"
-   id="g452">
-       <g
-   id="id18">
-        <rect
-   class="BoundingBox"
-   x="1100"
-   y="12380"
-   width="661"
-   height="1392"
-   id="rect447"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 1707,13718 h -554 v -1285 h 554"
-   id="path449"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.ConnectorShape"
-   id="g459">
-       <g
-   id="id19">
-        <rect
-   class="BoundingBox"
-   x="1100"
-   y="15051"
-   width="661"
-   height="1221"
-   id="rect454"
-   style="fill:none;stroke:none" />
-        <path
-   d="m 1707,16218 h -554 v -1114 h 554"
-   id="path456"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round" />
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.TextShape"
-   id="g472"
-   inkscape:transform-center-x="-311.45657"
-   inkscape:transform-center-y="44.493795">
-       <g
-   id="id20">
-        <rect
-   class="BoundingBox"
-   x="925"
-   y="19987"
-   width="3576"
-   height="1239"
-   id="rect461"
-   style="fill:none;stroke:none" />
-        <text
+   id="path217"
+   d="m 998,3512 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z" /><rect
+   style="fill:none;stroke:none"
+   id="rect222"
+   height="1014"
+   width="1557"
+   y="100"
+   x="9219"
+   class="BoundingBox" /><text
+   id="text230"
    class="TextShape"
-   id="text469"><tspan
-     class="TextParagraph"
-     font-size="988px"
+   x="-925"
+   y="-9987"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"
+     id="tspan228"
      font-weight="700"
-     id="tspan467"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:988px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold'"><tspan
+     font-size="564px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f;stroke:none"
+       id="tspan226"
+       y="746"
+       x="9469"
+       class="TextPosition">adl</tspan></tspan></text>
+<rect
+   style="fill:none;stroke:none"
+   id="rect235"
+   height="107"
+   width="2570"
+   y="2393"
+   x="7122"
+   class="BoundingBox" /><path
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path237"
+   d="M 7175,2446 H 9638" /><rect
+   style="fill:none;stroke:none"
+   id="rect242"
+   height="1014"
+   width="15601"
+   y="8913"
+   x="1075"
+   class="BoundingBox" /><text
+   id="text250"
+   class="TextShape"
+   x="-925"
+   y="-9987"><tspan
+     style="font-weight:normal;font-size:564px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';font-style:normal;font-stretch:normal;font-variant:normal"
+     id="tspan248"
+     font-weight="400"
+     font-size="564px"
+     class="TextParagraph"><tspan
+       id="tspan246"
+       y="9559"
+       x="1325"
        class="TextPosition"
-       x="1175"
-       y="20866"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke:none">derived-predicates constraints preferences</tspan></tspan></text>
+<rect
+   style="fill:none;stroke:none"
+   id="rect255"
+   height="1988"
+   width="6357"
+   y="3660"
+   x="922"
+   class="BoundingBox" /><path
+   style="fill:#fdf6e3;stroke:none"
+   inkscape:connector-curvature="0"
+   id="path257"
+   d="M 4100,5594 H 975 V 3713 h 6250 v 1881 z" /><path
+   style="fill:none;stroke:#586e75;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path259"
+   d="M 4100,5594 H 975 V 3713 h 6250 v 1881 z" /><rect
+   style="fill:none;stroke:none"
+   id="rect278"
+   height="2007"
+   width="6107"
+   y="960"
+   x="922"
+   class="BoundingBox" /><path
+   style="fill:#fdf6e3;stroke:none"
+   inkscape:connector-curvature="0"
+   id="path280"
+   d="M 3975,2913 H 975 V 1013 h 6000 v 1900 z" /><path
+   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path282"
+   d="M 3975,2913 H 975 V 1013 h 6000 v 1900 z" /><rect
+   style="fill:none;stroke:none"
+   id="rect301"
+   height="1014"
+   width="3061"
+   y="0"
+   x="315"
+   class="BoundingBox" /><text
+   id="text309"
+   class="TextShape"
+   x="-925"
+   y="-9987"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"
+     id="tspan307"
+     font-weight="700"
+     font-size="564px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#859900;stroke:none"
+       id="tspan305"
+       y="646"
+       x="565"
+       class="TextPosition">fluents</tspan></tspan></text>
+<rect
+   style="fill:none;stroke:none"
+   id="rect314"
+   height="7307"
+   width="9507"
+   y="960"
+   x="9822"
+   class="BoundingBox" /><path
+   style="fill:#fdf6e3;stroke:none"
+   inkscape:connector-curvature="0"
+   id="path316"
+   d="M 14575,8213 H 9875 V 1013 h 9400 v 7200 z" /><path
+   style="fill:none;stroke:#dc322f;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path318"
+   d="M 14575,8213 H 9875 V 1013 h 9400 v 7200 z" /><rect
+   style="fill:none;stroke:none"
+   id="rect367"
+   height="2007"
+   width="9107"
+   y="5260"
+   x="10022"
+   class="BoundingBox" /><path
+   style="fill:#eee8d5;stroke:none;stroke-width:26.43027115"
+   inkscape:connector-curvature="0"
+   id="path369"
+   d="M 14575,7213 H 10075 V 5546.5924 h 9000 V 7213 Z" /><path
+   style="fill:none;stroke:#268bd2;stroke-width:99.92131805;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path371"
+   d="M 14575,7213 H 10075 V 5524.6668 h 9000 V 7213 Z" /><rect
+   style="fill:none;stroke:none"
+   id="rect390"
+   height="438"
+   width="437"
+   y="2227"
+   x="9637"
+   class="BoundingBox" /><path
+   style="fill:#657b83;stroke:none"
+   inkscape:connector-curvature="0"
+   id="path392"
+   d="m 9854,2227 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z m -217,0 z m 436,436 z" /><rect
+   style="fill:none;stroke:none"
+   id="rect397"
+   height="438"
+   width="437"
+   y="2227"
+   x="781"
+   class="BoundingBox" /><path
+   style="fill:#657b83;stroke:none"
+   inkscape:connector-curvature="0"
+   id="path399"
+   d="m 998,2227 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z m -217,0 z m 436,436 z" /><rect
+   style="fill:none;stroke:none"
+   id="rect404"
+   height="2707"
+   width="8407"
+   y="6160"
+   x="922"
+   class="BoundingBox" /><path
+   style="fill:#fdf6e3;stroke:none"
+   inkscape:connector-curvature="0"
+   id="path406"
+   d="M 5125,8813 H 975 V 6213 h 8300 v 2600 z" /><path
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path408"
+   d="M 5125,8813 H 975 V 6213 h 8300 v 2600 z" /><rect
+   style="fill:none;stroke:none"
+   id="rect433"
+   height="544"
+   width="544"
+   y="2174"
+   x="6686"
+   class="BoundingBox" /><path
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path435"
+   d="m 6956,2227 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z" /><rect
+   style="fill:none;stroke:none"
+   id="rect440"
+   height="437"
+   width="437"
+   y="4898"
+   x="781"
+   class="BoundingBox" /><path
+   style="fill:#657b83;stroke:none"
+   inkscape:connector-curvature="0"
+   id="path442"
+   d="m 998,4898 c 123,0 218,94 218,217 0,123 -95,218 -218,218 -123,0 -217,-95 -217,-218 0,-123 94,-217 217,-217 z m -217,0 z m 436,436 z" /><rect
+   style="fill:none;stroke:none"
+   id="rect447"
+   height="1392"
+   width="661"
+   y="2393"
+   x="175"
+   class="BoundingBox" /><path
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path449"
+   d="M 782,3731 H 228 V 2446 h 554" /><rect
+   style="fill:none;stroke:none"
+   id="rect454"
+   height="1221"
+   width="661"
+   y="5064"
+   x="175"
+   class="BoundingBox" /><path
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
+   id="path456"
+   d="M 782,6231 H 228 V 5117 h 554" /><rect
+   style="fill:none;stroke:none"
+   id="rect461"
+   height="1239"
+   width="3576"
+   y="10000"
+   x="0"
+   class="BoundingBox" /><text
+   id="text469"
+   class="TextShape"
+   x="-925"
+   y="-9987"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:988px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold'"
+     id="tspan467"
+     font-weight="700"
+     font-size="988px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#073642;stroke:none"
        id="tspan465"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#073642;stroke:none">Legend</tspan></tspan></text>
-
-       </g>
-      </g>
-      <g
-   class="Group"
-   id="g540">
-       <g
-   class="Group"
-   id="g521">
-        <g
-   class="com.sun.star.drawing.ConnectorShape"
-   id="g479">
-         <g
-   id="id21">
+       y="10879"
+       x="250"
+       class="TextPosition">Legend</tspan></tspan></text>
+<g
+   id="id21"
+   transform="translate(-925,-9987)">
           <rect
    class="BoundingBox"
    x="6082"
@@ -1255,13 +1074,9 @@
    id="path476"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round" />
-         </g>
-        </g>
-        <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g486">
-         <g
-   id="id22">
+         </g><g
+   id="id22"
+   transform="translate(-925,-9987)">
           <rect
    class="BoundingBox"
    x="7197"
@@ -1275,13 +1090,9 @@
    id="path483"
    inkscape:connector-curvature="0"
    style="fill:#657b83;stroke:none" />
-         </g>
-        </g>
-        <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g493">
-         <g
-   id="id23">
+         </g><g
+   id="id23"
+   transform="translate(-925,-9987)">
           <rect
    class="BoundingBox"
    x="5646"
@@ -1295,13 +1106,9 @@
    id="path490"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round" />
-         </g>
-        </g>
-        <g
-   class="com.sun.star.drawing.TextShape"
-   id="g506">
-         <g
-   id="id24">
+         </g><g
+   id="id24"
+   transform="translate(-925,-9987)">
           <rect
    class="BoundingBox"
    x="4895"
@@ -1317,21 +1124,17 @@
      font-size="564px"
      font-weight="400"
      id="tspan501"
-     style="font-weight:400;font-size:564px;font-family:Hack, monospace"><tspan
+     style="font-weight:normal;font-size:564px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="5145"
        y="21733"
-       id="tspan499"><tspan
-         id="tspan497"
-         style="fill:#657b83;stroke:none">x</tspan></tspan></tspan></text>
+       id="tspan499"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke:none">x</tspan></tspan></text>
 
-         </g>
-        </g>
-        <g
-   class="com.sun.star.drawing.TextShape"
-   id="g519">
-         <g
-   id="id25">
+
+         </g><g
+   id="id25"
+   transform="translate(-925,-9987)">
           <rect
    class="BoundingBox"
    x="7496"
@@ -1347,33 +1150,26 @@
      font-size="635px"
      font-weight="400"
      id="tspan514"
-     style="font-weight:400;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-weight:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="7746"
        y="21801"
-       id="tspan512"><tspan
-         id="tspan510"
-         style="fill:#657b83;stroke:none">y</tspan></tspan></tspan></text>
+       id="tspan512"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke:none">y</tspan></tspan></text>
 
-         </g>
-        </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.TextShape"
-   id="g538">
-        <g
-   id="id26">
-         <rect
+
+         </g><rect
    class="BoundingBox"
-   x="4895"
-   y="19987"
+   x="3970"
+   y="10000"
    width="3806"
    height="925"
    id="rect523"
-   style="fill:none;stroke:none" />
-         <text
+   style="fill:none;stroke:none" /><text
    class="TextShape"
-   id="text535"><tspan
+   id="text535"
+   x="-925"
+   y="-9987"><tspan
      class="TextParagraph"
      font-size="635px"
      font-style="italic"
@@ -1381,34 +1177,22 @@
      id="tspan533"
      style="font-style:italic;font-weight:400;font-size:635px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="5145"
-       y="20633"
+       x="4220"
+       y="10646"
        id="tspan531"><tspan
          font-size="564px"
          font-style="normal"
          id="tspan525"
-         style="font-style:normal;font-size:564px;font-family:Hack, monospace;fill:#657b83;stroke:none">x</tspan><tspan
+         style="font-style:normal;font-size:564px;font-family:'Space Mono';fill:#657b83;stroke:none;-inkscape-font-specification:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal">x</tspan><tspan
          id="tspan527"
          style="fill:#657b83;stroke:none"> requires </tspan><tspan
          font-size="564px"
          font-style="normal"
          id="tspan529"
-         style="font-style:normal;font-size:564px;font-family:Hack, monospace;fill:#657b83;stroke:none">y</tspan></tspan></tspan></text>
-
-        </g>
-       </g>
-      </g>
-      <g
-   class="Group"
-   id="g603">
-       <g
-   class="Group"
-   id="g578">
-        <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g547">
-         <g
-   id="id27">
+         style="font-style:normal;font-size:564px;font-family:'Space Mono';fill:#657b83;stroke:none;-inkscape-font-specification:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal">y</tspan></tspan></tspan></text>
+<g
+   id="id27"
+   transform="translate(-925,-9987)">
           <rect
    class="BoundingBox"
    x="9367"
@@ -1422,13 +1206,9 @@
    id="path544"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:round" />
-         </g>
-        </g>
-        <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g562">
-         <g
-   id="id28">
+         </g><g
+   id="id28"
+   transform="translate(-925,-9987)">
           <rect
    class="BoundingBox"
    x="9656"
@@ -1453,17 +1233,17 @@
        class="TextPosition"
        x="9781"
        y="21832"
-       id="tspan555"><tspan
-         id="tspan553"
-         style="fill:#657b83;stroke:none">x   y</tspan></tspan></tspan></text>
+       id="tspan555"
+       style="fill:#657b83;stroke:none"><tspan
+   style="-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan3254">x</tspan>   <tspan
+   style="-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan3256">y</tspan></tspan></tspan></text>
 
-         </g>
-        </g>
-        <g
-   class="com.sun.star.drawing.LineShape"
-   id="g569">
-         <g
-   id="id29">
+
+         </g><g
+   id="id29"
+   transform="translate(-925,-9987)">
           <rect
    class="BoundingBox"
    x="9603"
@@ -1477,13 +1257,9 @@
    id="path566"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#073642;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
-         </g>
-        </g>
-        <g
-   class="com.sun.star.drawing.LineShape"
-   id="g576">
-         <g
-   id="id30">
+         </g><g
+   id="id30"
+   transform="translate(-925,-9987)">
           <rect
    class="BoundingBox"
    x="9603"
@@ -1497,25 +1273,18 @@
    id="path573"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#073642;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
-         </g>
-        </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.TextShape"
-   id="g601">
-        <g
-   id="id31">
-         <rect
+         </g><rect
    class="BoundingBox"
-   x="9421"
-   y="19987"
+   x="8496"
+   y="10000"
    width="5180"
    height="1014"
    id="rect580"
-   style="fill:none;stroke:none" />
-         <text
+   style="fill:none;stroke:none" /><text
    class="TextShape"
-   id="text598"><tspan
+   id="text598"
+   x="-925"
+   y="-9987"><tspan
      class="TextParagraph"
      font-size="635px"
      font-style="italic"
@@ -1523,13 +1292,13 @@
      id="tspan596"
      style="font-style:italic;font-weight:400;font-size:635px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="9671"
-       y="20633"
+       x="8746"
+       y="10646"
        id="tspan594"><tspan
          font-size="564px"
          font-style="normal"
          id="tspan582"
-         style="font-style:normal;font-size:564px;font-family:Hack, monospace;fill:#657b83;stroke:none">x</tspan><tspan
+         style="font-style:normal;font-size:564px;font-family:'Space Mono';fill:#657b83;stroke:none;-inkscape-font-specification:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal">x</tspan><tspan
          font-size="564px"
          id="tspan584"
          style="font-size:564px;fill:#657b83;stroke:none"> </tspan><tspan
@@ -1541,25 +1310,13 @@
          font-size="564px"
          font-style="normal"
          id="tspan590"
-         style="font-style:normal;font-size:564px;font-family:Hack, monospace;fill:#657b83;stroke:none">y</tspan><tspan
+         style="font-style:normal;font-size:564px;font-family:'Space Mono';fill:#657b83;stroke:none;-inkscape-font-specification:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal">y</tspan><tspan
          id="tspan592"
          style="fill:#657b83;stroke:none"> requires</tspan></tspan></tspan></text>
-
-        </g>
-       </g>
-      </g>
-      <g
-   class="Group"
-   id="g682">
-       <g
-   class="Group"
-   id="g651">
-        <g
-   class="Group"
-   id="g636">
-         <g
+<g
    class="com.sun.star.drawing.CustomShape"
-   id="g620">
+   id="g620"
+   transform="translate(-925,-9987)">
           <g
    id="id32">
            <rect
@@ -1586,17 +1343,19 @@
        class="TextPosition"
        x="16364"
        y="21832"
-       id="tspan613"><tspan
-         id="tspan609"
-         style="fill:#657b83;stroke:none">     </tspan><tspan
-         id="tspan611"
-         style="fill:#657b83;stroke:none">x   y</tspan></tspan></tspan></text>
+       id="tspan613"
+       style="fill:#657b83;stroke:none">      <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono'"
+   id="tspan3260">x</tspan>  <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono'"
+   id="tspan3262">y</tspan></tspan></tspan></text>
+
 
           </g>
-         </g>
-         <g
+         </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g627">
+   id="g627"
+   transform="translate(-925,-9987)">
           <g
    id="id33">
            <rect
@@ -1613,10 +1372,10 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#073642;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
           </g>
-         </g>
-         <g
+         </g><g
    class="com.sun.star.drawing.LineShape"
-   id="g634">
+   id="g634"
+   transform="translate(-925,-9987)">
           <g
    id="id34">
            <rect
@@ -1633,13 +1392,9 @@
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#073642;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
           </g>
-         </g>
-        </g>
-        <g
-   class="com.sun.star.drawing.TextShape"
-   id="g649">
-         <g
-   id="id35">
+         </g><g
+   id="id35"
+   transform="translate(-925,-9987)">
           <rect
    class="BoundingBox"
    x="15244"
@@ -1655,33 +1410,26 @@
      font-size="564px"
      font-weight="700"
      id="tspan644"
-     style="font-weight:700;font-size:564px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:564px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="15494"
        y="21733"
-       id="tspan642"><tspan
-         id="tspan640"
-         style="fill:#073642;stroke:none">z</tspan></tspan></tspan></text>
+       id="tspan642"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">z</tspan></tspan></text>
 
-         </g>
-        </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.TextShape"
-   id="g680">
-        <g
-   id="id36">
-         <rect
+
+         </g><rect
    class="BoundingBox"
-   x="15244"
-   y="19987"
+   x="14319"
+   y="10000"
    width="4757"
    height="925"
    id="rect653"
-   style="fill:none;stroke:none" />
-         <text
+   style="fill:none;stroke:none" /><text
    class="TextShape"
-   id="text677"><tspan
+   id="text677"
+   x="-925"
+   y="-9987"><tspan
      class="TextParagraph"
      font-size="635px"
      font-style="italic"
@@ -1689,14 +1437,14 @@
      id="tspan675"
      style="font-style:italic;font-weight:400;font-size:635px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="15494"
-       y="20633"
+       x="14569"
+       y="10646"
        id="tspan673"><tspan
          font-size="564px"
          font-style="normal"
          font-weight="700"
          id="tspan655"
-         style="font-style:normal;font-weight:700;font-size:564px;font-family:Hack, monospace;fill:#073642;stroke:none">z</tspan><tspan
+         style="font-style:normal;font-weight:bold;font-size:564px;font-family:'Space Mono';fill:#073642;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-stretch:normal;font-variant:normal">z</tspan><tspan
          font-size="564px"
          font-weight="700"
          id="tspan657"
@@ -1709,7 +1457,7 @@
          font-size="564px"
          font-style="normal"
          id="tspan663"
-         style="font-style:normal;font-size:564px;font-family:Hack, monospace;fill:#657b83;stroke:none">x</tspan><tspan
+         style="font-style:normal;font-size:564px;font-family:'Space Mono';fill:#657b83;stroke:none;-inkscape-font-specification:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal">x</tspan><tspan
          font-size="564px"
          id="tspan665"
          style="font-size:564px;fill:#657b83;stroke:none"> </tspan><tspan
@@ -1721,34 +1469,136 @@
          font-size="564px"
          font-style="normal"
          id="tspan671"
-         style="font-style:normal;font-size:564px;font-family:Hack, monospace;fill:#657b83;stroke:none">y</tspan></tspan></tspan></text>
-
-        </g>
-       </g>
-      </g>
-      <g
-   class="com.sun.star.drawing.LineShape"
-   id="g689">
-       <g
-   id="id37">
-        <rect
-   class="BoundingBox"
-   x="4047"
-   y="19947"
-   width="16607"
-   height="107"
+         style="font-style:normal;font-size:564px;font-family:'Space Mono';fill:#657b83;stroke:none;-inkscape-font-specification:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal">y</tspan></tspan></tspan></text>
+<rect
+   style="fill:none;stroke:none"
    id="rect684"
-   style="fill:none;stroke:none" />
-        <path
-   d="M 4100,20000 H 20600"
-   id="path686"
+   height="107"
+   width="16607"
+   y="9960"
+   x="3122"
+   class="BoundingBox" /><path
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
    inkscape:connector-curvature="0"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
-       </g>
-      </g>
-     </g>
-    </g>
-   </g>
-  </g>
- </g>
+   id="path686"
+   d="M 3175,10013 H 19675" />
+<text
+   id="text1311"
+   y="1708.4567"
+   x="1335.8442"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44445801px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;stroke-width:746.70709229"
+   xml:space="preserve"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70709229"
+     y="1708.4567"
+     x="1335.8442"
+     id="tspan1309"
+     sodipodi:role="line">object-fluents</tspan><tspan
+     id="tspan1313"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70709229"
+     y="2465.7041"
+     x="1335.8442"
+     sodipodi:role="line">numeric-fluents</tspan></text>
+<g
+   style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1267"
+   transform="translate(-1113.6252,5848.398)"><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44445801px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;stroke:none;stroke-width:746.70709229"
+     x="2514.9297"
+     y="-1439.4794"
+     id="text1311-1"><tspan
+       sodipodi:role="line"
+       x="2514.9297"
+       y="-1439.4794"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70709229"
+       id="tspan1313-8">action-costs</tspan><tspan
+       sodipodi:role="line"
+       x="2514.9297"
+       y="-682.23181"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70709229"
+       id="tspan3123">durative-actions</tspan></text>
+</g><text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44451904px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:746.70715332;stroke-linejoin:round"
+   x="1359.3987"
+   y="6844.9541"
+   id="text1311-1-2"><tspan
+     sodipodi:role="line"
+     x="1359.3987"
+     y="6844.9541"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70715332"
+     id="tspan3123-6">duration-inequalities</tspan><tspan
+     sodipodi:role="line"
+     x="1359.3987"
+     y="7602.2017"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70715332"
+     id="tspan3148">continious-effects</tspan><tspan
+     sodipodi:role="line"
+     x="1359.3987"
+     y="8359.4492"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70715332"
+     id="tspan3150">timed-initial-literals</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44451904px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:746.70715332;stroke-linejoin:round"
+   x="10235.911"
+   y="1519.3622"
+   id="text1311-1-3"><tspan
+     sodipodi:role="line"
+     x="10235.911"
+     y="1519.3622"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70715332"
+     id="tspan3123-2">strips</tspan><tspan
+     sodipodi:role="line"
+     x="10235.911"
+     y="2276.6096"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70715332"
+     id="tspan3164">equality</tspan><tspan
+     sodipodi:role="line"
+     x="10235.911"
+     y="3033.8574"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70715332"
+     id="tspan3166">typing</tspan><tspan
+     sodipodi:role="line"
+     x="10235.911"
+     y="3791.105"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70715332"
+     id="tspan3168">negative-preconditions</tspan><tspan
+     sodipodi:role="line"
+     x="10235.911"
+     y="4548.353"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70715332"
+     id="tspan3170">disjunctive-preconditions</tspan><tspan
+     sodipodi:role="line"
+     x="10235.911"
+     y="5305.6006"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#268bd2;stroke-width:746.70715332"
+     id="tspan3172">quantified-preconditions</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44458008px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:746.70721436;stroke-linejoin:round"
+   x="10276.369"
+   y="6133.9897"
+   id="text1311-1-3-3"><tspan
+     sodipodi:role="line"
+     x="10276.369"
+     y="6133.9897"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70721436"
+     id="tspan3172-4">existential-preconditions</tspan><tspan
+     sodipodi:role="line"
+     x="10276.369"
+     y="6891.2373"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70721436"
+     id="tspan3227">universal-preconditions</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44464111px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#657b83;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:746.70727539;stroke-linejoin:round"
+   x="10227.444"
+   y="7890.8208"
+   id="text1311-1-3-3-2"><tspan
+     sodipodi:role="line"
+     x="10227.444"
+     y="7890.8208"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#657b83;stroke-width:746.70727539"
+     id="tspan3227-0">conditional-effects</tspan></text>
 </svg>

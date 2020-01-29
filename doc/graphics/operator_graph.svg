@@ -15,12 +15,12 @@
    preserveAspectRatio="xMidYMid"
    xml:space="preserve"
    id="svg909"
-   sodipodi:docname="operator graph.svg"
+   sodipodi:docname="operator_graph.svg"
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata913"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -29,21 +29,21 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="3840"
+   inkscape:window-height="2034"
    id="namedview911"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="1.2619981"
-   inkscape:cx="507.09243"
-   inkscape:cy="161.62388"
-   inkscape:window-x="1"
-   inkscape:window-y="30"
+   inkscape:zoom="2.5239962"
+   inkscape:cx="575.0625"
+   inkscape:cy="163.34444"
+   inkscape:window-x="1920"
+   inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg909" />
+   inkscape:current-layer="id24" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -199,26 +199,29 @@
    d="m 10150,6100 c 340,0 600,256 600,590 0,334 -260,590 -600,590 -340,0 -600,-256 -600,-590 0,-334 260,-590 600,-590 z" />
         <text
    id="text838"
-   class="TextShape"><tspan
+   class="TextShape"
+   y="-52.916668"
+   x="-52.916668"><tspan
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"
      id="tspan836"
      font-weight="400"
      font-size="368px"
      class="TextParagraph"><tspan
        id="tspan830"
-       y="6783"
-       x="9794"
+       y="6730.0835"
+       x="9741.083"
        class="TextPosition"><tspan
          style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#073642;stroke:none"
          id="tspan828"
          font-style="italic"
          font-size="635px">a</tspan></tspan><tspan
        id="tspan834"
-       y="6993"
-       x="10133"
+       y="6940.0835"
+       x="10080.083"
        class="TextPosition"><tspan
          style="fill:#073642;stroke:none"
          id="tspan832">go</tspan></tspan></tspan></text>
+
 
        </g>
       </g><g
@@ -330,85 +333,48 @@
    inkscape:connector-curvature="0"
    id="path403"
    d="M 5200,8283 H 2500 V 6799 h 5400 v 1484 z" />
-        <text
-   id="text447"
-   class="TextShape"><tspan
-     style="font-style:italic;font-weight:400;font-size:353px;font-family:Hack, monospace"
-     id="tspan417"
-     font-weight="400"
-     font-style="italic"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan415"
-       y="7250"
-       x="2750"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan405">corridor</tspan><tspan
-         style="font-style:normal;fill:#000000;stroke:none"
-         id="tspan407"
-         font-style="normal"> </tspan><tspan
-         style="font-style:normal;fill:#859900;stroke:none"
-         id="tspan409"
-         font-style="normal">locked</tspan><tspan
-         style="font-style:normal;fill:#000000;stroke:none"
-         id="tspan411"
-         font-style="normal"> </tspan><tspan
-         style="font-weight:700;fill:#d33682;stroke:none"
-         id="tspan413"
-         font-weight="700">false</tspan></tspan></tspan><tspan
-     style="font-style:italic;font-weight:400;font-size:353px;font-family:Hack, monospace"
-     id="tspan431"
-     font-weight="400"
-     font-style="italic"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan429"
-       y="7661"
-       x="2750"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan419">livingroom</tspan><tspan
-         style="font-style:normal;font-weight:700;fill:#d33682;stroke:none"
-         id="tspan421"
-         font-weight="700"
-         font-style="normal"> </tspan><tspan
-         style="font-style:normal;fill:#859900;stroke:none"
-         id="tspan423"
-         font-style="normal">locked</tspan><tspan
-         style="font-style:normal;font-weight:700;fill:#d33682;stroke:none"
-         id="tspan425"
-         font-weight="700"
-         font-style="normal"> </tspan><tspan
-         style="font-weight:700;fill:#d33682;stroke:none"
-         id="tspan427"
-         font-weight="700">false</tspan></tspan></tspan><tspan
-     style="font-style:italic;font-weight:400;font-size:353px;font-family:Hack, monospace"
-     id="tspan445"
-     font-weight="400"
-     font-style="italic"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan443"
-       y="8072"
-       x="2750"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan433">robot</tspan><tspan
-         style="font-style:normal;fill:#d33682;stroke:none"
-         id="tspan435"
-         font-style="normal"> </tspan><tspan
-         style="font-style:normal;fill:#859900;stroke:none"
-         id="tspan437"
-         font-style="normal">room</tspan><tspan
-         style="font-style:normal;font-weight:700;fill:#d33682;stroke:none"
-         id="tspan439"
-         font-weight="700"
-         font-style="normal"> </tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan441">corridor</tspan></tspan></tspan></text>
+        
 
-       </g>
+       <text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:352.777771px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:746.70709229"
+   x="2704.6536"
+   y="7193.7974"
+   id="text1362"><tspan
+     sodipodi:role="line"
+     id="tspan1360"
+     x="2704.6536"
+     y="7193.7974"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#586e75;stroke-width:746.70709229"><tspan
+   style="font-style:italic"
+   id="tspan1378">corridor</tspan> <tspan
+   style="fill:#859900"
+   id="tspan1368">locked</tspan> <tspan
+   style="font-style:italic;font-weight:bold;fill:#d33682"
+   id="tspan1380">false</tspan></tspan><tspan
+     sodipodi:role="line"
+     x="2704.6536"
+     y="7667.0767"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#586e75;stroke-width:746.70709229"
+     id="tspan1364"><tspan
+   style="font-style:italic"
+   id="tspan1376">livingroom</tspan> <tspan
+   style="fill:#859900"
+   id="tspan1370">looked</tspan> <tspan
+   style="font-style:italic;font-weight:bold;fill:#d33682"
+   id="tspan1382">false</tspan></tspan><tspan
+     sodipodi:role="line"
+     x="2704.6536"
+     y="8140.3569"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#586e75;stroke-width:746.70709229"
+     id="tspan1366"><tspan
+   style="font-style:italic"
+   id="tspan1374">robot</tspan> <tspan
+   style="fill:#859900"
+   id="tspan1372">room</tspan> <tspan
+   style="font-style:italic"
+   id="tspan1384">corridor</tspan></tspan></text>
+</g>
       </g><g
    id="g473"
    class="com.sun.star.drawing.TextShape"
@@ -431,7 +397,7 @@
         <text
    id="text470"
    class="TextShape"><tspan
-     style="font-weight:400;font-size:370px;font-family:Hack, monospace"
+     style="font-weight:normal;font-size:370px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan468"
      font-weight="400"
      font-size="370px"
@@ -439,17 +405,19 @@
        id="tspan466"
        y="7968"
        x="11650"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
+       class="TextPosition"
+       style="-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan456">m</tspan><tspan
-         style="fill:#000000;stroke:none"
+         style="fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan458"> </tspan><tspan
-         style="fill:#859900;stroke:none"
+         style="fill:#859900;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan460">room</tspan><tspan
-         style="fill:#000000;stroke:none"
+         style="fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan462"> </tspan><tspan
-         style="fill:#586e75;stroke:none"
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan464">r</tspan></tspan></tspan></text>
+
 
        </g>
       </g><g
@@ -474,7 +442,7 @@
         <text
    id="text493"
    class="TextShape"><tspan
-     style="font-weight:400;font-size:370px;font-family:Hack, monospace"
+     style="font-weight:normal;font-size:370px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan491"
      font-weight="400"
      font-size="370px"
@@ -482,19 +450,21 @@
        id="tspan489"
        y="5177"
        x="3550"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
+       class="TextPosition"
+       style="-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan479">r</tspan><tspan
-         style="fill:#000000;stroke:none"
+         style="fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan481"> </tspan><tspan
-         style="fill:#859900;stroke:none"
+         style="fill:#859900;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan483">locked</tspan><tspan
-         style="fill:#000000;stroke:none"
+         style="fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan485"> </tspan><tspan
-         style="font-style:italic;font-weight:700;fill:#d33682;stroke:none"
+         style="font-style:italic;font-weight:bold;fill:#d33682;stroke:none;-inkscape-font-specification:'Space Mono Bold Italic';font-family:'Space Mono';font-stretch:normal;font-variant:normal"
          id="tspan487"
          font-weight="700"
          font-style="italic">false</tspan></tspan></tspan></text>
+
 
        </g>
       </g><g
@@ -519,7 +489,7 @@
         <text
    id="text516"
    class="TextShape"><tspan
-     style="font-style:italic;font-weight:400;font-size:370px;font-family:Hack, monospace"
+     style="font-style:italic;font-weight:normal;font-size:370px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Italic';font-stretch:normal;font-variant:normal"
      id="tspan514"
      font-weight="400"
      font-style="italic"
@@ -528,22 +498,24 @@
        id="tspan512"
        y="2127"
        x="3950"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
+       class="TextPosition"
+       style="-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"><tspan
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
          id="tspan502">robot</tspan><tspan
-         style="font-style:normal;fill:#000000;stroke:none"
+         style="font-style:italic;fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal"
          id="tspan504"
          font-style="normal"> </tspan><tspan
-         style="font-style:normal;fill:#859900;stroke:none"
+         style="font-style:normal;fill:#859900;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal"
          id="tspan506"
          font-style="normal">holds</tspan><tspan
-         style="font-style:normal;fill:#000000;stroke:none"
+         style="font-style:italic;fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal"
          id="tspan508"
          font-style="normal"> </tspan><tspan
-         style="font-style:normal;font-weight:700;fill:#ce181e;stroke:none"
+         style="font-style:normal;font-weight:bold;fill:#ce181e;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-stretch:normal;font-variant:normal"
          id="tspan510"
          font-weight="700"
          font-style="normal">~</tspan></tspan></tspan></text>
+
 
        </g>
       </g><g
@@ -568,7 +540,7 @@
         <text
    id="text539"
    class="TextShape"><tspan
-     style="font-style:italic;font-weight:400;font-size:370px;font-family:Hack, monospace"
+     style="font-style:italic;font-weight:normal;font-size:370px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Italic';font-stretch:normal;font-variant:normal"
      id="tspan537"
      font-weight="400"
      font-style="italic"
@@ -577,20 +549,22 @@
        id="tspan535"
        y="3677"
        x="12850"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
+       class="TextPosition"
+       style="-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"><tspan
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
          id="tspan525">robot</tspan><tspan
-         style="font-style:normal;fill:#000000;stroke:none"
+         style="font-style:italic;fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal"
          id="tspan527"
          font-style="normal"> </tspan><tspan
-         style="font-style:normal;fill:#859900;stroke:none"
+         style="font-style:normal;fill:#859900;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal"
          id="tspan529"
          font-style="normal">holds</tspan><tspan
-         style="font-style:normal;fill:#000000;stroke:none"
+         style="font-style:italic;fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal"
          id="tspan531"
          font-style="normal"> </tspan><tspan
-         style="fill:#586e75;stroke:none"
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
          id="tspan533">lollipop</tspan></tspan></tspan></text>
+
 
        </g>
       </g><g
@@ -615,7 +589,7 @@
         <text
    id="text562"
    class="TextShape"><tspan
-     style="font-weight:400;font-size:370px;font-family:Hack, monospace"
+     style="font-weight:normal;font-size:370px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan560"
      font-weight="400"
      font-size="370px"
@@ -623,17 +597,19 @@
        id="tspan558"
        y="2127"
        x="9250"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
+       class="TextPosition"
+       style="-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan548">g</tspan><tspan
-         style="fill:#000000;stroke:none"
+         style="fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan550"> </tspan><tspan
-         style="fill:#859900;stroke:none"
+         style="fill:#859900;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan552">hold</tspan><tspan
-         style="fill:#000000;stroke:none"
+         style="fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan554"> </tspan><tspan
-         style="fill:#586e75;stroke:none"
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan556">k</tspan></tspan></tspan></text>
+
 
        </g>
       </g><g
@@ -658,7 +634,7 @@
         <text
    id="text585"
    class="TextShape"><tspan
-     style="font-weight:400;font-size:370px;font-family:Hack, monospace"
+     style="font-weight:normal;font-size:370px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan583"
      font-weight="400"
      font-size="370px"
@@ -666,17 +642,19 @@
        id="tspan581"
        y="5177"
        x="12950"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
+       class="TextPosition"
+       style="-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan571">g</tspan><tspan
-         style="fill:#000000;stroke:none"
+         style="fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan573"> </tspan><tspan
-         style="fill:#859900;stroke:none"
+         style="fill:#859900;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan575">room</tspan><tspan
-         style="fill:#000000;stroke:none"
+         style="fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan577"> </tspan><tspan
-         style="fill:#586e75;stroke:none"
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan579">room</tspan></tspan></tspan></text>
+
 
        </g>
       </g><g
@@ -701,7 +679,7 @@
         <text
    id="text608"
    class="TextShape"><tspan
-     style="font-style:italic;font-weight:400;font-size:370px;font-family:Hack, monospace"
+     style="font-style:italic;font-weight:normal;font-size:370px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Italic';font-stretch:normal;font-variant:normal"
      id="tspan606"
      font-weight="400"
      font-style="italic"
@@ -710,21 +688,23 @@
        id="tspan604"
        y="3677"
        x="3300"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
+       class="TextPosition"
+       style="-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"><tspan
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
          id="tspan594">kitchen</tspan><tspan
-         style="font-style:normal;fill:#000000;stroke:none"
+         style="font-style:italic;fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal"
          id="tspan596"
          font-style="normal"> </tspan><tspan
-         style="font-style:normal;fill:#859900;stroke:none"
+         style="font-style:normal;fill:#859900;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal"
          id="tspan598"
          font-style="normal">locked</tspan><tspan
-         style="font-style:normal;fill:#000000;stroke:none"
+         style="font-style:italic;fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono Italic';font-family:'Space Mono';font-weight:normal;font-stretch:normal;font-variant:normal"
          id="tspan600"
          font-style="normal"> </tspan><tspan
-         style="font-weight:700;fill:#d33682;stroke:none"
+         style="font-weight:bold;fill:#d33682;stroke:none;-inkscape-font-specification:'Space Mono Bold Italic';font-family:'Space Mono';font-style:italic;font-stretch:normal;font-variant:normal"
          id="tspan602"
          font-weight="700">true</tspan></tspan></tspan></text>
+
 
        </g>
       </g><g
@@ -746,127 +726,74 @@
    inkscape:connector-curvature="0"
    id="path615"
    d="M 16950,8283 H 13900 V 5783 h 6100 v 2500 z" />
-        <text
-   id="text699"
-   class="TextShape"><tspan
-     style="font-weight:400;font-size:353px;font-family:Hack, monospace"
-     id="tspan631"
-     font-weight="400"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan629"
-       y="6234"
-       x="14150"
-       class="TextPosition"><tspan
-         style="fill:#2aa198;stroke:none"
-         id="tspan617">&quot;planning.w&quot;</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan619"> </tspan><tspan
-         style="font-weight:700;fill:#073642;stroke:none"
-         id="tspan621"
-         font-weight="700">=</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan623"> </tspan><tspan
-         style="font-weight:700;fill:#dc322f;stroke:none"
-         id="tspan625"
-         font-weight="700">?</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan627"> ;</tspan></tspan></tspan><tspan
-     style="font-weight:400;font-size:353px;font-family:Hack, monospace"
-     id="tspan645"
-     font-weight="400"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan643"
-       y="6645"
-       x="14150"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan633">(g, r, m, k) </tspan><tspan
-         style="font-weight:700;fill:#b58900;stroke:none"
-         id="tspan635"
-         font-weight="700">::</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan637"> </tspan><tspan
-         style="font-weight:700;fill:#268bd2;stroke:none"
-         id="tspan639"
-         font-weight="700">Variables</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan641">;</tspan></tspan></tspan><tspan
-     style="font-weight:400;font-size:353px;font-family:Hack, monospace"
-     id="tspan657"
-     font-weight="400"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan655"
-       y="7056"
-       x="14150"
-       class="TextPosition"><tspan
-         style="fill:#268bd2;stroke:none"
-         id="tspan647">Movable</tspan><tspan
-         style="font-weight:700;fill:#b58900;stroke:none"
-         id="tspan649"
-         font-weight="700">/</tspan><tspan
-         style="fill:#268bd2;stroke:none"
-         id="tspan651">Grabber</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan653">;</tspan></tspan></tspan><tspan
-     style="font-weight:400;font-size:353px;font-family:Hack, monospace"
-     id="tspan679"
-     font-weight="400"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan677"
-       y="7467"
-       x="14150"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan659">g </tspan><tspan
-         style="font-weight:700;fill:#b58900;stroke:none"
-         id="tspan661"
-         font-weight="700">::</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan663"> </tspan><tspan
-         style="fill:#268bd2;stroke:none"
-         id="tspan665">Grabber</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan667">; r </tspan><tspan
-         style="font-weight:700;fill:#b58900;stroke:none"
-         id="tspan669"
-         font-weight="700">::</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan671"> </tspan><tspan
-         style="fill:#268bd2;stroke:none"
-         id="tspan673">Room</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan675">;</tspan></tspan></tspan><tspan
-     style="font-weight:400;font-size:353px;font-family:Hack, monospace"
-     id="tspan697"
-     font-weight="400"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan695"
-       y="7878"
-       x="14150"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan681">m </tspan><tspan
-         style="font-weight:700;fill:#b58900;stroke:none"
-         id="tspan683"
-         font-weight="700">::</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan685"> </tspan><tspan
-         style="fill:#268bd2;stroke:none"
-         id="tspan687">Movable</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan689">; k </tspan><tspan
-         style="fill:#859900;stroke:none"
-         id="tspan691">keyof</tspan><tspan
-         style="fill:#586e75;stroke:none"
-         id="tspan693"> r;</tspan></tspan></tspan></text>
+        
 
        </g>
-      </g><g
+      <g
+   transform="translate(-72.335607,-2503.0452)"
+   style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
+   id="g1478"><text
+     id="text1362-3"
+     y="8704.6719"
+     x="14272.231"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:352.77783203px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:746.70715332;stroke-linejoin:round"
+     xml:space="preserve"><tspan
+       id="tspan1366-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#586e75;stroke-width:746.70715332"
+       y="8704.6719"
+       x="14272.231"
+       sodipodi:role="line"><tspan
+   id="tspan1459"
+   style="fill:#2aa198">&quot;planning.w&quot;</tspan> <tspan
+   id="tspan1461"
+   style="font-weight:bold;fill:#073642">=</tspan> <tspan
+   id="tspan1465"
+   style="font-weight:bold;fill:#dc322f">?</tspan> ;</tspan><tspan
+       id="tspan1451"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#586e75;stroke-width:746.70715332"
+       y="9177.9521"
+       x="14272.231"
+       sodipodi:role="line">(g, r, m, k) <tspan
+   style="fill:#b58900"
+   id="tspan1484">::</tspan> <tspan
+   style="font-weight:bold;fill:#268bd2"
+   id="tspan1480">Variables</tspan>;</tspan><tspan
+       id="tspan1453"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#586e75;stroke-width:746.70715332"
+       y="9651.2314"
+       x="14272.231"
+       sodipodi:role="line"><tspan
+   style="fill:#268bd2"
+   id="tspan1486">Movable</tspan><tspan
+   style="font-weight:bold;fill:#b58900"
+   id="tspan1488">/</tspan><tspan
+   style="fill:#268bd2"
+   id="tspan1490">Grabber</tspan>;</tspan><tspan
+       id="tspan1455"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#586e75;stroke-width:746.70715332"
+       y="10124.512"
+       x="14272.231"
+       sodipodi:role="line">g <tspan
+   style="fill:#b58900"
+   id="tspan1492">::</tspan> <tspan
+   style="fill:#268bd2"
+   id="tspan1496">Grabber</tspan>; r <tspan
+   style="fill:#b58900"
+   id="tspan1500">::</tspan> <tspan
+   style="fill:#268bd2"
+   id="tspan1502">Room</tspan>;</tspan><tspan
+       id="tspan1457"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';fill:#586e75;stroke-width:746.70715332"
+       y="10597.791"
+       x="14272.231"
+       sodipodi:role="line">m <tspan
+   style="fill:#b58900"
+   id="tspan1494">::</tspan> <tspan
+   style="fill:#268bd2"
+   id="tspan1498">Movable</tspan>; k <tspan
+   style="fill:#859900"
+   id="tspan1504">keyof</tspan> r;</tspan></text>
+</g></g><g
    id="g725"
    class="com.sun.star.drawing.TextShape"
    transform="translate(-1900,-1659)">
@@ -888,7 +815,7 @@
         <text
    id="text722"
    class="TextShape"><tspan
-     style="font-weight:400;font-size:370px;font-family:Hack, monospace"
+     style="font-weight:normal;font-size:370px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan720"
      font-weight="400"
      font-size="370px"
@@ -896,18 +823,20 @@
        id="tspan718"
        y="5177"
        x="9250"
-       class="TextPosition"><tspan
-         style="fill:#586e75;stroke:none"
+       class="TextPosition"
+       style="-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+         style="fill:#586e75;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan708">g</tspan><tspan
-         style="fill:#000000;stroke:none"
+         style="fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan710"> </tspan><tspan
-         style="fill:#859900;stroke:none"
+         style="fill:#859900;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan712">hold</tspan><tspan
-         style="fill:#000000;stroke:none"
+         style="fill:#000000;stroke:none;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan714"> </tspan><tspan
-         style="font-weight:700;fill:#ce181e;stroke:none"
+         style="font-weight:bold;fill:#ce181e;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-style:normal;font-stretch:normal;font-variant:normal"
          id="tspan716"
          font-weight="700">~</tspan></tspan></tspan></text>
+
 
        </g>
       </g><g
@@ -952,6 +881,7 @@
          style="fill:#fdf6e3;stroke:none"
          id="tspan794">0</tspan></tspan></tspan></text>
 
+
        </g>
       </g><g
    id="g822"
@@ -995,6 +925,7 @@
          style="fill:#fdf6e3;stroke:none"
          id="tspan813">*</tspan></tspan></tspan></text>
 
+
        </g>
       </g><g
    id="g860"
@@ -1017,14 +948,16 @@
    d="m 11900,3509 c 340,0 600,256 600,590 0,334 -260,590 -600,590 -340,0 -600,-256 -600,-590 0,-334 260,-590 600,-590 z" />
         <text
    id="text857"
-   class="TextShape"><tspan
+   class="TextShape"
+   y="-105.83334"
+   x="-1.5827038e-06"><tspan
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"
      id="tspan855"
      font-weight="400"
      font-size="368px"
      class="TextParagraph"><tspan
        id="tspan849"
-       y="4192"
+       y="4086.1667"
        x="11389"
        class="TextPosition"><tspan
          style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#073642;stroke:none"
@@ -1032,11 +965,12 @@
          font-style="italic"
          font-size="635px">a</tspan></tspan><tspan
        id="tspan853"
-       y="4402"
+       y="4296.167"
        x="11728"
        class="TextPosition"><tspan
          style="fill:#073642;stroke:none"
          id="tspan851">grab</tspan></tspan></tspan></text>
+
 
        </g>
       </g><g
@@ -1078,14 +1012,15 @@
    class="BoundingBox" />
          <text
    id="text881"
-   class="TextShape"><tspan
+   class="TextShape"
+   y="-52.916668"><tspan
      style="font-weight:400;font-size:353px;font-family:'STIX Two Text'"
      id="tspan879"
      font-weight="400"
      font-size="353px"
      class="TextParagraph"><tspan
        id="tspan873"
-       y="3984"
+       y="3931.0833"
        x="8331"
        class="TextPosition"><tspan
          style="font-style:italic;font-size:635px;fill:#073642;stroke:none"
@@ -1093,11 +1028,12 @@
          font-style="italic"
          font-size="635px">a</tspan></tspan><tspan
        id="tspan877"
-       y="4403"
+       y="4350.0835"
        x="7986"
        class="TextPosition"><tspan
          style="fill:#073642;stroke:none"
          id="tspan875">unlock</tspan></tspan></tspan></text>
+
 
         </g>
        </g>
@@ -1129,6 +1065,7 @@
        class="TextPosition"><tspan
          style="fill:#eee8d5;stroke:none"
          id="tspan890">domain.w</tspan></tspan></tspan></text>
+
 
        </g>
       </g>

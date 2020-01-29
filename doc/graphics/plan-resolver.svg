@@ -20,7 +20,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata902"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -29,8 +29,8 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="3840"
+   inkscape:window-height="2034"
    id="namedview900"
    showgrid="false"
    fit-margin-top="0"
@@ -38,12 +38,12 @@
    fit-margin-right="0"
    fit-margin-bottom="0"
    inkscape:zoom="4.7572176"
-   inkscape:cx="323.37825"
-   inkscape:cy="153.15799"
-   inkscape:window-x="1"
-   inkscape:window-y="30"
+   inkscape:cx="267.67342"
+   inkscape:cy="144.74971"
+   inkscape:window-x="1920"
+   inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="id28" />
+   inkscape:current-layer="id35" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -543,6 +543,7 @@
          id="tspan174"
          style="fill:#fdf6e3;stroke:none">0</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -565,26 +566,29 @@
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text199"><tspan
+   id="text199"
+   x="-52.916668"
+   y="-52.916668"><tspan
      class="TextParagraph"
      font-size="368px"
      font-weight="400"
      id="tspan197"
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="5070"
-       y="6002"
+       x="5017.0835"
+       y="5949.0835"
        id="tspan191"><tspan
          font-size="635px"
          font-style="italic"
          id="tspan189"
          style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#073642;stroke:none">a</tspan></tspan><tspan
        class="TextPosition"
-       x="5409"
-       y="6212"
+       x="5356.0835"
+       y="6159.0835"
        id="tspan195"><tspan
          id="tspan193"
          style="fill:#073642;stroke:none">3</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -608,26 +612,29 @@
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text218"><tspan
+   id="text218"
+   x="-52.916668"
+   y="-52.916668"><tspan
      class="TextParagraph"
      font-size="368px"
      font-weight="400"
      id="tspan216"
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="5070"
-       y="2134"
+       x="5017.0835"
+       y="2081.0833"
        id="tspan210"><tspan
          font-size="635px"
          font-style="italic"
          id="tspan208"
          style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#073642;stroke:none">a</tspan></tspan><tspan
        class="TextPosition"
-       x="5409"
-       y="2344"
+       x="5356.0835"
+       y="2291.0833"
        id="tspan214"><tspan
          id="tspan212"
          style="fill:#073642;stroke:none">1</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -651,26 +658,29 @@
    style="fill:none;stroke:#dc322f;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text237"><tspan
+   id="text237"
+   y="-52.916668"
+   x="-52.916668"><tspan
      class="TextParagraph"
      font-size="368px"
      font-weight="400"
      id="tspan235"
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="8126"
-       y="6002"
+       x="8073.0835"
+       y="5949.0835"
        id="tspan229"><tspan
          font-size="635px"
          font-style="italic"
          id="tspan227"
          style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#073642;stroke:none">a</tspan></tspan><tspan
        class="TextPosition"
-       x="8465"
-       y="6212"
+       x="8412.083"
+       y="6159.0835"
        id="tspan233"><tspan
          id="tspan231"
          style="fill:#073642;stroke:none">4</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -754,6 +764,7 @@
        id="tspan266"><tspan
          id="tspan264"
          style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -953,6 +964,7 @@
          id="tspan339"
          style="fill:#839496;stroke:none">2</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1106,6 +1118,7 @@
          id="tspan401"
          style="fill:#073642;stroke:none">1</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1154,6 +1167,7 @@
          id="tspan422"
          style="fill:#073642;stroke:none">2</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1176,26 +1190,29 @@
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text447"><tspan
+   id="text447"
+   y="-52.916668"
+   x="-52.916668"><tspan
      class="TextParagraph"
      font-size="368px"
      font-weight="400"
      id="tspan445"
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="5070"
-       y="4022"
+       x="5017.0835"
+       y="3969.0833"
        id="tspan439"><tspan
          font-size="635px"
          font-style="italic"
          id="tspan437"
          style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#073642;stroke:none">a</tspan></tspan><tspan
        class="TextPosition"
-       x="5409"
-       y="4232"
+       x="5356.0835"
+       y="4179.0835"
        id="tspan443"><tspan
          id="tspan441"
          style="fill:#073642;stroke:none">2</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1350,6 +1367,7 @@
          id="tspan503"
          style="fill:#073642;stroke:none">3</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1401,6 +1419,7 @@
          id="tspan526"
          style="fill:#073642;stroke:none">2</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1448,6 +1467,7 @@
        id="tspan549"><tspan
          id="tspan547"
          style="fill:#073642;stroke:none">4</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1585,6 +1605,7 @@
          id="tspan602"
          style="fill:#073642;stroke:none">pre</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1626,6 +1647,7 @@
          id="tspan619"
          style="fill:#073642;stroke:none">eff</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1656,6 +1678,7 @@
        y="1601.2593"
        id="tspan634"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#93a1a1;stroke:none">Legend</tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1750,6 +1773,7 @@
          id="tspan669"
          style="fill:#fdf6e3;stroke:none">0</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1782,6 +1806,7 @@
          style="font-size:529px;fill:#839496;stroke:none">I</tspan><tspan
          id="tspan684"
          style="fill:#839496;stroke:none">NITIAL</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1826,6 +1851,7 @@
          id="tspan703"
          style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1859,6 +1885,7 @@
          id="tspan718"
          style="fill:#839496;stroke:none">OAL</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1881,7 +1908,9 @@
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text739"><tspan
+   id="text739"
+   y="-52.916668"
+   x="-52.916668"><tspan
      class="TextParagraph"
      font-size="635px"
      font-style="italic"
@@ -1889,11 +1918,12 @@
      id="tspan737"
      style="font-style:italic;font-weight:400;font-size:635px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11507"
-       y="5072"
+       x="11454.083"
+       y="5019.0835"
        id="tspan735"><tspan
          id="tspan733"
          style="fill:#073642;stroke:none">a</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1924,6 +1954,7 @@
        id="tspan748"><tspan
          id="tspan746"
          style="fill:#839496;stroke:none">Step</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1956,6 +1987,7 @@
          id="tspan759"
          style="fill:#839496;stroke:none">Causal link</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1986,6 +2018,7 @@
        id="tspan774"><tspan
          id="tspan772"
          style="fill:#839496;stroke:none">Order link</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -2135,6 +2168,7 @@
          id="tspan832"
          style="fill:#073642;stroke:none">5</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -2172,6 +2206,7 @@
        id="tspan851"><tspan
          id="tspan849"
          style="fill:#839496;stroke:none">5</tspan></tspan></tspan></text>
+
 
        </g>
       </g>

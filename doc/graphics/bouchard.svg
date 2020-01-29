@@ -20,7 +20,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata1151"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -37,13 +37,13 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="2.8284271"
-   inkscape:cx="241.05848"
-   inkscape:cy="116.18138"
+   inkscape:zoom="2"
+   inkscape:cx="393.49351"
+   inkscape:cy="96.292739"
    inkscape:window-x="1920"
    inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g1139" />
+   inkscape:current-layer="id24" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -1071,6 +1071,7 @@
          id="tspan381"
          style="fill:#073642;stroke:none">∆</tspan></tspan></tspan></text>
 
+
         </g>
        </g>
        <g
@@ -1106,6 +1107,7 @@
        id="tspan398"><tspan
          id="tspan396"
          style="fill:#fdf6e3;stroke:none">x</tspan></tspan></tspan></text>
+
 
         </g>
        </g>
@@ -1147,6 +1149,7 @@
          id="tspan413"
          style="fill:#fdf6e3;stroke:none">∇</tspan></tspan></tspan></text>
 
+
         </g>
        </g>
        <g
@@ -1175,6 +1178,7 @@
        id="tspan440"><tspan
          id="tspan438"
          style="fill:#839496;stroke:none">?</tspan></tspan></tspan></text>
+
 
         <circle
    style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#93a1a1;stroke-width:105.83333588;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:105.83333361, 211.66666722;stroke-dashoffset:0;stroke-opacity:1"
@@ -1222,6 +1226,7 @@
          id="tspan455"
          style="fill:#fdf6e3;stroke:none">Cook</tspan></tspan></tspan></text>
 
+
         </g>
        </g>
        <g
@@ -1244,24 +1249,27 @@
    style="fill:#268bd2;stroke:none" />
          <text
    class="TextShape"
-   id="text480"><tspan
+   id="text480"
+   y="-52.916664"
+   x="-52.916664"><tspan
      class="TextParagraph"
      font-size="450px"
      font-weight="400"
      id="tspan478"
      style="font-weight:400;font-size:450px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="1824"
-       y="4113"
+       x="1771.0834"
+       y="4060.0833"
        id="tspan472"><tspan
          font-size="776px"
          id="tspan470"
          style="font-size:776px;fill:#fdf6e3;stroke:none">ℼ</tspan></tspan><tspan
        class="TextPosition"
-       y="4369"
+       y="4316.0835"
        id="tspan476"><tspan
          id="tspan474"
          style="fill:#fdf6e3;stroke:none">2</tspan></tspan></tspan></text>
+
 
         </g>
        </g>
@@ -1304,6 +1312,7 @@
          id="tspan491"
          style="fill:#fdf6e3;stroke:none">Wash</tspan></tspan></tspan></text>
 
+
         </g>
        </g>
        <g
@@ -1326,24 +1335,27 @@
    style="fill:#268bd2;stroke:none" />
          <text
    class="TextShape"
-   id="text516"><tspan
+   id="text516"
+   x="-52.916664"
+   y="-52.916664"><tspan
      class="TextParagraph"
      font-size="450px"
      font-weight="400"
      id="tspan514"
      style="font-weight:400;font-size:450px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="6624"
-       y="4113"
+       x="6571.0835"
+       y="4060.0833"
        id="tspan508"><tspan
          font-size="776px"
          id="tspan506"
          style="font-size:776px;fill:#fdf6e3;stroke:none">ℼ</tspan></tspan><tspan
        class="TextPosition"
-       y="4369"
+       y="4316.0835"
        id="tspan512"><tspan
          id="tspan510"
          style="fill:#fdf6e3;stroke:none">4</tspan></tspan></tspan></text>
+
 
         </g>
        </g>
@@ -1508,25 +1520,28 @@
    style="fill:none;stroke:#268bd2;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text593"><tspan
+   id="text593"
+   x="-52.916664"
+   y="-52.916664"><tspan
      class="TextParagraph"
      font-size="368px"
      font-weight="400"
      id="tspan591"
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="3053"
-       y="6093"
+       x="3000.0833"
+       y="6040.0835"
        id="tspan585"><tspan
          font-size="635px"
          id="tspan583"
          style="font-size:635px;fill:#268bd2;stroke:none">ℼ</tspan></tspan><tspan
        class="TextPosition"
-       x="3489"
-       y="6303"
+       x="3436.0833"
+       y="6250.0835"
        id="tspan589"><tspan
          id="tspan587"
          style="fill:#268bd2;stroke:none">2,4</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1690,25 +1705,28 @@
    style="fill:none;stroke:#268bd2;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text668"><tspan
+   id="text668"
+   x="-52.916664"
+   y="-52.916664"><tspan
      class="TextParagraph"
      font-size="368px"
      font-weight="400"
      id="tspan666"
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="7053"
-       y="6093"
+       x="7000.0835"
+       y="6040.0835"
        id="tspan660"><tspan
          font-size="635px"
          id="tspan658"
          style="font-size:635px;fill:#268bd2;stroke:none">ℼ</tspan></tspan><tspan
        class="TextPosition"
-       x="7489"
-       y="6303"
+       x="7436.0835"
+       y="6250.0835"
        id="tspan664"><tspan
          id="tspan662"
          style="fill:#268bd2;stroke:none">4,2</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1777,7 +1795,9 @@
    style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text761"><tspan
+   id="text761"
+   y="-105.83333"
+   x="-52.916664"><tspan
      class="TextParagraph"
      font-size="493px"
      font-style="italic"
@@ -1785,8 +1805,8 @@
      id="tspan699"
      style="font-style:italic;font-weight:400;font-size:493px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11504"
-       y="2539"
+       x="11451.083"
+       y="2433.1665"
        id="tspan697"><tspan
          id="tspan695"
          style="fill:#268bd2;stroke:none">Frequencies</tspan></tspan></tspan><tspan
@@ -1796,8 +1816,8 @@
      id="tspan717"
      style="font-weight:700;font-size:388px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11396"
-       y="3239"
+       x="11343.083"
+       y="3133.1665"
        id="tspan715"><tspan
          id="tspan701"
          style="font-family:'Redacted Script';fill:#657b83;stroke:none">42</tspan><tspan
@@ -1819,8 +1839,8 @@
      id="tspan735"
      style="font-weight:700;font-size:388px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11396"
-       y="3913"
+       x="11343.083"
+       y="3807.1665"
        id="tspan733"><tspan
          id="tspan719"
          style="font-family:'Redacted Script';fill:#657b83;stroke:none">12</tspan><tspan
@@ -1842,8 +1862,8 @@
      id="tspan741"
      style="font-weight:700;font-size:388px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11396"
-       y="4502"
+       x="11343.083"
+       y="4396.167"
        id="tspan739"><tspan
          id="tspan737"
          style="fill:#657b83;stroke:none">…</tspan></tspan></tspan><tspan
@@ -1853,8 +1873,8 @@
      id="tspan759"
      style="font-weight:700;font-size:388px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11396"
-       y="5176"
+       x="11343.083"
+       y="5070.167"
        id="tspan757"><tspan
          id="tspan743"
          style="font-family:'Redacted Script';fill:#657b83;stroke:none">08</tspan><tspan
@@ -1870,6 +1890,7 @@
          style="fill:#657b83;stroke:none"> | </tspan><tspan
          id="tspan755"
          style="font-family:'Redacted Script';fill:#657b83;stroke:none">53</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1893,24 +1914,27 @@
    style="fill:#268bd2;stroke:none" />
         <text
    class="TextShape"
-   id="text780"><tspan
+   id="text780"
+   x="-52.916664"
+   y="-52.916664"><tspan
      class="TextParagraph"
      font-size="225px"
      font-weight="400"
      id="tspan778"
      style="font-weight:400;font-size:225px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="10612"
-       y="3058"
+       x="10559.083"
+       y="3005.0833"
        id="tspan772"><tspan
          font-size="388px"
          id="tspan770"
          style="font-size:388px;fill:#fdf6e3;stroke:none">ℼ</tspan></tspan><tspan
        class="TextPosition"
-       y="3186"
+       y="3133.0833"
        id="tspan776"><tspan
          id="tspan774"
          style="fill:#fdf6e3;stroke:none">1</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1934,24 +1958,27 @@
    style="fill:#268bd2;stroke:none" />
         <text
    class="TextShape"
-   id="text799"><tspan
+   id="text799"
+   x="-52.916664"
+   y="-52.916664"><tspan
      class="TextParagraph"
      font-size="225px"
      font-weight="400"
      id="tspan797"
      style="font-weight:400;font-size:225px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="10612"
-       y="3858"
+       x="10559.083"
+       y="3805.0833"
        id="tspan791"><tspan
          font-size="388px"
          id="tspan789"
          style="font-size:388px;fill:#fdf6e3;stroke:none">ℼ</tspan></tspan><tspan
        class="TextPosition"
-       y="3986"
+       y="3933.0833"
        id="tspan795"><tspan
          id="tspan793"
          style="fill:#fdf6e3;stroke:none">2</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1975,24 +2002,27 @@
    style="fill:#268bd2;stroke:none" />
         <text
    class="TextShape"
-   id="text818"><tspan
+   id="text818"
+   x="-52.916664"
+   y="-52.916664"><tspan
      class="TextParagraph"
      font-size="225px"
      font-weight="400"
      id="tspan816"
      style="font-weight:400;font-size:225px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="10601"
-       y="5159"
+       x="10548.083"
+       y="5106.0835"
        id="tspan810"><tspan
          font-size="388px"
          id="tspan808"
          style="font-size:388px;fill:#fdf6e3;stroke:none">ℼ</tspan></tspan><tspan
        class="TextPosition"
-       y="5287"
+       y="5234.0835"
        id="tspan814"><tspan
          id="tspan812"
          style="fill:#fdf6e3;stroke:none">n</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -2023,6 +2053,7 @@
        id="tspan827"><tspan
          id="tspan825"
          style="fill:#839496;stroke:none">…</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -2091,7 +2122,9 @@
    style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text924"><tspan
+   id="text924"
+   y="-105.83333"
+   x="-52.916664"><tspan
      class="TextParagraph"
      font-size="493px"
      font-style="italic"
@@ -2099,8 +2132,8 @@
      id="tspan862"
      style="font-style:italic;font-weight:400;font-size:493px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11504"
-       y="6219"
+       x="11451.083"
+       y="6113.167"
        id="tspan860"><tspan
          id="tspan858"
          style="fill:#586e75;stroke:none">Frequencies</tspan></tspan></tspan><tspan
@@ -2110,8 +2143,8 @@
      id="tspan880"
      style="font-weight:700;font-size:388px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11396"
-       y="6919"
+       x="11343.083"
+       y="6813.167"
        id="tspan878"><tspan
          id="tspan864"
          style="font-family:'Redacted Script';fill:#657b83;stroke:none">42</tspan><tspan
@@ -2133,8 +2166,8 @@
      id="tspan898"
      style="font-weight:700;font-size:388px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11396"
-       y="7593"
+       x="11343.083"
+       y="7487.167"
        id="tspan896"><tspan
          id="tspan882"
          style="font-family:'Redacted Script';fill:#657b83;stroke:none">12</tspan><tspan
@@ -2156,8 +2189,8 @@
      id="tspan916"
      style="font-weight:700;font-size:388px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11396"
-       y="8267"
+       x="11343.083"
+       y="8161.1665"
        id="tspan914"><tspan
          id="tspan900"
          style="font-family:'Redacted Script';fill:#657b83;stroke:none">08</tspan><tspan
@@ -2179,11 +2212,12 @@
      id="tspan922"
      style="font-weight:700;font-size:388px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11396"
-       y="8756"
+       x="11343.083"
+       y="8650.166"
        id="tspan920"><tspan
          id="tspan918"
          style="fill:#657b83;stroke:none">…</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -2277,25 +2311,28 @@
    style="fill:none;stroke:#268bd2;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text971"><tspan
+   id="text971"
+   x="-52.916664"
+   y="-52.916664"><tspan
      class="TextParagraph"
      font-size="164px"
      font-weight="400"
      id="tspan969"
      style="font-weight:400;font-size:164px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="10601"
-       y="6742"
+       x="10548.083"
+       y="6689.0835"
        id="tspan963"><tspan
          font-size="282px"
          id="tspan961"
          style="font-size:282px;fill:#268bd2;stroke:none">ℼ</tspan></tspan><tspan
        class="TextPosition"
-       x="10796"
-       y="6835"
+       x="10743.083"
+       y="6782.0835"
        id="tspan967"><tspan
          id="tspan965"
          style="fill:#268bd2;stroke:none">1,2</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -2344,25 +2381,28 @@
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text1000"><tspan
+   id="text1000"
+   x="-52.916664"
+   y="-52.916664"><tspan
      class="TextParagraph"
      font-size="164px"
      font-weight="700"
      id="tspan998"
      style="font-weight:700;font-size:164px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="10631"
-       y="7542"
+       x="10578.083"
+       y="7489.0835"
        id="tspan992"><tspan
          font-size="282px"
          id="tspan990"
          style="font-size:282px;fill:#859900;stroke:none">ℼ</tspan></tspan><tspan
        class="TextPosition"
-       x="10826"
-       y="7635"
+       x="10773.083"
+       y="7582.0835"
        id="tspan996"><tspan
          id="tspan994"
          style="fill:#859900;stroke:none">r2</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -2391,7 +2431,9 @@
    style="fill:none;stroke:#dc322f;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text1021"><tspan
+   id="text1021"
+   x="-52.916664"
+   y="-52.916664"><tspan
      class="TextParagraph"
      font-size="164px"
      font-weight="400"
@@ -2399,18 +2441,19 @@
      id="tspan1019"
      style="font-weight:400;font-size:164px;font-family:'STIX Two Math';text-decoration: line-through;text-decoration-line: line-through"><tspan
        class="TextPosition"
-       x="10663"
-       y="8243"
+       x="10610.083"
+       y="8190.0835"
        id="tspan1013"><tspan
          font-size="282px"
          id="tspan1011"
          style="font-size:282px;fill:#dc322f;stroke:none">ℼ</tspan></tspan><tspan
        class="TextPosition"
-       x="10858"
-       y="8336"
+       x="10805.083"
+       y="8283.083"
        id="tspan1017"><tspan
          id="tspan1015"
          style="fill:#dc322f;stroke:none">2</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -2548,6 +2591,7 @@
          id="tspan1079"
          style="fill:#073642;stroke:none"> </tspan></tspan></tspan></text>
 
+
         </g>
        </g>
        <g
@@ -2604,6 +2648,7 @@
          font-size="493px"
          id="tspan1110"
          style="font-size:493px;fill:#586e75;stroke:none">]</tspan></tspan></tspan></text>
+
 
         </g>
        </g>

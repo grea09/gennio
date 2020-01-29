@@ -9,16 +9,16 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   width="144.00999mm"
-   height="94.75mm"
-   viewBox="0 0 14400.999 9475"
+   width="96.019997mm"
+   height="71.059998mm"
+   viewBox="0 0 9601.9997 7105.9998"
    preserveAspectRatio="xMidYMid"
    xml:space="preserve"
-   id="svg458"
+   id="svg432"
    sodipodi:docname="function_power.svg"
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
-   id="metadata462"><rdf:RDF><cc:Work
+   id="metadata436"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
@@ -29,21 +29,21 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
-   id="namedview460"
+   inkscape:window-width="3840"
+   inkscape:window-height="2034"
+   id="namedview434"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="1.1893044"
-   inkscape:cx="232.03811"
-   inkscape:cy="85.708028"
-   inkscape:window-x="1"
-   inkscape:window-y="30"
+   inkscape:zoom="1.6819304"
+   inkscape:cx="-155.93316"
+   inkscape:cy="197.34869"
+   inkscape:window-x="1920"
+   inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="id9" />
+   inkscape:current-layer="svg432" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -277,7 +277,7 @@
    id="defs86" />
  <g
    id="g91"
-   transform="translate(-2900,-826)">
+   transform="translate(-3099,-3199)">
   <g
    id="id2"
    class="Master_Slide">
@@ -291,10 +291,10 @@
  </g>
  <g
    class="SlideGroup"
-   id="g456"
-   transform="translate(-2900,-826)">
+   id="g430"
+   transform="translate(-3099,-3199)">
   <g
-   id="g454">
+   id="g428">
    <g
    id="container-id1">
     <g
@@ -303,652 +303,536 @@
    clip-path="url(#presentation_clip_path)">
      <g
    class="Page"
-   id="g450">
+   id="g424">
       <g
    class="Group"
-   id="g448">
-       <g
-   class="com.sun.star.drawing.LineShape"
-   id="g114">
-        <g
-   id="id3">
-         <rect
-   class="BoundingBox"
-   x="5674"
-   y="5748"
-   width="3580"
-   height="107"
-   id="rect93"
-   style="fill:none;stroke:none" />
-         <path
-   d="m 5727,5801 h 209"
-   id="path95"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 6145,5801 h 208"
-   id="path97"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 6562,5801 h 209"
-   id="path99"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 6980,5801 h 209"
-   id="path101"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 7398,5801 h 208"
-   id="path103"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 7815,5801 h 209"
-   id="path105"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 8233,5801 h 209"
-   id="path107"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 8650,5801 h 209"
-   id="path109"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 9068,5801 h 132"
-   id="path111"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-        </g>
-       </g>
+   id="g422">
        <g
    class="Group"
-   id="g123">
+   id="g130">
         <g
-   class="com.sun.star.drawing.PolyLineShape"
-   id="g121">
+   class="com.sun.star.drawing.OpenBezierShape"
+   id="g102">
+         <g
+   id="id3">
+          <rect
+   class="BoundingBox"
+   x="3499"
+   y="8200"
+   width="9003"
+   height="1008"
+   id="rect93"
+   style="fill:none;stroke:none" />
+          <path
+   d="m 11450,8700 c -2898,1 -4002,6 -6900,7"
+   id="path95"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:miter" />
+          <path
+   d="m 11464,9196 995,-443 29,-22 12,-29 -12,-33 -26,-21 -999,-443 -12,-5 h -8 l -21,5 -21,12 -13,17 -4,21 1,891 4,21 12,20 21,9 21,4 h 8 z"
+   id="path97"
+   inkscape:connector-curvature="0"
+   style="fill:#657b83;stroke:none" />
+          <path
+   d="m 4536,8211 -995,443 -29,22 -12,29 12,33 26,21 999,443 12,5 h 8 l 21,-5 21,-12 13,-17 4,-21 -1,-891 -4,-21 -12,-20 -21,-9 -21,-4 h -8 z"
+   id="path99"
+   inkscape:connector-curvature="0"
+   style="fill:#657b83;stroke:none" />
+         </g>
+        </g>
+        <g
+   class="com.sun.star.drawing.TextShape"
+   id="g115">
          <g
    id="id4">
           <rect
    class="BoundingBox"
+   x="3400"
+   y="8300"
+   width="1801"
+   height="815"
+   id="rect104"
+   style="fill:none;stroke:none" />
+          <text
+   class="TextShape"
+   id="text112"><tspan
+     class="TextParagraph"
+     font-size="564px"
+     font-weight="400"
+     id="tspan110"
+     style="font-weight:400;font-size:564px;font-family:'STIX Two Math'"><tspan
+       class="TextPosition"
+       x="3650"
+       y="8853"
+       id="tspan108"><tspan
+         id="tspan106"
+         style="fill:#fdf6e3;stroke:none">−∞</tspan></tspan></tspan></text>
+
+         </g>
+        </g>
+        <g
+   class="com.sun.star.drawing.TextShape"
+   id="g128">
+         <g
+   id="id5">
+          <rect
+   class="BoundingBox"
+   x="11100"
+   y="8285"
+   width="1447"
+   height="816"
+   id="rect117"
+   style="fill:none;stroke:none" />
+          <text
+   class="TextShape"
+   id="text125"><tspan
+     class="TextParagraph"
+     font-size="564px"
+     font-weight="400"
+     id="tspan123"
+     style="font-weight:400;font-size:564px;font-family:'STIX Two Math'"><tspan
+       class="TextPosition"
+       x="11350"
+       y="8838"
+       id="tspan121"><tspan
+         id="tspan119"
+         style="fill:#fdf6e3;stroke:none">+∞</tspan></tspan></tspan></text>
+
+         </g>
+        </g>
+       </g>
+       <g
+   class="Group"
+   id="g139">
+        <g
+   class="com.sun.star.drawing.PolyLineShape"
+   id="g137">
+         <g
+   id="id6">
+          <rect
+   class="BoundingBox"
    x="5081"
-   y="1304"
-   width="9774"
-   height="6151"
-   id="rect116"
+   y="3646"
+   width="5774"
+   height="3809"
+   id="rect132"
    style="fill:none;stroke:none" />
           <path
-   d="m 5135,7400 445,-11 243,-8 242,-14 243,-15 243,-22 241,-29 243,-39 243,-53 243,-68 242,-92 243,-117 62,-35 61,-36 60,-39 60,-40 61,-45 61,-47 61,-49 59,-51 62,-56 61,-59 60,-61 60,-62 123,-140 60,-74 60,-76 242,-342 243,-388 243,-428 242,-450 161,-303 243,-444 243,-416 243,-374 120,-167 61,-80 61,-77 60,-72 60,-70 61,-67 62,-64 60,-59 60,-57 61,-54 62,-51 59,-48 61,-46 61,-43 61,-40 60,-39 61,-35 122,-67 243,-107 242,-82 243,-63 243,-47 242,-37 243,-25 243,-21 242,-14 242,-12 203,-6 364,-9"
-   id="path118"
+   d="m 5135,7400 261,-7 142,-5 142,-8 143,-9 142,-14 142,-18 142,-24 142,-32 143,-42 141,-56 143,-72 36,-21 36,-22 35,-24 35,-24 36,-28 36,-29 35,-30 35,-31 36,-34 36,-36 36,-37 35,-39 72,-86 35,-45 35,-46 142,-210 142,-237 143,-262 141,-275 95,-186 142,-273 143,-254 142,-229 70,-103 36,-49 36,-47 35,-44 36,-43 35,-40 36,-40 36,-36 35,-35 36,-33 36,-31 35,-30 35,-28 36,-26 36,-25 35,-23 36,-22 71,-41 143,-65 141,-51 143,-38 142,-29 142,-23 143,-15 142,-13 142,-8 142,-8 119,-3 213,-6"
+   id="path134"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#93a1a1;stroke-width:106;stroke-linecap:round;stroke-linejoin:miter" />
          </g>
         </g>
        </g>
        <g
-   class="com.sun.star.drawing.OpenBezierShape"
-   id="g134">
-        <g
-   id="id5">
-         <rect
-   class="BoundingBox"
-   x="3000"
-   y="8207"
-   width="13901"
-   height="1001"
-   id="rect125"
-   style="fill:none;stroke:none" />
-         <path
-   d="m 15858,8707 c -3705,0 -8111,0 -11816,0"
-   id="path127"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linejoin:miter" />
-         <path
-   d="m 15863,9203 996,-443 29,-22 12,-29 -12,-33 -26,-21 -999,-443 -12,-5 h -8 l -21,5 -21,12 -13,17 -3,20 v 892 l 3,20 13,21 21,9 21,4 h 8 z"
-   id="path129"
-   inkscape:connector-curvature="0"
-   style="fill:#657b83;stroke:none" />
-         <path
-   d="m 4037,8211 -996,443 -29,22 -12,29 12,33 26,21 999,443 12,5 h 8 l 21,-5 21,-12 13,-17 3,-20 v -892 l -3,-20 -13,-21 -21,-9 -21,-4 h -8 z"
-   id="path131"
-   inkscape:connector-curvature="0"
-   style="fill:#657b83;stroke:none" />
-        </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g151">
-        <g
-   id="id6">
-         <rect
-   class="BoundingBox"
-   x="9600"
-   y="8254"
-   width="908"
-   height="908"
-   id="rect136"
-   style="fill:none;stroke:none" />
-         <path
-   d="m 10053,8307 c 227,0 400,173 400,400 0,227 -173,400 -400,400 -227,0 -400,-173 -400,-400 0,-227 173,-400 400,-400 z m -400,0 z m 801,801 z"
-   id="path138"
-   inkscape:connector-curvature="0"
-   style="fill:#fdf6e3;stroke:none" />
-         <path
-   d="m 10053,8307 c 227,0 400,173 400,400 0,227 -173,400 -400,400 -227,0 -400,-173 -400,-400 0,-227 173,-400 400,-400 z"
-   id="path140"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <text
-   class="TextShape"
-   id="text148"
-   y="34.342499"
-   x="-0.16249999"><tspan
-     class="TextParagraph"
-     font-size="635px"
-     font-weight="400"
-     id="tspan146"
-     style="font-weight:400;font-size:635px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="9895.8379"
-       y="8907.3428"
-       id="tspan144"><tspan
-         id="tspan142"
-         style="fill:#073642;stroke:none">0</tspan></tspan></tspan></text>
-
-        </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g168">
+   class="com.sun.star.drawing.TextShape"
+   id="g156">
         <g
    id="id7">
          <rect
    class="BoundingBox"
-   x="8800"
-   y="8304"
-   width="808"
-   height="808"
-   id="rect153"
-   style="fill:none;stroke:none" />
-         <path
-   d="m 9203,8357 c 198,0 350,152 350,350 0,198 -152,350 -350,350 -198,0 -350,-152 -350,-350 0,-198 152,-350 350,-350 z m -350,0 z m 701,701 z"
-   id="path155"
-   inkscape:connector-curvature="0"
-   style="fill:#fdf6e3;stroke:none" />
-         <path
-   d="m 9203,8357 c 198,0 350,152 350,350 0,198 -152,350 -350,350 -198,0 -350,-152 -350,-350 0,-198 152,-350 350,-350 z"
-   id="path157"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <text
-   class="TextShape"
-   id="text165"
-   y="33.198002"
-   x="7.5022187"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan163"
-     style="font-weight:400;font-size:564px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="8981.502"
-       y="8887.1982"
-       id="tspan161"><tspan
-         id="tspan159"
-         style="fill:#d33682;stroke:none">-1</tspan></tspan></tspan></text>
-
-        </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g185">
-        <g
-   id="id8">
-         <rect
-   class="BoundingBox"
-   x="10500"
-   y="8304"
-   width="809"
-   height="808"
-   id="rect170"
-   style="fill:none;stroke:none" />
-         <path
-   d="m 10903,8357 c 198,0 350,152 350,350 0,198 -152,350 -350,350 -198,0 -350,-152 -350,-350 0,-198 152,-350 350,-350 z m -350,0 z m 701,701 z"
-   id="path172"
-   inkscape:connector-curvature="0"
-   style="fill:#fdf6e3;stroke:none" />
-         <path
-   d="m 10903,8357 c 198,0 350,152 350,350 0,198 -152,350 -350,350 -198,0 -350,-152 -350,-350 0,-198 152,-350 350,-350 z"
-   id="path174"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <text
-   class="TextShape"
-   id="text182"
-   x="-1"
-   y="33.198002"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan180"
-     style="font-weight:400;font-size:564px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="10762"
-       y="8887.1982"
-       id="tspan178"><tspan
-         id="tspan176"
-         style="fill:#859900;stroke:none">1</tspan></tspan></tspan></text>
-
-        </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.TextShape"
-   id="g202">
-        <g
-   id="id9">
-         <rect
-   class="BoundingBox"
    x="5791"
-   y="1812"
+   y="3312"
    width="2210"
    height="2189"
-   id="rect187"
+   id="rect141"
    style="fill:none;stroke:none" />
          <text
    class="TextShape"
-   id="text199"><tspan
+   id="text153"><tspan
      class="TextParagraph"
      font-size="982px"
      font-style="italic"
      font-weight="400"
-     id="tspan197"
+     id="tspan151"
      style="font-style:italic;font-weight:400;font-size:982px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
        x="6041"
-       y="3243"
-       id="tspan191"><tspan
+       y="4743"
+       id="tspan145"><tspan
          font-size="1693px"
-         id="tspan189"
+         id="tspan143"
          style="font-size:1693px;fill:#839496;stroke:none">f </tspan></tspan><tspan
        class="TextPosition"
-       y="2684"
-       id="tspan195"><tspan
-         id="tspan193"
+       y="4184"
+       id="tspan149"><tspan
+         id="tspan147"
          style="fill:#839496;stroke:none">n</tspan></tspan></tspan></text>
 
         </g>
        </g>
        <g
    class="com.sun.star.drawing.TextShape"
-   id="g215">
+   id="g169">
         <g
-   id="id10">
+   id="id8">
          <rect
    class="BoundingBox"
-   x="9500"
+   x="7600"
    y="8923"
-   width="1138"
-   height="1378"
-   id="rect204"
+   width="1142"
+   height="1382"
+   id="rect158"
    style="fill:none;stroke:none" />
          <text
    class="TextShape"
-   id="text212"><tspan
+   id="text166"><tspan
      class="TextParagraph"
-     font-size="1128px"
+     font-size="1129px"
      font-style="italic"
      font-weight="400"
-     id="tspan210"
-     style="font-style:italic;font-weight:400;font-size:1128px;font-family:'STIX Two Text'"><tspan
+     id="tspan164"
+     style="font-style:italic;font-weight:400;font-size:1129px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="9750"
+       x="7850"
        y="9907"
-       id="tspan208"><tspan
-         id="tspan206"
+       id="tspan162"><tspan
+         id="tspan160"
          style="fill:#657b83;stroke:none">n</tspan></tspan></tspan></text>
 
         </g>
        </g>
        <g
-   class="com.sun.star.drawing.LineShape"
-   id="g242">
+   class="Group"
+   id="g231">
         <g
-   id="id11">
-         <rect
-   class="BoundingBox"
-   x="9873"
-   y="4200"
-   width="361"
-   height="4154"
-   id="rect217"
-   style="fill:none;stroke:none" />
-         <path
-   d="M 10053,8300 V 8091"
-   id="path219"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10053,7882 V 7674"
-   id="path221"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10053,7465 V 7256"
-   id="path223"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10053,7047 V 6838"
-   id="path225"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10053,6629 V 6421"
-   id="path227"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10053,6212 V 6003"
-   id="path229"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10053,5794 V 5585"
-   id="path231"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10053,5377 V 5168"
-   id="path233"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10053,4959 V 4750"
-   id="path235"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 10053,4541 v -6"
-   id="path237"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 10020,4555 -32,-9 -33,-17 -29,-22 -23,-30 -16,-32 -9,-33 -4,-33 4,-32 9,-34 16,-32 23,-29 29,-22 33,-16 32,-11 34,-3 32,3 33,11 32,16 29,22 23,29 16,32 9,34 5,32 -5,33 -9,33 -16,32 -23,30 -29,22 -32,17 -33,9 -32,4 z"
-   id="path239"
-   inkscape:connector-curvature="0"
-   style="fill:#073642;stroke:none" />
-        </g>
-       </g>
-       <g
    class="com.sun.star.drawing.LineShape"
-   id="g261">
-        <g
-   id="id12">
-         <rect
+   id="g180">
+         <g
+   id="id9">
+          <rect
    class="BoundingBox"
-   x="9023"
-   y="5600"
-   width="361"
-   height="2754"
-   id="rect244"
+   x="5921"
+   y="6747"
+   width="1180"
+   height="108"
+   id="rect171"
    style="fill:none;stroke:none" />
-         <path
-   d="M 9203,8300 V 8091"
-   id="path246"
+          <path
+   d="m 5974,6801 h 209"
+   id="path173"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 9203,7882 V 7674"
-   id="path248"
+          <path
+   d="m 6392,6801 208,-1"
+   id="path175"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 9203,7465 V 7256"
-   id="path250"
+          <path
+   d="m 6809,6800 h 209"
+   id="path177"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 9203,7047 V 6838"
-   id="path252"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 9203,6629 V 6421"
-   id="path254"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 9203,6212 V 6003"
-   id="path256"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 9170,5955 -32,-9 -33,-17 -29,-22 -23,-30 -16,-32 -9,-33 -4,-33 4,-32 9,-34 16,-32 23,-29 29,-22 33,-16 32,-11 34,-3 32,3 33,11 32,16 29,22 23,29 16,32 9,34 5,32 -5,33 -9,33 -16,32 -23,30 -29,22 -32,17 -33,9 -32,4 z"
-   id="path258"
-   inkscape:connector-curvature="0"
-   style="fill:#d33682;stroke:none" />
+         </g>
         </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.LineShape"
-   id="g294">
         <g
-   id="id13">
-         <rect
-   class="BoundingBox"
-   x="10723"
-   y="2700"
-   width="361"
-   height="5654"
-   id="rect263"
-   style="fill:none;stroke:none" />
-         <path
-   d="M 10903,8300 V 8091"
-   id="path265"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,7882 V 7674"
-   id="path267"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,7465 V 7256"
-   id="path269"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,7047 V 6838"
-   id="path271"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,6629 V 6421"
-   id="path273"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,6212 V 6003"
-   id="path275"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,5794 V 5585"
-   id="path277"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,5377 V 5168"
-   id="path279"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,4959 V 4750"
-   id="path281"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,4541 V 4332"
-   id="path283"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,4124 V 3915"
-   id="path285"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,3706 V 3497"
-   id="path287"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="M 10903,3288 V 3080"
-   id="path289"
-   inkscape:connector-curvature="0"
-   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 10870,3055 -32,-9 -33,-17 -29,-22 -23,-30 -16,-32 -9,-33 -4,-33 4,-32 9,-34 16,-32 23,-29 29,-22 33,-16 32,-11 34,-3 32,3 33,11 32,16 29,22 23,29 16,32 9,34 5,32 -5,33 -9,33 -16,32 -23,30 -29,22 -32,17 -33,9 -32,4 z"
-   id="path291"
-   inkscape:connector-curvature="0"
-   style="fill:#859900;stroke:none" />
-        </g>
-       </g>
-       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g311">
-        <g
-   id="id14">
-         <rect
+   id="g197">
+         <g
+   id="id10">
+          <rect
    class="BoundingBox"
-   x="5026"
-   y="5326"
-   width="975"
-   height="976"
-   id="rect296"
+   x="6747"
+   y="8304"
+   width="808"
+   height="808"
+   id="rect182"
    style="fill:none;stroke:none" />
-         <path
-   d="m 5512,5326 c 276,0 487,210 487,486 0,276 -211,487 -487,487 -276,0 -486,-211 -486,-487 0,-276 210,-486 486,-486 z m -486,0 z m 974,974 z"
-   id="path298"
+          <path
+   d="m 7150,8357 c 198,0 350,152 350,350 0,198 -152,350 -350,350 -198,0 -350,-152 -350,-350 0,-198 152,-350 350,-350 z m -350,0 z m 701,701 z"
+   id="path184"
    inkscape:connector-curvature="0"
-   style="fill:#d33682;stroke:none" />
-         <text
+   style="fill:#fdf6e3;stroke:none" />
+          <path
+   d="m 7150,8357 c 198,0 350,152 350,350 0,198 -152,350 -350,350 -198,0 -350,-152 -350,-350 0,-198 152,-350 350,-350 z"
+   id="path186"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
+          <text
    class="TextShape"
-   id="text308"
-   x="-78.462425"
-   y="-9.7425003"><tspan
+   id="text194"><tspan
      class="TextParagraph"
-     font-size="635px"
-     font-style="italic"
+     font-size="564px"
      font-weight="400"
-     id="tspan306"
-     style="font-style:italic;font-weight:400;font-size:635px;font-family:'STIX Two Text'"><tspan
+     id="tspan192"
+     style="font-weight:400;font-size:564px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="5194.5376"
-       y="5968.2573"
-       id="tspan304"><tspan
-         id="tspan300"
-         style="fill:#fdf6e3;stroke:none">•</tspan><tspan
-         id="tspan302"
-         style="fill:#fdf6e3;stroke:none">f</tspan></tspan></tspan></text>
+       x="6921"
+       y="8854"
+       id="tspan190"><tspan
+         id="tspan188"
+         style="fill:#d33682;stroke:none">-1</tspan></tspan></tspan></text>
 
+         </g>
         </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g326">
         <g
-   id="id15">
-         <rect
+   class="com.sun.star.drawing.LineShape"
+   id="g212">
+         <g
+   id="id11">
+          <rect
    class="BoundingBox"
-   x="13999"
-   y="2326"
+   x="6969"
+   y="6599"
+   width="361"
+   height="1855"
+   id="rect199"
+   style="fill:none;stroke:none" />
+          <path
+   d="M 7152,8400 V 8191"
+   id="path201"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 7151,7982 V 7774"
+   id="path203"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="m 7151,7565 -1,-209"
+   id="path205"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 7150,7147 V 6938"
+   id="path207"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#d33682;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="m 7117,6955 -33,-9 -32,-16 -30,-23 -23,-30 -16,-32 -9,-32 -4,-34 4,-32 9,-34 16,-32 23,-28 29,-23 33,-16 32,-11 34,-3 32,3 34,11 31,15 29,23 23,28 16,33 10,33 4,33 -4,33 -9,32 -17,33 -22,29 -30,23 -31,17 -34,9 -32,4 z"
+   id="path209"
+   inkscape:connector-curvature="0"
+   style="fill:#d33682;stroke:none" />
+         </g>
+        </g>
+        <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g229">
+         <g
+   id="id12">
+          <rect
+   class="BoundingBox"
+   x="5273"
+   y="6326"
    width="975"
    height="975"
-   id="rect313"
+   id="rect214"
    style="fill:none;stroke:none" />
-         <path
-   d="m 14485,2326 c 276,0 487,210 487,486 0,276 -211,487 -487,487 -276,0 -486,-211 -486,-487 0,-276 210,-486 486,-486 z m -486,0 z m 974,974 z"
-   id="path315"
+          <path
+   d="m 5759,6326 c 276,0 487,210 487,486 0,276 -211,487 -487,487 -276,0 -486,-211 -486,-487 0,-276 210,-486 486,-486 z m -486,0 z m 974,974 z"
+   id="path216"
    inkscape:connector-curvature="0"
-   style="fill:#859900;stroke:none" />
-         <text
+   style="fill:#d33682;stroke:none" />
+          <text
    class="TextShape"
-   id="text323"><tspan
+   id="text226"><tspan
      class="TextParagraph"
      font-size="635px"
      font-style="italic"
      font-weight="400"
-     id="tspan321"
+     id="tspan224"
      style="font-style:italic;font-weight:400;font-size:635px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="14393"
-       y="2978"
-       id="tspan319"><tspan
-         id="tspan317"
+       x="5520"
+       y="6978"
+       id="tspan222"><tspan
+         id="tspan218"
+         style="fill:#fdf6e3;stroke:none">•</tspan><tspan
+         id="tspan220"
          style="fill:#fdf6e3;stroke:none">f</tspan></tspan></tspan></text>
 
+         </g>
         </g>
        </g>
        <g
-   class="com.sun.star.drawing.LineShape"
-   id="g345">
+   class="Group"
+   id="g305">
         <g
-   id="id16">
-         <rect
+   class="com.sun.star.drawing.CustomShape"
+   id="g248">
+         <g
+   id="id13">
+          <rect
    class="BoundingBox"
-   x="11175"
-   y="2848"
-   width="2879"
-   height="107"
-   id="rect328"
+   x="8400"
+   y="8304"
+   width="809"
+   height="808"
+   id="rect233"
    style="fill:none;stroke:none" />
-         <path
-   d="m 11228,2901 h 209"
-   id="path330"
+          <path
+   d="m 8803,8357 c 198,0 350,152 350,350 0,198 -152,350 -350,350 -198,0 -350,-152 -350,-350 0,-198 152,-350 350,-350 z m -350,0 z m 701,701 z"
+   id="path235"
+   inkscape:connector-curvature="0"
+   style="fill:#fdf6e3;stroke:none" />
+          <path
+   d="m 8803,8357 c 198,0 350,152 350,350 0,198 -152,350 -350,350 -198,0 -350,-152 -350,-350 0,-198 152,-350 350,-350 z"
+   id="path237"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 11646,2901 h 208"
-   id="path332"
+          <text
+   class="TextShape"
+   id="text245"><tspan
+     class="TextParagraph"
+     font-size="564px"
+     font-weight="400"
+     id="tspan243"
+     style="font-weight:400;font-size:564px;font-family:'STIX Two Math'"><tspan
+       class="TextPosition"
+       x="8663"
+       y="8854"
+       id="tspan241"><tspan
+         id="tspan239"
+         style="fill:#859900;stroke:none">1</tspan></tspan></tspan></text>
+
+         </g>
+        </g>
+        <g
+   class="com.sun.star.drawing.LineShape"
+   id="g275">
+         <g
+   id="id14">
+          <rect
+   class="BoundingBox"
+   x="8620"
+   y="4099"
+   width="361"
+   height="4355"
+   id="rect250"
+   style="fill:none;stroke:none" />
+          <path
+   d="M 8803,8400 V 8191"
+   id="path252"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 12063,2901 h 209"
-   id="path334"
+          <path
+   d="M 8803,7982 V 7774"
+   id="path254"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 12481,2901 h 209"
-   id="path336"
+          <path
+   d="M 8802,7565 V 7356"
+   id="path256"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 12899,2901 h 208"
-   id="path338"
+          <path
+   d="M 8802,7147 V 6938"
+   id="path258"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 13316,2901 h 209"
-   id="path340"
+          <path
+   d="M 8802,6729 V 6521"
+   id="path260"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
-         <path
-   d="m 13734,2901 h 209"
-   id="path342"
+          <path
+   d="m 8802,6312 -1,-209"
+   id="path262"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 8801,5894 V 5685"
+   id="path264"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 8801,5477 V 5268"
+   id="path266"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 8801,5059 V 4850"
+   id="path268"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 8800,4641 V 4435"
+   id="path270"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="m 8767,4455 -32,-9 -32,-16 -30,-23 -23,-30 -16,-32 -9,-33 -4,-33 4,-32 9,-34 16,-32 23,-29 29,-22 33,-16 32,-11 34,-3 32,3 34,11 31,15 29,23 23,29 16,32 9,34 5,32 -4,33 -10,33 -16,32 -23,30 -29,22 -31,17 -34,9 -32,4 z"
+   id="path272"
+   inkscape:connector-curvature="0"
+   style="fill:#859900;stroke:none" />
+         </g>
+        </g>
+        <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g290">
+         <g
+   id="id15">
+          <rect
+   class="BoundingBox"
+   x="10126"
+   y="3826"
+   width="975"
+   height="975"
+   id="rect277"
+   style="fill:none;stroke:none" />
+          <path
+   d="m 10612,3826 c 276,0 487,210 487,486 0,276 -211,487 -487,487 -276,0 -486,-211 -486,-487 0,-276 210,-486 486,-486 z m -486,0 z m 974,974 z"
+   id="path279"
+   inkscape:connector-curvature="0"
+   style="fill:#859900;stroke:none" />
+          <text
+   class="TextShape"
+   id="text287"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-style="italic"
+     font-weight="400"
+     id="tspan285"
+     style="font-style:italic;font-weight:400;font-size:635px;font-family:'STIX Two Text'"><tspan
+       class="TextPosition"
+       x="10520"
+       y="4478"
+       id="tspan283"><tspan
+         id="tspan281"
+         style="fill:#fdf6e3;stroke:none">f</tspan></tspan></tspan></text>
+
+         </g>
+        </g>
+        <g
+   class="com.sun.star.drawing.LineShape"
+   id="g303">
+         <g
+   id="id16">
+          <rect
+   class="BoundingBox"
+   x="8902"
+   y="4247"
+   width="1452"
+   height="108"
+   id="rect292"
+   style="fill:none;stroke:none" />
+          <path
+   d="m 8955,4301 h 209"
+   id="path294"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="m 9373,4301 h 208"
+   id="path296"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="m 9790,4300 h 209"
+   id="path298"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="m 10208,4300 h 92"
+   id="path300"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
+         </g>
         </g>
        </g>
        <g
    class="com.sun.star.drawing.LineShape"
-   id="g356">
+   id="g316">
         <g
    id="id17">
          <rect
@@ -957,242 +841,271 @@
    y="7347"
    width="1307"
    height="107"
-   id="rect347"
+   id="rect307"
    style="fill:none;stroke:none" />
          <path
    d="M 4900,7400 H 4794"
-   id="path349"
+   id="path309"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#268bd2;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
          <path
    d="M 4337,7400 H 4231"
-   id="path351"
+   id="path311"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#268bd2;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
          <path
    d="m 3774,7400 h -74"
-   id="path353"
+   id="path313"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#268bd2;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
         </g>
        </g>
        <g
    class="com.sun.star.drawing.LineShape"
-   id="g367">
+   id="g327">
         <g
    id="id18">
          <rect
    class="BoundingBox"
-   x="14947"
-   y="1305"
+   x="10874"
+   y="3678"
    width="1307"
    height="107"
-   id="rect358"
+   id="rect318"
    style="fill:none;stroke:none" />
          <path
-   d="m 16200,1358 h -106"
-   id="path360"
+   d="m 12127,3731 h -106"
+   id="path320"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#cb4b16;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
          <path
-   d="m 15637,1358 h -106"
-   id="path362"
+   d="m 11564,3731 h -106"
+   id="path322"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#cb4b16;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
          <path
-   d="m 15074,1358 h -74"
-   id="path364"
+   d="m 11001,3731 h -74"
+   id="path324"
    inkscape:connector-curvature="0"
    style="fill:none;stroke:#cb4b16;stroke-width:106;stroke-linecap:round;stroke-linejoin:round" />
-        </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.TextShape"
-   id="g380">
-        <g
-   id="id19">
-         <rect
-   class="BoundingBox"
-   x="2900"
-   y="8300"
-   width="1801"
-   height="815"
-   id="rect369"
-   style="fill:none;stroke:none" />
-         <text
-   class="TextShape"
-   id="text377"
-   x="-60.818283"
-   y="-21.92"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan375"
-     style="font-weight:400;font-size:564px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="3089.1816"
-       y="8831.0801"
-       id="tspan373"><tspan
-         id="tspan371"
-         style="fill:#fdf6e3;stroke:none">−∞</tspan></tspan></tspan></text>
-
-        </g>
-       </g>
-       <g
-   class="com.sun.star.drawing.TextShape"
-   id="g393">
-        <g
-   id="id20">
-         <rect
-   class="BoundingBox"
-   x="15500"
-   y="8300"
-   width="1801"
-   height="815"
-   id="rect382"
-   style="fill:none;stroke:none" />
-         <text
-   class="TextShape"
-   id="text390"
-   x="18.348463"
-   y="0.07582812"><tspan
-     class="TextParagraph"
-     font-size="564px"
-     font-weight="400"
-     id="tspan388"
-     style="font-weight:400;font-size:564px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="15768.348"
-       y="8853.0762"
-       id="tspan386"><tspan
-         id="tspan384"
-         style="fill:#fdf6e3;stroke:none">+∞</tspan></tspan></tspan></text>
-
         </g>
        </g>
        <g
    class="com.sun.star.drawing.CustomShape"
-   id="g412">
+   id="g346">
         <g
-   id="id21">
+   id="id19">
          <rect
    class="BoundingBox"
    x="3099"
    y="6899"
    width="976"
-   height="975"
-   id="rect395"
+   height="976"
+   id="rect329"
    style="fill:none;stroke:none" />
          <path
    d="m 3585,6899 c 276,0 487,210 487,486 0,276 -211,487 -487,487 -276,0 -486,-211 -486,-487 0,-276 210,-486 486,-486 z m -486,0 z m 974,974 z"
-   id="path397"
+   id="path331"
    inkscape:connector-curvature="0"
    style="fill:#268bd2;stroke:none" />
          <text
    class="TextShape"
-   id="text409"
-   y="-12.742325"
-   x="51.828926"><tspan
+   id="text343"><tspan
      class="TextParagraph"
      font-size="368px"
      font-style="italic"
      font-weight="400"
-     id="tspan407"
+     id="tspan341"
      style="font-style:italic;font-weight:400;font-size:368px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="3323.8291"
-       y="7541.2573"
-       id="tspan401"><tspan
+       x="3272"
+       y="7554"
+       id="tspan335"><tspan
          font-size="635px"
-         id="tspan399"
+         id="tspan333"
          style="font-size:635px;fill:#fdf6e3;stroke:none">f </tspan></tspan><tspan
        class="TextPosition"
-       y="7331.2573"
-       id="tspan405"><tspan
-         id="tspan403"
+       y="7344"
+       id="tspan339"><tspan
+         id="tspan337"
          style="fill:#fdf6e3;stroke:none">−</tspan></tspan></tspan></text>
 
         </g>
        </g>
        <g
    class="com.sun.star.drawing.CustomShape"
-   id="g431">
+   id="g365">
         <g
-   id="id22">
+   id="id20">
          <rect
    class="BoundingBox"
-   x="15799"
-   y="826"
-   width="976"
+   x="11726"
+   y="3199"
+   width="975"
    height="975"
-   id="rect414"
+   id="rect348"
    style="fill:none;stroke:none" />
          <path
-   d="m 16285,826 c 276,0 487,210 487,486 0,276 -211,487 -487,487 -276,0 -486,-211 -486,-487 0,-276 210,-486 486,-486 z m -486,0 z m 974,974 z"
-   id="path416"
+   d="m 12212,3199 c 276,0 487,210 487,486 0,276 -211,487 -487,487 -276,0 -486,-211 -486,-487 0,-276 210,-486 486,-486 z m -486,0 z m 974,974 z"
+   id="path350"
    inkscape:connector-curvature="0"
    style="fill:#cb4b16;stroke:none" />
          <text
    class="TextShape"
-   id="text428"
-   y="-12.7425"
-   x="51.829014"><tspan
+   id="text362"><tspan
      class="TextParagraph"
      font-size="368px"
      font-style="italic"
      font-weight="400"
-     id="tspan426"
+     id="tspan360"
      style="font-style:italic;font-weight:400;font-size:368px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="16023.829"
-       y="1468.2574"
-       id="tspan420"><tspan
+       x="11899"
+       y="3854"
+       id="tspan354"><tspan
          font-size="635px"
-         id="tspan418"
+         id="tspan352"
          style="font-size:635px;fill:#fdf6e3;stroke:none">f </tspan></tspan><tspan
        class="TextPosition"
-       y="1258.2574"
-       id="tspan424"><tspan
-         id="tspan422"
+       y="3644"
+       id="tspan358"><tspan
+         id="tspan356"
          style="fill:#fdf6e3;stroke:none">+</tspan></tspan></tspan></text>
 
         </g>
        </g>
        <g
-   class="com.sun.star.drawing.CustomShape"
-   id="g446">
+   class="Group"
+   id="g420">
         <g
-   id="id23">
-         <rect
+   class="com.sun.star.drawing.CustomShape"
+   id="g382">
+         <g
+   id="id21">
+          <rect
    class="BoundingBox"
-   x="9682"
-   y="3881"
-   width="802"
-   height="802"
-   id="rect433"
+   x="7520"
+   y="8254"
+   width="908"
+   height="908"
+   id="rect367"
    style="fill:none;stroke:none" />
-         <path
-   d="m 10082,3881 c 227,0 400,173 400,400 0,227 -173,400 -400,400 -227,0 -400,-173 -400,-400 0,-227 173,-400 400,-400 z m -400,0 z m 801,801 z"
-   id="path435"
+          <path
+   d="m 7973,8307 c 227,0 400,173 400,400 0,227 -173,400 -400,400 -227,0 -400,-173 -400,-400 0,-227 173,-400 400,-400 z m -400,0 z m 801,801 z"
+   id="path369"
    inkscape:connector-curvature="0"
-   style="fill:#073642;stroke:none" />
-         <text
+   style="fill:#fdf6e3;stroke:none" />
+          <path
+   d="m 7973,8307 c 227,0 400,173 400,400 0,227 -173,400 -400,400 -227,0 -400,-173 -400,-400 0,-227 173,-400 400,-400 z"
+   id="path371"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
+          <text
    class="TextShape"
-   id="text443"
-   y="-1.035"
-   x="0.89999998"><tspan
+   id="text379"><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="400"
-     id="tspan441"
+     id="tspan377"
      style="font-weight:400;font-size:635px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="9853.9004"
-       y="4445.9648"
-       id="tspan439"><tspan
-         id="tspan437"
+       x="7816"
+       y="8873"
+       id="tspan375"><tspan
+         id="tspan373"
+         style="fill:#073642;stroke:none">0</tspan></tspan></tspan></text>
+
+         </g>
+        </g>
+        <g
+   class="com.sun.star.drawing.LineShape"
+   id="g403">
+         <g
+   id="id22">
+          <rect
+   class="BoundingBox"
+   x="7793"
+   y="5100"
+   width="361"
+   height="3254"
+   id="rect384"
+   style="fill:none;stroke:none" />
+          <path
+   d="M 7973,8300 V 8091"
+   id="path386"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 7973,7882 V 7674"
+   id="path388"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 7973,7465 V 7256"
+   id="path390"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 7973,7047 V 6838"
+   id="path392"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 7973,6629 V 6421"
+   id="path394"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 7973,6212 V 6003"
+   id="path396"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="M 7973,5794 V 5585"
+   id="path398"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#073642;stroke-width:106;stroke-linejoin:round" />
+          <path
+   d="m 7940,5455 -32,-9 -33,-17 -29,-22 -23,-30 -16,-32 -9,-33 -4,-33 4,-32 9,-34 16,-32 23,-29 29,-22 33,-16 32,-11 34,-3 32,3 33,11 32,16 29,22 23,29 16,32 9,34 5,32 -5,33 -9,33 -16,32 -23,30 -29,22 -32,17 -33,9 -32,4 z"
+   id="path400"
+   inkscape:connector-curvature="0"
+   style="fill:#073642;stroke:none" />
+         </g>
+        </g>
+        <g
+   class="com.sun.star.drawing.CustomShape"
+   id="g418">
+         <g
+   id="id23">
+          <rect
+   class="BoundingBox"
+   x="7573"
+   y="5100"
+   width="802"
+   height="803"
+   id="rect405"
+   style="fill:none;stroke:none" />
+          <path
+   d="m 7973,5100 c 227,0 400,173 400,400 0,227 -173,400 -400,400 -227,0 -400,-173 -400,-400 0,-227 173,-400 400,-400 z m -400,0 z m 801,801 z"
+   id="path407"
+   inkscape:connector-curvature="0"
+   style="fill:#073642;stroke:none" />
+          <text
+   class="TextShape"
+   id="text415"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan413"
+     style="font-weight:400;font-size:635px;font-family:'STIX Two Math'"><tspan
+       class="TextPosition"
+       x="7744"
+       y="5666"
+       id="tspan411"><tspan
+         id="tspan409"
          style="fill:#fdf6e3;stroke:none">=</tspan></tspan></tspan></text>
 
+         </g>
         </g>
        </g>
       </g>

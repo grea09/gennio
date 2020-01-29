@@ -29,21 +29,21 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="3840"
+   inkscape:window-height="2034"
    id="namedview1400"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="1.1893044"
-   inkscape:cx="145.85425"
-   inkscape:cy="205.65168"
+   inkscape:zoom="3.3638608"
+   inkscape:cx="326.82426"
+   inkscape:cy="197.00426"
    inkscape:window-x="1920"
-   inkscape:window-y="30"
+   inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="id5" />
+   inkscape:current-layer="g1396" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -429,6 +429,7 @@
          id="tspan406">Compiler</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id4">
         <rect
@@ -685,6 +686,7 @@
          id="tspan511">Compiler-compiler</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id5">
         <rect
@@ -739,7 +741,7 @@
    id="text576"
    class="TextShape"
    x="-52.916668"><tspan
-     style="font-weight:700;font-size:564px;font-family:Hack, monospace"
+     style="font-weight:bold;font-size:564px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan544"
      font-weight="700"
      font-size="564px"
@@ -747,64 +749,46 @@
        id="tspan542"
        y="6255"
        x="1323.0834"
-       class="TextPosition"><tspan
-         style="fill:#073642;stroke:none"
-         id="tspan540">Grammar</tspan></tspan></tspan><tspan
-     style="font-weight:700;font-size:353px;font-family:Hack, monospace"
-     id="tspan554"
-     font-weight="700"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan552"
-       y="6712"
-       x="1323.0834"
-       class="TextPosition"><tspan
-         style="font-weight:400;fill:#073642;stroke:none"
-         id="tspan546"
-         font-weight="400">&lt;</tspan><tspan
-         style="fill:#073642;stroke:none"
-         id="tspan548">rule</tspan><tspan
-         style="font-weight:400;fill:#073642;stroke:none"
-         id="tspan550"
-         font-weight="400">&gt;::=</tspan></tspan></tspan><tspan
-     style="font-weight:400;font-size:353px;font-family:Hack, monospace"
-     id="tspan560"
-     font-weight="400"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan558"
-       y="7123"
-       x="1323.0834"
-       class="TextPosition"><tspan
-         style="fill:#073642;stroke:none"
-         id="tspan556">&lt;regex&gt;*</tspan></tspan></tspan><tspan
-     style="font-weight:400;font-size:353px;font-family:Hack, monospace"
-     id="tspan568"
-     font-weight="400"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan566"
-       y="7534"
-       x="1323.0834"
-       class="TextPosition"><tspan
-         style="fill:#073642;stroke:none"
-         id="tspan562">| </tspan><tspan
-         style="fill:#859900;stroke:none"
-         id="tspan564">&quot;literals&quot;</tspan></tspan></tspan><tspan
-     style="font-weight:700;font-size:353px;font-family:Hack, monospace"
-     id="tspan574"
-     font-weight="700"
-     font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan572"
-       y="7945"
-       x="1323.0834"
-       class="TextPosition"><tspan
-         style="fill:#dc322f;stroke:none"
-         id="tspan570">(evaluation)</tspan></tspan></tspan></text>
+       class="TextPosition"
+       style="fill:#073642;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Grammar</tspan></tspan></text>
+<text
+   class="TextShape"
+   x="-52.916668"
+   id="text1380">&lt;rule&gt;::=</text>
 
 
-       </g><g
+
+       <text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:317.50000781px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:746.70709229"
+   x="1281.5077"
+   y="6723.2871"
+   id="text1419"><tspan
+     sodipodi:role="line"
+     id="tspan1417"
+     x="1281.5077"
+     y="6723.2871"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229;fill:#002b36">&lt;<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#002b36"
+   id="tspan1421">rule</tspan>&gt;::=</tspan><tspan
+     sodipodi:role="line"
+     x="1281.5077"
+     y="7291.2227"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229;fill:#002b36"
+     id="tspan1423">&lt;regex&gt;*</tspan><tspan
+     sodipodi:role="line"
+     x="1281.5077"
+     y="7859.1587"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229;fill:#002b36"
+     id="tspan1425">|<tspan
+   style="fill:#859900"
+   id="tspan1429">&quot;literals&quot;</tspan></tspan><tspan
+     sodipodi:role="line"
+     x="1281.5077"
+     y="8427.0938"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229;fill:#dc322f"
+     id="tspan1427">(evaluation)</tspan></text>
+</g><g
    id="id6">
         <rect
    style="fill:none;stroke:none"
@@ -834,6 +818,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan585">Result</tspan></tspan></tspan></text>
+
 
 
        </g><g
@@ -1162,6 +1147,7 @@
          id="tspan718">Generated Compiler</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id8">
         <rect
@@ -1414,6 +1400,7 @@
          id="tspan821">Parser</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id9">
         <rect
@@ -1476,6 +1463,7 @@
          id="tspan851">Tree</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id11">
         <rect
@@ -1510,6 +1498,7 @@
        class="TextPosition"><tspan
          style="fill:#dc322f;stroke:none"
          id="tspan868">Compiler</tspan></tspan></tspan></text>
+
 
 
        </g><g
@@ -1764,6 +1753,7 @@
          id="tspan971">Parser</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id13">
         <rect
@@ -1800,6 +1790,7 @@
          id="tspan988">Evaluator</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id14">
         <rect
@@ -1818,7 +1809,7 @@
         <text
    id="text1025"
    class="TextShape"><tspan
-     style="font-weight:700;font-size:494px;font-family:Hack, monospace"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:494px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"
      id="tspan1007"
      font-weight="700"
      font-size="494px"
@@ -1826,9 +1817,8 @@
        id="tspan1005"
        y="9906"
        x="2608"
-       class="TextPosition"><tspan
-         style="fill:#073642;stroke:none"
-         id="tspan1003">Text</tspan></tspan></tspan><tspan
+       class="TextPosition"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">Text</tspan></tspan><tspan
      style="font-weight:400;font-size:353px;font-family:'Redacted Script'"
      id="tspan1017"
      font-weight="400"
@@ -1837,26 +1827,19 @@
        id="tspan1011"
        y="10368"
        x="1979"
-       class="TextPosition"><tspan
-         style="fill:#073642;stroke:none"
-         id="tspan1009">Here is the</tspan></tspan><tspan
-       id="tspan1015"
-       y="10775"
-       x="1979"
-       class="TextPosition"><tspan
-         style="fill:#073642;stroke:none"
-         id="tspan1013">input text for</tspan></tspan></tspan><tspan
+       class="TextPosition"
+       style="fill:#073642;stroke:none" /></tspan><tspan
      style="font-weight:400;font-size:353px;font-family:'Redacted Script'"
-     id="tspan1023"
      font-weight="400"
      font-size="353px"
-     class="TextParagraph"><tspan
-       id="tspan1021"
-       y="11182"
-       x="1979"
-       class="TextPosition"><tspan
-         style="fill:#073642;stroke:none"
-         id="tspan1019">The application</tspan></tspan></tspan></text>
+     class="TextParagraph"
+     id="tspan1437" /><tspan
+     style="font-weight:400;font-size:353px;font-family:'Redacted Script'"
+     font-weight="400"
+     font-size="353px"
+     class="TextParagraph"
+     id="tspan1439" /></text>
+
 
 
        </g><g
@@ -2111,6 +2094,7 @@
          id="tspan1122">Parser</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id16">
         <rect
@@ -2173,6 +2157,7 @@
          id="tspan1152">Tree</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id18">
         <rect
@@ -2207,6 +2192,7 @@
        class="TextPosition"><tspan
          style="fill:#dc322f;stroke:none"
          id="tspan1169">Evaluator</tspan></tspan></tspan></text>
+
 
 
        </g><g
@@ -2341,6 +2327,7 @@
          id="tspan1229">Legend</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id25"
    transform="matrix(1.2717966,0,0,1,-1409.3084,111.23449)">
@@ -2389,6 +2376,7 @@
          id="tspan1251">Process</tspan></tspan></tspan></text>
 
 
+
        </g><g
    id="id27"
    transform="translate(2741.127,-1134.5918)">
@@ -2408,7 +2396,7 @@
         <text
    id="text1272"
    class="TextShape"><tspan
-     style="font-weight:700;font-size:494px;font-family:Hack, monospace"
+     style="font-weight:bold;font-size:494px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan1270"
      font-weight="700"
      font-size="494px"
@@ -2416,9 +2404,9 @@
        id="tspan1268"
        y="15063"
        x="10450"
-       class="TextPosition"><tspan
-         style="fill:#073642;stroke:none"
-         id="tspan1266">Input</tspan></tspan></tspan></text>
+       class="TextPosition"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">Input</tspan></tspan></text>
+
 
 
        </g><g
@@ -2452,6 +2440,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan1281">Output</tspan></tspan></tspan></text>
+
 
 
        </g><g
@@ -2489,6 +2478,7 @@
        class="TextPosition"><tspan
          style="fill:#657b83;stroke:none"
          id="tspan1298">Evaluator</tspan></tspan></tspan></text>
+
 
 
        </g><g
@@ -2682,6 +2672,28 @@
          id="tspan1379">Data</tspan></tspan></tspan></text>
 
 
+
        </g>
- </g>
+ <text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:355.72772217px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#002b36;fill-opacity:1;stroke:none;stroke-width:117.64860535;"
+   x="1989.6038"
+   y="10305.943"
+   id="text1443"><tspan
+     sodipodi:role="line"
+     id="tspan1441"
+     x="1989.6038"
+     y="10305.943"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script';fill:#002b36;stroke-width:117.64860535;">Here is the</tspan><tspan
+     sodipodi:role="line"
+     x="1989.6038"
+     y="10750.603"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script';fill:#002b36;stroke-width:117.64860535;"
+     id="tspan1445">input text for</tspan><tspan
+     sodipodi:role="line"
+     x="1989.6038"
+     y="11195.263"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script';fill:#002b36;stroke-width:117.64860535;"
+     id="tspan1447">The application</tspan></text>
+</g>
 </svg>

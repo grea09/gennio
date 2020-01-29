@@ -35,15 +35,15 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1047"
+   inkscape:window-width="3840"
+   inkscape:window-height="2034"
    id="namedview530"
    showgrid="false"
    inkscape:zoom="2.0554808"
-   inkscape:cx="295.41607"
-   inkscape:cy="177.7"
-   inkscape:window-x="0"
-   inkscape:window-y="1080"
+   inkscape:cx="307.15107"
+   inkscape:cy="113.68044"
+   inkscape:window-x="1920"
+   inkscape:window-y="60"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg2" /><path
    d="m 7999,8976.3786 -7999,0 L 0,0 l 15997,0 0,8976.3786 -7998,0 z"
@@ -840,6 +840,7 @@
          id="tspan332"
          style="font-size:846.66662598px;fill:#073642;stroke:none">0</tspan></tspan></tspan></text>
 
+
 <text
    class="TextShape"
    id="text334"
@@ -856,6 +857,7 @@
        style="font-size:846.66662598px;fill:#586e75"><tspan
          id="tspan340"
          style="font-size:846.66662598px;fill:#586e75;stroke:none">1</tspan></tspan></tspan></text>
+
 
 <text
    class="TextShape"
@@ -874,6 +876,7 @@
          id="tspan348"
          style="font-size:846.66662598px;fill:#657b83;stroke:none">2</tspan></tspan></tspan></text>
 
+
 <text
    class="TextShape"
    id="text350"
@@ -890,6 +893,7 @@
        style="font-size:846.66662598px;fill:#657b83"><tspan
          id="tspan356"
          style="font-size:846.66662598px;fill:#657b83;stroke:none">3</tspan></tspan></tspan></text>
+
 
 <text
    class="TextShape"
@@ -908,6 +912,7 @@
          id="tspan364"
          style="font-size:846.66662598px;fill:#839496;stroke:none">4</tspan></tspan></tspan></text>
 
+
 <text
    class="TextShape"
    id="text366"
@@ -924,6 +929,7 @@
        style="font-size:846.66662598px;fill:#93a1a1"><tspan
          id="tspan372"
          style="font-size:846.66662598px;fill:#93a1a1;stroke:none">5</tspan></tspan></tspan></text>
+
 
 <text
    class="TextShape"
@@ -942,6 +948,7 @@
          id="tspan380"
          style="font-size:564.44439697px;fill:#93a1a1;stroke:none">10⁻⁴</tspan></tspan></tspan></text>
 
+
 <text
    class="TextShape"
    id="text382"
@@ -958,6 +965,7 @@
        style="font-size:564.44439697px;fill:#839496"><tspan
          id="tspan388"
          style="font-size:564.44439697px;fill:#839496;stroke:none">10⁻³</tspan></tspan></tspan></text>
+
 
 <text
    class="TextShape"
@@ -976,6 +984,7 @@
          id="tspan396"
          style="font-size:564.44439697px;fill:#657b83;stroke:none">10⁻²</tspan></tspan></tspan></text>
 
+
 <text
    class="TextShape"
    id="text398"
@@ -992,6 +1001,7 @@
        style="font-size:564.44439697px;fill:#586e75"><tspan
          id="tspan404"
          style="font-size:564.44439697px;fill:#586e75;stroke:none">0,1</tspan></tspan></tspan></text>
+
 
 <text
    class="TextShape"
@@ -1010,6 +1020,7 @@
          id="tspan412"
          style="font-size:564.44439697px;fill:#586e75;stroke:none">1</tspan></tspan></tspan></text>
 
+
 <text
    class="TextShape"
    id="text414"
@@ -1027,6 +1038,7 @@
          id="tspan420"
          style="font-size:564.44439697px;fill:#073642;stroke:none">10</tspan></tspan></tspan></text>
 
+
 <text
    class="TextShape"
    id="text422"
@@ -1043,6 +1055,7 @@
        style="font-size:564.44439697px"><tspan
          id="tspan428"
          style="font-size:564.44439697px;fill:#073642;stroke:none">100</tspan></tspan></tspan></text>
+
 
 <text
    class="TextShape"
@@ -1062,6 +1075,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44439697px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold';fill:#dc322f;stroke:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:493.88885498px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold';baseline-shift:baseline"
          id="tspan4745" /></tspan></tspan></text>
+
 <g
    id="g4676"
    transform="translate(-282.2222,-498.42431)"><path
@@ -1085,30 +1099,32 @@
          style="fill:#dc322f;stroke:none"
          id="tspan472">4</tspan></tspan></tspan></text>
 
+
 </g><text
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold'"
    y="-720.25452"
    x="-757.28149"
    id="text3641"
    class="TextShape"><tspan
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44439697px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold';fill:#dc322f"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:564.44439697px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math';fill:#dc322f"
      id="tspan3643"
      font-weight="400"
      font-size="348px"
      class="TextParagraph"><tspan
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44439697px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold';fill:#dc322f;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:564.44439697px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math';fill:#dc322f;stroke:none"
        id="tspan3645"
        y="1080.7455"
        x="1939.7185"
        class="TextPosition"><tspan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'"
-   id="tspan1186">f</tspan>(<tspan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'"
-   id="tspan1155">x</tspan>) = 146,8 <tspan
-   id="tspan3651"
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:564.44439697px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic';fill:#dc322f">x<tspan
+   style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1102">f</tspan>(<tspan
+   style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1106">x</tspan>) = 146,8 <tspan
+   style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan1110">x</tspan><tspan
    style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:65%;baseline-shift:super"
-   id="tspan1202">-4,757</tspan></tspan></tspan></tspan></text>
+   id="tspan1202">-4,757</tspan></tspan></tspan></text>
+
 <text
    class="TextShape"
    id="text438"
@@ -1127,6 +1143,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44439697px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold';fill:#859900;stroke:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:493.88885498px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold'"
          id="tspan4747" /></tspan></tspan></text>
+
 <g
    id="g4669"
    transform="translate(-268.1112,-1078.1916)"><path
@@ -1149,6 +1166,7 @@
        class="TextPosition"><tspan
          style="fill:#859900;stroke:none"
          id="tspan488">3</tspan></tspan></tspan></text>
+
 
 </g><text
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold'"
@@ -1174,6 +1192,7 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:564.44439697px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic';fill:#859900">x<tspan
    style="font-size:65%;baseline-shift:super;-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
    id="tspan1200">-3,612</tspan></tspan></tspan></tspan></text>
+
 <text
    class="TextShape"
    id="text446"
@@ -1192,6 +1211,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564.44439697px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold';fill:#268bd2;stroke:none"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:493.88885498px;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold'"
          id="tspan4749" /></tspan></tspan></text>
+
 <g
    id="g4662"
    transform="translate(-268.1112,-1655.1298)"><path
@@ -1214,6 +1234,7 @@
        style="fill:#268bd2"><tspan
          id="tspan504"
          style="fill:#268bd2;stroke:none">2</tspan></tspan></tspan></text>
+
 
 </g><text
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math Bold'"
@@ -1240,6 +1261,7 @@
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:564.44439697px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic';fill:#268bd2">x<tspan
    style="-inkscape-font-specification:'STIX Two Math';font-family:'STIX Two Math';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:65%;baseline-shift:super"
    id="tspan1198">-2,364</tspan></tspan></tspan></tspan></text>
+
 <text
    class="TextShape"
    id="text514"
@@ -1258,6 +1280,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:846.66662598px;font-family:Aller;-inkscape-font-specification:Aller;fill:#002b36"><tspan
          id="tspan520"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:846.66662598px;font-family:Aller;-inkscape-font-specification:Aller;fill:#002b36;stroke:none">Level</tspan></tspan></tspan></text>
+
 
 <text
    class="TextShape"
@@ -1278,6 +1301,7 @@
          id="tspan528"
          style="fill:#073642;stroke:none">Running time (s)</tspan></tspan></tspan></text>
 
+
 <text
    class="TextShape"
    id="text514-2"
@@ -1296,5 +1320,6 @@
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:560.71490479px;font-family:Aller;-inkscape-font-specification:Aller;fill:#002b36"><tspan
      id="tspan520-9"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:560.71490479px;font-family:Aller;-inkscape-font-specification:Aller;fill:#002b36;stroke:none" /></tspan></tspan></text>
+
 
 </svg>

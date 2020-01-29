@@ -20,7 +20,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata943"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -29,21 +29,21 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="3840"
+   inkscape:window-height="2034"
    id="namedview941"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="1.1893044"
-   inkscape:cx="117.06764"
-   inkscape:cy="140.35278"
+   inkscape:zoom="4.7572176"
+   inkscape:cx="252.50346"
+   inkscape:cy="90.014259"
    inkscape:window-x="1920"
-   inkscape:window-y="30"
+   inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g931" />
+   inkscape:current-layer="id41" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -610,6 +610,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -632,26 +633,29 @@
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text212"><tspan
+   id="text212"
+   x="-52.916668"
+   y="-52.916668"><tspan
      class="TextParagraph"
      font-size="368px"
      font-weight="400"
      id="tspan210"
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="5070"
-       y="6002"
+       x="5017.0835"
+       y="5949.0835"
        id="tspan204"><tspan
          font-size="635px"
          font-style="italic"
          id="tspan202"
          style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#073642;stroke:none">a</tspan></tspan><tspan
        class="TextPosition"
-       x="5409"
-       y="6212"
+       x="5356.0835"
+       y="6159.0835"
        id="tspan208"><tspan
          id="tspan206"
          style="fill:#073642;stroke:none">3</tspan></tspan></tspan></text>
+
 
 
 
@@ -677,26 +681,29 @@
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text231"><tspan
+   id="text231"
+   y="-52.916668"
+   x="-52.916668"><tspan
      class="TextParagraph"
      font-size="368px"
      font-weight="400"
      id="tspan229"
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="5070"
-       y="2134"
+       x="5017.0835"
+       y="2081.0833"
        id="tspan223"><tspan
          font-size="635px"
          font-style="italic"
          id="tspan221"
          style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#073642;stroke:none">a</tspan></tspan><tspan
        class="TextPosition"
-       x="5409"
-       y="2344"
+       x="5356.0835"
+       y="2291.0833"
        id="tspan227"><tspan
          id="tspan225"
          style="fill:#073642;stroke:none">1</tspan></tspan></tspan></text>
+
 
 
 
@@ -722,26 +729,29 @@
    style="fill:none;stroke:#dc322f;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text250"><tspan
+   id="text250"
+   x="-52.916668"
+   y="-52.916668"><tspan
      class="TextParagraph"
      font-size="368px"
      font-weight="400"
      id="tspan248"
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="8126"
-       y="6002"
+       x="8073.0835"
+       y="5949.0835"
        id="tspan242"><tspan
          font-size="635px"
          font-style="italic"
          id="tspan240"
          style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#073642;stroke:none">a</tspan></tspan><tspan
        class="TextPosition"
-       x="8465"
-       y="6212"
+       x="8412.083"
+       y="6159.0835"
        id="tspan246"><tspan
          id="tspan244"
          style="fill:#073642;stroke:none">4</tspan></tspan></tspan></text>
+
 
 
 
@@ -827,6 +837,7 @@
        id="tspan279"><tspan
          id="tspan277"
          style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
+
 
 
 
@@ -1030,6 +1041,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -1222,6 +1234,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -1269,6 +1282,7 @@
        id="tspan452"><tspan
          id="tspan450"
          style="fill:#073642;stroke:none">2</tspan></tspan></tspan></text>
+
 
 
 
@@ -1328,6 +1342,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -1357,6 +1372,7 @@
        id="tspan491"><tspan
          id="tspan489"
          style="fill:#ce181e;stroke:none">†</tspan></tspan></tspan></text>
+
 
 
 
@@ -1437,26 +1453,29 @@
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text535"><tspan
+   id="text535"
+   y="-52.916668"
+   x="-52.916668"><tspan
      class="TextParagraph"
      font-size="368px"
      font-weight="400"
      id="tspan533"
      style="font-weight:400;font-size:368px;font-family:'STIX Two Math'"><tspan
        class="TextPosition"
-       x="5070"
-       y="4022"
+       x="5017.0835"
+       y="3969.0833"
        id="tspan527"><tspan
          font-size="635px"
          font-style="italic"
          id="tspan525"
          style="font-style:italic;font-size:635px;font-family:'STIX Two Text';fill:#073642;stroke:none">a</tspan></tspan><tspan
        class="TextPosition"
-       x="5409"
-       y="4232"
+       x="5356.0835"
+       y="4179.0835"
        id="tspan531"><tspan
          id="tspan529"
          style="fill:#073642;stroke:none">2</tspan></tspan></tspan></text>
+
 
 
 
@@ -1615,6 +1634,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -1665,6 +1685,7 @@
        id="tspan616"><tspan
          id="tspan614"
          style="fill:#073642;stroke:none">2</tspan></tspan></tspan></text>
+
 
 
 
@@ -1798,6 +1819,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -1848,6 +1870,7 @@
 
 
 
+
        </g>
       </g>
       
@@ -1884,6 +1907,7 @@
        y="1667.1091"
        id="tspan634"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#93a1a1;stroke:none;stroke-width:28.22200203">Legend</tspan></tspan></text>
+
 
 </g>
       </g>
@@ -1959,6 +1983,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -1992,6 +2017,7 @@
          style="font-size:529px;fill:#839496;stroke:none">I</tspan><tspan
          id="tspan825"
          style="fill:#839496;stroke:none">NITIAL</tspan></tspan></tspan></text>
+
 
 
 
@@ -2041,6 +2067,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -2077,6 +2104,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -2100,7 +2128,9 @@
    style="fill:none;stroke:#859900;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text880"><tspan
+   id="text880"
+   x="-52.916668"
+   y="-52.916668"><tspan
      class="TextParagraph"
      font-size="635px"
      font-style="italic"
@@ -2108,11 +2138,12 @@
      id="tspan878"
      style="font-style:italic;font-weight:400;font-size:635px;font-family:'STIX Two Text'"><tspan
        class="TextPosition"
-       x="11507"
-       y="5072"
+       x="11454.083"
+       y="5019.0835"
        id="tspan876"><tspan
          id="tspan874"
          style="fill:#073642;stroke:none">a</tspan></tspan></tspan></text>
+
 
 
 
@@ -2146,6 +2177,7 @@
        id="tspan889"><tspan
          id="tspan887"
          style="fill:#839496;stroke:none">Step</tspan></tspan></tspan></text>
+
 
 
 
@@ -2183,6 +2215,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -2214,6 +2247,7 @@
        id="tspan915"><tspan
          id="tspan913"
          style="fill:#839496;stroke:none">Order link</tspan></tspan></tspan></text>
+
 
 
 
@@ -2276,26 +2310,27 @@
    class="com.sun.star.drawing.TextShape"
    id="g485-0"><g
      id="id23-9"><rect
-       class="BoundingBox"
-       x="3811"
-       y="1237"
-       width="990"
-       height="964"
-       id="rect474-3"
-       style="fill:none;stroke:none" /><text
-       class="TextShape"
-       id="text482-6"><tspan
-         class="TextParagraph"
-         font-size="635px"
-         font-weight="400"
-         id="tspan480-0"
-         style="font-weight:400;font-size:635px;font-family:'STIX Two Math'"><tspan
-           class="TextPosition"
-           x="4061"
-           y="1845"
-           id="tspan478-6"><tspan
-             id="tspan476-2"
-             style="fill:#ce181e;stroke:none">⤈</tspan></tspan></tspan></text>
+   class="BoundingBox"
+   x="3811"
+   y="1237"
+   width="990"
+   height="964"
+   id="rect474-3"
+   style="fill:none;stroke:none" /><text
+   class="TextShape"
+   id="text482-6"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan480-0"
+     style="font-weight:400;font-size:635px;font-family:'STIX Two Math'"><tspan
+       class="TextPosition"
+       x="4061"
+       y="1845"
+       id="tspan478-6"><tspan
+         id="tspan476-2"
+         style="fill:#ce181e;stroke:none">⤈</tspan></tspan></tspan></text>
+
 </g></g><g
    transform="matrix(-1,0,0,1,18119.889,2943.1838)"
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
@@ -2341,26 +2376,27 @@
    class="com.sun.star.drawing.TextShape"
    id="g498-9"><g
      id="id24-2"><rect
-       class="BoundingBox"
-       x="6247"
-       y="4700"
-       width="854"
-       height="964"
-       id="rect487-2"
-       style="fill:none;stroke:none" /><text
-       class="TextShape"
-       id="text495-8"><tspan
-         class="TextParagraph"
-         font-size="635px"
-         font-weight="400"
-         id="tspan493-9"
-         style="font-weight:400;font-size:635px;font-family:'STIX Two Math'"><tspan
-           class="TextPosition"
-           x="6497"
-           y="5308"
-           id="tspan491-7"><tspan
-             id="tspan489-3"
-             style="fill:#ce181e;stroke:none">†</tspan></tspan></tspan></text>
+   class="BoundingBox"
+   x="6247"
+   y="4700"
+   width="854"
+   height="964"
+   id="rect487-2"
+   style="fill:none;stroke:none" /><text
+   class="TextShape"
+   id="text495-8"><tspan
+     class="TextParagraph"
+     font-size="635px"
+     font-weight="400"
+     id="tspan493-9"
+     style="font-weight:400;font-size:635px;font-family:'STIX Two Math'"><tspan
+       class="TextPosition"
+       x="6497"
+       y="5308"
+       id="tspan491-7"><tspan
+         id="tspan489-3"
+         style="fill:#ce181e;stroke:none">†</tspan></tspan></tspan></text>
+
 </g></g><g
    class="com.sun.star.drawing.ConnectorShape"
    id="g791"
@@ -2524,6 +2560,7 @@
 
 
 
+
        </g>
       </g><g
    class="com.sun.star.drawing.CustomShape"
@@ -2567,6 +2604,7 @@
 
 
 
+
        </g>
       </g><g
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
@@ -2574,45 +2612,47 @@
    id="g909-6"
    transform="translate(-1417.7495,-1179.7501)"><g
      id="id43-1"><rect
-       class="BoundingBox"
-       x="11959"
-       y="3700"
-       width="3042"
-       height="801"
-       id="rect898-2"
-       style="fill:none;stroke:none" /><text
-       class="TextShape"
-       id="text906-9"
-       x="102.5113"
-       y="189.09863"><tspan
-         class="TextParagraph"
-         font-size="529px"
-         font-style="italic"
-         font-weight="400"
-         id="tspan904-3"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic'"><tspan
-           class="TextPosition"
-           x="12311.511"
-           y="4416.0986"
-           id="tspan902-1"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic';fill:#839496;stroke:none">Threat</tspan></tspan></text>
+   class="BoundingBox"
+   x="11959"
+   y="3700"
+   width="3042"
+   height="801"
+   id="rect898-2"
+   style="fill:none;stroke:none" /><text
+   class="TextShape"
+   id="text906-9"
+   x="102.5113"
+   y="189.09863"><tspan
+     class="TextParagraph"
+     font-size="529px"
+     font-style="italic"
+     font-weight="400"
+     id="tspan904-3"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic'"><tspan
+       class="TextPosition"
+       x="12311.511"
+       y="4416.0986"
+       id="tspan902-1"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic';fill:#839496;stroke:none">Threat</tspan></tspan></text>
+
 <text
-       style="font-size:12.00000095px;fill-rule:evenodd;stroke-width:28.22200203;stroke-linejoin:round"
-       class="TextShape"
-       id="text906-9-4"
-       x="127.3729"
-       y="2725.189"><tspan
-         class="TextParagraph"
-         font-size="529px"
-         font-style="italic"
-         font-weight="400"
-         id="tspan904-3-7"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529.00006104px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic';stroke-width:28.22200203"><tspan
-           class="TextPosition"
-           x="12336.374"
-           y="6952.1895"
-           id="tspan902-1-8"
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic';fill:#839496;stroke:none;stroke-width:28.22200203">Subgoal</tspan></tspan></text>
+   style="font-size:12.00000095px;fill-rule:evenodd;stroke-width:28.22200203;stroke-linejoin:round"
+   class="TextShape"
+   id="text906-9-4"
+   x="127.3729"
+   y="2725.189"><tspan
+     class="TextParagraph"
+     font-size="529px"
+     font-style="italic"
+     font-weight="400"
+     id="tspan904-3-7"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529.00006104px;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic';stroke-width:28.22200203"><tspan
+       class="TextPosition"
+       x="12336.374"
+       y="6952.1895"
+       id="tspan902-1-8"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold Italic';fill:#839496;stroke:none;stroke-width:28.22200203">Subgoal</tspan></tspan></text>
+
 </g></g></g>
     </g>
    </g>

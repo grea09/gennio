@@ -19,7 +19,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath18"><path
@@ -35,21 +35,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1047"
+     inkscape:window-width="3840"
+     inkscape:window-height="2034"
      id="namedview4"
      showgrid="false"
      fit-margin-top="16"
      fit-margin-left="16"
      fit-margin-right="16"
      fit-margin-bottom="16"
-     inkscape:zoom="1.1893444"
-     inkscape:cx="314.00767"
-     inkscape:cy="25.287577"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="2.3786888"
+     inkscape:cx="13.320898"
+     inkscape:cy="90.356197"
+     inkscape:window-x="1920"
+     inkscape:window-y="60"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g408" /><g
+     inkscape:current-layer="g474" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="SELF+Color"
@@ -103,6 +103,7 @@
 
 
 
+
 </g><g
                id="g352"><path
                  d="m 406.9,727.8 c 12.2,0 21.5,-9.1 21.5,-20.9 0,-11.9 -9.3,-21 -21.5,-21 -12.1,0 -21.4,9.1 -21.4,21 0,11.8 9.3,20.9 21.4,20.9 z"
@@ -132,6 +133,7 @@
 
 
 
+
 </g><g
                id="g370"><path
                  d="m 406.8,651.9 c 7.2,0 12.7,-5.4 12.7,-12.5 0,-7.1 -5.5,-12.5 -12.7,-12.5 -7.3,0 -12.8,5.4 -12.8,12.5 0,7.1 5.5,12.5 12.8,12.5 z"
@@ -155,6 +157,7 @@
      x="0"
      y="0"
      id="tspan384">□</tspan></text>
+
 
 
 
@@ -196,6 +199,7 @@
 
 
 
+
 </g></g><g
                id="g416"><path
                  d="M 377,606.5 Z"
@@ -209,6 +213,7 @@
      x="0"
      y="0"
      id="tspan422">L</tspan></text>
+
 
 
 
@@ -245,6 +250,7 @@
 
 
 
+
 </g><g
                id="g444"><path
                  d="M 391.8,692 374.2,666.7"
@@ -256,7 +262,7 @@
                id="path448"
                inkscape:connector-curvature="0" /><g
                id="g456"
-               transform="translate(12.660576,5.3368348)"><text
+               transform="translate(18.660576,6.8368348)"><text
    transform="scale(1,-1)"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text460"
@@ -272,9 +278,10 @@
 
 
 
+
 </g><g
                id="g468"
-               transform="translate(0.22949647,3.9412471)"><text
+               transform="translate(-1.2705036,3.9412471)"><text
    transform="matrix(1,0,0,-1,395.4,670.4)"
    style="font-style:italic;font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Text';-inkscape-font-specification:STIXTwoTextItalic;writing-mode:lr-tb;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text472"><tspan
@@ -287,18 +294,22 @@
 
 
 
+
 </g><g
                id="g474"
                transform="translate(0,-3)"><text
-   transform="matrix(1,0,0,-1,344.4,685.3)"
+   transform="scale(1,-1)"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-   id="text478"><tspan
-     x="0"
+   id="text478"
+   x="342.89999"
+   y="-685.29999"><tspan
+     x="342.89999"
      sodipodi:role="line"
      id="tspan476"
-     y="0">¢ <tspan
+     y="-685.29999">¢ <tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'"
    id="tspan2456">d</tspan> ℙ</tspan></text>
+
 
 
 
@@ -336,6 +347,7 @@
 
 
 
+
 </g><path
                d="m 406.5,708.6 c 5.3,0 9.3,-4.4 9.3,-10 0,-5.7 -4,-10 -9.3,-10 -5.3,0 -9.4,4.3 -9.4,10 0,5.6 4.1,10 9.4,10 z m -9.4,0 z m 18.8,-20.1 z"
                style="fill:#dc322f;fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -348,6 +360,7 @@
      x="0"
      y="0"
      id="tspan552">ω</tspan></text>
+
 
 
 
@@ -375,7 +388,7 @@
                  inkscape:connector-curvature="0"
                  sodipodi:nodetypes="cc" /></g><g
                id="g456-5"
-               transform="translate(14.128149,-12.103598)"><text
+               transform="translate(15.628149,-12.103598)"><text
    transform="scale(1,-1)"
    style="font-variant:normal;font-weight:normal;font-size:18px;font-family:'STIX Two Math';-inkscape-font-specification:STIXTwoMath;writing-mode:lr-tb;fill:#268bd2;fill-opacity:1;fill-rule:nonzero;stroke:none"
    id="text460-9"
@@ -385,6 +398,7 @@
      y="-673.92841"
      id="tspan458-1"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'">eff</tspan></text>
+
 
 
 
@@ -404,6 +418,7 @@
 
 
 
+
 </g><g
                transform="translate(262.68032,-73.795883)"
                id="g530-0-9"><text
@@ -416,6 +431,7 @@
      y="-685.53772"
      x="146"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math'">⩙</tspan></text>
+
 
 
 
@@ -452,6 +468,7 @@
    id="tspan1821">𝒮</tspan>et</tspan></text>
 
 
+
 </g><g
            transform="translate(13.5,-32.936655)"
            id="g1430"><g
@@ -479,6 +496,7 @@
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic';fill:#268bd2;stroke-width:0.99999994">function</tspan></text>
 
 
+
 </g><g
            transform="translate(13.5,-31.420587)"
            id="g1422"><g
@@ -502,6 +520,7 @@
        id="tspan1831">℘owerSet</tspan></tspan></text>
 
 
+
 </g><g
            id="g1416"
            transform="translate(6,-29.881494)"><path
@@ -522,6 +541,7 @@
    id="tspan1835">⊂</tspan>luded</tspan></text>
 
 
+
 </g><g
            id="g140-3"
            transform="translate(79.535943,88.464949)"><text
@@ -534,6 +554,7 @@
      id="tspan142-8"
      y="-636.90002"
      x="201.10001">Legend</tspan></text>
+
 
 
 </g><path
@@ -571,5 +592,6 @@
      id="tspan1026"
      y="-589.8938"
      x="328.59">graph</tspan></text>
+
 
 </g></g></g></svg>

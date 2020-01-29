@@ -20,7 +20,7 @@
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"><metadata
    id="metadata1068"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -29,15 +29,15 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="3840"
+   inkscape:window-height="2034"
    id="namedview1066"
    showgrid="false"
    inkscape:zoom="1.3881979"
-   inkscape:cx="241.28772"
+   inkscape:cx="50.392747"
    inkscape:cy="111.50948"
-   inkscape:window-x="1"
-   inkscape:window-y="30"
+   inkscape:window-x="1920"
+   inkscape:window-y="60"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg1064"
    fit-margin-top="0"
@@ -859,9 +859,11 @@
  <g
    id="g238"
    class="com.sun.star.drawing.TextShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id3">
+   id="id3"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect227"
@@ -872,7 +874,8 @@
    class="BoundingBox" />
         <text
    id="text235"
-   class="TextShape"><tspan
+   class="TextShape"
+   style=""><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller"
      id="tspan233"
      font-weight="700"
@@ -885,13 +888,16 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:#93a1a1;stroke:none">Positive Flaws</tspan></tspan></text>
 
 
+
        </g>
       </g><g
    id="g251"
    class="com.sun.star.drawing.TextShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id4">
+   id="id4"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect240"
@@ -902,7 +908,8 @@
    class="BoundingBox" />
         <text
    id="text248"
-   class="TextShape"><tspan
+   class="TextShape"
+   style=""><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller;fill:none;stroke:#839496;stroke-opacity:1"
      id="tspan246"
      font-weight="700"
@@ -915,13 +922,16 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:none;stroke:#839496;stroke-opacity:1">Negative Flaws</tspan></tspan></text>
 
 
+
        </g>
       </g><g
    id="g266"
    class="com.sun.star.drawing.CustomShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id5">
+   id="id5"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect253"
@@ -937,7 +947,8 @@
    d="M 2148.0509,1916 H 744.14112 V 816 H 3551.9607 v 1100 z" />
         <text
    id="text263"
-   class="TextShape"><tspan
+   class="TextShape"
+   style=""><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller"
      id="tspan261"
      font-weight="400"
@@ -950,13 +961,16 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:#859900;stroke:none">Subgoal</tspan></tspan></text>
 
 
+
        </g>
       </g><g
    id="g281"
    class="com.sun.star.drawing.CustomShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id6">
+   id="id6"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect268"
@@ -972,7 +986,8 @@
    d="M 2172.2379,5066 H 1006.4758 V 3966 H 3338 v 1100 z" />
         <text
    id="text278"
-   class="TextShape"><tspan
+   class="TextShape"
+   style=""><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller"
      id="tspan276"
      font-weight="400"
@@ -985,13 +1000,16 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:#dc322f;stroke:none">Threat</tspan></tspan></text>
 
 
+
        </g>
       </g><g
    id="g296"
    class="com.sun.star.drawing.CustomShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id7">
+   id="id7"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect283"
@@ -1007,7 +1025,8 @@
    d="M 7883.0273,1916 H 6068.4721 V 816 h 3629.1105 v 1100 z" />
         <text
    id="text293"
-   class="TextShape"><tspan
+   class="TextShape"
+   style=""><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller"
      id="tspan291"
      font-weight="400"
@@ -1020,13 +1039,16 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:#fdf6e3;stroke:none">Alternative</tspan></tspan></text>
 
 
+
        </g>
       </g><g
    id="g311"
    class="com.sun.star.drawing.CustomShape"
-   transform="translate(229.83333,84)">
+   transform="translate(229.83333,84)"
+   style="">
        <g
-   id="id8">
+   id="id8"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect298"
@@ -1042,7 +1064,8 @@
    d="M 7792.8463,4966 H 6518.7223 V 3866 h 2548.248 v 1100 z" />
         <text
    id="text308"
-   class="TextShape"><tspan
+   class="TextShape"
+   style=""><tspan
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller"
      id="tspan306"
      font-weight="400"
@@ -1055,13 +1078,16 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:#fdf6e3;stroke:none">Orphan</tspan></tspan></text>
 
 
+
        </g>
       </g><g
    id="g320"
    class="com.sun.star.drawing.ConnectorShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id9">
+   id="id9"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect313"
@@ -1084,9 +1110,11 @@
       </g><g
    id="g329"
    class="com.sun.star.drawing.ConnectorShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id10">
+   id="id10"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect322"
@@ -1106,9 +1134,11 @@
       </g><g
    id="g338"
    class="com.sun.star.drawing.ConnectorShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id11">
+   id="id11"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect331"
@@ -1128,9 +1158,11 @@
       </g><g
    id="g353"
    class="com.sun.star.drawing.ConnectorShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id12">
+   id="id12"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect340"
@@ -1177,9 +1209,11 @@
    sodipodi:nodetypes="cc" /><g
    id="g387"
    class="com.sun.star.drawing.ConnectorShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id14">
+   id="id14"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect364"
@@ -1238,9 +1272,11 @@
       </g><g
    id="g404"
    class="com.sun.star.drawing.ConnectorShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id15">
+   id="id15"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect389"
@@ -1275,9 +1311,11 @@
       </g><g
    id="g427"
    class="com.sun.star.drawing.ConnectorShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id16">
+   id="id16"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect406"
@@ -1332,9 +1370,11 @@
       </g><g
    id="g507"
    class="com.sun.star.drawing.ConnectorShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
-   id="id24">
+   id="id24"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect500"
@@ -1354,12 +1394,15 @@
       </g><g
    id="g600"
    class="Group"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
    id="g516"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id25">
+   id="id25"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect509"
@@ -1382,9 +1425,11 @@
        </g>
        <g
    id="g525"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id26">
+   id="id26"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect518"
@@ -1407,9 +1452,11 @@
        </g>
        <g
    id="g534"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id27">
+   id="id27"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect527"
@@ -1432,9 +1479,11 @@
        </g>
        <g
    id="g551"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id28">
+   id="id28"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect536"
@@ -1477,9 +1526,11 @@
        </g>
        <g
    id="g566"
-   class="com.sun.star.drawing.ConnectorShape">
+   class="com.sun.star.drawing.ConnectorShape"
+   style="">
         <g
-   id="id29">
+   id="id29"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect553"
@@ -1517,9 +1568,11 @@
        </g>
        <g
    id="g583"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id30">
+   id="id30"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect568"
@@ -1540,7 +1593,8 @@
    d="m 6826,5200 c 113,0 200,87 200,200 0,113 -87,200 -200,200 -113,0 -200,-87 -200,-200 0,-113 87,-200 200,-200 z" />
          <text
    id="text580"
-   class="TextShape"><tspan
+   class="TextShape"
+   style=""><tspan
      style="font-weight:700;font-size:635px;font-family:Aller"
      id="tspan578"
      font-weight="700"
@@ -1549,18 +1603,22 @@
        id="tspan576"
        y="5618"
        x="6708"
-       class="TextPosition"><tspan
+       class="TextPosition"
+       style=""><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan574">-</tspan></tspan></tspan></text>
+
 
 
         </g>
        </g>
        <g
    id="g598"
-   class="com.sun.star.drawing.ConnectorShape">
+   class="com.sun.star.drawing.ConnectorShape"
+   style="">
         <g
-   id="id31">
+   id="id31"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect585"
@@ -1599,10 +1657,12 @@
       </g><g
    id="g633"
    class="com.sun.star.drawing.ConnectorShape"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
    id="id32"
-   transform="matrix(0.98738878,0,0,0.98738878,126.63078,42.323244)">
+   transform="matrix(0.98738878,0,0,0.98738878,126.63078,42.323244)"
+   style="">
         <rect
    style="fill:none;stroke:none"
    id="rect602"
@@ -1677,12 +1737,15 @@
       </g><g
    id="g698"
    class="Group"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
    id="g642"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id33">
+   id="id33"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect635"
@@ -1705,9 +1768,11 @@
        </g>
        <g
    id="g657"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id34">
+   id="id34"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect644"
@@ -1745,9 +1810,11 @@
        </g>
        <g
    id="g664"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id35">
+   id="id35"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect659"
@@ -1765,9 +1832,11 @@
        </g>
        <g
    id="g681"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id36">
+   id="id36"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect666"
@@ -1788,7 +1857,8 @@
    d="m 1188,2100 c 113,0 200,87 200,200 0,113 -87,200 -200,200 -113,0 -200,-87 -200,-200 0,-113 87,-200 200,-200 z" />
          <text
    id="text678"
-   class="TextShape"><tspan
+   class="TextShape"
+   style=""><tspan
      style="font-weight:700;font-size:635px;font-family:Aller"
      id="tspan676"
      font-weight="700"
@@ -1797,18 +1867,22 @@
        id="tspan674"
        y="2518"
        x="997"
-       class="TextPosition"><tspan
+       class="TextPosition"
+       style=""><tspan
          style="fill:#859900;stroke:none"
          id="tspan672">+</tspan></tspan></tspan></text>
+
 
 
         </g>
        </g>
        <g
    id="g696"
-   class="com.sun.star.drawing.ConnectorShape">
+   class="com.sun.star.drawing.ConnectorShape"
+   style="">
         <g
-   id="id37">
+   id="id37"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect683"
@@ -1847,12 +1921,15 @@
       </g><g
    id="g787"
    class="Group"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
    id="g707"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id38">
+   id="id38"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect700"
@@ -1875,9 +1952,11 @@
        </g>
        <g
    id="g714"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id39">
+   id="id39"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect709"
@@ -1895,9 +1974,11 @@
        </g>
        <g
    id="g731"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id40">
+   id="id40"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect716"
@@ -1918,7 +1999,8 @@
    d="m 1188,5200 c 113,0 200,87 200,200 0,113 -87,200 -200,200 -113,0 -200,-87 -200,-200 0,-113 87,-200 200,-200 z" />
          <text
    id="text728"
-   class="TextShape"><tspan
+   class="TextShape"
+   style=""><tspan
      style="font-weight:700;font-size:635px;font-family:Aller"
      id="tspan726"
      font-weight="700"
@@ -1927,18 +2009,22 @@
        id="tspan724"
        y="5618"
        x="997"
-       class="TextPosition"><tspan
+       class="TextPosition"
+       style=""><tspan
          style="fill:#dc322f;stroke:none"
          id="tspan722">+</tspan></tspan></tspan></text>
+
 
 
         </g>
        </g>
        <g
    id="g740"
-   class="com.sun.star.drawing.ConnectorShape">
+   class="com.sun.star.drawing.ConnectorShape"
+   style="">
         <g
-   id="id41">
+   id="id41"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect733"
@@ -1961,9 +2047,11 @@
        </g>
        <g
    id="g747"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id42">
+   id="id42"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect742"
@@ -1981,9 +2069,11 @@
        </g>
        <g
    id="g754"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id43">
+   id="id43"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect749"
@@ -2001,9 +2091,11 @@
        </g>
        <g
    id="g765"
-   class="com.sun.star.drawing.ConnectorShape">
+   class="com.sun.star.drawing.ConnectorShape"
+   style="">
         <g
-   id="id44">
+   id="id44"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect756"
@@ -2031,9 +2123,11 @@
        </g>
        <g
    id="g776"
-   class="com.sun.star.drawing.ConnectorShape">
+   class="com.sun.star.drawing.ConnectorShape"
+   style="">
         <g
-   id="id45">
+   id="id45"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect767"
@@ -2061,9 +2155,11 @@
        </g>
        <g
    id="g785"
-   class="com.sun.star.drawing.LineShape">
+   class="com.sun.star.drawing.LineShape"
+   style="">
         <g
-   id="id46">
+   id="id46"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect778"
@@ -2132,6 +2228,7 @@
          id="tspan800"
          style="fill:#839496;stroke:none">Invalidates</tspan></tspan></tspan></text>
 
+
 <rect
    class="BoundingBox"
    x="15419.434"
@@ -2156,6 +2253,7 @@
        id="tspan815"><tspan
          id="tspan813"
          style="fill:#839496;stroke:none">Causes</tspan></tspan></tspan></text>
+
 
 <g
    transform="translate(-193.33885)"
@@ -2232,6 +2330,7 @@
          style="fill:#073642;stroke:none">Side Effects</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g><g
    transform="translate(-29.316406)"
@@ -2275,6 +2374,7 @@
        class="TextPosition"><tspan
          style="fill:#839496;stroke:none"
          id="tspan863">Both</tspan></tspan></tspan></text>
+
 
 
       </g><g
@@ -2345,6 +2445,7 @@
          style="fill:#657b83;stroke:none">+</tspan></tspan></tspan></text>
 
 
+
         </g>
        </g>
        <g
@@ -2374,6 +2475,7 @@
        id="tspan904"><tspan
          id="tspan902"
          style="fill:#586e75;stroke:none">Positive</tspan></tspan></tspan></text>
+
 
 
         </g>
@@ -2406,6 +2508,7 @@
        id="tspan919"><tspan
          id="tspan917"
          style="fill:#073642;stroke:none">Resolvers</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -2477,6 +2580,7 @@
          style="fill:#fdf6e3;stroke:none">-</tspan></tspan></tspan></text>
 
 
+
         </g>
        </g>
        <g
@@ -2506,6 +2610,7 @@
        id="tspan958"><tspan
          id="tspan956"
          style="fill:#fdf6e3;stroke:none">Negative</tspan></tspan></tspan></text>
+
 
 
         </g>
@@ -2668,6 +2773,7 @@
          style="fill:#073642;stroke:none">Steps &amp; Causal Links </tspan></tspan></tspan></text>
 
 
+
        </g>
       </g><rect
    class="BoundingBox"
@@ -2692,6 +2798,7 @@
          id="tspan1032"
          style="fill:#839496;stroke:none">Affected</tspan></tspan></tspan></text>
 
+
 <rect
    class="BoundingBox"
    x="12543.591"
@@ -2715,6 +2822,7 @@
          id="tspan1045"
          style="fill:#839496;stroke:none">Existing</tspan></tspan></tspan></text>
 
+
 </g>
 <path
    style="fill:none;stroke:#657b83;stroke-width:106.00000763;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker6484)"
@@ -2723,12 +2831,15 @@
    d="m 6514.2513,4443.5979 c 61.0106,9.471 126.6785,13.4366 197.5576,13.8184" /><g
    id="g498"
    class="Group"
-   transform="translate(124,84)">
+   transform="translate(124,84)"
+   style="">
        <g
    id="g436"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id17">
+   id="id17"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect429"
@@ -2751,9 +2862,11 @@
        </g>
        <g
    id="g443"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id18">
+   id="id18"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect438"
@@ -2771,9 +2884,11 @@
        </g>
        <g
    id="g450"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id19">
+   id="id19"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect445"
@@ -2791,9 +2906,11 @@
        </g>
        <g
    id="g457"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id20">
+   id="id20"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect452"
@@ -2811,9 +2928,11 @@
        </g>
        <g
    id="g472"
-   class="com.sun.star.drawing.ConnectorShape">
+   class="com.sun.star.drawing.ConnectorShape"
+   style="">
         <g
-   id="id21">
+   id="id21"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect459"
@@ -2851,9 +2970,11 @@
        </g>
        <g
    id="g479"
-   class="com.sun.star.drawing.LineShape">
+   class="com.sun.star.drawing.LineShape"
+   style="">
         <g
-   id="id22">
+   id="id22"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect474"
@@ -2871,9 +2992,11 @@
        </g>
        <g
    id="g496"
-   class="com.sun.star.drawing.CustomShape">
+   class="com.sun.star.drawing.CustomShape"
+   style="">
         <g
-   id="id23">
+   id="id23"
+   style="">
          <rect
    style="fill:none;stroke:none"
    id="rect481"
@@ -2890,7 +3013,8 @@
          
          <text
    id="text493"
-   class="TextShape"><tspan
+   class="TextShape"
+   style=""><tspan
      style="font-weight:700;font-size:635px;font-family:Aller"
      id="tspan491"
      font-weight="700"
@@ -2899,9 +3023,11 @@
        id="tspan489"
        y="2518"
        x="6708"
-       class="TextPosition"><tspan
+       class="TextPosition"
+       style=""><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan487">-</tspan></tspan></tspan></text>
+
 
 
         <path
@@ -2921,6 +3047,7 @@
      x="11439.209"
      y="666.21021"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#839496;stroke-width:746.70709229">Legend</tspan></text>
+
 
 <path
    style="fill:none;stroke:#839496;stroke-width:127;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"

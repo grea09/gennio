@@ -20,7 +20,7 @@
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"><metadata
    id="metadata1339"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -29,17 +29,17 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-width="3840"
+   inkscape:window-height="2034"
    id="namedview1337"
    showgrid="false"
-   inkscape:zoom="0.62441665"
-   inkscape:cx="-196.87601"
-   inkscape:cy="480.48817"
+   inkscape:zoom="0.88305849"
+   inkscape:cx="-442.8887"
+   inkscape:cy="707.36432"
    inkscape:window-x="1920"
-   inkscape:window-y="30"
+   inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g1327"
+   inkscape:current-layer="id23"
    fit-margin-left="64"
    fit-margin-right="64"
    fit-margin-top="8"
@@ -1110,21 +1110,23 @@
      font-size="635px"
      font-weight="700"
      id="tspan416"
-     style="font-weight:700;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="721"
        y="3866"
-       id="tspan414"><tspan
+       id="tspan414"
+       style="-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          id="tspan404"
-         style="fill:#dc322f;stroke:none">pour</tspan><tspan
+         style="fill:#dc322f;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">pour</tspan><tspan
          id="tspan406"
-         style="fill:#073642;stroke:none">(</tspan><tspan
+         style="fill:#073642;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">(</tspan><tspan
          id="tspan408"
-         style="fill:#93a1a1;stroke:none">thing</tspan><tspan
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">thing</tspan><tspan
          id="tspan410"
-         style="fill:#839496;stroke:none">, into</tspan><tspan
+         style="fill:#839496;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">, into</tspan><tspan
          id="tspan412"
-         style="fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+         style="fill:#073642;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">)</tspan></tspan></tspan></text>
+
 
 
 
@@ -1556,24 +1558,27 @@
    style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text601"><tspan
+   id="text601"
+   x="-105.83333"><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan599"
-     style="font-weight:700;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
-       x="907"
+       x="801.16663"
        y="2382"
-       id="tspan597"><tspan
+       id="tspan597"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
          id="tspan589"
-         style="fill:#dc322f;stroke:none">make</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f;stroke:none">make</tspan><tspan
          id="tspan591"
-         style="fill:#073642;stroke:none">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">(</tspan><tspan
          id="tspan593"
-         style="fill:#839496;stroke:none">drink</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">drink</tspan><tspan
          id="tspan595"
-         style="fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+
 
 
 
@@ -1605,17 +1610,19 @@
      font-size="529px"
      font-weight="700"
      id="tspan618"
-     style="font-weight:700;font-size:529px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:529px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="6712"
        y="2386"
-       id="tspan616"><tspan
+       id="tspan616"
+       style="-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          id="tspan610"
-         style="fill:#93a1a1;stroke:none">tea</tspan><tspan
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">tea</tspan><tspan
          id="tspan612"
-         style="fill:#859900;stroke:none"> in</tspan><tspan
+         style="fill:#859900;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"> in</tspan><tspan
          id="tspan614"
-         style="fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"> cup</tspan></tspan></tspan></text>
+
 
 
 
@@ -1642,13 +1649,13 @@
      font-size="917px"
      font-weight="700"
      id="tspan631"
-     style="font-weight:700;font-size:917px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:917px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="5850"
        y="2503"
-       id="tspan629"><tspan
-         id="tspan627"
-         style="fill:#839496;stroke:none">?</tspan></tspan></tspan></text>
+       id="tspan629"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">?</tspan></tspan></text>
+
 
 
 
@@ -1970,22 +1977,25 @@
    style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text770"><tspan
+   id="text770"
+   y="52.916664"><tspan
      class="TextParagraph"
      font-size="529px"
      font-weight="700"
      id="tspan768"
-     style="font-weight:700;font-size:529px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
        x="5594"
-       y="6556"
-       id="tspan766"><tspan
+       y="6608.9165"
+       id="tspan766"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
          id="tspan760"
-         style="fill:#93a1a1;stroke:none">drink</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#93a1a1;stroke:none">drink</tspan><tspan
          id="tspan762"
-         style="fill:#859900;stroke:none"> in</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#859900;stroke:none"> in</tspan><tspan
          id="tspan764"
-         style="fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
+
 
 
 
@@ -2023,6 +2033,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -2050,17 +2061,19 @@
      font-size="529px"
      font-weight="700"
      id="tspan800"
-     style="font-weight:700;font-size:529px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:529px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="6212"
        y="8009"
-       id="tspan798"><tspan
+       id="tspan798"
+       style="-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          id="tspan792"
-         style="fill:#93a1a1;stroke:none">tea</tspan><tspan
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">tea</tspan><tspan
          id="tspan794"
-         style="fill:#859900;stroke:none"> in</tspan><tspan
+         style="fill:#859900;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"> in</tspan><tspan
          id="tspan796"
-         style="fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"> cup</tspan></tspan></tspan></text>
+
 
 
 
@@ -2492,24 +2505,27 @@
    style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text985"><tspan
+   id="text985"
+   x="-105.83333"><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan983"
-     style="font-weight:700;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
-       x="1007"
+       x="901.16663"
        y="7305"
-       id="tspan981"><tspan
+       id="tspan981"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
          id="tspan973"
-         style="fill:#dc322f;stroke:none">make</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f;stroke:none">make</tspan><tspan
          id="tspan975"
-         style="fill:#073642;stroke:none">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">(</tspan><tspan
          id="tspan977"
-         style="fill:#839496;stroke:none">drink</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">drink</tspan><tspan
          id="tspan979"
-         style="fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+
 
 
 
@@ -2547,6 +2563,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -2576,6 +2593,7 @@
        id="tspan1007"><tspan
          id="tspan1005"
          style="fill:#657b83;stroke:none">3. Resolver selection</tspan></tspan></tspan></text>
+
 
 
 
@@ -2613,6 +2631,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -2645,17 +2664,19 @@
      font-size="529px"
      font-weight="700"
      id="tspan1043"
-     style="font-weight:700;font-size:529px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:529px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="10053"
        y="7301"
-       id="tspan1041"><tspan
+       id="tspan1041"
+       style="-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          id="tspan1035"
-         style="fill:#93a1a1;stroke:none">drink </tspan><tspan
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">drink </tspan><tspan
          id="tspan1037"
-         style="fill:#dc322f;stroke:none">:</tspan><tspan
+         style="fill:#dc322f;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">:</tspan><tspan
          id="tspan1039"
-         style="fill:#93a1a1;stroke:none"> tea</tspan></tspan></tspan></text>
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"> tea</tspan></tspan></tspan></text>
+
 
 
 
@@ -2687,26 +2708,29 @@
    style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text1070"><tspan
+   id="text1070"
+   x="-52.916664"><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan1068"
-     style="font-weight:700;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
-       x="764"
+       x="711.08331"
        y="12439"
-       id="tspan1066"><tspan
+       id="tspan1066"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
          id="tspan1056"
-         style="fill:#dc322f;stroke:none">pour</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f;stroke:none">pour</tspan><tspan
          id="tspan1058"
-         style="fill:#073642;stroke:none">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">(</tspan><tspan
          id="tspan1060"
-         style="fill:#93a1a1;stroke:none">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#93a1a1;stroke:none">tea</tspan><tspan
          id="tspan1062"
-         style="fill:#839496;stroke:none">, cup</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">, cup</tspan><tspan
          id="tspan1064"
-         style="fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+
 
 
 
@@ -2733,22 +2757,25 @@
    style="fill:#eee8d5;stroke:none" />
         <text
    class="TextShape"
-   id="text1089"><tspan
+   id="text1089"
+   x="-105.83333"><tspan
      class="TextParagraph"
      font-size="529px"
      font-weight="700"
      id="tspan1087"
-     style="font-weight:700;font-size:529px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
-       x="6962"
+       x="6856.167"
        y="10959"
-       id="tspan1085"><tspan
+       id="tspan1085"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
          id="tspan1079"
-         style="fill:#93a1a1;stroke:none">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#93a1a1;stroke:none">tea</tspan><tspan
          id="tspan1081"
-         style="fill:#859900;stroke:none"> in</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#859900;stroke:none"> in</tspan><tspan
          id="tspan1083"
-         style="fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
+
 
 
 
@@ -2775,13 +2802,13 @@
      font-size="917px"
      font-weight="700"
      id="tspan1100"
-     style="font-weight:700;font-size:917px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:917px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="5950"
        y="11076"
-       id="tspan1098"><tspan
-         id="tspan1096"
-         style="fill:#839496;stroke:none">?</tspan></tspan></tspan></text>
+       id="tspan1098"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">?</tspan></tspan></text>
+
 
 
 
@@ -2813,24 +2840,27 @@
    style="fill:none;stroke:#cb4b16;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text1125"><tspan
+   id="text1125"
+   x="-105.83333"><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan1123"
-     style="font-weight:700;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
-       x="2169"
+       x="2063.1665"
        y="10955"
-       id="tspan1121"><tspan
+       id="tspan1121"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
          id="tspan1113"
-         style="fill:#dc322f;stroke:none">make</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f;stroke:none">make</tspan><tspan
          id="tspan1115"
-         style="fill:#073642;stroke:none">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">(</tspan><tspan
          id="tspan1117"
-         style="fill:#839496;stroke:none">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">tea</tspan><tspan
          id="tspan1119"
-         style="fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+
 
 
 
@@ -2857,22 +2887,25 @@
    style="fill:#eee8d5;stroke:none" />
         <text
    class="TextShape"
-   id="text1144"><tspan
+   id="text1144"
+   x="-52.916664"><tspan
      class="TextParagraph"
      font-size="529px"
      font-weight="700"
      id="tspan1142"
-     style="font-weight:700;font-size:529px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
-       x="5483"
+       x="5430.0835"
        y="15481"
-       id="tspan1140"><tspan
+       id="tspan1140"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
          id="tspan1134"
-         style="fill:#93a1a1;stroke:none">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#93a1a1;stroke:none">tea</tspan><tspan
          id="tspan1136"
-         style="fill:#859900;stroke:none"> in</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#859900;stroke:none"> in</tspan><tspan
          id="tspan1138"
-         style="fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
+
 
 
 
@@ -2904,24 +2937,27 @@
    style="fill:none;stroke:#cb4b16;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text1167"><tspan
+   id="text1167"
+   x="-158.75"><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan1165"
-     style="font-weight:700;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
-       x="1468"
+       x="1309.2501"
        y="15477"
-       id="tspan1163"><tspan
+       id="tspan1163"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
          id="tspan1155"
-         style="fill:#dc322f;stroke:none">make</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f;stroke:none">make</tspan><tspan
          id="tspan1157"
-         style="fill:#073642;stroke:none">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">(</tspan><tspan
          id="tspan1159"
-         style="fill:#839496;stroke:none">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">tea</tspan><tspan
          id="tspan1161"
-         style="fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+
 
 
 
@@ -2959,6 +2995,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -2986,24 +3023,27 @@
    style="fill:none;stroke:#cb4b16;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text1203"><tspan
+   id="text1203"
+   x="-105.83333"><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan1201"
-     style="font-weight:700;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
-       x="5369"
+       x="5263.167"
        y="18855"
-       id="tspan1199"><tspan
+       id="tspan1199"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
          id="tspan1191"
-         style="fill:#dc322f;stroke:none">make</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f;stroke:none">make</tspan><tspan
          id="tspan1193"
-         style="fill:#073642;stroke:none">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">(</tspan><tspan
          id="tspan1195"
-         style="fill:#839496;stroke:none">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">tea</tspan><tspan
          id="tspan1197"
-         style="fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
+
 
 
 
@@ -3030,24 +3070,27 @@
    style="fill:#eee8d5;stroke:none" />
         <text
    class="TextShape"
-   id="text1224"><tspan
+   id="text1224"
+   y="105.83333"><tspan
      class="TextParagraph"
      font-size="529px"
      font-weight="700"
      id="tspan1222"
-     style="font-weight:700;font-size:529px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
        x="1456"
-       y="18813"
-       id="tspan1220"><tspan
+       y="18918.832"
+       id="tspan1220"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
          id="tspan1212"
-         style="fill:#859900;stroke:none">taken</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#859900;stroke:none">taken</tspan><tspan
          id="tspan1214"
-         style="fill:#839496;stroke:none">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">(</tspan><tspan
          id="tspan1216"
-         style="fill:#93a1a1;stroke:none">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#93a1a1;stroke:none">tea</tspan><tspan
          id="tspan1218"
-         style="fill:#839496;stroke:none">)</tspan></tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">)</tspan></tspan></tspan></text>
+
 
 
 
@@ -3074,13 +3117,13 @@
      font-size="917px"
      font-weight="700"
      id="tspan1235"
-     style="font-weight:700;font-size:917px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:917px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="950"
        y="18976"
-       id="tspan1233"><tspan
-         id="tspan1231"
-         style="fill:#839496;stroke:none">?</tspan></tspan></tspan></text>
+       id="tspan1233"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">?</tspan></tspan></text>
+
 
 
 
@@ -3212,6 +3255,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -3258,6 +3302,7 @@
 
 
 
+
        </g>
       </g>
       <g
@@ -3300,6 +3345,7 @@
        id="tspan1318"><tspan
          id="tspan1316"
          style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
+
 
 
 

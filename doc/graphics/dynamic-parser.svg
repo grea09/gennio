@@ -20,7 +20,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata923"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -37,13 +37,13 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="0.2102413"
-   inkscape:cx="174.87874"
-   inkscape:cy="279.91181"
+   inkscape:zoom="3.3638608"
+   inkscape:cx="34.847115"
+   inkscape:cy="296.36209"
    inkscape:window-x="1920"
    inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg919" />
+   inkscape:current-layer="id10" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -780,6 +780,7 @@
          id="tspan266"
          style="fill:#586e75;stroke:none">C-C</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -837,18 +838,19 @@
    style="fill:none;stroke:#839496;stroke-width:53;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text301"><tspan
+   id="text301"
+   x="-158.75002"><tspan
      class="TextParagraph"
      font-size="564px"
      font-weight="700"
      id="tspan299"
-     style="font-weight:700;font-size:564px;font-family:Hack, monospace"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:564px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
        class="TextPosition"
-       x="6176"
+       x="6017.2505"
        y="10916"
-       id="tspan297"><tspan
-         id="tspan295"
-         style="fill:#073642;stroke:none">Grammar</tspan></tspan></tspan></text>
+       id="tspan297"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">Grammar</tspan></tspan></text>
+
 
        </g>
       </g>
@@ -885,6 +887,7 @@
        id="tspan312"><tspan
          id="tspan310"
          style="fill:#fdf6e3;stroke:none">Result</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1156,6 +1159,7 @@
          id="tspan419"
          style="fill:#002b36;stroke:none">Compiler</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1412,6 +1416,7 @@
          id="tspan522"
          style="fill:#d33682;stroke:none">Parser</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1477,6 +1482,7 @@
          id="tspan548"
          style="fill:#dc322f;stroke:none">Compiler</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1504,13 +1510,13 @@
      font-size="494px"
      font-weight="700"
      id="tspan567"
-     style="font-weight:700;font-size:494px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:494px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="6800"
        y="17694"
-       id="tspan565"><tspan
-         id="tspan563"
-         style="fill:#073642;stroke:none">Text</tspan></tspan></tspan></text>
+       id="tspan565"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">Text</tspan></tspan></text>
+
 
        </g>
       </g>
@@ -1768,6 +1774,7 @@
          id="tspan666"
          style="fill:#d33682;stroke:none">Parser</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -1838,6 +1845,7 @@
        id="tspan698"><tspan
          id="tspan696"
          style="fill:#859900;stroke:none">Tree</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
@@ -2224,6 +2232,7 @@
          id="tspan848"
          style="fill:#dc322f;stroke:none">Evaluator</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -2304,6 +2313,7 @@
          id="tspan879"
          style="fill:#859900;stroke:none">Modify</tspan></tspan></tspan></text>
 
+
        </g>
       </g>
       <g
@@ -2349,6 +2359,7 @@
        id="tspan902"><tspan
          id="tspan900"
          style="fill:#859900;stroke:none">Tree</tspan></tspan></tspan></text>
+
 
        </g>
       </g>
