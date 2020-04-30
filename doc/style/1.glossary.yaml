@@ -3,6 +3,9 @@ glossary:
     - label: appl
       symbol: ()
       description: Application function
+    - label: iverson
+      symbol: "[]"
+      description: Iverson's brakets
     - label: eq
       symbol: =
       description: Identity function
@@ -23,7 +26,7 @@ glossary:
       description: Null relation
     - label: comb
       symbol: ⨝
-      description: Functionnal composition
+      description: Functionnal combination
     - label: super
       symbol: \vartriangle
       description: Functionnal superposition
