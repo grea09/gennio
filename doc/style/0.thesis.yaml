@@ -21,10 +21,6 @@ lof: true
 reference-section-title: References
 bibliography: bibliography/thesis.bib
 csl: bibliography/aaai.csl
-#mainfont: Recursive
-#mathfont: STIX Two Math
-headingfont: Bebas Neue
-#monofont: Recursive
 header-includes:
 # STYLE
     - \usepackage{marginnote}
