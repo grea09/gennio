@@ -1,6 +1,6 @@
 fontsize: 11pt
 papersize: a4
-multicol: true
+glossarycol: 3
 classoption:
   - twoside
   - openright
