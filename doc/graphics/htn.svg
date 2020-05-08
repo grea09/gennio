@@ -20,7 +20,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata511"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -37,9 +37,9 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="1.135303"
-   inkscape:cx="71.361549"
-   inkscape:cy="258.2066"
+   inkscape:zoom="2.270606"
+   inkscape:cx="102.31287"
+   inkscape:cy="150.53744"
    inkscape:window-x="1920"
    inkscape:window-y="60"
    inkscape:window-maximized="1"
@@ -328,9 +328,11 @@
    id="g499">
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g119">
+   id="g119"
+   style="">
        <g
-   id="id3">
+   id="id3"
+   style="">
         <rect
    class="BoundingBox"
    x="1647"
@@ -359,22 +361,23 @@
      font-size="635px"
      font-weight="700"
      id="tspan114"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
        class="TextPosition"
        x="2296.0833"
        y="1644"
        id="tspan112"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
-         id="tspan110"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f;stroke:none">make_tea</tspan></tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">make_tea</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g136">
+   id="g136"
+   style="">
        <g
-   id="id4">
+   id="id4"
+   style="">
         <rect
    class="BoundingBox"
    x="3331"
@@ -396,25 +399,29 @@
         <text
    class="TextShape"
    id="text133"
-   x="-105.83334"><tspan
+   x="-105.83334"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan131"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f"><tspan
        class="TextPosition"
        x="3852.1665"
        y="3465"
        id="tspan129"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f">infuse_tea_in_water</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f">infuse_tea_in_water</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g153">
+   id="g153"
+   style="">
        <g
-   id="id5">
+   id="id5"
+   style="">
         <rect
    class="BoundingBox"
    x="10147"
@@ -435,25 +442,29 @@
    style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text150"><tspan
+   id="text150"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan148"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f"><tspan
        class="TextPosition"
        x="10588"
        y="5166"
        id="tspan146"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f">heat_water</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f">heat_water</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g170">
+   id="g170"
+   style="">
        <g
-   id="id6">
+   id="id6"
+   style="">
         <rect
    class="BoundingBox"
    x="5046"
@@ -474,25 +485,29 @@
    style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text167"><tspan
+   id="text167"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan165"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f"><tspan
        class="TextPosition"
        x="5426"
        y="5166"
        id="tspan163"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f">take_tea_bag</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f">take_tea_bag</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g187">
+   id="g187"
+   style="">
        <g
-   id="id7">
+   id="id7"
+   style="">
         <rect
    class="BoundingBox"
    x="4346"
@@ -513,25 +528,29 @@
    style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
         <text
    class="TextShape"
-   id="text184"><tspan
+   id="text184"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan182"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f"><tspan
        class="TextPosition"
        x="4864"
        y="8766"
        id="tspan180"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f">insert_capsule</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f">insert_capsule</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g204">
+   id="g204"
+   style="">
        <g
-   id="id8">
+   id="id8"
+   style="">
         <rect
    class="BoundingBox"
    x="10347"
@@ -553,25 +572,29 @@
         <text
    class="TextShape"
    id="text201"
-   x="-105.83334"><tspan
+   x="-105.83334"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan199"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f"><tspan
        class="TextPosition"
        x="10839.166"
        y="8766"
        id="tspan197"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f">start_machine</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f">start_machine</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g219">
+   id="g219"
+   style="">
        <g
-   id="id9">
+   id="id9"
+   style="">
         <rect
    class="BoundingBox"
    x="15100"
@@ -587,25 +610,29 @@
    style="fill:#eee8d5;stroke:none" />
         <text
    class="TextShape"
-   id="text216"><tspan
+   id="text216"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan214"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496"><tspan
        class="TextPosition"
        x="15389"
        y="5087"
        id="tspan212"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496">…</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496">…</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g234">
+   id="g234"
+   style="">
        <g
-   id="id10">
+   id="id10"
+   style="">
         <rect
    class="BoundingBox"
    x="4999"
@@ -623,25 +650,29 @@
    class="TextShape"
    id="text231"
    x="52.916668"
-   y="52.916668"><tspan
+   y="52.916668"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan229"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold'"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
        class="TextPosition"
        x="5341.9165"
        y="10239.917"
        id="tspan227"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496;stroke:none">…</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">…</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g251">
+   id="g251"
+   style="">
        <g
-   id="id11">
+   id="id11"
+   style="">
         <rect
    class="BoundingBox"
    x="3346"
@@ -663,25 +694,29 @@
         <text
    class="TextShape"
    id="text248"
-   x="-158.75002"><tspan
+   x="-158.75002"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan246"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f"><tspan
        class="TextPosition"
        x="3995.25"
        y="7044"
        id="tspan244"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#dc322f">use_coffee_machine</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f">use_coffee_machine</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g266">
+   id="g266"
+   style="">
        <g
-   id="id12">
+   id="id12"
+   style="">
         <rect
    class="BoundingBox"
    x="16600"
@@ -697,25 +732,29 @@
    style="fill:#eee8d5;stroke:none" />
         <text
    class="TextShape"
-   id="text263"><tspan
+   id="text263"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan261"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496"><tspan
        class="TextPosition"
        x="16859"
        y="8687"
        id="tspan259"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#839496">…</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496">…</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g281">
+   id="g281"
+   style="">
        <g
-   id="id13">
+   id="id13"
+   style="">
         <rect
    class="BoundingBox"
    x="700"
@@ -731,26 +770,29 @@
    style="fill:#657b83;stroke:none" />
         <text
    class="TextShape"
-   id="text278"><tspan
+   id="text278"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan276"
-     style="font-weight:700;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="909"
        y="1720"
-       id="tspan274"><tspan
-         id="tspan272"
-         style="fill:#fdf6e3;stroke:none">+</tspan></tspan></tspan></text>
+       id="tspan274"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#fdf6e3;stroke:none">+</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g296">
+   id="g296"
+   style="">
        <g
-   id="id14">
+   id="id14"
+   style="">
         <rect
    class="BoundingBox"
    x="2401"
@@ -766,26 +808,29 @@
    style="fill:#657b83;stroke:none" />
         <text
    class="TextShape"
-   id="text293"><tspan
+   id="text293"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan291"
-     style="font-weight:700;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="2610"
        y="3521"
-       id="tspan289"><tspan
-         id="tspan287"
-         style="fill:#fdf6e3;stroke:none">+</tspan></tspan></tspan></text>
+       id="tspan289"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#fdf6e3;stroke:none">+</tspan></tspan></text>
+
 
        </g>
       </g>
       <g
    class="com.sun.star.drawing.CustomShape"
-   id="g311">
+   id="g311"
+   style="">
        <g
-   id="id15">
+   id="id15"
+   style="">
         <rect
    class="BoundingBox"
    x="2501"
@@ -801,18 +846,19 @@
    style="fill:#657b83;stroke:none" />
         <text
    class="TextShape"
-   id="text308"><tspan
+   id="text308"
+   style=""><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan306"
-     style="font-weight:700;font-size:635px;font-family:Hack, monospace"><tspan
+     style="font-weight:bold;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="2710"
        y="7221"
-       id="tspan304"><tspan
-         id="tspan302"
-         style="fill:#fdf6e3;stroke:none">+</tspan></tspan></tspan></text>
+       id="tspan304"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#fdf6e3;stroke:none">+</tspan></tspan></text>
+
 
        </g>
       </g>

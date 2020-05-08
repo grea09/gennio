@@ -170,9 +170,9 @@
      inkscape:window-height="2034"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.1893444"
-     inkscape:cx="1148.4216"
-     inkscape:cy="-247.56615"
+     inkscape:zoom="1.681987"
+     inkscape:cx="493.56759"
+     inkscape:cy="113.02412"
      inkscape:window-x="1920"
      inkscape:window-y="60"
      inkscape:window-maximized="1"
@@ -205,6 +205,7 @@
      y="0"
      x="0">A</tspan></text>
 
+
 </g></g><g
      id="g2532-9"
      transform="translate(272.32503,1.0648227)"><path
@@ -221,6 +222,7 @@
      y="0"
      x="0">B</tspan></text>
 
+
 </g></g><g
      id="g2520-2"
      transform="translate(228.774,1.0649082)"><path
@@ -236,6 +238,7 @@
      y="0"
      x="0">C</tspan></text>
 
+
 </g></g><g
      id="g2514-9"
      transform="translate(228.87588,1.064913)"><path
@@ -250,6 +253,7 @@
      id="tspan74-3"
      y="0"
      x="0">D</tspan></text>
+
 
 </g></g><path
      d="m 356.32489,689.76491 h 22.8 l 8.40001,-8.39999 -10e-6,-28.50001 -8.4,-8.39999 -22.8,-10e-6 -8.39999,8.4 v 28.50001 z m -8.4,0 z m 39.70001,-45.39999 z"
@@ -557,9 +561,10 @@
    y="-799.94269"><tspan
      id="tspan42-3"
      sodipodi:role="line"
-     y="-799.94269"
-     x="226.5298 230.35883 234.07964 237.90868 241.62947"
-     style="stroke-width:1.12751365;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Robot</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';stroke-width:1.12751365"
+     x="226.5298"
+     y="-793.95715" /></text>
+
 
 <path
    d="m 219,798.2 c 1.8,-1.8 -1.62784,-8.05545 1.5541,-8.18688 l 1.06148,-1.12296 L 219.2,782.9 c 0,0 -3.26954,3.0745 -5.3,5.5 -2.03046,2.4255 -0.33794,7.49933 5.1,9.8 z"
@@ -1041,6 +1046,7 @@
      y="0"
      x="0 9.7919998 19.386 28.188 33.084">Table</tspan></text>
 
+
 </g><g
        id="g246-7"><path
          inkscape:connector-curvature="0"
@@ -1070,6 +1076,7 @@
      y="0"
      x="0">A</tspan></text>
 
+
 </g></g><g
      id="g2532-9-9"
      transform="translate(490.3707,3.0714186)"><path
@@ -1086,6 +1093,7 @@
      y="0"
      x="0">B</tspan></text>
 
+
 </g></g><g
      id="g2520-2-3"
      transform="translate(446.81967,3.0714838)"><path
@@ -1101,6 +1109,7 @@
      y="0"
      x="0">C</tspan></text>
 
+
 </g></g><g
      id="g2514-9-6"
      transform="translate(446.92155,3.0714886)"><path
@@ -1115,6 +1124,7 @@
      id="tspan74-3-0"
      y="0"
      x="0">D</tspan></text>
+
 
 </g></g><path
      d="m 574.37056,691.7715 22.80004,-2e-5 8.4,-8.4 -4e-5,-28.49998 -8.39999,-8.39999 -22.79996,-4e-5 -8.4,8.4 -4e-5,28.50004 z m -8.39995,-3e-5 z m 39.70001,-45.4 z"
@@ -1422,17 +1432,7 @@
    d="m 228.45608,814.66223 c -0.38598,0 -0.69726,-0.31128 -0.69726,-0.69726 v -6.09229 c -0.18548,-0.19198 -0.37521,-0.38105 -0.55078,-0.57861 -1.36017,-0.75407 -3.18611,-1.07401 -3.91406,-2.61621 -0.11127,-1.88553 0.10966,-4.19305 1.90429,-5.26319 1.13465,-0.75946 2.5563,-1.73431 2.40821,-3.28857 0.0447,-1.40907 -0.0932,-3.2193 1.27148,-4.08252 4.57767,-2.79626 10.75402,-2.74964 15.22558,0.24609 1.71295,1.65294 0.19677,4.42865 1.76514,6.15381 1.25239,0.59911 2.87149,1.33018 2.99414,2.91504 0.23031,1.30012 1.05866,2.8117 0.0996,4.01074 -1.14632,1.07741 -2.87396,1.32797 -4.03565,2.36279 v 6.23292 c 0,0.38598 -0.31129,0.69726 -0.69727,0.69726 z"
    id="path1075-6-8"
    inkscape:connector-curvature="0"
-   transform="translate(-23.804896,-75.093377)" /><text
-   id="text44-7-8"
-   style="font-variant:normal;font-weight:normal;font-size:6.76508236px;font-family:'Operator Mono';-inkscape-font-specification:OperatorMonoBold;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.12751365"
-   transform="matrix(1,0,0,-1,-23.804896,-75.093377)"
-   x="226.5298"
-   y="-799.94269"><tspan
-     id="tspan42-3-6"
-     sodipodi:role="line"
-     y="-799.94269"
-     x="226.5298 230.35883 234.07964 237.90868 241.62947"
-     style="stroke-width:1.12751365;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Robot</tspan></text>
+   transform="translate(-23.804896,-75.093377)" />
 
 <path
    d="m 219,798.2 c 1.8,-1.8 -1.62784,-8.05545 1.5541,-8.18688 l 1.06148,-1.12296 L 219.2,782.9 c 0,0 -3.26954,3.0745 -5.3,5.5 -2.03046,2.4255 -0.33794,7.49933 5.1,9.8 z"
@@ -1807,6 +1807,7 @@
      y="0"
      x="0 9.7919998 19.386 28.188 33.084">Table</tspan></text>
 
+
 </g><g
        id="g246-7-7"><path
          inkscape:connector-curvature="0"
@@ -1965,6 +1966,7 @@
      y="0"
      id="tspan2873">A</tspan></text>
 
+
 </g></g><g
      transform="translate(699.49837,3.5173193)"
      id="g2889"><path
@@ -1981,6 +1983,7 @@
      y="0"
      id="tspan2883">B</tspan></text>
 
+
 </g></g><g
      transform="translate(655.94734,3.5173811)"
      id="g2899"><path
@@ -1996,6 +1999,7 @@
      y="0"
      id="tspan2893">C</tspan></text>
 
+
 </g></g><g
      transform="translate(656.04921,3.5173859)"
      id="g2909"><path
@@ -2010,6 +2014,7 @@
      x="0"
      y="0"
      id="tspan2903">D</tspan></text>
+
 
 </g></g><path
      inkscape:connector-curvature="0"
@@ -2311,17 +2316,7 @@
    inkscape:connector-curvature="0"
    id="path3115"
    d="m 228.45608,814.66223 c -0.38598,0 -0.69726,-0.31128 -0.69726,-0.69726 v -6.09229 c -0.18548,-0.19198 -0.37521,-0.38105 -0.55078,-0.57861 -1.36017,-0.75407 -3.18611,-1.07401 -3.91406,-2.61621 -0.11127,-1.88553 0.10966,-4.19305 1.90429,-5.26319 1.13465,-0.75946 2.5563,-1.73431 2.40821,-3.28857 0.0447,-1.40907 -0.0932,-3.2193 1.27148,-4.08252 4.57767,-2.79626 10.75402,-2.74964 15.22558,0.24609 1.71295,1.65294 0.19677,4.42865 1.76514,6.15381 1.25239,0.59911 2.87149,1.33018 2.99414,2.91504 0.23031,1.30012 1.05866,2.8117 0.0996,4.01074 -1.14632,1.07741 -2.87396,1.32797 -4.03565,2.36279 v 6.23292 c 0,0.38598 -0.31129,0.69726 -0.69727,0.69726 z"
-   style="opacity:1;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /><text
-   y="-799.94269"
-   x="226.5298"
-   transform="matrix(1,0,0,-1,-23.804896,-75.093377)"
-   style="font-variant:normal;font-weight:normal;font-size:6.76508236px;font-family:'Operator Mono';-inkscape-font-specification:OperatorMonoBold;writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.12751365"
-   id="text3119"><tspan
-     style="stroke-width:1.12751365;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-     x="226.5298 230.35883 234.07964 237.90868 241.62947"
-     y="-799.94269"
-     sodipodi:role="line"
-     id="tspan3117">Robot</tspan></text>
+   style="opacity:1;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 
 <path
    transform="translate(-23.804896,-75.093377)"
@@ -2696,6 +2691,7 @@
      sodipodi:role="line"
      id="tspan3381">Table</tspan></text>
 
+
 </g><g
        id="g3389"><path
          d="M 138.9,649 Z"
@@ -2855,6 +2851,7 @@
 
 
 
+
 </g></g><g
      transform="translate(3.7500001e-5,3.7500001e-5)"
      id="g2532"><path
@@ -2870,6 +2867,7 @@
      x="0"
      y="0"
      id="tspan58">B</tspan></text>
+
 
 
 
@@ -2890,6 +2888,7 @@
 
 
 
+
 </g></g><g
      transform="translate(0.05097037)"
      id="g2514"><path
@@ -2904,6 +2903,7 @@
      x="0"
      y="0"
      id="tspan74">D</tspan></text>
+
 
 
 
@@ -3197,17 +3197,7 @@
    inkscape:connector-curvature="0"
    id="path1075"
    d="m 228.45608,814.66223 c -0.38598,0 -0.69726,-0.31128 -0.69726,-0.69726 v -6.09229 c -0.18548,-0.19198 -0.37521,-0.38105 -0.55078,-0.57861 -1.36017,-0.75407 -3.18611,-1.07401 -3.91406,-2.61621 -0.11127,-1.88553 0.10966,-4.19305 1.90429,-5.26319 1.13465,-0.75946 2.5563,-1.73431 2.40821,-3.28857 0.0447,-1.40907 -0.0932,-3.2193 1.27148,-4.08252 4.57767,-2.79626 10.75402,-2.74964 15.22558,0.24609 1.71295,1.65294 0.19677,4.42865 1.76514,6.15381 1.25239,0.59911 2.87149,1.33018 2.99414,2.91504 0.23031,1.30012 1.05866,2.8117 0.0996,4.01074 -1.14632,1.07741 -2.87396,1.32797 -4.03565,2.36279 v 6.23292 c 0,0.38598 -0.31129,0.69726 -0.69727,0.69726 z"
-   style="opacity:1;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" /><text
-   y="-799.94269"
-   x="226.5298"
-   transform="matrix(1,0,0,-1,-23.804896,-75.093377)"
-   style="font-variant:normal;font-weight:bold;font-size:6.76508236px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';writing-mode:lr-tb;fill:#fdf6e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.12751365;font-style:normal;font-stretch:normal;"
-   id="text44"><tspan
-     style="stroke-width:1.12751365;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;"
-     x="226.5298 230.35883 234.07964 237.90868 241.62947"
-     y="-799.94269"
-     sodipodi:role="line"
-     id="tspan42">Robot</tspan></text>
+   style="opacity:1;fill:#b58900;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 
 <path
    transform="translate(-23.804896,-75.093377)"
@@ -3690,6 +3680,7 @@
 
 
 
+
 </g><g
        id="g246"><path
          d="M 138.9,649 Z"
@@ -3716,6 +3707,7 @@
    style="fill:#268bd2;stroke-width:0.75"
    id="tspan5535-5">blockA</tspan>)</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -3733,6 +3725,7 @@
    style="fill:#859900"
    id="tspan5580">blockC</tspan>)</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'Skolar PE';-inkscape-font-specification:'Skolar PE Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75"
@@ -3747,6 +3740,7 @@
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic';fill:#073642;stroke-width:0.75">unstack(<tspan
    style="fill:#dc322f;stroke-width:0.75"
    id="tspan5535-6">blockB</tspan>)</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -3765,6 +3759,7 @@
    style="fill:#dc322f"
    id="tspan5610">blockB</tspan>)</tspan></text>
 
+
 <circle
    style="opacity:1;fill:#dc322f;fill-opacity:1;stroke:#eee8d5;stroke-width:0.55014592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="path5614"
@@ -3782,7 +3777,8 @@
      id="tspan5616"
      x="198.78445"
      y="-853.24701"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Aller Display';-inkscape-font-specification:'Aller Display Bold';fill:#fdf6e3;stroke-width:0.75">1</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#fdf6e3;stroke-width:0.75">1</tspan></text>
+
 
 <circle
    style="opacity:1;fill:#859900;fill-opacity:1;stroke:#eee8d5;stroke-width:0.55014592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3801,7 +3797,8 @@
      id="tspan5616-3"
      x="426.86923"
      y="-853.08704"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Aller Display';-inkscape-font-specification:'Aller Display Bold';fill:#fdf6e3;stroke-width:0.75">2</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#fdf6e3;stroke-width:0.75">2</tspan></text>
+
 
 <circle
    style="opacity:1;fill:#268bd2;fill-opacity:1;stroke:#eee8d5;stroke-width:0.55014592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3820,7 +3817,8 @@
      id="tspan5616-1"
      x="646.09698"
      y="-854.58704"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Aller Display';-inkscape-font-specification:'Aller Display Bold';fill:#fdf6e3;stroke-width:0.75">3</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#fdf6e3;stroke-width:0.75">3</tspan></text>
+
 
 <circle
    style="opacity:1;fill:#d33682;fill-opacity:1;stroke:#eee8d5;stroke-width:0.55014592;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3839,6 +3837,7 @@
      id="tspan5616-8"
      x="855.69824"
      y="-854.20703"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:'Aller Display';-inkscape-font-specification:'Aller Display Bold';fill:#fdf6e3;stroke-width:0.75">4</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:40px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#fdf6e3;stroke-width:0.75">4</tspan></text>
+
 
 </g></svg>

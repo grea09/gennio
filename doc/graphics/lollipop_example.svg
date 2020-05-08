@@ -20,7 +20,7 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata720"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -37,13 +37,13 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="1.6819304"
-   inkscape:cx="145.50681"
-   inkscape:cy="259.64391"
+   inkscape:zoom="2.3786088"
+   inkscape:cx="132.03503"
+   inkscape:cy="171.84778"
    inkscape:window-x="1920"
    inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg716" />
+   inkscape:current-layer="g706" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -939,13 +939,14 @@
      font-size="494px"
      font-weight="400"
      id="tspan325"
-     style="font-weight:400;font-size:494px;font-family:'Aller Display'"><tspan
+     style="font-weight:900;font-size:494px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="1050"
        y="7534"
-       id="tspan323"><tspan
-         id="tspan321"
-         style="fill:#839496;stroke:none">Corridor</tspan></tspan></tspan></text>
+       id="tspan323"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#839496;stroke:none">Corridor</tspan></tspan></text>
+
+
 
         </g>
        </g>
@@ -964,18 +965,20 @@
    style="fill:none;stroke:none" />
          <text
    class="TextShape"
-   id="text340"><tspan
+   id="text340"
+   x="-211.66669"><tspan
      class="TextParagraph"
      font-size="494px"
      font-weight="400"
      id="tspan338"
-     style="font-weight:400;font-size:494px;font-family:'Aller Display'"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:494px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"><tspan
        class="TextPosition"
-       x="5027"
+       x="4815.334"
        y="7534"
-       id="tspan336"><tspan
-         id="tspan334"
-         style="fill:#839496;stroke:none">Living-room</tspan></tspan></tspan></text>
+       id="tspan336"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#839496;stroke:none">Living-room</tspan></tspan></text>
+
+
 
         </g>
        </g>
@@ -999,13 +1002,14 @@
      font-size="494px"
      font-weight="400"
      id="tspan351"
-     style="font-weight:400;font-size:494px;font-family:'Aller Display'"><tspan
+     style="font-weight:900;font-size:494px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="1127"
        y="1282"
-       id="tspan349"><tspan
-         id="tspan347"
-         style="fill:#839496;stroke:none">Kitchen</tspan></tspan></tspan></text>
+       id="tspan349"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#839496;stroke:none">Kitchen</tspan></tspan></text>
+
+
 
         </g>
        </g>
@@ -1029,13 +1033,14 @@
      font-size="635px"
      font-weight="400"
      id="tspan364"
-     style="font-weight:400;font-size:635px;font-family:Aller"><tspan
+     style="font-weight:normal;font-size:635px;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="1527"
        y="4509"
-       id="tspan362"><tspan
-         id="tspan360"
-         style="fill:#839496;stroke:none">Robot</tspan></tspan></tspan></text>
+       id="tspan362"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static';fill:#839496;stroke:none">Robot</tspan></tspan></text>
+
+
 
         </g>
        </g>
@@ -1158,13 +1163,14 @@
      font-size="635px"
      font-weight="400"
      id="tspan413"
-     style="font-weight:400;font-size:635px;font-family:Aller"><tspan
+     style="font-weight:normal;font-size:635px;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="5050"
        y="4609"
-       id="tspan411"><tspan
-         id="tspan409"
-         style="fill:#839496;stroke:none">Keys</tspan></tspan></tspan></text>
+       id="tspan411"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static';fill:#839496;stroke:none">Keys</tspan></tspan></text>
+
+
 
         </g>
        </g>
@@ -1193,7 +1199,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan430"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="8450"
        y="1081"
@@ -1207,7 +1213,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan444"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="1551"
@@ -1228,7 +1234,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan456"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="2021"
@@ -1245,7 +1251,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan470"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="2491"
@@ -1265,7 +1271,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan482"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="2961"
@@ -1282,7 +1288,7 @@
      font-size="317px"
      font-weight="700"
      id="tspan490"
-     style="font-weight:700;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:700;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="8450"
        y="4007"
@@ -1296,7 +1302,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan504"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="4477"
@@ -1317,7 +1323,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan520"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="4947"
@@ -1339,7 +1345,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan534"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="5417"
@@ -1358,7 +1364,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan546"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="5887"
@@ -1375,7 +1381,7 @@
      font-size="317px"
      font-weight="700"
      id="tspan554"
-     style="font-weight:700;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:700;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="8450"
        y="6933"
@@ -1389,7 +1395,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan568"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="7403"
@@ -1410,7 +1416,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan586"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="7873"
@@ -1434,7 +1440,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan602"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="8343"
@@ -1456,7 +1462,7 @@
      font-size="317px"
      font-weight="400"
      id="tspan616"
-     style="font-weight:400;font-size:317px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:400;font-size:317px;font-family:'Recursive Mono Casual Static'"><tspan
        class="TextPosition"
        x="9700"
        y="8813"
@@ -1472,6 +1478,8 @@
          font-style="italic"
          id="tspan612"
          style="font-style:italic;fill:#d33682;stroke:none">false</tspan></tspan></tspan></text>
+
+
 
         </g>
        </g>
@@ -1513,6 +1521,8 @@
          id="tspan629"
          style="fill:#ffffff;stroke:none"> </tspan></tspan></tspan></text>
 
+
+
         </g>
        </g>
        <g
@@ -1535,18 +1545,21 @@
      font-size="423px"
      font-weight="400"
      id="tspan650"
-     style="font-weight:400;font-size:423px;font-family:'Space Mono', monospace"><tspan
+     style="font-weight:normal;font-size:423px;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="2450"
        y="8409"
-       id="tspan648"><tspan
+       id="tspan648"
+       style="-inkscape-font-specification:'Recursive Mono Casual Static';font-family:'Recursive Mono Casual Static';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
          id="tspan642"
-         style="fill:#ffffff;stroke:none">robot </tspan><tspan
+         style="fill:#ffffff;stroke:none;-inkscape-font-specification:'Recursive Mono Casual Static';font-family:'Recursive Mono Casual Static';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">robot </tspan><tspan
          font-style="italic"
          id="tspan644"
-         style="font-style:italic;fill:#859900;stroke:none">holds </tspan><tspan
+         style="font-style:normal;fill:#859900;stroke:none;-inkscape-font-specification:'Recursive Mono Casual Static';font-family:'Recursive Mono Casual Static';font-weight:normal;font-stretch:normal;font-variant:normal">holds </tspan><tspan
          id="tspan646"
-         style="fill:#ffffff;stroke:none">lollipop</tspan></tspan></tspan></text>
+         style="fill:#ffffff;stroke:none;-inkscape-font-specification:'Recursive Mono Casual Static';font-family:'Recursive Mono Casual Static';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">lollipop</tspan></tspan></tspan></text>
+
+
 
         </g>
        </g>
@@ -1615,13 +1628,14 @@
      font-size="635px"
      font-weight="400"
      id="tspan680"
-     style="font-weight:400;font-size:635px;font-family:'Aller Display'"><tspan
+     style="font-weight:900;font-size:635px;font-family:'Recursive Sans Casual Static';-inkscape-font-specification:'Recursive Sans Casual Static Heavy';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="5250"
        y="3113"
-       id="tspan678"><tspan
-         id="tspan676"
-         style="fill:#d33682;stroke:none">Lollipop</tspan></tspan></tspan></text>
+       id="tspan678"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Casual Static';-inkscape-font-specification:'Recursive Sans Casual Static Heavy';fill:#d33682;stroke:none">Lollipop</tspan></tspan></text>
+
+
 
         </g>
        </g>
@@ -1665,6 +1679,8 @@
        id="tspan697"><tspan
          id="tspan695"
          style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
+
+
 
         </g>
        </g>

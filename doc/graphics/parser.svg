@@ -38,12 +38,12 @@
    fit-margin-right="0"
    fit-margin-bottom="0"
    inkscape:zoom="3.3638608"
-   inkscape:cx="340.17005"
+   inkscape:cx="261.6888"
    inkscape:cy="17.454342"
    inkscape:window-x="1920"
    inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g778" />
+   inkscape:current-layer="id16" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -1379,6 +1379,7 @@
          style="fill:#fdf6e3;stroke:none">Scanner</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -1419,6 +1420,7 @@
        id="tspan523"><tspan
          id="tspan521"
          style="fill:#fdf6e3;stroke:none">Analyser</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -1482,6 +1484,7 @@
          style="fill:#eee8d5;stroke:none">Tokens</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -1509,12 +1512,13 @@
      font-size="494px"
      font-weight="700"
      id="tspan564"
-     style="font-weight:bold;font-size:494px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+     style="font-weight:bold;font-size:494px;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="708"
        y="1606"
        id="tspan562"
-       style="fill:#073642;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Text</tspan></tspan></text>
+       style="fill:#073642;stroke:none;-inkscape-font-specification:'Recursive Mono Casual Static Bold';font-family:'Recursive Mono Casual Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Text</tspan></tspan></text>
+
 
 
        <text
@@ -1538,6 +1542,7 @@
      y="2732.1318"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script';stroke-width:746.70709229;fill:#002b36;"
      id="tspan1233">The application</tspan></text>
+
 </g>
       </g>
       <g
@@ -1585,6 +1590,7 @@
          style="fill:#859900;stroke:none">Tree</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -1615,6 +1621,7 @@
        id="tspan612"><tspan
          id="tspan610"
          style="fill:#d33682;stroke:none">Parser</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -1698,6 +1705,7 @@
          style="fill:#839496;stroke:none">Legend</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -1754,6 +1762,7 @@
          style="fill:#fdf6e3;stroke:none">Process</tspan></tspan></tspan></text>
 
 
+
        </g>
       </g>
       <g
@@ -1781,12 +1790,13 @@
      font-size="494px"
      font-weight="700"
      id="tspan682"
-     style="font-weight:bold;font-size:494px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+     style="font-weight:bold;font-size:494px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"><tspan
        class="TextPosition"
        x="10750"
        y="5063"
        id="tspan680"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">Input</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">Input</tspan></tspan></text>
+
 
 
        </g>
@@ -1811,19 +1821,22 @@
    style="fill:#657b83;stroke:none" />
         <text
    class="TextShape"
-   id="text699"><tspan
+   id="text699"
+   x="939.12164"
+   y="315.32132"
+   style="font-size:11.24336529px;stroke-width:26.44252014"><tspan
      class="TextParagraph"
      font-size="635px"
      font-style="italic"
      font-weight="700"
      id="tspan697"
-     style="font-style:italic;font-weight:700;font-size:635px;font-family:'STIX Two Text'"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:594.96142578px;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static Bold Italic';stroke-width:26.44252014"><tspan
        class="TextPosition"
-       x="14862"
-       y="5166"
-       id="tspan695"><tspan
-         id="tspan693"
-         style="fill:#fdf6e3;stroke:none">Output</tspan></tspan></tspan></text>
+       x="14864.029"
+       y="5155.5898"
+       id="tspan695"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static Bold Italic';fill:#fdf6e3;stroke:none;stroke-width:26.44252014">Output</tspan></tspan></text>
+
 
 
        </g>
@@ -1865,6 +1878,7 @@
        id="tspan712"><tspan
          id="tspan710"
          style="fill:#657b83;stroke:none">Evaluator</tspan></tspan></tspan></text>
+
 
 
        </g>
@@ -2016,6 +2030,7 @@
        id="tspan769"><tspan
          id="tspan767"
          style="fill:#eee8d5;stroke:none">Data</tspan></tspan></tspan></text>
+
 
 
        </g>

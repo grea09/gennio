@@ -38,12 +38,12 @@
    fit-margin-right="0"
    fit-margin-bottom="0"
    inkscape:zoom="3.3638608"
-   inkscape:cx="326.82426"
+   inkscape:cx="248.34301"
    inkscape:cy="197.00426"
    inkscape:window-x="1920"
    inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g1396" />
+   inkscape:current-layer="id5" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -430,6 +430,8 @@
 
 
 
+
+
        </g><g
    id="id4">
         <rect
@@ -687,6 +689,8 @@
 
 
 
+
+
        </g><g
    id="id5">
         <rect
@@ -741,7 +745,7 @@
    id="text576"
    class="TextShape"
    x="-52.916668"><tspan
-     style="font-weight:bold;font-size:564px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"
+     style="font-weight:bold;font-size:564px;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan544"
      font-weight="700"
      font-size="564px"
@@ -750,7 +754,9 @@
        y="6255"
        x="1323.0834"
        class="TextPosition"
-       style="fill:#073642;stroke:none;-inkscape-font-specification:'Space Mono Bold';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Grammar</tspan></tspan></text>
+       style="fill:#073642;stroke:none;-inkscape-font-specification:'Recursive Mono Casual Static Bold';font-family:'Recursive Mono Casual Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">Grammar</tspan></tspan></text>
+
+
 <text
    class="TextShape"
    x="-52.916668"
@@ -758,9 +764,11 @@
 
 
 
+
+
        <text
    xml:space="preserve"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:317.50000781px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:746.70709229"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:317.5px;line-height:1.25;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:746.70709229"
    x="1281.5077"
    y="6723.2871"
    id="text1419"><tspan
@@ -768,26 +776,21 @@
      id="tspan1417"
      x="1281.5077"
      y="6723.2871"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229;fill:#002b36">&lt;<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#002b36"
-   id="tspan1421">rule</tspan>&gt;::=</tspan><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static';fill:#002b36;stroke-width:746.70709229">&lt;rule&gt;::=</tspan><tspan
      sodipodi:role="line"
      x="1281.5077"
-     y="7291.2227"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229;fill:#002b36"
+     y="7137.9927"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static';fill:#002b36;stroke-width:746.70709229"
      id="tspan1423">&lt;regex&gt;*</tspan><tspan
      sodipodi:role="line"
      x="1281.5077"
-     y="7859.1587"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229;fill:#002b36"
-     id="tspan1425">|<tspan
-   style="fill:#859900"
-   id="tspan1429">&quot;literals&quot;</tspan></tspan><tspan
-     sodipodi:role="line"
-     x="1281.5077"
-     y="8427.0938"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229;fill:#dc322f"
-     id="tspan1427">(evaluation)</tspan></text>
+     y="7552.6982"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static';fill:#002b36;stroke-width:746.70709229"
+     id="tspan1427">|<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static';fill:#859900"
+   id="tspan1429">&quot;literals&quot;</tspan></tspan></text>
+
+
 </g><g
    id="id6">
         <rect
@@ -805,8 +808,9 @@
    d="m 15333,9900 h 2104 c 282,0 564,350 564,700 0,350 -282,700 -564,700 h -2104 l -533,-700 z m -533,0 z m 3201,1401 z" />
         <text
    id="text591"
-   class="TextShape"><tspan
-     style="font-style:italic;font-weight:700;font-size:635px;font-family:'STIX Two Text'"
+   class="TextShape"
+   x="-158.75002"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static Bold Italic'"
      id="tspan589"
      font-weight="700"
      font-style="italic"
@@ -814,10 +818,11 @@
      class="TextParagraph"><tspan
        id="tspan587"
        y="10766"
-       x="15485"
-       class="TextPosition"><tspan
-         style="fill:#fdf6e3;stroke:none"
-         id="tspan585">Result</tspan></tspan></tspan></text>
+       x="15326.249"
+       class="TextPosition"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static Bold Italic';fill:#fdf6e3;stroke:none">Result</tspan></tspan></text>
+
+
 
 
 
@@ -1148,6 +1153,8 @@
 
 
 
+
+
        </g><g
    id="id8">
         <rect
@@ -1401,6 +1408,8 @@
 
 
 
+
+
        </g><g
    id="id9">
         <rect
@@ -1464,6 +1473,8 @@
 
 
 
+
+
        </g><g
    id="id11">
         <rect
@@ -1498,6 +1509,8 @@
        class="TextPosition"><tspan
          style="fill:#dc322f;stroke:none"
          id="tspan868">Compiler</tspan></tspan></tspan></text>
+
+
 
 
 
@@ -1754,6 +1767,8 @@
 
 
 
+
+
        </g><g
    id="id13">
         <rect
@@ -1788,6 +1803,8 @@
        class="TextPosition"><tspan
          style="fill:#dc322f;stroke:none"
          id="tspan988">Evaluator</tspan></tspan></tspan></text>
+
+
 
 
 
@@ -1839,6 +1856,8 @@
      font-size="353px"
      class="TextParagraph"
      id="tspan1439" /></text>
+
+
 
 
 
@@ -2095,6 +2114,8 @@
 
 
 
+
+
        </g><g
    id="id16">
         <rect
@@ -2158,6 +2179,8 @@
 
 
 
+
+
        </g><g
    id="id18">
         <rect
@@ -2192,6 +2215,8 @@
        class="TextPosition"><tspan
          style="fill:#dc322f;stroke:none"
          id="tspan1169">Evaluator</tspan></tspan></tspan></text>
+
+
 
 
 
@@ -2328,6 +2353,8 @@
 
 
 
+
+
        </g><g
    id="id25"
    transform="matrix(1.2717966,0,0,1,-1409.3084,111.23449)">
@@ -2377,6 +2404,8 @@
 
 
 
+
+
        </g><g
    id="id27"
    transform="translate(2741.127,-1134.5918)">
@@ -2396,7 +2425,7 @@
         <text
    id="text1272"
    class="TextShape"><tspan
-     style="font-weight:bold;font-size:494px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';font-style:normal;font-stretch:normal;font-variant:normal"
+     style="font-weight:bold;font-size:494px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan1270"
      font-weight="700"
      font-size="494px"
@@ -2405,13 +2434,15 @@
        y="15063"
        x="10450"
        class="TextPosition"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#073642;stroke:none">Input</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">Input</tspan></tspan></text>
+
+
 
 
 
        </g><g
    id="id28"
-   transform="translate(2741.127,-1134.5918)">
+   transform="matrix(1.002,0,0,1.002,2711.127,-1163.5918)">
         <rect
    style="fill:none;stroke:none"
    id="rect1277"
@@ -2427,19 +2458,23 @@
    d="m 15400,14500 h 1578 c 211,0 423,250 423,500 0,250 -212,501 -423,501 h -1578 l -400,-501 z m -400,0 z m 2401,1001 z" />
         <text
    id="text1287"
-   class="TextShape"><tspan
-     style="font-style:italic;font-weight:700;font-size:635px;font-family:'STIX Two Text'"
+   class="TextShape"
+   x="1009.4393"
+   y="996.57324"
+   style="font-size:11.20278931px;stroke-width:26.34709358"><tspan
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:592.81427002px;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static Bold Italic';stroke-width:26.34709358"
      id="tspan1285"
      font-weight="700"
      font-style="italic"
      font-size="635px"
      class="TextParagraph"><tspan
        id="tspan1283"
-       y="15166"
-       x="15162"
-       class="TextPosition"><tspan
-         style="fill:#fdf6e3;stroke:none"
-         id="tspan1281">Output</tspan></tspan></tspan></text>
+       y="15155.031"
+       x="15164.163"
+       class="TextPosition"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Casual Static';-inkscape-font-specification:'Recursive Mono Casual Static Bold Italic';fill:#fdf6e3;stroke:none;stroke-width:26.34709358">Output</tspan></tspan></text>
+
+
 
 
 
@@ -2478,6 +2513,8 @@
        class="TextPosition"><tspan
          style="fill:#657b83;stroke:none"
          id="tspan1298">Evaluator</tspan></tspan></tspan></text>
+
+
 
 
 
@@ -2673,6 +2710,8 @@
 
 
 
+
+
        </g>
  <text
    xml:space="preserve"
@@ -2695,5 +2734,7 @@
      y="11195.263"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script';fill:#002b36;stroke-width:117.64860535;"
      id="tspan1447">The application</tspan></text>
+
+
 </g>
 </svg>

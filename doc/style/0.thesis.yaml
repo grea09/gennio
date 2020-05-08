@@ -14,6 +14,34 @@ documentclass: scrreprt
 top-level-division: chapter
 number-sections: true
 subparagraph: yes
+
+mainfont: Recursive Sans Linear Static
+mainfontoptions:
+  - ItalicFont=Recursive Sn Csl St SmB Italic
+  - BoldItalicFont=Recursive Sn Lnr St XBd Italic
+mathfont: STIX Two Math
+mathfontoptions:
+ - ItalicFont=STIX Two Text Italic
+monofont: Recursive Mono Linear Static
+monofontoptions:
+ - ItalicFont=Recursive Mono Casual Static
+titlefont: Recursive Sn Lnr St XBk
+sectfont: Bebas Neue
+sectfontsize: [24,16]
+chapfont: Recursive Sn Csl St Lt
+chapfontsize: [32]
+# markdown_in_html_blocks: true
+# verbatim-in-note: true
+# tables: true
+link-citations: true
+colorlinks: true
+solarized: true
+linkcolor: solarized-cyan
+citecolor: solarized-base1
+urlcolor: solarized-blue
+filecolor: solarized-magenta
+
+
 toc: true
 toc-title: Table of Content
 toc-depth: 4
@@ -21,6 +49,13 @@ lof: true
 reference-section-title: References
 bibliography: bibliography/thesis.bib
 csl: bibliography/aaai.csl
+
+multicol: true
+#toc-col: 2
+lot-col: 2
+lof-col: 2
+glos-col: 3
+
 header-includes:
 # STYLE
     - \usepackage{marginnote}
@@ -37,7 +72,7 @@ header-includes:
     - \newfontfamily\graphikmedfont[]{Graphik LC Web Medium}
     - \newfontfamily\lyondfont[]{Lyon2}
     - \newfontfamily\perihelionbbfont[]{PerihelionBB-Bold}
-    - \newfontfamily\disp[]{Aller Display}
+    - \newfontfamily\disp[]{Recursive Sn Lnr St XBk}
     
     - \newcommand{\arc}{\textcolor{solarized-violet}{\vspace{0pt}\arcfont arc 2}~\includegraphics[height=2.8mm]{logos/arc2_pastille.pdf} }
     - \newcommand{\liris}{\textcolor{solarized-base02}{\lirisfont LỊRIS} }

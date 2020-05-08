@@ -37,9 +37,9 @@
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="1.6819304"
-   inkscape:cx="515.63837"
-   inkscape:cy="-64.593767"
+   inkscape:zoom="2.3786088"
+   inkscape:cx="95.817595"
+   inkscape:cy="141.1741"
    inkscape:window-x="1920"
    inkscape:window-y="60"
    inkscape:window-maximized="1"
@@ -499,6 +499,7 @@
 
 
 
+
         </g>
        </g>
        <g
@@ -548,6 +549,7 @@
        class="TextPosition"><tspan
          style="fill:#073642;stroke:none"
          id="tspan165">5</tspan></tspan></tspan></text>
+
 
 
 
@@ -612,6 +614,7 @@
          style="fill:#073642;stroke:none"
          id="tspan193">Grab</tspan></tspan></tspan></text>
 
+
 <g
    transform="translate(-4899,-1015.885)"
    id="g223"
@@ -660,6 +663,7 @@
        class="TextPosition"><tspan
          style="fill:#073642;stroke:none"
          id="tspan214">4</tspan></tspan></tspan></text>
+
 
 
 
@@ -720,6 +724,7 @@
        id="tspan242"><tspan
          id="tspan240"
          style="fill:#859900;stroke:none">ingredients</tspan></tspan></tspan></text>
+
 
 
 
@@ -841,6 +846,7 @@
 
 
 
+
         </g>
        </g>
        <g
@@ -883,6 +889,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan316">2</tspan></tspan></tspan></text>
+
 
 
 
@@ -930,6 +937,7 @@
 
 
 
+
         </g>
        </g>
        <g
@@ -972,6 +980,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan352">3</tspan></tspan></tspan></text>
+
 
 
 
@@ -1023,6 +1032,7 @@
 
 
 
+
        </g>
       </g><g
    id="g401"
@@ -1069,6 +1079,7 @@
 
 
 
+
        </g>
       </g><g
    id="g420"
@@ -1111,6 +1122,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan411">3</tspan></tspan></tspan></text>
+
 
 
 
@@ -1221,6 +1233,7 @@
 
 
 
+
         </g>
        </g>
        <g
@@ -1256,6 +1269,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan467">x</tspan></tspan></tspan></text>
+
 
 
 
@@ -1357,6 +1371,7 @@
 
 
 
+
         </g>
        </g>
        <g
@@ -1392,6 +1407,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan521">y</tspan></tspan></tspan></text>
+
 
 
 
@@ -1457,6 +1473,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan547">y</tspan></tspan></tspan></text>
+
 
 
 
@@ -1582,6 +1599,7 @@
 
 
 
+
         </g>
        </g>
        <g
@@ -1617,6 +1635,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan609">z</tspan></tspan></tspan></text>
+
 
 
 
@@ -1661,6 +1680,7 @@
 
 
 
+
        </g>
       </g><g
    id="g650"
@@ -1700,6 +1720,7 @@
 
 
 
+
        </g>
       </g><g
    id="g663"
@@ -1729,6 +1750,7 @@
        class="TextPosition"><tspan
          style="fill:#839496;stroke:none"
          id="tspan654">&amp;</tspan></tspan></tspan></text>
+
 
 
 
@@ -1766,6 +1788,7 @@
        id="tspan523-2"><tspan
          id="tspan521-0"
          style="fill:#fdf6e3;stroke:none">y</tspan></tspan></tspan></text>
+
 
 </g></g><g
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
@@ -1852,6 +1875,7 @@
          style="fill:#839496;stroke:none"
          id="tspan452-0">Person</tspan></tspan></tspan></text>
 
+
 </g></g><g
      id="g476-7"
      class="com.sun.star.drawing.CustomShape"><g
@@ -1881,6 +1905,7 @@
        class="TextPosition"><tspan
          style="fill:#fdf6e3;stroke:none"
          id="tspan467-1">x</tspan></tspan></tspan></text>
+
 
 </g></g></g><g
    style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
@@ -1976,6 +2001,7 @@
      font-size="529px"
      class="TextParagraph">holds</tspan></text>
 
+
 <ellipse
    ry="418"
    rx="421.50003"
@@ -1998,6 +2024,7 @@
        id="tspan1477"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.99999762%;font-family:'STIX Two Math';-inkscape-font-specification:'STIX Two Math';baseline-shift:sub;fill:#fdf6e3">6</tspan></tspan></text>
 
+
 </g><g
    id="g1755"><rect
    y="2321.0337"
@@ -2012,49 +2039,56 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:423.33334351px;line-height:1;font-family:'Redacted Script';-inkscape-font-specification:'Redacted Script Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:746.70709229"
    xml:space="preserve"><tspan
      id="tspan1707"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:423.33334351px;line-height:0px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';stroke-width:746.70709229"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.33334351px;line-height:0px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static';stroke-width:746.70709229"
      y="2752.1697"
      x="11397.092"
      sodipodi:role="line"><tspan
-       id="tspan1713"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Space Mono';-inkscape-font-specification:'Space Mono Bold';fill:#b58900">measurement</tspan><tspan
-       style="-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-       id="tspan1235">(</tspan></tspan><tspan
+   id="tspan1713"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static';fill:#b58900">measurement</tspan>(</tspan><tspan
      id="tspan1711"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.33334351px;line-height:0px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.33334351px;line-height:0px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static';stroke-width:746.70709229"
      y="3175.5029"
      x="11397.092"
      sodipodi:role="line"><tspan
    id="tspan1725"
-   style="fill:#268bd2;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">  property</tspan>: <tspan
+   style="fill:#268bd2;-inkscape-font-specification:'Recursive Mono Linear Static';font-family:'Recursive Mono Linear Static';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">  <tspan
+   style="-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan437">property</tspan></tspan>: <tspan
    id="tspan1727"
-   style="fill:#859900;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">holds</tspan>,</tspan><tspan
+   style="fill:#859900;-inkscape-font-specification:'Recursive Mono Linear Static';font-family:'Recursive Mono Linear Static';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">holds</tspan>,</tspan><tspan
      id="tspan1691"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.33334351px;line-height:0px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.33334351px;line-height:0px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static';stroke-width:746.70709229"
      y="3598.8364"
      x="11397.092"
      sodipodi:role="line"><tspan
    id="tspan1723"
-   style="fill:#268bd2;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">  value</tspan>: <tspan
+   style="fill:#268bd2;-inkscape-font-specification:'Recursive Mono Linear Static';font-family:'Recursive Mono Linear Static';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">  <tspan
+   style="-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan441">value</tspan></tspan>: <tspan
    id="tspan1733"
-   style="fill:#839496;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">y</tspan>,</tspan><tspan
+   style="fill:#839496;-inkscape-font-specification:'Recursive Mono Casual Static';font-family:'Recursive Mono Casual Static';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">y</tspan>,</tspan><tspan
      id="tspan1693"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.33334351px;line-height:0px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.33334351px;line-height:0px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static';stroke-width:746.70709229"
      y="4022.1697"
      x="11397.092"
      sodipodi:role="line"><tspan
    id="tspan1721"
-   style="fill:#268bd2;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">  entity</tspan>: <tspan
+   style="fill:#268bd2;-inkscape-font-specification:'Recursive Mono Linear Static';font-family:'Recursive Mono Linear Static';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">  <tspan
+   style="-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan445">entity</tspan></tspan>: <tspan
    id="tspan1735"
-   style="fill:#839496;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">x</tspan>,</tspan><tspan
+   style="fill:#839496;-inkscape-font-specification:'Recursive Mono Casual Static';font-family:'Recursive Mono Casual Static';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">x</tspan>,</tspan><tspan
      id="tspan1695"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.33334351px;line-height:0px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono';stroke-width:746.70709229"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:423.33334351px;line-height:0px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static';stroke-width:746.70709229"
      y="4445.5029"
      x="11397.092"
      sodipodi:role="line"><tspan
    id="tspan1719"
-   style="fill:#268bd2;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">  sensor</tspan>: <tspan
+   style="fill:#268bd2;-inkscape-font-specification:'Recursive Mono Linear Static';font-family:'Recursive Mono Linear Static';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">  <tspan
+   style="-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan449">sensor</tspan></tspan>: <tspan
    id="tspan1717"
-   style="fill:#d33682;-inkscape-font-specification:'Space Mono';font-family:'Space Mono';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">camera</tspan>)</tspan></text>
+   style="fill:#d33682;-inkscape-font-specification:'Recursive Mono Linear Static Italic';font-family:'Recursive Mono Linear Static';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">camera</tspan>)</tspan></text>
+
 
 </g></svg>

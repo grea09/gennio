@@ -44,7 +44,7 @@
      fit-margin-right="16"
      fit-margin-bottom="16"
      inkscape:zoom="6.7279479"
-     inkscape:cx="137.61661"
+     inkscape:cx="59.138"
      inkscape:cy="81.535455"
      inkscape:window-x="1920"
      inkscape:window-y="60"
@@ -72,6 +72,8 @@
      y="0"
      x="0"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'">s</tspan></text>
+
+
 
 
 
@@ -179,6 +181,8 @@
 
 
 
+
+
 </g><path
      inkscape:connector-curvature="0"
      id="path106"
@@ -193,6 +197,8 @@
      y="0"
      x="0 5.1919999 10.582"
      style="-inkscape-font-specification:'STIX Two Text Italic';font-family:'STIX Two Text';font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal">obj</tspan></text>
+
+
 
 
 
@@ -273,6 +279,8 @@
 
 
 
+
+
 </g><g
      id="g178"><text
    id="text182"
@@ -282,6 +290,8 @@
      y="0"
      x="0"
      style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Italic'">obj</tspan></text>
+
+
 
 
 
@@ -297,6 +307,8 @@
 
 
 
+
+
 </g><g
      id="g190"><text
    id="text194"
@@ -309,6 +321,8 @@
 
 
 
+
+
 </g><g
      id="g196"><text
    id="text200"
@@ -318,6 +332,8 @@
      sodipodi:role="line"
      x="0"
      y="9.2015619" /></text>
+
+
 
 
 
@@ -334,18 +350,26 @@
 
 
 
+
+
 </g></g><text
    xml:space="preserve"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Aller;-inkscape-font-specification:Aller;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;stroke-width:0.75"
-   x="13.112849"
+   x="5.6128492"
    y="-773.51721"
    id="text1109"
    transform="scale(1,-1)"><tspan
      sodipodi:role="line"
      id="tspan1107"
-     x="13.112849"
+     x="5.6128492"
      y="-773.51721"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aller Display';-inkscape-font-specification:'Aller Display';fill:#586e75;stroke-width:0.75">SELF</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#586e75;stroke-width:0.75"><tspan
+       style="font-size:65%;baseline-shift:sub;-inkscape-font-specification:'Century Gothic Bold';font-family:'Century Gothic';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       id="tspan104">↻</tspan><tspan
+       style="-inkscape-font-specification:'Century Gothic Bold';font-family:'Century Gothic';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+       id="tspan106">self</tspan></tspan></text>
+
+
 
 
 
@@ -360,7 +384,9 @@
      id="tspan1107-3"
      x="12.182849"
      y="-698.03729"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Aller Display';-inkscape-font-specification:'Aller Display';fill:#eee8d5;stroke-width:0.75">RDF</tspan></text>
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#eee8d5;stroke-width:0.75">RDF</tspan></text>
+
+
 
 
 

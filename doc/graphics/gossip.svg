@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="3840"
+     inkscape:window-height="2034"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.84104819"
-     inkscape:cx="529.59364"
-     inkscape:cy="340.31458"
-     inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:zoom="1.1894218"
+     inkscape:cx="308.4463"
+     inkscape:cy="468.17658"
+     inkscape:window-x="1920"
+     inkscape:window-y="60"
      inkscape:window-maximized="1"
      inkscape:current-layer="g14" /><g
      id="g10"
@@ -122,11 +122,13 @@
            inkscape:connector-curvature="0" /><g
            id="g60"><text
    transform="matrix(0.98823,0,0,-1,144.2,84.1)"
-   style="font-variant:normal;font-weight:normal;font-size:26.5px;font-family:'Aller Display';-inkscape-font-specification:AllerDisplay-Regular;writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:#073642;stroke-width:0.88296002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+   style="font-variant:normal;font-weight:900;font-size:26.5px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';writing-mode:lr-tb;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:#073642;stroke-width:0.88296002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-style:normal;font-stretch:normal;"
    id="text64"><tspan
      x="0"
      y="0"
-     id="tspan62">A</tspan></text>
+     id="tspan62"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal;">A</tspan></text>
+
 
 </g><path
            d="M 346.1,79.4 H 260 c -3,0 -5.3,2.4 -5.3,5.4 v 16.9 c 0,27.1 21.7,49.1 48.3,49.1 26.7,0 48.4,-22 48.4,-49.1 V 84.8 c 0,-3 -2.4,-5.4 -5.3,-5.4 z"
@@ -175,7 +177,9 @@
    id="text90"><tspan
      x="0"
      y="0"
-     id="tspan88">B</tspan></text>
+     id="tspan88"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">B</tspan></text>
+
 
 </g><path
            d="M 115.8,275 H 63.9 c -1.7,0 -3.2,1.4 -3.2,3.2 v 10.1 c 0,16.3 13.1,29.5 29.2,29.5 16,0 29.1,-13.2 29.1,-29.5 v -10.1 c 0,-1.8 -1.4,-3.2 -3.2,-3.2 z"
@@ -224,7 +228,9 @@
    id="text116"><tspan
      x="0"
      y="0"
-     id="tspan114">C</tspan></text>
+     id="tspan114"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">C</tspan></text>
+
 
 </g><g
            id="g118"><text
@@ -233,7 +239,9 @@
    id="text122"><tspan
      x="0"
      y="0"
-     id="tspan120">1</tspan></text>
+     id="tspan120"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">1</tspan></text>
+
 
 </g><path
            d="m 180.6,326.7 c -7.3,0 -13.2,6 -13.2,13.4 0,4.2 -6.4,4.2 -6.4,0 v -16.6 c 0,-1.8 1.5,-3.2 3.2,-3.2 h 16.4 16.4 c 1.7,0 3.1,1.4 3.1,3.2 v 16.6 c 0,4.2 -6.3,4.2 -6.3,0 0,-7.4 -5.9,-13.4 -13.2,-13.4 z"
@@ -282,7 +290,9 @@
    id="text148"><tspan
      x="0"
      y="0"
-     id="tspan146">C</tspan></text>
+     id="tspan146"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">C</tspan></text>
+
 
 </g><g
            id="g150"><text
@@ -291,7 +301,9 @@
    id="text154"><tspan
      x="0"
      y="0"
-     id="tspan152">2</tspan></text>
+     id="tspan152"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">2</tspan></text>
+
 
 </g><path
            d="m 119.1,320.7 h 21 v 5.2 l 15.8,-9.9 -15.8,-10 v 5.2 h -21 z m 0,5.2 z M 155.9,306 Z"
@@ -363,7 +375,9 @@
    id="text196"><tspan
      x="0"
      y="0"
-     id="tspan194">C</tspan></text>
+     id="tspan194"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">C</tspan></text>
+
 
 </g><g
            id="g198"><text
@@ -372,7 +386,9 @@
    id="text202"><tspan
      x="0"
      y="0"
-     id="tspan200">1</tspan></text>
+     id="tspan200"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">1</tspan></text>
+
 
 </g><g
            id="g204"
@@ -458,7 +474,9 @@
    id="text252"><tspan
      x="0"
      y="0"
-     id="tspan250">A</tspan></text>
+     id="tspan250"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">A</tspan></text>
+
 
 </g><g
            id="g254"><path
@@ -655,7 +673,9 @@
    id="text394"><tspan
      x="0"
      y="0"
-     id="tspan392">A</tspan></text>
+     id="tspan392"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">A</tspan></text>
+
 
 </g><path
            d="m 566.1,266.5 h -48.8 c -1.6,0 -3,1.3 -3,3 v 9.6 c 0,15.3 12.3,27.8 27.4,27.8 15.1,0 27.3,-12.5 27.3,-27.8 v -9.6 c 0,-1.7 -1.3,-3 -2.9,-3 z"
@@ -704,7 +724,9 @@
    id="text420"><tspan
      x="0"
      y="0"
-     id="tspan418">B</tspan></text>
+     id="tspan418"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">B</tspan></text>
+
 
 </g><path
            d="m 520.3,371.3 h -4.8 l -4.7,0.3 -4.7,0.3 -4.7,0.6 -4.6,0.7 -4.5,0.8 -4.5,1 -4.4,1.1 -4.3,1.3 -4.3,1.4 -4.1,1.6 -3.9,1.7 -3.9,1.8 -3.7,1.9 -3.6,2.1 -3.3,2.1 -3.3,2.3 -3,2.4 -2.9,2.5 -2.7,2.5 -2.4,2.7 -2.3,2.7 -2.1,2.8 -1.8,2.9 -1.6,2.9 -1.4,3 -1.2,3 -0.9,3 -0.8,3.1 -0.4,3.1 -0.3,3.1 v 3.1 l 0.3,3.1 0.4,3.1 0.7,3.1 0.9,3 1.2,3 1.4,3 1.6,2.9 1.9,2.9 2,2.8 2.3,2.7 2.4,2.7 2.7,2.6 2.9,2.5 3,2.3 3.2,2.3 3.4,2.2 3.5,2.1 3.7,1.9 3.9,1.8 4,1.7 4.1,1.6 4.2,1.4 4.3,1.3 4.4,1.1 4.5,1 4.5,0.8 4.7,0.7 4.6,0.6 4.7,0.4 4.7,0.2 4.7,0.1 4.8,-0.1 4.7,-0.2 4.7,-0.4 4.7,-0.5 4.6,-0.7 4.6,-0.9 4.4,-1 4.5,-1.1 4.3,-1.3 4.2,-1.4 4.1,-1.5 4,-1.7 3.8,-1.8 3.7,-2 3.6,-2 3.4,-2.2 3.2,-2.3 3,-2.4 2.9,-2.4 2.7,-2.6 2.4,-2.6 2.3,-2.8 2.1,-2.8 1.8,-2.8 1.6,-2.9 1.4,-3 1.2,-3 1,-3.1 0.7,-3.1 0.4,-3 0.3,-3.2 v -3.1 l -0.2,-3.1 -0.5,-3.1 -0.7,-3 -0.9,-3.1 -1.2,-3 -1.4,-3 -1.6,-2.9 -1.8,-2.9 -2.1,-2.8 -2.3,-2.7 -2.4,-2.7 -2.7,-2.5 -2.8,-2.5 -3.1,-2.4 -3.2,-2.3 -3.4,-2.1 -3.5,-2.1 -3.7,-1.9 -3.9,-1.9 -3.9,-1.7 -4.1,-1.5 -4.3,-1.4 -4.3,-1.3 -4.4,-1.2 -9.8,-25.4 z M 425.2,496 Z M 615.1,371.2 Z"
@@ -1337,7 +1359,9 @@
    id="text912"><tspan
      x="0"
      y="0"
-     id="tspan910">C</tspan></text>
+     id="tspan910"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">C</tspan></text>
+
 
 </g><g
            id="g914"><text
@@ -1346,7 +1370,9 @@
    id="text918"><tspan
      x="0"
      y="0"
-     id="tspan916">1</tspan></text>
+     id="tspan916"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">1</tspan></text>
+
 
 </g><path
            d="m 566.1,448.6 c -7.3,0 -13.2,6 -13.2,13.4 0,4.2 -6.4,4.2 -6.4,0 v -16.6 c 0,-1.8 1.5,-3.2 3.2,-3.2 h 16.4 16.4 c 1.7,0 3.1,1.4 3.1,3.2 V 462 c 0,4.2 -6.3,4.2 -6.3,0 0,-7.4 -5.9,-13.4 -13.2,-13.4 z"
@@ -1395,7 +1421,9 @@
    id="text944"><tspan
      x="0"
      y="0"
-     id="tspan942">C</tspan></text>
+     id="tspan942"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">C</tspan></text>
+
 
 </g><g
            id="g946"><text
@@ -1404,7 +1432,9 @@
    id="text950"><tspan
      x="0"
      y="0"
-     id="tspan948">2</tspan></text>
+     id="tspan948"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">2</tspan></text>
+
 
 </g><path
            d="m 504.6,442.6 h 21.1 v 5.2 l 15.7,-9.9 -15.7,-10 v 5.2 h -21.1 z m 0,5.2 z m 36.8,-19.9 z"
@@ -1457,7 +1487,9 @@
    id="text978"><tspan
      x="0"
      y="0"
-     id="tspan976">C</tspan></text>
+     id="tspan976"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">C</tspan></text>
+
 
 </g><path
            d="m 646.8,330.9 c -3.1,15 11.2,29.3 25.4,29.3 4.5,0.1 9.2,-1.4 13,-3.6 3.6,6.8 10.4,11 18,11 5.1,-0.2 10.5,-2.3 14.2,-5.9 2.8,6 8.6,9.6 14.8,9.6 5.3,0 10.1,-2.6 13.1,-6.6 3.5,4.1 8.8,6.6 14.2,6.6 8.9,0 16.5,-6.4 18.1,-15.3 8.6,-2.5 14.8,-10.6 14.8,-19.8 0,-2.9 -0.4,-5.6 -1.7,-8.2 3.7,-4.5 5.9,-10.1 5.9,-15.8 0,-12.9 -9.9,-23.8 -22.5,-25.6 0,-12.4 -9.8,-22.1 -21.9,-22.1 -4.2,0 -8.2,1.2 -11.7,3.4 -3.2,-10.9 -13.3,-18.6 -24.6,-18.6 -8.5,0 -16.5,4.6 -21.3,11.9 -4.5,-2.8 -2.1,-4.5 -15,-4.5 -10.6,0 -20.3,5.7 -25.4,15 -12.2,0.2 -18.4,7.6 -18.4,16.8 0,4.3 1.6,8.2 4.5,11.4 -5.3,2.7 -8.2,8.1 -8.2,14.2 0,8.7 6.4,15.8 14.7,16.8 z m -14.7,40.4 z m 164.5,-122 z"
@@ -1747,7 +1779,9 @@
    id="text1192"><tspan
      x="0"
      y="0"
-     id="tspan1190">B</tspan></text>
+     id="tspan1190"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">B</tspan></text>
+
 
 </g><path
            d="m 652.5,449.9 c -3.1,15.1 11.2,29.3 25.4,29.3 4.5,0.1 9.1,-1.4 12.9,-3.5 3.7,6.8 10.5,11 18.1,11 5,-0.3 10.4,-2.3 14.2,-6 2.8,6.1 8.6,9.6 14.8,9.6 5.2,0 10,-2.6 13.1,-6.5 3.5,4.1 8.7,6.5 14.2,6.5 8.9,0 16.5,-6.4 18.1,-15.3 8.6,-2.5 14.8,-10.5 14.8,-19.8 0,-2.8 -0.5,-5.5 -1.7,-8.1 3.6,-4.5 5.8,-10.1 5.8,-15.8 0,-12.9 -9.8,-23.8 -22.4,-25.7 0,-12.3 -9.8,-22.1 -22,-22.1 -4.2,0 -8.1,1.2 -11.6,3.5 -3.2,-10.9 -13.3,-18.6 -24.7,-18.6 -8.4,0 -16.4,4.6 -21.2,11.8 -4.5,-2.8 -2.2,-4.4 -15,-4.4 -10.6,0 -20.3,5.7 -25.5,15 -12.1,0.2 -18.4,7.5 -18.4,16.8 0,4.3 1.6,8.2 4.5,11.4 -5.2,2.7 -8.1,8 -8.1,14.2 0,8.6 6.4,15.8 14.7,16.7 z m -14.7,40.4 z M 802.2,368.4 Z"
@@ -2652,7 +2686,9 @@
    id="text1898"><tspan
      x="0"
      y="0"
-     id="tspan1896">C</tspan></text>
+     id="tspan1896"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">C</tspan></text>
+
 
 </g><g
            id="g1900"><text
@@ -2661,7 +2697,9 @@
    id="text1904"><tspan
      x="0"
      y="0"
-     id="tspan1902">2</tspan></text>
+     id="tspan1902"
+     style="-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-family:'Recursive Sans Linear Static';font-weight:900;font-style:normal;font-stretch:normal;font-variant:normal">2</tspan></text>
+
 
 </g><g
            id="g1906"><g

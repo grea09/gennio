@@ -33,13 +33,13 @@
    inkscape:window-height="2034"
    id="namedview1066"
    showgrid="false"
-   inkscape:zoom="1.3881979"
-   inkscape:cx="50.392747"
-   inkscape:cy="111.50948"
+   inkscape:zoom="2.7763958"
+   inkscape:cx="279.5409"
+   inkscape:cy="47.130693"
    inkscape:window-x="1920"
    inkscape:window-y="60"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg1064"
+   inkscape:current-layer="id59"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
@@ -876,7 +876,7 @@
    id="text235"
    class="TextShape"
    style=""><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:635px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"
      id="tspan233"
      font-weight="700"
      font-size="635px"
@@ -885,7 +885,8 @@
        y="634"
        x="126"
        class="TextPosition"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:#93a1a1;stroke:none">Positive Flaws</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#93a1a1;stroke:none">Positive Flaws</tspan></tspan></text>
+
 
 
 
@@ -910,7 +911,7 @@
    id="text248"
    class="TextShape"
    style=""><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller;fill:none;stroke:#839496;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:635px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:none;stroke:#839496;stroke-opacity:1"
      id="tspan246"
      font-weight="700"
      font-size="635px"
@@ -919,7 +920,8 @@
        y="638"
        x="5526"
        class="TextPosition"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:none;stroke:#839496;stroke-opacity:1">Negative Flaws</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:none;stroke:#839496;stroke-opacity:1">Negative Flaws</tspan></tspan></text>
+
 
 
 
@@ -949,7 +951,7 @@
    id="text263"
    class="TextShape"
    style=""><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:635px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"
      id="tspan261"
      font-weight="400"
      font-size="635px"
@@ -958,7 +960,8 @@
        y="1586"
        x="955"
        class="TextPosition"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:#859900;stroke:none">Subgoal</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#859900;stroke:none">Subgoal</tspan></tspan></text>
+
 
 
 
@@ -988,7 +991,7 @@
    id="text278"
    class="TextShape"
    style=""><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:635px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"
      id="tspan276"
      font-weight="400"
      font-size="635px"
@@ -997,7 +1000,8 @@
        y="4736"
        x="1205"
        class="TextPosition"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:#dc322f;stroke:none">Threat</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#dc322f;stroke:none">Threat</tspan></tspan></text>
+
 
 
 
@@ -1027,7 +1031,7 @@
    id="text293"
    class="TextShape"
    style=""><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:635px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"
      id="tspan291"
      font-weight="400"
      font-size="635px"
@@ -1036,7 +1040,8 @@
        y="1586"
        x="6132"
        class="TextPosition"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:#fdf6e3;stroke:none">Alternative</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#fdf6e3;stroke:none">Alternative</tspan></tspan></text>
+
 
 
 
@@ -1066,7 +1071,7 @@
    id="text308"
    class="TextShape"
    style=""><tspan
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:635px;font-family:Aller;-inkscape-font-specification:Aller"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:635px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"
      id="tspan306"
      font-weight="400"
      font-size="635px"
@@ -1075,7 +1080,8 @@
        y="4636"
        x="6697"
        class="TextPosition"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aller;-inkscape-font-specification:Aller;fill:#fdf6e3;stroke:none">Orphan</tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#fdf6e3;stroke:none">Orphan</tspan></tspan></text>
+
 
 
 
@@ -1594,19 +1600,19 @@
          <text
    id="text580"
    class="TextShape"
-   style=""><tspan
-     style="font-weight:700;font-size:635px;font-family:Aller"
+   x="-72.5"
+   y="-27.817499"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan578"
      font-weight="700"
      font-size="635px"
      class="TextParagraph"><tspan
        id="tspan576"
-       y="5618"
-       x="6708"
+       y="5590.1826"
+       x="6635.5"
        class="TextPosition"
-       style=""><tspan
-         style="fill:#fdf6e3;stroke:none"
-         id="tspan574">-</tspan></tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#fdf6e3;stroke:none">-</tspan></tspan></text>
+
 
 
 
@@ -1858,19 +1864,19 @@
          <text
    id="text678"
    class="TextShape"
-   style=""><tspan
-     style="font-weight:700;font-size:635px;font-family:Aller"
+   x="0.5"
+   y="-27.5"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan676"
      font-weight="700"
      font-size="635px"
      class="TextParagraph"><tspan
        id="tspan674"
-       y="2518"
-       x="997"
+       y="2490.5"
+       x="997.5"
        class="TextPosition"
-       style=""><tspan
-         style="fill:#859900;stroke:none"
-         id="tspan672">+</tspan></tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none">+</tspan></tspan></text>
+
 
 
 
@@ -2000,19 +2006,19 @@
          <text
    id="text728"
    class="TextShape"
-   style=""><tspan
-     style="font-weight:700;font-size:635px;font-family:Aller"
+   x="0.5"
+   y="-27.5"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan726"
      font-weight="700"
      font-size="635px"
      class="TextParagraph"><tspan
        id="tspan724"
-       y="5618"
-       x="997"
+       y="5590.5"
+       x="997.5"
        class="TextPosition"
-       style=""><tspan
-         style="fill:#dc322f;stroke:none"
-         id="tspan722">+</tspan></tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">+</tspan></tspan></text>
+
 
 
 
@@ -2229,6 +2235,7 @@
          style="fill:#839496;stroke:none">Invalidates</tspan></tspan></tspan></text>
 
 
+
 <rect
    class="BoundingBox"
    x="15419.434"
@@ -2253,6 +2260,7 @@
        id="tspan815"><tspan
          id="tspan813"
          style="fill:#839496;stroke:none">Causes</tspan></tspan></tspan></text>
+
 
 
 <g
@@ -2331,6 +2339,7 @@
 
 
 
+
        </g>
       </g><g
    transform="translate(-29.316406)"
@@ -2374,6 +2383,7 @@
        class="TextPosition"><tspan
          style="fill:#839496;stroke:none"
          id="tspan863">Both</tspan></tspan></tspan></text>
+
 
 
 
@@ -2431,18 +2441,20 @@
    style="fill:none;stroke:#657b83;stroke-width:81;stroke-linejoin:round" />
          <text
    class="TextShape"
-   id="text895"><tspan
+   id="text895"
+   x="0.5"
+   y="-27.5"><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan893"
-     style="font-weight:700;font-size:635px;font-family:Aller"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
        class="TextPosition"
-       x="12381"
-       y="1518"
-       id="tspan891"><tspan
-         id="tspan889"
-         style="fill:#657b83;stroke:none">+</tspan></tspan></tspan></text>
+       x="12381.5"
+       y="1490.5"
+       id="tspan891"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#657b83;stroke:none">+</tspan></tspan></text>
+
 
 
 
@@ -2463,18 +2475,19 @@
    style="fill:none;stroke:none" />
          <text
    class="TextShape"
-   id="text908"><tspan
+   id="text908"
+   x="-67.823517"><tspan
      class="TextParagraph"
      font-size="423px"
      font-weight="400"
      id="tspan906"
-     style="font-weight:400;font-size:423px;font-family:Aller"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:423px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"><tspan
        class="TextPosition"
-       x="12886"
+       x="12818.177"
        y="1423"
-       id="tspan904"><tspan
-         id="tspan902"
-         style="fill:#586e75;stroke:none">Positive</tspan></tspan></tspan></text>
+       id="tspan904"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#586e75;stroke:none">Positive</tspan></tspan></text>
+
 
 
 
@@ -2508,6 +2521,7 @@
        id="tspan919"><tspan
          id="tspan917"
          style="fill:#073642;stroke:none">Resolvers</tspan></tspan></tspan></text>
+
 
 
 
@@ -2566,18 +2580,20 @@
    style="fill:none;stroke:#fdf6e3;stroke-width:81;stroke-linejoin:round" />
          <text
    class="TextShape"
-   id="text949"><tspan
+   id="text949"
+   x="-72.5"
+   y="-27.817499"><tspan
      class="TextParagraph"
      font-size="635px"
      font-weight="700"
      id="tspan947"
-     style="font-weight:700;font-size:635px;font-family:Aller"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
        class="TextPosition"
-       x="15382"
-       y="1518"
-       id="tspan945"><tspan
-         id="tspan943"
-         style="fill:#fdf6e3;stroke:none">-</tspan></tspan></tspan></text>
+       x="15309.5"
+       y="1490.1825"
+       id="tspan945"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#fdf6e3;stroke:none">-</tspan></tspan></text>
+
 
 
 
@@ -2598,18 +2614,20 @@
    style="fill:none;stroke:none" />
          <text
    class="TextShape"
-   id="text962"><tspan
+   id="text962"
+   x="-67.823517"
+   y="67.823517"><tspan
      class="TextParagraph"
      font-size="423px"
      font-weight="400"
      id="tspan960"
-     style="font-weight:400;font-size:423px;font-family:Aller"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:423px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"><tspan
        class="TextPosition"
-       x="15917"
-       y="1400"
-       id="tspan958"><tspan
-         id="tspan956"
-         style="fill:#fdf6e3;stroke:none">Negative</tspan></tspan></tspan></text>
+       x="15849.177"
+       y="1467.8235"
+       id="tspan958"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#fdf6e3;stroke:none">Negative</tspan></tspan></text>
+
 
 
 
@@ -2774,6 +2792,7 @@
 
 
 
+
        </g>
       </g><rect
    class="BoundingBox"
@@ -2799,6 +2818,7 @@
          style="fill:#839496;stroke:none">Affected</tspan></tspan></tspan></text>
 
 
+
 <rect
    class="BoundingBox"
    x="12543.591"
@@ -2821,6 +2841,7 @@
        id="tspan1047"><tspan
          id="tspan1045"
          style="fill:#839496;stroke:none">Existing</tspan></tspan></tspan></text>
+
 
 
 </g>
@@ -3014,19 +3035,19 @@
          <text
    id="text493"
    class="TextShape"
-   style=""><tspan
-     style="font-weight:700;font-size:635px;font-family:Aller"
+   x="-72.5"
+   y="-27.817499"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan491"
      font-weight="700"
      font-size="635px"
      class="TextParagraph"><tspan
        id="tspan489"
-       y="2518"
-       x="6708"
+       y="2490.1826"
+       x="6635.5"
        class="TextPosition"
-       style=""><tspan
-         style="fill:#fdf6e3;stroke:none"
-         id="tspan487">-</tspan></tspan></tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#fdf6e3;stroke:none">-</tspan></tspan></text>
+
 
 
 
@@ -3047,6 +3068,7 @@
      x="11439.209"
      y="666.21021"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#839496;stroke-width:746.70709229">Legend</tspan></text>
+
 
 
 <path
