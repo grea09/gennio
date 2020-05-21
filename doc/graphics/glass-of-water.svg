@@ -1,1 +1,87 @@
-<svg height="512" viewBox="0 0 64 64" width="512" xmlns="http://www.w3.org/2000/svg"><g fill="#fff"><circle cx="28" cy="33" r="1"/><circle cx="25" cy="51" r="1"/><circle cx="30" cy="41" r="2"/></g><path d="m41.75 26c-.27 0-.52-.01-.75-.02a9.753 9.753 0 0 1 -4-1.27 7.82 7.82 0 0 0 -3.5-.71c-4.13 0-4.13 2-8.25 2-4 0-4.13-1.88-7.89-1.99l1.47 33.17a4 4 0 0 0 4 3.82h18.34a4 4 0 0 0 4-3.82l1.45-32.53a9.638 9.638 0 0 1 -4.87 1.35zm-16.75 26a1 1 0 1 1 1-1 1 1 0 0 1 -1 1zm2-19a1 1 0 1 1 1 1 1 1 0 0 1 -1-1zm3 10a2 2 0 1 1 2-2 2.006 2.006 0 0 1 -2 2z" fill="#57a4ff"/><path d="m47 16-.38 8.65a9.638 9.638 0 0 1 -4.87 1.35c-.27 0-.52-.01-.75-.02a9.753 9.753 0 0 1 -4-1.27 7.82 7.82 0 0 0 -3.5-.71c-4.13 0-4.13 2-8.25 2-4 0-4.13-1.88-7.89-1.99l-.36-8.01z" fill="#d1e7f8"/><path d="m41 16v-8a1 1 0 0 1 1-1h7v-4h-9a3 3 0 0 0 -3 3v49h4z" fill="#9bfbff"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 64 64"
+   width="512"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="glass-of-water.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2034"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="113.36808"
+     inkscape:cy="285.22088"
+     inkscape:window-x="1920"
+     inkscape:window-y="60"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <g
+     fill="#fff"
+     id="g8"
+     style="fill:#eee8d5">
+    <circle
+       cx="28"
+       cy="33"
+       r="1"
+       id="circle2"
+       style="fill:#eee8d5" />
+    <circle
+       cx="25"
+       cy="51"
+       r="1"
+       id="circle4"
+       style="fill:#eee8d5" />
+    <circle
+       cx="30"
+       cy="41"
+       r="2"
+       id="circle6"
+       style="fill:#eee8d5" />
+  </g>
+  <path
+     d="m41.75 26c-.27 0-.52-.01-.75-.02a9.753 9.753 0 0 1 -4-1.27 7.82 7.82 0 0 0 -3.5-.71c-4.13 0-4.13 2-8.25 2-4 0-4.13-1.88-7.89-1.99l1.47 33.17a4 4 0 0 0 4 3.82h18.34a4 4 0 0 0 4-3.82l1.45-32.53a9.638 9.638 0 0 1 -4.87 1.35zm-16.75 26a1 1 0 1 1 1-1 1 1 0 0 1 -1 1zm2-19a1 1 0 1 1 1 1 1 1 0 0 1 -1-1zm3 10a2 2 0 1 1 2-2 2.006 2.006 0 0 1 -2 2z"
+     fill="#57a4ff"
+     id="path10" />
+  <path
+     d="m47 16-.38 8.65a9.638 9.638 0 0 1 -4.87 1.35c-.27 0-.52-.01-.75-.02a9.753 9.753 0 0 1 -4-1.27 7.82 7.82 0 0 0 -3.5-.71c-4.13 0-4.13 2-8.25 2-4 0-4.13-1.88-7.89-1.99l-.36-8.01z"
+     fill="#d1e7f8"
+     id="path12"
+     style="fill:#93a1a1" />
+  <path
+     d="m41 16v-8a1 1 0 0 1 1-1h7v-4h-9a3 3 0 0 0 -3 3v49h4z"
+     fill="#9bfbff"
+     id="path14"
+     style="fill:#859900" />
+</svg>

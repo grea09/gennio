@@ -40,7 +40,8 @@ linkcolor: solarized-cyan
 citecolor: solarized-base1
 urlcolor: solarized-blue
 filecolor: solarized-magenta
-
+textcolor: solarized-base03
+pagecolor: solarized-base3
 
 toc: true
 toc-title: Table of Content
