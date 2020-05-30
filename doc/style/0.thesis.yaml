@@ -57,6 +57,24 @@ lot-col: 2
 lof-col: 2
 glos-col: 3
 
+blocks:
+  multicols:
+  theorem:
+    style: plain
+    init: number within=section
+    options:
+      colback: 
+  lemma:
+    style: plain
+  definition:
+    style: standard
+  example:
+    style: standard
+  algorithm:
+    style: algorithm
+    prefix: alg
+
+
 header-includes:
 # STYLE
     - \usepackage{marginnote}
@@ -110,11 +128,11 @@ header-includes:
     - \newcommand{\llp}{\llparenthesis}
     - \newcommand{\llbp}{\lblkbrbrak}
     
-    - \newcommand{\inci}{\ensuremath{\mathrel{-\!\!\!\!\bullet\!\!\!\!-}}}
-    - \newcommand{\ingo}{\ensuremath{\curlyveeinarrow\!\bullet}}
-    - \newcommand{\outgo}{\ensuremath{\bullet\!\curlyveeoutarrow}}
-    - \newcommand{\landor}{\ensuremath{\veeonwedge}}
-    - \newcommand{\cstate}{\ensuremath{\boxonbox}}
+    - \newcommand{\inci}{{\mathrel{-\!\!\!\!\bullet\!\!\!\!-}}}
+    - \newcommand{\ingo}{{\curlyveeinarrow\!\bullet}}
+    - \newcommand{\outgo}{{\bullet\!\curlyveeoutarrow}}
+    - \newcommand{\landor}{\veeonwedge}
+    - \newcommand{\cstate}{\boxonbox}
     
     - \newcommand{\varstar}{✶}
     - \newcommand{\smwhtsquare}{▫}

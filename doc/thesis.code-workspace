@@ -12,5 +12,6 @@
 		"files.associations": {
 			"*.yaml": "home-assistant"
 		}
-	}
+	},
+	"python.autoComplete.extraPaths": [".pancake/lib"]
 }
