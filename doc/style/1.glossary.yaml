@@ -237,6 +237,12 @@ glossary:
     - label: orphans
       symbol: \superscript{\flaws}{\rightdotarrow}
       description: Orphans
+    - label: decomp
+      symbol: \superscript{\flaw}{\ast}
+      description: Decomposition
+    - label: decomps
+      symbol: \superscript{\flaws}{\ast}
+      description: Decompositions
     - label: resolver
       symbol: \odot
       description: Resolver
