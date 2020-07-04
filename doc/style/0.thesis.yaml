@@ -10,7 +10,7 @@ classoption:
   - cleardoublepage=empty
   - openany
   - parskip
-documentclass: scrreprt
+documentclass: scrbook
 top-level-division: chapter
 number-sections: true
 subparagraph: yes
