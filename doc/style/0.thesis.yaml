@@ -1,79 +1,141 @@
-fontsize: 11pt
-papersize: a4
-glossarycol: 3
-classoption:
-  - twoside
-  - openright
-  - titlepage
-  - numbers=noenddot
-  - headinclude
-  - cleardoublepage=empty
-  - openany
-  - parskip
-documentclass: scrbook
+# Class
 top-level-division: chapter
 number-sections: true
-subparagraph: yes
+subparagraph: true
 
-mainfont: Recursive Sans Linear Static
-mainfontoptions:
-  - ItalicFont=Recursive Sn Csl St SmB Italic
-  - BoldItalicFont=Recursive Sn Lnr St XBd Italic
-mathfont: STIX Two Math
-mathfontoptions:
- - ItalicFont=STIX Two Text Italic
-monofont: Recursive Mono Linear Static
-monofontoptions:
- - ItalicFont=Recursive Mono Casual Static
-titlefont: Recursive Sn Lnr St XBk
-sectfont: Bebas Neue
-sectfontsize: [24,16]
-chapfont: Recursive Sn Csl St Lt
-chapfontsize: [32]
-# markdown_in_html_blocks: true
-# verbatim-in-note: true
-# tables: true
-link-citations: true
-colorlinks: true
+# Packages
+
+multicols: true
+color: true
+mathspec: false
 solarized: true
-linkcolor: solarized-cyan
-citecolor: solarized-base1
-urlcolor: solarized-blue
-filecolor: solarized-magenta
-textcolor: solarized-base03
-pagecolor: solarized-base3
+amsthm: true
+algorithm: true
+tables: false
+graphics: true
+cref: false
+listings: false
 
-toc: true
-toc-title: Table of Content
-toc-depth: 4
-lof: true
+
+fonts:
+  main:
+    font: Recursive Sans Linear Static
+    italic: Recursive Sn Csl St SmB Italic
+    bold-italic: Recursive Sn Lnr St XBd Italic
+  mono:
+    font: Recursive Mono Linear Static
+    italic: Recursive Mono Casual Static
+  math:
+    font: STIX Two Math
+    italic: STIX Two Text Italic
+  titlefont: Recursive Sn Lnr St XBk
+  section:
+    font: Bebas Neue
+    scale: 1.25
+  chapter:
+    font: Recursive Sn Csl St Lt
+    scale: 1.5
+  arc: Arc
+  liris: LIRIS
+  din: DIN
+  graphikreg: Graphik LC Web Regular
+  graphikmed: Graphik LC Web Medium
+  lyond: Lyon2
+  perihelionbb: PerihelionBB-Bold
+  disp: Recursive Sn Lnr St XBk
+
+
+
+elements:
+  document:
+    style: scrbook
+    color: solarized-base03
+    background: solarized-base3
+    options:
+      - 11pt
+      - a4paper
+      - twoside
+      - openright
+      - titlepage
+      - numbers=noenddot
+      - headinclude
+      - cleardoublepage=empty
+      - openany
+      - parskip
+  theorem:
+    theorem: true
+    prefix:
+      - Theorem
+      - Theorems
+    ref: theo
+    number:
+      within: chapter
+  axiom:
+    style: plain
+    theorem: true
+    prefix:
+      - Axiom
+      - Axioms
+    ref: axi
+
+
+lists:
+  glossary:
+    columns: 3
+  content:
+    title: Table of Content
+    depth: 4
+  figures:
+    columns: 2
+  tables:
+    columns: 2
+
+macro:
+# LOGOS
+    - arc: \textcolor{solarized-violet}{\vspace{0pt}\arcfont arc 2}~\includegraphics[height=2.8mm]{logos/arc2_pastille.pdf}
+    - liris: \textcolor{solarized-base02}{\lirisfont LỊRIS}
+    - sma: \textcolor{solarized-base02}{\disp sma}~\vspace{0pt}\includegraphics[height=2.8mm]{logos/sma_pastille.pdf}
+    - polytech: \vspace{0pt}\includegraphics[height=2.8mm]{logos/polytech_pastille.pdf}~\textcolor{solarized-base03}{\perihelionbbfont POLYTECH}
+    - ucbl: \vspace{0pt}\includegraphics[height=4mm]{logos/lyon1_pastille.pdf}{\dinfont~Lyon 1}
+    - ara: {\graphikregfont Auvergne-Rhône-Alpes}~\vspace{0pt}\includegraphics[height=2.6mm]{logos/ara_pastille.pdf}
+    - lumiere: \textcolor{solarized-red}{\lyondfont lumière lyon 2}
+
+# MATH
+  - colonvdash: \mathrel{\ooalign{\hss$\vdash$\hss\cr\kern0.6ex\raise0.15ex\hbox{\scalebox{1}{$:$}}}}
+  - curlyveeinarrow: \mathrel{\raisebox{.01em}{\rotatebox[origin=c]{90}{$\scriptstyle\pmb\curlyveedownarrow$}}}
+  - curlyveeoutarrow: \mathrel{\raisebox{.01em}{\rotatebox[origin=c]{270}{$\scriptstyle\pmb\curlyveeuparrow$}}}
+  
+  - bb: \mathbb
+  - cal: \mathcal
+  
+  - rrp: \rrparenthesis
+  - rrbp: \rblkbrbrak
+  - llp: \llparenthesis
+  - llbp: \lblkbrbrak
+  
+  - inci: {\mathrel{-\!\!\!\!\bullet\!\!\!\!-}}
+  - ingo: {\curlyveeinarrow\!\bullet}
+  - outgo: {\bullet\!\curlyveeoutarrow}
+  - landor: \veeonwedge
+  - cstate: \boxonbox
+  
+  - varstar: ✶
+  - smwhtsquare: ▫
+  - downarrowbarred: ⤈
+  - curvearrowrightminus: ⤼
+  - rightdotarrow: ⤑
+
+link-citations: true
+links:
+  colors:
+    link: solarized-blue
+    cite: solarized-magenta
+    url: solarized-cyan
+    file: solarized-green
+
 reference-section-title: References
 bibliography: bibliography/thesis.bib
 csl: bibliography/aaai.csl
-
-multicol: true
-#toc-col: 2
-lot-col: 2
-lof-col: 2
-glos-col: 3
-
-blocks:
-  multicols:
-  theorem:
-    style: plain
-    init: number within=section
-    options:
-      colback: 
-  lemma:
-    style: plain
-  definition:
-    style: standard
-  example:
-    style: standard
-  algorithm:
-    style: algorithm
-    prefix: alg
-
 
 header-includes:
 # STYLE
@@ -82,24 +144,6 @@ header-includes:
     - \newcommand{\mynote}[1]{ \refstepcounter{mynote} \mbox{\textsuperscript{\themynote}} \marginnote{\mbox{\textsuperscript{\footnotesize{\themynote}}}#1}}
     - \renewcommand*{\footnote}{\marginnote}
     - \usepackage[ bottom = 3cm,]{geometry}
-    
-# LOGOS
-    - \newfontfamily\arcfont[]{Arc}
-    - \newfontfamily\lirisfont[]{LIRIS}
-    - \newfontfamily\dinfont[]{DIN}
-    - \newfontfamily\graphikregfont[]{Graphik LC Web Regular}
-    - \newfontfamily\graphikmedfont[]{Graphik LC Web Medium}
-    - \newfontfamily\lyondfont[]{Lyon2}
-    - \newfontfamily\perihelionbbfont[]{PerihelionBB-Bold}
-    - \newfontfamily\disp[]{Recursive Sn Lnr St XBk}
-    
-    - \newcommand{\arc}{\textcolor{solarized-violet}{\vspace{0pt}\arcfont arc 2}~\includegraphics[height=2.8mm]{logos/arc2_pastille.pdf} }
-    - \newcommand{\liris}{\textcolor{solarized-base02}{\lirisfont LỊRIS} }
-    - \newcommand{\sma}{\textcolor{solarized-base02}{\disp sma}~\vspace{0pt}\includegraphics[height=2.8mm]{logos/sma_pastille.pdf} }
-    - \newcommand{\polytech}{\vspace{0pt}\includegraphics[height=2.8mm]{logos/polytech_pastille.pdf}~\textcolor{solarized-base03}{\perihelionbbfont POLYTECH} }
-    - \newcommand{\ucbl}{\vspace{0pt}\includegraphics[height=4mm]{logos/lyon1_pastille.pdf}{\dinfont~Lyon 1} }
-    - \newcommand{\ara}{{\graphikregfont Auvergne-Rhône-Alpes}~\vspace{0pt}\includegraphics[height=2.6mm]{logos/ara_pastille.pdf} }
-    - \newcommand{\lumiere}{\textcolor{solarized-red}{\lyondfont lumière lyon 2} }
     
 # MATH
     - \usepackage{tfrupee}
@@ -115,29 +159,5 @@ header-includes:
     - \DeclareSymbolFont{fdarrows}{U}{FdSymbolC}{m}{n}
     - \DeclareMathSymbol{\leftblackspoon}{2}{fdarrows}{"6E}
     - \DeclareMathSymbol{\leftrightspoon}{2}{fdarrows}{"70}
-    
-    - \newcommand\colonvdash{\mathrel{\ooalign{\hss$\vdash$\hss\cr\kern0.6ex\raise0.15ex\hbox{\scalebox{1}{$:$}}}}}
-    - \newcommand{\curlyveeinarrow}{\mathrel{\raisebox{.01em}{\rotatebox[origin=c]{90}{$\scriptstyle\pmb\curlyveedownarrow$}}}}
-    - \newcommand{\curlyveeoutarrow}{\mathrel{\raisebox{.01em}{\rotatebox[origin=c]{270}{$\scriptstyle\pmb\curlyveeuparrow$}}}}
-    
-    - \newcommand{\bb}{\mathbb}
-    - \renewcommand{\cal}{\mathcal}
-    
-    - \newcommand{\rrp}{\rrparenthesis}
-    - \newcommand{\rrbp}{\rblkbrbrak}
-    - \newcommand{\llp}{\llparenthesis}
-    - \newcommand{\llbp}{\lblkbrbrak}
-    
-    - \newcommand{\inci}{{\mathrel{-\!\!\!\!\bullet\!\!\!\!-}}}
-    - \newcommand{\ingo}{{\curlyveeinarrow\!\bullet}}
-    - \newcommand{\outgo}{{\bullet\!\curlyveeoutarrow}}
-    - \newcommand{\landor}{\veeonwedge}
-    - \newcommand{\cstate}{\boxonbox}
-    
-    - \newcommand{\varstar}{✶}
-    - \newcommand{\smwhtsquare}{▫}
-    - \newcommand{\downarrowbarred}{⤈}
-    - \newcommand{\curvearrowrightminus}{⤼}
-    - \newcommand{\rightdotarrow}{⤑}
     - \newcommand{\superscript}[2]{{#1}^{#2}}
     - \newcommand{\subscript}[2]{{#1}_{#2}}
