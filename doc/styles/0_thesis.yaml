@@ -1,0 +1,221 @@
+#Class
+top-level-division: chapter
+number-sections: true
+subparagraph: true
+
+#Package
+
+multicol: true
+color: true
+mathspec: false
+solarized: true
+amsthm: true
+algorithm: true
+tables: true
+graphics: true
+cref: false
+listings: false
+verbatim-in-note: true
+
+fonts:
+  main:
+    font: Recursive Sans Linear Static
+    italic: Recursive Sn Csl St SmB Italic
+    bold-italic: Recursive Sn Lnr St XBd Italic
+  mono:
+    font: Recursive Mono Linear Static
+    italic: Recursive Mono Casual Static
+  math:
+    font: STIX Two Math
+    italic: STIX Two Text Italic
+  title: Recursive Sn Lnr St XBk
+  section:
+    font: Bebas Neue
+    scale: 1.5
+  chapter:
+    font: Recursive Sn Csl St Lt
+    scale: 1.25
+  arc: Arc
+  liris: LIRIS
+  din: DIN
+  graphikreg: Graphik LC Web Regular
+  graphikmed: Graphik LC Web Medium
+  lyond: Lyon2
+  perihelionbb: PerihelionBB-Bold
+  disp: Recursive Sn Lnr St XBk
+
+elements:
+  document:
+    style: scrbook
+    color: solarized-base03
+    background: solarized-base3
+    options:
+    - 11pt
+    - a4paper
+    - twoside
+    - openright
+    - titlepage
+    - numbers=noenddot
+    - headinclude
+    - cleardoublepage=empty
+    - openany
+    - parskip
+  section:
+    koma: true
+    font: sectionfont
+  chapter:
+    koma: true
+    font: chapterfont
+  example:
+      theorem: true
+      title:
+        color: solarized-base2
+      border: solarized-base01
+      background: solarized-base2
+      prefix:
+      - Example
+      - Examples
+      ref: ex
+  definition:
+    theorem: true
+    title:
+      color: solarized-base2
+    border: solarized-green
+    background: solarized-base2
+    prefix:
+    - Definition
+    - Definitions
+    ref: def
+    number: section
+  equation:
+    prefix:
+    - Equation
+    - Equations
+    ref: eq
+    number: section
+  theorem:
+    theorem: true
+    title:
+      color: solarized-base2
+    border: solarized-yellow
+    background: solarized-base2
+    prefix:
+    - Theorem
+    - Theorems
+    ref: theo
+    number: section
+    proof:
+      theorem: true
+      title:
+        color: solarized-base2
+      border: solarized-red
+      background: solarized-base2
+      prefix:
+      - Proof
+      - Proofs
+      ref: pr
+      number: section
+  axiom:
+    style: plain
+    theorem: true
+    title:
+      color: solarized-base2
+    border: solarized-magenta
+    background: solarized-base2
+    prefix:
+    - Axiom
+    - Axioms
+    ref: axi
+    preposition: of
+
+ref-conjunction: and
+
+lists:
+  glossary:
+    columns: 3
+  content:
+      title: Table of Content
+      depth: 4
+      level: chapter
+      linkcolor: solarized-base02
+  figures:
+      columns: 2
+  tables:
+      columns: 2
+
+colorlinks:
+  link: solarized-blue
+  file: solarized-magenta
+  cite: solarized-green
+  url: solarized-cyan
+
+reference-section-title: References
+bibliography: bibliography/thesis.bib
+csl: bibliography/aaai.csl
+
+macros:
+# LOGOS
+    - arc: \textcolor{solarized-violet}{\vspace{0pt}\arcfont arc 2}\nobreakspace\logo{logos/arc2_pastille.pdf}
+    - liris: \textcolor{solarized-base02}{\lirisfont LỊRIS}
+    - sma: \textcolor{solarized-base02}{\dispfont sma}\nobreakspace\vspace{0pt}\logo{logos/sma_pastille.pdf}
+    - polytech: \vspace{0pt}\logo{logos/polytech_pastille.pdf}\nobreakspace\textcolor{solarized-base03}{\perihelionbbfont POLYTECH}
+    - ucbl: \vspace{0pt}\logo{logos/lyon1_pastille.pdf}\nobreakspace{\dinfont Lyon 1}
+    - ara: \vspace{0pt}{\graphikregfont Auvergne-Rhône-Alpes}\nobreakspace\vspace{0pt}\logo{logos/ara_pastille.pdf}
+    - lumiere: \textcolor{solarized-red}{\lyondfont lumière lyon 2}
+  
+# MATH
+    - colonvdash: \mathrel{\ooalign{\hss$\vdash$\hss\cr\kern0.6ex\raise0.15ex\hbox{\scalebox{1}{$:$}}}}
+    - curlyveeinarrow: \mathrel{\raisebox{.01em}{\rotatebox[origin=c]{90}{$\scriptstyle\pmb\curlyveedownarrow$}}}
+    - curlyveeoutarrow: \mathrel{\raisebox{.01em}{\rotatebox[origin=c]{270}{$\scriptstyle\pmb\curlyveeuparrow$}}}
+    
+    - bb: \mathbb
+    - cal: \mathcal
+    
+    - inci: \ensuremath{\mathrel{-\!\!\!\!\bullet\!\!\!\!-}}
+    - ingo: \ensuremath{\curlyveeinarrow\!\bullet}
+    - outgo: \ensuremath{\bullet\!\curlyveeoutarrow}
+    - landor: \veeonwedge
+    - cstate: \boxonbox
+    
+    - rrp: ⦈
+    - rrbp: ⦘
+    - llp: ⦇
+    - llbp: ⦗
+    - lBrace: ⟬
+    - rBrace: ⟭
+    - gtrdot: ⋗
+    - vartriangle: ▵
+    - triangledown: ▿
+    - nexists: ∄
+    - varstar: ✶
+    - smwhtsquare: ▫
+    - square: □
+    - downarrowbarred: ⤈
+    - curvearrowrightminus: ⤼
+    - rightdotarrow: ⤑
+
+header-includes:
+# STYLE
+    - \usepackage{marginnote}
+    - \newcounter{mynote}
+    - \newcommand{\mynote}[1]{ \refstepcounter{mynote} \mbox{\textsuperscript{\themynote}} \marginnote{\mbox{\textsuperscript{\footnotesize{\themynote}}}#1}}
+    - \renewcommand*{\footnote}{\marginnote}
+    - \usepackage[ bottom = 3cm,]{geometry}
+    - \DeclareRobustCommand{\logo}[1]{\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{#1}}\endgroup}
+      
+# MATH
+    - \usepackage{tfrupee}
+    - \usepackage{stmaryrd}
+    
+    - \DeclareFontFamily{U}{mathb}{\hyphenchar\font45}
+    - \DeclareFontShape{U}{mathb}{m}{n}{<5> <6> <7> <8> <9> <10> gen * mathb <10.95> mathb10 <12> <14.4> <17.28> <20.74> <24.88> mathb12}{}
+    - \DeclareSymbolFont{mathb}{U}{mathb}{m}{n}
+    - \DeclareMathSymbol{\bigvarstar}{2}{mathb}{"0F}
+    
+    - \DeclareFontFamily{U}{FdSymbolC}{}
+    - \DeclareFontShape{U}{FdSymbolC}{m}{n}{<-> s * FdSymbolC-Book}{}
+    - \DeclareSymbolFont{fdarrows}{U}{FdSymbolC}{m}{n}
+    - \DeclareMathSymbol{\leftblackspoon}{2}{fdarrows}{"6E}
+    - \DeclareMathSymbol{\leftrightspoon}{2}{fdarrows}{"70}
+    - \newcommand{\superscript}[2]{{#1}^{#2}}
+    - \newcommand{\subscript}[2]{{#1}_{#2}}
