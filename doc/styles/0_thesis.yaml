@@ -63,19 +63,59 @@ elements:
   section:
     koma: true
     font: sectionfont
+    prefix:
+      - Section
+      - Sections
+    ref: sec
+    number: section
   chapter:
     koma: true
     font: chapterfont
+    prefix:
+      - Chapter
+      - Chapters
+    ref: ch
+    number: chapter
+  figure:
+    prefix:
+      - Figure
+      - Figures
+    ref: fig
+    number: section
+  listing:
+    prefix:
+      - Listing
+      - Listings
+    ref: lst
+    number: section
+  line:
+    prefix:
+      - Line
+      - Lines
+    ref: line
+    number: continous
+  table:
+    prefix:
+      - Table
+      - Tables
+    ref: tbl
+    number: section
+  algorithm:
+    prefix:
+      - Algorithm
+      - Algorithms
+    ref: alg
+    number: section
   example:
-      theorem: true
-      title:
-        color: solarized-base2
-      border: solarized-base01
-      background: solarized-base2
-      prefix:
-      - Example
-      - Examples
-      ref: ex
+    theorem: true
+    title:
+      color: solarized-base2
+    border: solarized-base01
+    background: solarized-base2
+    prefix:
+    - Example
+    - Examples
+    ref: ex
   definition:
     theorem: true
     title:
@@ -104,19 +144,29 @@ elements:
     - Theorems
     ref: theo
     number: section
-    proof:
-      theorem: true
-      title:
-        color: solarized-base2
-      border: solarized-red
-      background: solarized-base2
-      prefix:
-      - Proof
-      - Proofs
-      ref: pr
-      number: section
+  proof:
+    #theorem: true
+    #title:
+    #  color: solarized-base2
+    #border: solarized-red
+    #background: solarized-base2
+    prefix:
+    - Proof
+    - Proofs
+    ref: pr
+    number: section
+  lemma:
+    theorem: true
+    title:
+      color: solarized-base2
+    border: solarized-orange
+    background: solarized-base2
+    prefix:
+    - Lemma
+    - Lemmas
+    ref: lem
+    number: section
   axiom:
-    style: plain
     theorem: true
     title:
       color: solarized-base2
@@ -132,16 +182,19 @@ ref-conjunction: and
 
 lists:
   glossary:
-    columns: 3
+      columns: 3
+      level: chapter*
   content:
       title: Table of Content
       depth: 4
-      level: chapter
+      level: chapter*
       linkcolor: solarized-base02
   figures:
       columns: 2
+      level: chapter*
   tables:
       columns: 2
+      level: chapter*
 
 colorlinks:
   link: solarized-blue
@@ -197,10 +250,8 @@ macros:
 header-includes:
 # STYLE
     - \usepackage{marginnote}
-    - \newcounter{mynote}
-    - \newcommand{\mynote}[1]{ \refstepcounter{mynote} \mbox{\textsuperscript{\themynote}} \marginnote{\mbox{\textsuperscript{\footnotesize{\themynote}}}#1}}
-    - \renewcommand*{\footnote}{\marginnote}
-    - \usepackage[ bottom = 3cm,]{geometry}
+    - \renewcommand*{\footnote}{\small\marginnote}
+    - \usepackage[top=2cm, bottom=3cm, right=5cm, left=1cm, heightrounded, marginparwidth=3.5cm, marginparsep=1cm]{geometry}
     - \DeclareRobustCommand{\logo}[1]{\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{#1}}\endgroup}
       
 # MATH
@@ -219,3 +270,4 @@ header-includes:
     - \DeclareMathSymbol{\leftrightspoon}{2}{fdarrows}{"70}
     - \newcommand{\superscript}[2]{{#1}^{#2}}
     - \newcommand{\subscript}[2]{{#1}_{#2}}
+    - \newcommand{\txt}[1]{\text{\mathfont\textit {#1}}}

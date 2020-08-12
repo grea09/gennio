@@ -10,7 +10,8 @@ glossary:
       symbol: =
       description: Identity function
     - label: asso
-      symbol: \mapsto
+      #symbol: \mapsto
+      symbol: →
       description: Association
     - label: curry
       symbol: \llp\rrp
@@ -25,7 +26,8 @@ glossary:
       symbol: \gtrdot
       description: Null relation
     - label: comb
-      symbol: \bowtie
+      #symbol: \bowtie
+      symbol: ⋈
       description: Functionnal combination
     - label: super
       symbol: \vartriangle
@@ -115,13 +117,13 @@ glossary:
       symbol: \bb{S}
       description: Set of searches
     - label: pre
-      symbol: \mathit{pre}
+      symbol: \txt{pre}
       description: Precondition
     - label: eff
-      symbol: \mathit{eff}
+      symbol: \txt{eff}
       description: Effect
     - label: reward
-      symbol: \text{\rupee}
+      symbol: \txt{\rupee}
       description: Reward
     - label: cost
       symbol: ¢
