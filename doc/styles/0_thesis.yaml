@@ -14,7 +14,7 @@ algorithm: true
 tables: true
 graphics: true
 cref: false
-listings: false
+listings: true
 verbatim-in-note: true
 
 fonts:

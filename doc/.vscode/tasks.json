@@ -1,0 +1,19 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "latex",
+      "type": "shell",
+      "command": "docker run -v $PWD:/data -e PANDOC_OPTIONS='--number-sections --top-level-division=chapter --listings' -e PANDOC_OUTPUT='thesis.latex' -e PANCAKE_ONCE=true --name pancake grea09/pancake && docker stop pancake && docker rm pancake",
+      "problemMatcher": []
+    }
+    {
+      "label": "pdf",
+      "type": "shell",
+      "command": "docker run -v $PWD:/data -e PANDOC_OPTIONS='--number-sections --top-level-division=chapter --listings' -e PANDOC_OUTPUT='thesis.pdf' -e PANCAKE_ONCE=true --name pancake grea09/pancake && docker stop pancake && docker rm pancake",
+      "problemMatcher": []
+    }
+  ]
+}
