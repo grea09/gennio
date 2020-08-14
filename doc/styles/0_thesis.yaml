@@ -13,9 +13,11 @@ amsthm: true
 algorithm: true
 tables: true
 graphics: true
+subfigure: true
 cref: false
 listings: true
 verbatim-in-note: true
+
 
 fonts:
   main:
@@ -145,11 +147,14 @@ elements:
     ref: theo
     number: section
   proof:
-    #theorem: true
-    #title:
-    #  color: solarized-base2
-    #border: solarized-red
-    #background: solarized-base2
+    boxed: true
+    alias: proofbox
+  proofbox:
+    theorem: true
+    title:
+      color: solarized-base2
+    border: solarized-red
+    background: solarized-base2
     prefix:
     - Proof
     - Proofs
@@ -250,8 +255,8 @@ macros:
 header-includes:
 # STYLE
     - \usepackage{marginnote}
-    - \renewcommand*{\footnote}{\small\marginnote}
-    - \usepackage[top=2cm, bottom=3cm, right=5cm, left=1cm, heightrounded, marginparwidth=3.5cm, marginparsep=1cm]{geometry}
+    - \renewcommand*{\footnote}[1]{\marginnote{\begin{scriptsize}{#1}\end{scriptsize}}}
+    - \usepackage[top=2cm, bottom=3cm, right=3.5cm, left=1cm, heightrounded, marginparwidth=2.5cm, marginparsep=0.8cm]{geometry}
     - \DeclareRobustCommand{\logo}[1]{\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{#1}}\endgroup}
       
 # MATH

@@ -76,7 +76,7 @@ Static,       ]{Recursive Mono Linear Static}
 \newfontfamily\titlefont[       ]{Recursive Sn Lnr St XBk}
 
                 \addtokomafont{chapter}{\chapterfont }
-                                    \addtokomafont{section}{\sectionfont }
+                                      \addtokomafont{section}{\sectionfont }
           
 
 %%%% Geometry
@@ -131,8 +131,10 @@ Static,       ]{Recursive Mono Linear Static}
                         \newtcbtheorem[auto counter,number within=section,]{definition}{Definition}{coltitle=solarized-base2,colframe=solarized-green,colback=solarized-base2,}{def}
                                 \newtcbtheorem[]{example}{Example}{coltitle=solarized-base2,colframe=solarized-base01,colback=solarized-base2,}{ex}
                         \newtcbtheorem[auto counter,number within=section,]{lemma}{Lemma}{coltitle=solarized-base2,colframe=solarized-orange,colback=solarized-base2,}{lem}
-                                                        \newtcbtheorem[auto counter,number within=section,]{theorem}{Theorem}{coltitle=solarized-base2,colframe=solarized-yellow,colback=solarized-base2,}{theo}
-        
+                                        \newtcbtheorem[auto counter,number within=section,]{proofbox}{Proof}{coltitle=solarized-base2,colframe=solarized-red,colback=solarized-base2,}{pr}
+                                \newtcbtheorem[auto counter,number within=section,]{theorem}{Theorem}{coltitle=solarized-base2,colframe=solarized-yellow,colback=solarized-base2,}{theo}
+            \renewcommand*{\proof}{\proofbox}
+  
 
 
 
@@ -174,21 +176,10 @@ Static,       ]{Recursive Mono Linear Static}
 \MakeRobust{\Call} %For nested Calls
 
   \usepackage{listings}
+  \newcommand{\passthrough}[1]{#1}
   \tcbuselibrary{listings}
   \tcbset{listing engine=listings}
-  \newcommand{\passthrough}[1]{#1}
-
-      %%%% For listings (code blocks)
-    \lstset{
-        basicstyle={\color{solarized-base02}\footnotesize\ttfamily},
-        backgroundcolor=\color{solarized-base3},
-        keywordstyle=\color{solarized-orange}\bfseries,
-        identifierstyle=\color{solarized-base01},
-        stringstyle=\color{solarized-green},
-        commentstyle=\color{solarized-base1}\itshape,
-        numberstyle=\footnotesize\color{solarized-base0}
-    }
-  
+                                                                                                                                  
 
 
   \usepackage{longtable,booktabs}
@@ -215,6 +206,8 @@ Static,       ]{Recursive Mono Linear Static}
   \def\fps@figure{htbp}
   \makeatother
 
+\usepackage{subfig}
+
 
 
 \setlength{\emergencystretch}{3em} % prevent overfull lines
@@ -228,8 +221,8 @@ Static,       ]{Recursive Mono Linear Static}
   
 
   \usepackage{marginnote}
-  \renewcommand*{\footnote}{\small\marginnote}
-  \usepackage[top=2cm, bottom=3cm, right=5cm, left=1cm, heightrounded, marginparwidth=3.5cm, marginparsep=1cm]{geometry}
+  \renewcommand*{\footnote}[1]{\marginnote{\begin{scriptsize}{#1}\end{scriptsize}}}
+  \usepackage[top=2cm, bottom=3cm, right=3.5cm, left=1cm, heightrounded, marginparwidth=2.5cm, marginparsep=0.6cm]{geometry}
   \DeclareRobustCommand{\logo}[1]{\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{#1}}\endgroup}
   \usepackage{tfrupee}
   \usepackage{stmaryrd}
@@ -2701,22 +2694,13 @@ compiler-compiler, the evaluator is actually a compiler process. It will
 transform the syntax tree of the grammar into executable code. This code
 is the generated compiler and is subject to our interest in this case.
 
-\begin{figure}
-\hypertarget{fig:compiler}{%
-\centering
-\includegraphics{graphics/compiler-compiler.svg}
-\caption{Illustration of the meta-process of compiler
-generation}\label{fig:compiler}
-}
-\end{figure}
+:::
+\includegraphics[width=0.5\textwidth,height=\textheight]{graphics/compiler-compiler.svg}
+\includegraphics[width=0.5\textwidth,height=\textheight]{graphics/dynamic-parser.svg}
+:::
 
 \hypertarget{dynamic-grammar}{%
 \subsection{Dynamic Grammar}\label{dynamic-grammar}}
-
-\marginpar{%
-\includegraphics{/tmp/tmppnb7h03_}
-\captionof{figure}{fig:}\label{fig:dynamic-parser}
-}
 
 One of the issues with classical grammars is that they are set in stone
 once compiled. One cannot change the definition of a grammar without
@@ -3940,7 +3924,7 @@ there is no value, sort of like \passthrough{\lstinline!null!} or
 \passthrough{\lstinline!nil!} in programming languages.
 
 \marginpar{%
-\includegraphics{/tmp/tmpwg36cx2a}
+\includegraphics{/tmp/tmpykviyabb}
 
 }
 
@@ -7838,8 +7822,6 @@ to explore, to update the proofs, is the impact of the new resolver. By
 definition, the resolvers of decomposition flaws will take into account
 all flaws introduced by its resolution into the refined plan. It can
 also revert its application properly.
-
-\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
 
 \begin{lemma}[nameref={Decomposing preserves acyclicity},]{Decomposing preserves acyclicity}{}
 
