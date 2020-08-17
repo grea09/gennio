@@ -62,6 +62,8 @@ elements:
     - cleardoublepage=empty
     - openany
     - parskip
+  caption:
+    font: bf
   section:
     koma: true
     font: sectionfont
