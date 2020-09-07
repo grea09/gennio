@@ -104,6 +104,12 @@ elements:
       - Tables
     ref: tbl
     number: section
+  quote:
+    title:
+      color: solarized-base2
+      content: \Huge “
+      font: mathfont
+      lines: 3
   algorithm:
     prefix:
       - Algorithm
@@ -257,8 +263,22 @@ macros:
 header-includes:
 # STYLE
     - \usepackage{marginnote}
-    - \renewcommand*{\footnote}[1]{\marginnote{\begin{scriptsize}{#1}\end{scriptsize}}}
-    - \usepackage[top=2cm, bottom=3cm, right=3.5cm, left=1cm, heightrounded, marginparwidth=2.5cm, marginparsep=0.8cm]{geometry}
+    - \usepackage{textpos}
+    - \usepackage[strict]{changepage}
+    - \setlength{\TPVertModule}{1cm}
+    - |
+      \renewcommand*{\footnote}[1]{\marginnote{\begin{scriptsize}#1\end{scriptsize}}}
+    - |
+      \newcommand*{\mathnote}[1]{\marginnote{
+        \begin{scriptsize}
+          \checkoddpage
+          \ifoddpage 
+          \begin{textblock}{2.5}(-0.5,0)#1\end{textblock}
+          \else
+          \begin{textblock}{2.5}(-1,0)#1\end{textblock}
+          \fi
+        \end{scriptsize}}}
+    - \usepackage[top=2cm, bottom=3cm, right=3.5cm, left=1cm, heightrounded, marginparwidth=2.5cm, marginparsep=0.5cm]{geometry}
     - \DeclareRobustCommand{\logo}[1]{\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{#1}}\endgroup}
       
 # MATH
