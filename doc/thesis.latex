@@ -236,7 +236,7 @@ Static,       ]{Recursive Mono Linear Static}
     \begin{scriptsize}
       \checkoddpage
       \ifoddpage 
-      \begin{textblock}{2.5}(-0.5,0)#1\end{textblock}
+      \begin{textblock}{2.5}(0.5,0)#1\end{textblock}
       \else
       \begin{textblock}{2.5}(-1,0)#1\end{textblock}
       \fi
@@ -2586,7 +2586,7 @@ knowledge representation.
 \hypertarget{ch:self}{%
 \chapter{Knowledge Representation}\label{ch:self}}
 
-\footnote{\includegraphics{portraits/noam_chomsky.jpg}Noam Chomsky 2017}
+\footnote{\includegraphics{portraits/noam_chomsky.jpg} Noam Chomsky 2017}
 Knowledge representation is at the intersection of maths, logic,
 language and computer sciences. Knowledge description systems rely on
 syntax to interoperate systems and users to one another. The base of
@@ -2730,8 +2730,8 @@ transform the syntax tree of the grammar into executable code. This code
 is the generated compiler and is subject to our interest in this case.
 
 \hypertarget{fig:compiler-compiler}{}
-\begin{figure}[h]\begin{center}\subfloat[Classical compiler-compiler]{\includegraphics[width=0.7\textwidth]{/tmp/tmpc0ubi7_j}
-\label{fig:compiler}}\subfloat[Dynamic grammar modification]{\includegraphics[width=0.28\textwidth]{/tmp/tmprnbpmd1c}
+\begin{figure}[h]\begin{center}\subfloat[Classical compiler-compiler]{\includegraphics[width=0.7\textwidth]{/tmp/tmpqgj_rh7w}
+\label{fig:compiler}}\subfloat[Dynamic grammar modification]{\includegraphics[width=0.28\textwidth]{/tmp/tmpi4xmoq2e}
 \label{fig:dynamic-parser}}\captionof{figure}{Illustration of the meta-process of compiler generation}\label{fig:compiler-compiler}\end{center}\end{figure}
 
 \hypertarget{dynamic-grammar}{%
@@ -3959,8 +3959,8 @@ there is no value, sort of like \passthrough{\lstinline!null!} or
 \passthrough{\lstinline!nil!} in programming languages.
 
 \marginpar{%
-\includegraphics{/tmp/tmprtfo4x3v}
-\captionof{figure}\label
+\includegraphics{/tmp/tmp0x_a1949}
+\captionof{figure}
 }
 
 \begin{example*}{}{}

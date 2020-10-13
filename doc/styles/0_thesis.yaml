@@ -273,7 +273,7 @@ header-includes:
         \begin{scriptsize}
           \checkoddpage
           \ifoddpage 
-          \begin{textblock}{2.5}(-0.5,0)#1\end{textblock}
+          \begin{textblock}{2.5}(0.5,0)#1\end{textblock}
           \else
           \begin{textblock}{2.5}(-1,0)#1\end{textblock}
           \fi
