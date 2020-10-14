@@ -269,11 +269,11 @@ header-includes:
     - |
       \renewcommand*{\footnote}[1]{\marginnote{\begin{scriptsize}#1\end{scriptsize}}}
     - |
-      \newcommand*{\mathnote}[1]{\marginnote{
+      \newcommand*{\tcbnote}[1]{\marginnote{
         \begin{scriptsize}
           \checkoddpage
           \ifoddpage 
-          \begin{textblock}{2.5}(0.5,0)#1\end{textblock}
+          \begin{textblock}{2.5}(-0.5,0)#1\end{textblock}
           \else
           \begin{textblock}{2.5}(-1,0)#1\end{textblock}
           \fi
