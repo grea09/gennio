@@ -15,9 +15,50 @@ tables: true
 graphics: true
 subfigure: true
 cref: false
-listings: true
 verbatim-in-note: true
-
+listings:
+  - language: java
+  - basicstyle: \small\color{solarized-base02}
+  - commentstyle: \itshape\color{solarized-base0}
+  - keywordstyle: \bfseries
+  - keywordstyle:
+      index: 2 # include
+      content: \color{solarized-violet}
+  - keywordstyle:
+      index: 3 # file level
+      content: \color{solarized-orange}\bfseries
+  - keywordstyle:
+      index: 4 # access
+      content: \color{solarized-base01}\itshape
+  - keywordstyle:
+      index: 5 # behaviour modifiers
+      content: \color{solarized-base01}\bfseries
+  - keywordstyle:
+      index: 6 # types
+      content: \color{solarized-green}\bfseries
+  - keywordstyle:
+      index: 7 # literals
+      content: \color{solarized-magenta}
+  - keywordstyle:
+      index: 8 # blocks and control
+      content: \color{solarized-yellow}\bfseries
+  - keywordstyle:
+      index: 9 # lang
+      content: \color{solarized-red}\bfseries
+  - identifierstyle: \color{solarized-blue}
+  - stringstyle: \color{solarized-cyan}
+  - numbers: left
+  - numberstyle: \footnotesize
+  - stepnumber: 1
+  - firstnumber: 1
+  - frame: l
+  - framerule: 2mm
+  - rulecolor: \color{solarized-base1}
+  - tabsize: 2
+  - numberfirstline: true
+  - breaklines: true
+  - xleftmargin: 1cm
+  - backgroundcolor: \color{solarized-base2}
 
 fonts:
   main:

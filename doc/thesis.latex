@@ -177,8 +177,64 @@ Static,       ]{Recursive Mono Linear Static}
 
   \usepackage{listings}
   \newcommand{\passthrough}[1]{#1}
+    \lstdefinelanguage{java}{
+        sensitive=true,
+        comment=[l]{//},
+        morecomment=[s]{/*}{*/},
+        morestring=[b]',
+        morestring=[b]",
+        keywords=,
+        otherkeywords={>,<,=,+,-,!,\%,?,:},
+        keywords=[3]{package,import},
+        keywords=[4]{class,interface,this,enum,extends,implements,instanceof,super,new},
+        keywords=[5]{public,private,protected},
+        keywords=[6]{final,static,abstract,native,const,strictfp,synchronized,throws,transient,volatile},
+        keywords=[7]{void,byte,short,int,long,float,double,boolean,char},
+        keywords=[8]{true,false,0,1,2,3,4,5,6,7,8,9},
+        keywords=[9]{assert,break,case,catch,try,continue,default,do,else,finally,for,goto,if,return,switch,throw,while},
+        keywords=[10]{Boolean,Byte,Character,Class,ClassLoader,Compiler,Double,Enum,Float,InheritableThreadLocal,Integer,Long,Math,Number,Object,Package,Process,ProcessBuilder,Runtime,RuntimePermission,SecurityManager,Short,StackTraceElement,StrictMath,String,StringBuffer,StringBuilder,System,Thread,ThreadGroup,ThreadLocal,Throwable,Void,Interface,Error,Exception,ArrayList,List,Set,HashSet,Map,HashMap}  }
+    \lstdefinelanguage{rdf}{
+        sensitive=true,
+        comment=[l]{\#},
+        morestring=[b]",
+        morestring=[s]{<}{>},
+        keywords=,
+        otherkeywords={:,.},
+        keywords=[3]{@prefix,imports},
+        keywords=[4]{@base},
+        keywords=[5]{rdf,owl,xml,xsd,rdfs},
+        keywords=[6]{modality},
+        keywords=[7]{range},
+        keywords=[8]{true,false},
+        keywords=[9]{is,type},
+        keywords=[10]{ObjectProperty,AnnotationProperty,Ontology,Class,NamedIndividual,Statement,Property}  }
     \lstset{
-        =  }
+        language=java,
+        basicstyle=\small\color{solarized-base02},
+        commentstyle=\itshape\color{solarized-base0},
+        keywordstyle=\bfseries,
+        keywordstyle=[2]\color{solarized-violet},
+        keywordstyle=[3]\color{solarized-orange}\bfseries,
+        keywordstyle=[4]\color{solarized-base01}\itshape,
+        keywordstyle=[5]\color{solarized-base01}\bfseries,
+        keywordstyle=[6]\color{solarized-green}\bfseries,
+        keywordstyle=[7]\color{solarized-magenta},
+        keywordstyle=[8]\color{solarized-yellow}\bfseries,
+        keywordstyle=[9]\color{solarized-red}\bfseries,
+        identifierstyle=\color{solarized-blue},
+        stringstyle=\color{solarized-cyan},
+        numbers=left,
+        numberstyle=\footnotesize,
+        stepnumber=1,
+        firstnumber=1,
+        frame=l,
+        framerule=2mm,
+        rulecolor=\color{solarized-base1},
+        tabsize=2,
+        numberfirstline=true,
+        breaklines=true,
+        xleftmargin=1cm,
+        backgroundcolor=\color{solarized-base2}  }
   \tcbuselibrary{listings}
   \tcbset{listing engine=listings}
                                                                                                                                                   
@@ -232,11 +288,11 @@ Static,       ]{Recursive Mono Linear Static}
   \usepackage[strict]{changepage}
   \setlength{\TPVertModule}{1cm}
   \renewcommand*{\footnote}[1]{\marginnote{\begin{scriptsize}#1\end{scriptsize}}}
-  \newcommand*{\mathnote}[1]{\marginnote{
+  \newcommand*{\tcbnote}[1]{\marginnote{
     \begin{scriptsize}
       \checkoddpage
       \ifoddpage 
-      \begin{textblock}{2.5}(0.5,0)#1\end{textblock}
+      \begin{textblock}{2.5}(-0.5,0)#1\end{textblock}
       \else
       \begin{textblock}{2.5}(-1,0)#1\end{textblock}
       \fi
@@ -1337,7 +1393,7 @@ top of it.
 
 \leavevmode\hypertarget{axi:identity}{}%
 Let's the identity function be \gls{eq} that associates every function
-to itself. \mathnote{$(\eq)  = x \asso x$} This function is therefore
+to itself. \tcbnote{$(\eq)  = x \asso x$} This function is therefore
 transparent as by definition \(=(x)\) is the same as \(x\). It can be
 described by using it as \textbf{affectation} or aliases to make some
 expressions shorter or to define any function.
@@ -1360,16 +1416,18 @@ lambda calculus and some derived functional programming languages.
 \begin{axiom*}[label={axi:association},nameref={Association},]{Association}{}
 
 \leavevmode\hypertarget{axi:association}{}%
-\footnote{Using
-  definitions~\ref{def:currying} and \ref{def:application}, we can note}
 Let's the term \gls{asso} be the function that associates two
 expressions to another function that associates those expressions. This
 special function is derived from the notation of \emph{morphisms} of the
-category theory. \mathnote{$(\asso) = x \asso (f(x) \asso f)$}
+category theory.
 
 \end{axiom*}
 
-The formal definition uses Currying to decompose the function into two.
+The formal definition uses Currying to decompose the function into
+two.\footnote{Using
+  definitions~\ref{def:currying} and \ref{def:application}, it can be
+  defined as:
+  \(\begin{aligned}(\asso) = x \asso \\ (f(x) \asso f)\end{aligned}\)}
 It associates a parameter to a function that takes an expression and
 returns a function.
 
@@ -1390,7 +1448,7 @@ the rules of the formalism we are defining.
 \begin{definition}[label={def:currying},nameref={Currying},]{Currying}{def:currying}
 
 \hypertarget{def:currying}{}
-\mathnote{$\llp f \rrp = (x \asso \llp f(x)\rrp)$}
+\tcbnote{$\llp f \rrp = (x \asso \llp f(x)\rrp)$}
 
 Currying is the operation named after the mathematician Haskell Brooks
 Curry (1958) that allows multiple argument functions in a simpler
@@ -1401,7 +1459,7 @@ The operation of \emph{Currying} is a function \gls{curry} that
 associates to each function \(f\) another function that recursively
 partially applies \(f\) with one argument at a time.
 
-\mathnote{$\llbp f\rrbp = \llbp x, y \asso f(x)(y) \rrbp^+$}
+\tcbnote{$\llbp f\rrbp = \llbp x, y \asso f(x)(y) \rrbp^+$}
 
 If we take a function \(h\) such that when having \(x\) as a parameter,
 gives the function \(g\) that takes an argument \(y\), \emph{unCurrying}
@@ -1413,7 +1471,7 @@ is the function \gls{uncurry} so that \(f(x,y)\) behaves the same way as
 \begin{definition}[label={def:application},nameref={Application},]{Application}{def:application}
 
 \leavevmode\hypertarget{def:application}{}%
-\mathnote{$y = f(x)$} We note the application of \(f\) with an argument
+\tcbnote{$y = f(x)$} We note the application of \(f\) with an argument
 \(x\) as \(f(x)\). The application allows to recover the image \(y\) of
 \(x\) which is the value that \(f\) associates with \(x\).
 
@@ -1446,8 +1504,8 @@ notation e.g.~\(x f y\) for its application.
 Applying this to basic arithmetic for illustration, it is possible to
 create a function that will triple its argument by making a partial
 application of the multiplication function \(×(3)\)
-\mathnote{$×(3)=x \asso 3×x$} so we can write the operation to triple
-the number \(2\) as \(×(3)(2)\) or \(×(2,3)\) or with the infix notation
+\tcbnote{$×(3)=x \asso 3×x$} so we can write the operation to triple the
+number \(2\) as \(×(3)(2)\) or \(×(2,3)\) or with the infix notation
 \(2×3\).
 
 \end{example*}
@@ -1456,7 +1514,7 @@ the number \(2\) as \(×(3)(2)\) or \(×(2,3)\) or with the infix notation
 
 \leavevmode\hypertarget{def:null}{}%
 The \emph{null function} is the function between nothing and nothing. We
-note this function \gls{none} . \mathnote{$\none = \none \asso \none$}
+note this function \gls{none} . \tcbnote{$\none = \none \asso \none$}
 
 \end{definition}
 
@@ -1475,7 +1533,7 @@ to define notions of variables and literals.
 \leavevmode\hypertarget{def:literal}{}%
 A literal is a function that associates null to its value. This consists
 of any function \(l\) written as \(\none \asso l\).
-\mathnote{$l = \none \asso l$} This means that the function has only
+\tcbnote{$l = \none \asso l$} This means that the function has only
 itself as an immutable value. We call \emph{constants} functions that
 have no arguments and have as value either another constant or a
 literal.
@@ -1495,7 +1553,7 @@ function that has no argument and is always valued to \(3\).
 \leavevmode\hypertarget{def:variable}{}%
 A variable is a function that associates itself to \gls{none} . This
 consists of any function \(x\) written as \(x \asso \none\).
-\mathnote{$x = x \asso \none$} This means that the function requires an
+\tcbnote{$x = x \asso \none$} This means that the function requires an
 argument and has undefined value. Variables can be seen as a demand of
 value or expression and mean nothing without being defined properly.
 
@@ -1545,7 +1603,7 @@ complex functions.
 \begin{definition}[label={def:combination},nameref={Combination},]{Combination}{def:combination}
 
 \hypertarget{def:combination}{}
-\mathnote{$\comb = (f, \none \asso f) \comb (\none, f \asso f)$}
+\tcbnote{$\comb = (f, \none \asso f) \comb (\none, f \asso f)$}
 
 The \emph{combination function} \gls{comb} associates any two functions
 to a new function that is the union of the definition of \textbf{either}
@@ -1593,7 +1651,7 @@ the combination \(f_3 = f_1 \bowtie f_2\) will behave as follows:
 \begin{definition}[label={def:superposition},nameref={Superposition},]{Superposition}{def:superposition}
 
 \hypertarget{def:superposition}{}
-\mathnote{$\super = (\comb) \comb (f,f \asso f)$}
+\tcbnote{$\super = (\comb) \comb (f,f \asso f)$}
 
 The \emph{superposition function} \gls{super} associates any two
 functions to a new function. This function is what the definition of the
@@ -1622,7 +1680,7 @@ position. More intuitively, if the superposition is akin to the set
 \begin{definition}[label={def:subposition},nameref={Subposition},]{Subposition}{def:subposition}
 
 \hypertarget{def:subposition}{}
-\mathnote{$\sub = f_1, f_2 \asso f_1 \comb (f_1 \super f_2)$}
+\tcbnote{$\sub = f_1, f_2 \asso f_1 \comb (f_1 \super f_2)$}
 
 The \emph{subposition} is the function \gls{sub} that associates any two
 functions \(f_1\) and \(f_2\) to a new function \(f_1 \sub f_2\). The
@@ -1652,8 +1710,8 @@ We can also note a few properties of these functions in
 table~\ref{tbl:fun1}.
 
 \begin{longtable}[]{@{}ll@{}}
-\caption{Example properties of superposition and subposition
-\{\#tbl:fun1\}}\tabularnewline
+\caption{\label{tbl:fun1}Example properties of superposition and
+subposition }\tabularnewline
 \toprule
 Formula & Description\tabularnewline
 \midrule
@@ -1706,8 +1764,8 @@ functions: \(f_1 \bullet f_2 = f_1 \comp \bullet(f_2)\).
 These properties are akin to multiplication and division in arithmetic.
 
 \begin{longtable}[]{@{}ll@{}}
-\caption{Example of function composition and inverse with their
-properties. \{\#tbl:fun2\}}\tabularnewline
+\caption{\label{tbl:fun2}Example of function composition and inverse
+with their properties. }\tabularnewline
 \toprule
 Formula & Description\tabularnewline
 \midrule
@@ -1818,8 +1876,7 @@ logic with the two literals \emph{true} (noted \gls{tru} ) and
 \emph{false} (noted \gls{fls} ).
 
 A function noted \(q\) that has as only values either \gls{tru} or
-\gls{fls} is called a
-\textbf{predicate}.\mathnote{$\dom(\inv q) = \{\fls, \tru\}$}
+\gls{fls} is called a \textbf{predicate}.\footnote{\(\dom(\inv q) = \{\fls, \tru\}\)}
 
 We define the classical logic \emph{entailment}, the predicate that
 holds true when a predicate (the conclusion) is true if and only if the
@@ -1863,10 +1920,10 @@ variable (booleans) as follows:
 \tightlist
 \item
   The \emph{universal quantifier} \gls{univ} meaning \emph{``for
-  all''}.\mathnote{$\univ = \sol(\land)$}
+  all''}.\footnote{\(\univ = \sol(\land)\)}
 \item
   The \emph{existential quantifier} \gls{exist} meaning \emph{``it
-  exists''}.\mathnote{$\exist = \sol(\lor)$}
+  exists''}.\footnote{\(\exist = \sol(\lor)\)}
 \end{itemize}
 
 \hypertarget{higher-order-logic}{%
@@ -1896,10 +1953,10 @@ such as:
 \tightlist
 \item
   The \emph{uniqueness quantifier} \gls{uniq} meaning \emph{``it exists
-  a unique''}.\mathnote{$\uniq = \sol(=(1) \comp +)$}
+  a unique''}.\footnote{\(\uniq = \sol(=(1) \comp +)\)}
 \item
   The \emph{exclusive quantifier} \gls{exclu} meaning \emph{``it doesn't
-  exist''}.\mathnote{$\exclu = \sol(\lnot \comp \land)$}
+  exist''}.\footnote{\(\exclu = \sol(\lnot \comp \land)\)}
 \end{itemize}
 
 It is also possible to change the nature of quantifiers by using a
@@ -1910,7 +1967,7 @@ variable instead of restriction to retrieve a set of values (Hehner
 \tightlist
 \item
   The \emph{solution quantifier} \gls{sol} meaning
-  \emph{``those''}.\mathnote{$\sol = f, x, q \asso \lBrace f(x) \such q \rBrace$}
+  \emph{``those''}.\footnote{\(\sol = f, x, q \asso \lBrace f(x) \such q \rBrace\)}
 \end{itemize}
 
 It is interesting to note that most quantified expression can be
@@ -1967,8 +2024,7 @@ own right. We define a set one of two ways (always using braces):
 Using our functional foundation, we can define any set as a predicate
 \(\cal{S} = e \asso \tru\) with \(e\) being a member of \(\cal{S}\).
 This allows us to define the member function noted \(e \in \cal{S}\) to
-indicate that \(e\) is an element of
-\(\cal{S}\).\mathnote{$\in = e, \cal{S} \asso \cal{S}(e)$}
+indicate that \(e\) is an element of \(\cal{S}\).\footnote{\(\in = e, \cal{S} \asso \cal{S}(e)\)}
 
 Another, useful definition using sets is the \emph{domain} of a function
 \(f\) as the set of all arguments for which the function is defined. We
@@ -1981,7 +2037,7 @@ functional version of sets, they are their own domain.
 \leavevmode\hypertarget{def:specification}{}%
 The \emph{function of specification} (noted \gls{such}) is a function
 that restricts the validity of an expression given a
-predicate.\mathnote{$\such = f, q \asso f \sub (\dom(q = \fls) \to \dom(\inv f))$}
+predicate.\tcbnote{$\such = f, q \asso f \sub (\dom(q = \fls) \to \dom(\inv f))$}
 It can intuitively be read as \emph{``such that''}.
 
 \end{definition}
@@ -2069,7 +2125,7 @@ in table~\ref{tbl:venn}.
 \end{example*}
 
 \begin{longtable}[]{@{}ll@{}}
-\caption{Caption \{\#tbl:venn\}}\tabularnewline
+\caption{\label{tbl:venn}Caption }\tabularnewline
 \toprule
 Formula & Description\tabularnewline
 \midrule
@@ -2245,7 +2301,7 @@ definition in the following way:
 \tightlist
 \item
   \emph{Adjacency}:
-  \(\con_{\adja} = v \asso \{ e: v \in \con_{\inci}(e) \}\)\mathnote{Also: $\con_{\adja} = \inv \con_{\inci}$}
+  \(\con_{\adja} = v \asso \{ e: v \in \con_{\inci}(e) \}\)\tcbnote{Also: $\con_{\adja} = \inv \con_{\inci}$}
 \item
   \emph{Incidence}:
   \(\con_{\inci} = e \asso \{ v: e \in \con_{\adja}(v) \}\)
@@ -2261,10 +2317,9 @@ connectivity function combines the adjacency and incidence:
 Usually, graphs are noted \(g=(V,E)\) with the set of vertices \(V\)
 (also called nodes) and edges \(E\) (arcs) that links two vertices
 together. Each edge is classically a pair of vertices ordered or not
-depending on whether the graph is directed or
-not.\mathnote{$E \subseteq V^2$} It is possible to go from the set based
-definition to the functional relation using the following equation:
-\(\dom(\con_{\inci}) = E\)
+depending on whether the graph is directed or not.\footnote{\(E \subseteq V^2\)}
+It is possible to go from the set based definition to the functional
+relation using the following equation: \(\dom(\con_{\inci}) = E\)
 
 \begin{figure}
 \hypertarget{fig:transitive}{%
@@ -2730,8 +2785,8 @@ transform the syntax tree of the grammar into executable code. This code
 is the generated compiler and is subject to our interest in this case.
 
 \hypertarget{fig:compiler-compiler}{}
-\begin{figure}[h]\begin{center}\subfloat[Classical compiler-compiler]{\includegraphics[width=0.7\textwidth]{/tmp/tmpqgj_rh7w}
-\label{fig:compiler}}\subfloat[Dynamic grammar modification]{\includegraphics[width=0.28\textwidth]{/tmp/tmpi4xmoq2e}
+\begin{figure}[h]\begin{center}\subfloat[Classical compiler-compiler]{\includegraphics[width=0.7\textwidth]{/tmp/tmp5nigx_tt}
+\label{fig:compiler}}\subfloat[Dynamic grammar modification]{\includegraphics[width=0.28\textwidth]{/tmp/tmpmvujr9g5}
 \label{fig:dynamic-parser}}\captionof{figure}{Illustration of the meta-process of compiler generation}\label{fig:compiler-compiler}\end{center}\end{figure}
 
 \hypertarget{dynamic-grammar}{%
@@ -2884,7 +2939,7 @@ thanks to the Turtle variant of \gls{rdf} (Beckett and Berners-Lee
 fundamental to \gls{rdf} and allow standard description of basic
 properties such as the type.
 
-\begin{lstlisting}[language=XML, caption={Example of RDF turtle ontology}, label=lst:rdf]
+\begin{lstlisting}[caption={Example of RDF turtle ontology}, label=lst:rdf]
   ex:ontology rdf:type owl:Ontology .
   ex:name rdf:type owl:DatatypeProperty .
   ex:author rdf:type owl:ObjectProperty .
@@ -3026,8 +3081,8 @@ summarize, that framework must maximize the following criteria:
 \end{itemize}
 
 \begin{longtable}[]{@{}lllll@{}}
-\caption{Comparison of different approaches using our criteria.
-\{\#tbl:approaches\}}\tabularnewline
+\caption{\label{tbl:approaches}Comparison of different approaches using
+our criteria. }\tabularnewline
 \toprule
 \textbf{Approaches} & \textbf{Neutral} & \textbf{Permissive} &
 \textbf{Minimalist} & \textbf{Adaptative}\tabularnewline
@@ -3959,8 +4014,8 @@ there is no value, sort of like \passthrough{\lstinline!null!} or
 \passthrough{\lstinline!nil!} in programming languages.
 
 \marginpar{%
-\includegraphics{/tmp/tmp0x_a1949}
-\captionof{figure}
+\includegraphics{/tmp/tmp4slgmgaj}
+
 }
 
 \begin{example*}{}{}
@@ -6723,8 +6778,8 @@ complexity category that is significantly harder than regular
   Tutorial at ICAPS 2018}
 
 \begin{longtable}[]{@{}ll@{}}
-\caption{\gls{htn} models expressivity associated with their respective
-complexity classes \{\#tbl:htn\}}\tabularnewline
+\caption{\label{tbl:htn}\gls{htn} models expressivity associated with
+their respective complexity classes }\tabularnewline
 \toprule
 \emph{Restrictions} & \emph{Complexity}\tabularnewline
 \midrule
@@ -7591,10 +7646,10 @@ performance in the online runs because of the way they are conducted by
 \gls{lollipop}.
 
 \begin{longtable}[]{@{}llll@{}}
-\caption{Average times of \(1.000\) executions on the problem. The first
-column is for a simple run on the problem. Second and third columns are
-times to replan with one and two changes done to the domain for online
-planning. \{\#tbl:results\}}\tabularnewline
+\caption{\label{tbl:results}Average times of \(1.000\) executions on the
+problem. The first column is for a simple run on the problem. Second and
+third columns are times to replan with one and two changes done to the
+domain for online planning. }\tabularnewline
 \toprule
 \textbf{Experiment} & \emph{Single} & \emph{Online 1} & \emph{Online
 2}\tabularnewline

@@ -1,0 +1,122 @@
+listings-langages:
+  rdf:
+    - sensitive: true
+    - comment: |
+        `[l]{\#}`{=latex}
+    - morestring: |
+        `[b]"`{=latex}
+    - morestring: |
+        `[s]{<}{>}`{=latex}
+    - keywords: []
+    - otherkeywords: # symbols
+        list:
+          - ':'
+          - '.'
+    - keywords: 
+        index: 3 # include
+        list: 
+          - |
+            `@prefix`{=latex}
+          - imports
+    - keywords:
+        index: 4 # file level
+        list:
+          - |
+            `@base`{=latex}
+    - keywords:
+        index: 5 # access
+        list: [rdf, owl, xml, xsd, rdfs]
+    - keywords:
+        index: 6 # behaviour modifiers
+        list: [modality]
+    - keywords:
+        index: 7 # types
+        list: [range]
+    - keywords:
+        index: 8 # literals
+        list: ['true', 'false']
+    - keywords:
+        index: 9 # blocks and control
+        list: [is, type]
+    - keywords:
+        index: 10 # lang
+        list: [ObjectProperty, AnnotationProperty, Ontology, Class, NamedIndividual, Statement, Property]
+    self:
+      - sensitive: true
+      - comment: |
+          `[l]{//}`{=latex}
+      - morecomment: |
+          `[s]{/*}{*/}`{=latex}
+      - morestring: |
+          `[b]'`{=latex}
+      - morestring: |
+          `[b]"`{=latex}
+      - keywords: []
+      - otherkeywords: # symbols
+          list:
+            - '='
+            - '?'
+            - '*'
+            - '~'
+            - '_'
+            - '!'
+            - ':'   
+            - '/'
+      - keywords:
+          index: 8 # literals
+          list: ['true', 'false', 0,1,2,3,4,5,6,7,8,9]
+      - keywords:
+          index: 9 # blocks and control
+          list: [named, param, subject, property, object]
+      - keywords:
+          index: 10 # lang
+          list: [Boolean, Float, Integer,  String, Literal, Group, List, Set, Tuple, Collection, Property, Entity, Type, Statement, Quantifier]
+  java:
+    - sensitive: true
+    - comment: |
+        `[l]{//}`{=latex}
+    - morecomment: |
+        `[s]{/*}{*/}`{=latex}
+    - morestring: |
+        `[b]'`{=latex}
+    - morestring: |
+        `[b]"`{=latex}
+    - keywords: []
+    - otherkeywords: # symbols
+        list:
+          - |
+            `>`{=latex}
+          - |
+            `<`{=latex}
+          - '='
+          - '+'
+          - '-'
+          #- '*'
+          - '!'
+          - '%'
+          - '?'
+          - ':'    
+    - keywords: 
+        index: 3 # include
+        list: [package, import]
+    - keywords:
+        index: 4 # file level
+        list: [class, interface, this, enum, extends, implements, instanceof, super, new]
+    - keywords:
+        index: 5 # access
+        list: [public, private, protected]
+    - keywords:
+        index: 6 # behaviour modifiers
+        list: [final, static, abstract, native, const, strictfp, synchronized, throws, transient, volatile]
+    - keywords:
+        index: 7 # types
+        list: [void, byte, short, int, long, float, double, boolean, char]
+    - keywords:
+        index: 8 # literals
+        list: ['true', 'false', 0,1,2,3,4,5,6,7,8,9]
+    - keywords:
+        index: 9 # blocks and control
+        list: [assert, break, case, catch, try, continue, default, do, else, finally, for, goto, if, return, switch, throw, while]
+    - keywords:
+        index: 10 # lang
+        list: [Boolean, Byte, Character, Class, ClassLoader, Compiler, Double,Enum, Float, InheritableThreadLocal, Integer, Long, Math, Number, Object, Package, Process, ProcessBuilder, Runtime, RuntimePermission, SecurityManager, Short, StackTraceElement, StrictMath, String, StringBuffer, StringBuilder, System, Thread, ThreadGroup, ThreadLocal, Throwable, Void, Interface, Error, Exception, ArrayList, List, Set, HashSet, Map, HashMap]
