@@ -16,6 +16,8 @@ graphics: true
 subfigure: true
 cref: false
 verbatim-in-note: true
+#highlight-style: pygments
+#syntax-definition:  
 listings:
   - language: java
   - basicstyle: \small\color{solarized-base02}

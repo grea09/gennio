@@ -10,11 +10,11 @@ listings-langages:
     - keywords: []
     - otherkeywords: # symbols
         list:
-          - ':'
-          - '.'
-    - keywords: 
+          - ":"
+          - "."
+    - keywords:
         index: 3 # include
-        list: 
+        list:
           - |
             `@prefix`{=latex}
           - imports
@@ -34,44 +34,23 @@ listings-langages:
         list: [range]
     - keywords:
         index: 8 # literals
-        list: ['true', 'false']
+        list: ["true", "false"]
     - keywords:
         index: 9 # blocks and control
         list: [is, type]
     - keywords:
         index: 10 # lang
-        list: [ObjectProperty, AnnotationProperty, Ontology, Class, NamedIndividual, Statement, Property]
-    self:
-      - sensitive: true
-      - comment: |
-          `[l]{//}`{=latex}
-      - morecomment: |
-          `[s]{/*}{*/}`{=latex}
-      - morestring: |
-          `[b]'`{=latex}
-      - morestring: |
-          `[b]"`{=latex}
-      - keywords: []
-      - otherkeywords: # symbols
-          list:
-            - '='
-            - '?'
-            - '*'
-            - '~'
-            - '_'
-            - '!'
-            - ':'   
-            - '/'
-      - keywords:
-          index: 8 # literals
-          list: ['true', 'false', 0,1,2,3,4,5,6,7,8,9]
-      - keywords:
-          index: 9 # blocks and control
-          list: [named, param, subject, property, object]
-      - keywords:
-          index: 10 # lang
-          list: [Boolean, Float, Integer,  String, Literal, Group, List, Set, Tuple, Collection, Property, Entity, Type, Statement, Quantifier]
-  java:
+        list:
+          [
+            ObjectProperty,
+            AnnotationProperty,
+            Ontology,
+            Class,
+            NamedIndividual,
+            Statement,
+            Property,
+          ]
+  self:
     - sensitive: true
     - comment: |
         `[l]{//}`{=latex}
@@ -84,39 +63,161 @@ listings-langages:
     - keywords: []
     - otherkeywords: # symbols
         list:
+          - "="
+          - "?"
+          - "*"
+          - "~"
+          - "_"
+          - "!"
+          - ":"
+          - "/"
+    - keywords:
+        index: 8 # literals
+        list: ["true", "false", 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    - keywords:
+        index: 9 # blocks and control
+        list: [named, param, subject, property, object]
+    - keywords:
+        index: 10 # lang
+        list:
+          [
+            Boolean,
+            Float,
+            Integer,
+            String,
+            Literal,
+            Group,
+            List,
+            Set,
+            Tuple,
+            Collection,
+            Property,
+            Entity,
+            Type,
+            Statement,
+            Quantifier,
+          ]
+  Java:
+    - sensitive: true
+    - comment: |
+        `[l]{//}`{=latex}
+    - morecomment: |
+        `[s]{/*}{*/}`{=latex}
+    - morestring: |
+        `[b]'`{=latex}
+    - morestring: |
+        `[b]"`{=latex}
+    - keywords: []
+    - otherkeywords:
+        list:
           - |
             `>`{=latex}
           - |
             `<`{=latex}
-          - '='
-          - '+'
-          - '-'
+          - "="
+          - "+"
+          - "-"
           #- '*'
-          - '!'
-          - '%'
-          - '?'
-          - ':'    
-    - keywords: 
-        index: 3 # include
-        list: [package, import]
+          - "!"
+          - "%"
+          - "?"
+          - ":"
     - keywords:
-        index: 4 # file level
-        list: [class, interface, this, enum, extends, implements, instanceof, super, new]
+        index: 3
+        list: [package, import, new]
     - keywords:
-        index: 5 # access
-        list: [public, private, protected]
+        index: 4
+        list:
+          [class, interface, this, enum, extends, implements, instanceof, super]
     - keywords:
-        index: 6 # behaviour modifiers
-        list: [final, static, abstract, native, const, strictfp, synchronized, throws, transient, volatile]
+        index: 5
+        list:
+          [
+            final,
+            static,
+            abstract,
+            native,
+            const,
+            strictfp,
+            synchronized,
+            throws,
+            transient,
+            volatile,
+          ]
     - keywords:
-        index: 7 # types
+        index: 6
         list: [void, byte, short, int, long, float, double, boolean, char]
     - keywords:
-        index: 8 # literals
-        list: ['true', 'false', 0,1,2,3,4,5,6,7,8,9]
+        index: 7
+        list: [public, private, protected]
     - keywords:
-        index: 9 # blocks and control
-        list: [assert, break, case, catch, try, continue, default, do, else, finally, for, goto, if, return, switch, throw, while]
+        index: 8
+        list: ["true", "false", 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
     - keywords:
-        index: 10 # lang
-        list: [Boolean, Byte, Character, Class, ClassLoader, Compiler, Double,Enum, Float, InheritableThreadLocal, Integer, Long, Math, Number, Object, Package, Process, ProcessBuilder, Runtime, RuntimePermission, SecurityManager, Short, StackTraceElement, StrictMath, String, StringBuffer, StringBuilder, System, Thread, ThreadGroup, ThreadLocal, Throwable, Void, Interface, Error, Exception, ArrayList, List, Set, HashSet, Map, HashMap]
+        index: 9
+        list:
+          [
+            assert,
+            break,
+            case,
+            catch,
+            try,
+            continue,
+            default,
+            do,
+            else,
+            finally,
+            for,
+            goto,
+            if,
+            return,
+            switch,
+            throw,
+            while,
+          ]
+    - ndkeywords:
+        list:
+          [
+            Boolean,
+            Byte,
+            Character,
+            Class,
+            ClassLoader,
+            Compiler,
+            Double,
+            Enum,
+            Float,
+            InheritableThreadLocal,
+            Integer,
+            Long,
+            Math,
+            Number,
+            Object,
+            Package,
+            Process,
+            ProcessBuilder,
+            Runtime,
+            RuntimePermission,
+            SecurityManager,
+            Short,
+            StackTraceElement,
+            StrictMath,
+            String,
+            StringBuffer,
+            StringBuilder,
+            System,
+            Thread,
+            ThreadGroup,
+            ThreadLocal,
+            Throwable,
+            Void,
+            Interface,
+            Error,
+            Exception,
+            ArrayList,
+            List,
+            Set,
+            HashSet,
+            Map,
+            HashMap,
+          ]
