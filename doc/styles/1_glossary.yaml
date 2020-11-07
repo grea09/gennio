@@ -137,7 +137,7 @@ glossary:
     - label: typ
       symbol: T
       description: Types
-    - label: lit
+    - label: litteral
       symbol: L
       description: Literals
     - label: str

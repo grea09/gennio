@@ -17,9 +17,9 @@ subfigure: true
 cref: false
 verbatim-in-note: true
 #highlight-style: pygments
-#syntax-definition:  
+#syntax-definition:
 listings:
-  - language: java
+  - language: self
   - basicstyle: \small\color{solarized-base02}
   - commentstyle: \itshape\color{solarized-base0}
   - keywordstyle: \bfseries
@@ -61,6 +61,7 @@ listings:
   - breaklines: true
   - xleftmargin: 1cm
   - backgroundcolor: \color{solarized-base2}
+syntax: false
 
 fonts:
   main:
@@ -95,16 +96,16 @@ elements:
     color: solarized-base03
     background: solarized-base3
     options:
-    - 11pt
-    - a4paper
-    - twoside
-    - openright
-    - titlepage
-    - numbers=noenddot
-    - headinclude
-    - cleardoublepage=empty
-    - openany
-    - parskip
+      - 11pt
+      - a4paper
+      - twoside
+      - openright
+      - titlepage
+      - numbers=noenddot
+      - headinclude
+      - cleardoublepage=empty
+      - openany
+      - parskip
   caption:
     font: bf
   section:
@@ -159,6 +160,12 @@ elements:
       - Algorithms
     ref: alg
     number: section
+  grammar:
+    prefix:
+      - Grammar
+      - Grammars
+    ref: grm
+    number: section
   example:
     theorem: true
     title:
@@ -166,8 +173,8 @@ elements:
     border: solarized-base01
     background: solarized-base2
     prefix:
-    - Example
-    - Examples
+      - Example
+      - Examples
     ref: ex
   definition:
     theorem: true
@@ -176,14 +183,14 @@ elements:
     border: solarized-green
     background: solarized-base2
     prefix:
-    - Definition
-    - Definitions
+      - Definition
+      - Definitions
     ref: def
     number: section
   equation:
     prefix:
-    - Equation
-    - Equations
+      - Equation
+      - Equations
     ref: eq
     number: section
   theorem:
@@ -193,8 +200,8 @@ elements:
     border: solarized-yellow
     background: solarized-base2
     prefix:
-    - Theorem
-    - Theorems
+      - Theorem
+      - Theorems
     ref: theo
     number: section
   proof:
@@ -207,8 +214,8 @@ elements:
     border: solarized-red
     background: solarized-base2
     prefix:
-    - Proof
-    - Proofs
+      - Proof
+      - Proofs
     ref: pr
     number: section
   lemma:
@@ -218,8 +225,8 @@ elements:
     border: solarized-orange
     background: solarized-base2
     prefix:
-    - Lemma
-    - Lemmas
+      - Lemma
+      - Lemmas
     ref: lem
     number: section
   axiom:
@@ -229,8 +236,8 @@ elements:
     border: solarized-magenta
     background: solarized-base2
     prefix:
-    - Axiom
-    - Axioms
+      - Axiom
+      - Axioms
     ref: axi
     preposition: of
 
@@ -238,19 +245,19 @@ ref-conjunction: and
 
 lists:
   glossary:
-      columns: 3
-      level: chapter*
+    columns: 3
+    level: chapter*
   content:
-      title: Table of Content
-      depth: 4
-      level: chapter*
-      linkcolor: solarized-base02
+    title: Table of Content
+    depth: 4
+    level: chapter*
+    linkcolor: solarized-base02
   figures:
-      columns: 2
-      level: chapter*
+    columns: 2
+    level: chapter*
   tables:
-      columns: 2
-      level: chapter*
+    columns: 2
+    level: chapter*
 
 colorlinks:
   link: solarized-blue
@@ -263,81 +270,84 @@ bibliography: bibliography/thesis.bib
 csl: bibliography/aaai.csl
 
 macros:
-# LOGOS
-    - arc: \textcolor{solarized-violet}{\vspace{0pt}\arcfont arc 2}\nobreakspace\logo{logos/arc2_pastille.pdf}
-    - liris: \textcolor{solarized-base02}{\lirisfont LỊRIS}
-    - sma: \textcolor{solarized-base02}{\dispfont sma}\nobreakspace\vspace{0pt}\logo{logos/sma_pastille.pdf}
-    - polytech: \vspace{0pt}\logo{logos/polytech_pastille.pdf}\nobreakspace\textcolor{solarized-base03}{\perihelionbbfont POLYTECH}
-    - ucbl: \vspace{0pt}\logo{logos/lyon1_pastille.pdf}\nobreakspace{\dinfont Lyon 1}
-    - ara: \vspace{0pt}{\graphikregfont Auvergne-Rhône-Alpes}\nobreakspace\vspace{0pt}\logo{logos/ara_pastille.pdf}
-    - lumiere: \textcolor{solarized-red}{\lyondfont lumière lyon 2}
-  
-# MATH
-    - colonvdash: \mathrel{\ooalign{\hss$\vdash$\hss\cr\kern0.6ex\raise0.15ex\hbox{\scalebox{1}{$:$}}}}
-    - curlyveeinarrow: \mathrel{\raisebox{.01em}{\rotatebox[origin=c]{90}{$\scriptstyle\pmb\curlyveedownarrow$}}}
-    - curlyveeoutarrow: \mathrel{\raisebox{.01em}{\rotatebox[origin=c]{270}{$\scriptstyle\pmb\curlyveeuparrow$}}}
-    
-    - bb: \mathbb
-    - cal: \mathcal
-    
-    - inci: \ensuremath{\mathrel{-\!\!\!\!\bullet\!\!\!\!-}}
-    - ingo: \ensuremath{\curlyveeinarrow\!\bullet}
-    - outgo: \ensuremath{\bullet\!\curlyveeoutarrow}
-    - landor: \veeonwedge
-    - cstate: \boxonbox
-    
-    - rrp: ⦈
-    - rrbp: ⦘
-    - llp: ⦇
-    - llbp: ⦗
-    - lBrace: ⟬
-    - rBrace: ⟭
-    - gtrdot: ⋗
-    - vartriangle: ▵
-    - triangledown: ▿
-    - nexists: ∄
-    - varstar: ✶
-    - smwhtsquare: ▫
-    - square: □
-    - downarrowbarred: ⤈
-    - curvearrowrightminus: ⤼
-    - rightdotarrow: ⤑
+  # LOGOS
+  - arc: \textcolor{solarized-violet}{\arcfont arc 2}\nobreakspace\logo{logos/arc2_pastille.pdf}\space
+  - liris: \textcolor{solarized-base02}{\lirisfont LỊRIS}\space
+  - sma: \textcolor{solarized-base02}{\dispfont sma}\nobreakspace\logo{logos/sma_pastille.pdf}\space
+  - polytech: \logo{logos/polytech_pastille.pdf}\nobreakspace\textcolor{solarized-base03}{\perihelionbbfont POLYTECH}\space
+  - ucbl: \logo{logos/lyon1_pastille.pdf}\nobreakspace{\dinfont Lyon 1}\space
+  - ara: \textcolor{solarized-base02}{\graphikregfont Auvergne-Rhône-Alpes}\nobreakspace\logo{logos/ara_pastille.pdf}\space
+  - lumiere: \textcolor{solarized-red}{\lyondfont lumière lyon 2}\space
+
+  # MATH
+  - colonvdash: \mathrel{\ooalign{\hss$\vdash$\hss\cr\kern0.6ex\raise0.15ex\hbox{\scalebox{1}{$:$}}}}
+  - curlyveeinarrow: \mathrel{\raisebox{.01em}{\rotatebox[origin=c]{90}{$\scriptstyle\pmb\curlyveedownarrow$}}}
+  - curlyveeoutarrow: \mathrel{\raisebox{.01em}{\rotatebox[origin=c]{270}{$\scriptstyle\pmb\curlyveeuparrow$}}}
+
+  - bb: \mathbb
+  - cal: \mathcal
+
+  - inci: \ensuremath{\mathrel{-\!\!\!\!\bullet\!\!\!\!-}}
+  - ingo: \ensuremath{\curlyveeinarrow\!\bullet}
+  - outgo: \ensuremath{\bullet\!\curlyveeoutarrow}
+  - landor: \veeonwedge
+  - cstate: \boxonbox
+
+  - rrp: ⦈
+  - rrbp: ⦘
+  - llp: ⦇
+  - llbp: ⦗
+  - lBrace: ⟬
+  - rBrace: ⟭
+  - gtrdot: ⋗
+  - vartriangle: ▵
+  - triangledown: ▿
+  - nexists: ∄
+  - varstar: ✶
+  - smwhtsquare: ▫
+  - square: □
+  - downarrowbarred: ⤈
+  - curvearrowrightminus: ⤼
+  - rightdotarrow: ⤑
 
 header-includes:
-# STYLE
-    - \usepackage{marginnote}
-    - \usepackage{textpos}
-    - \usepackage[strict]{changepage}
-    - \setlength{\TPVertModule}{1cm}
-    - |
-      \renewcommand*{\footnote}[1]{\marginnote{\begin{scriptsize}#1\end{scriptsize}}}
-    - |
-      \newcommand*{\tcbnote}[1]{\marginnote{
-        \begin{scriptsize}
-          \checkoddpage
-          \ifoddpage 
-          \begin{textblock}{2.5}(-0.5,0)#1\end{textblock}
-          \else
-          \begin{textblock}{2.5}(-1,0)#1\end{textblock}
-          \fi
-        \end{scriptsize}}}
-    - \usepackage[top=2cm, bottom=3cm, right=3.5cm, left=1cm, heightrounded, marginparwidth=2.5cm, marginparsep=0.5cm]{geometry}
-    - \DeclareRobustCommand{\logo}[1]{\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{#1}}\endgroup}
-      
-# MATH
-    - \usepackage{tfrupee}
-    - \usepackage{stmaryrd}
-    
-    - \DeclareFontFamily{U}{mathb}{\hyphenchar\font45}
-    - \DeclareFontShape{U}{mathb}{m}{n}{<5> <6> <7> <8> <9> <10> gen * mathb <10.95> mathb10 <12> <14.4> <17.28> <20.74> <24.88> mathb12}{}
-    - \DeclareSymbolFont{mathb}{U}{mathb}{m}{n}
-    - \DeclareMathSymbol{\bigvarstar}{2}{mathb}{"0F}
-    
-    - \DeclareFontFamily{U}{FdSymbolC}{}
-    - \DeclareFontShape{U}{FdSymbolC}{m}{n}{<-> s * FdSymbolC-Book}{}
-    - \DeclareSymbolFont{fdarrows}{U}{FdSymbolC}{m}{n}
-    - \DeclareMathSymbol{\leftblackspoon}{2}{fdarrows}{"6E}
-    - \DeclareMathSymbol{\leftrightspoon}{2}{fdarrows}{"70}
-    - \newcommand{\superscript}[2]{{#1}^{#2}}
-    - \newcommand{\subscript}[2]{{#1}_{#2}}
-    - \newcommand{\txt}[1]{\text{\mathfont\textit {#1}}}
+  # STYLE
+  - \usepackage{marginnote}
+  - \usepackage{textpos}
+  - \usepackage{scalerel}
+  - \usepackage[strict]{changepage}
+  - \setlength{\TPVertModule}{1cm}
+  - |
+    \renewcommand*{\footnote}[1]{\marginnote{\begin{scriptsize}#1\end{scriptsize}}}
+  - |
+    \newcommand*{\tcbnote}[1]{\marginnote{
+      \begin{scriptsize}
+        \checkoddpage
+        \ifoddpage 
+        \begin{textblock}{2.5}(-0.5,0)#1\end{textblock}
+        \else
+        \begin{textblock}{2.5}(-1,0)#1\end{textblock}
+        \fi
+      \end{scriptsize}}}
+  - \usepackage[top=2cm, bottom=3cm, right=3.5cm, left=1cm, heightrounded, marginparwidth=2.5cm, marginparsep=0.5cm]{geometry}
+  - \DeclareRobustCommand{\logo}[1]{\scalerel*{\includegraphics{#1}}{\strut}}
+  #- \DeclareRobustCommand{\logo}[1]{\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{#1}}\endgroup}
+  - \makeatletter \def\lst@gkeywords@sty{\bfseries} \makeatother
+
+  # MATH
+  - \usepackage{tfrupee}
+  - \usepackage{stmaryrd}
+
+  - \DeclareFontFamily{U}{mathb}{\hyphenchar\font45}
+  - \DeclareFontShape{U}{mathb}{m}{n}{<5> <6> <7> <8> <9> <10> gen * mathb <10.95> mathb10 <12> <14.4> <17.28> <20.74> <24.88> mathb12}{}
+  - \DeclareSymbolFont{mathb}{U}{mathb}{m}{n}
+  - \DeclareMathSymbol{\bigvarstar}{2}{mathb}{"0F}
+
+  - \DeclareFontFamily{U}{FdSymbolC}{}
+  - \DeclareFontShape{U}{FdSymbolC}{m}{n}{<-> s * FdSymbolC-Book}{}
+  - \DeclareSymbolFont{fdarrows}{U}{FdSymbolC}{m}{n}
+  - \DeclareMathSymbol{\leftblackspoon}{2}{fdarrows}{"6E}
+  - \DeclareMathSymbol{\leftrightspoon}{2}{fdarrows}{"70}
+  - \newcommand{\superscript}[2]{{#1}^{#2}}
+  - \newcommand{\subscript}[2]{{#1}_{#2}}
+  - \newcommand{\txt}[1]{\text{\mathfont\textit {#1}}}

@@ -1,4 +1,24 @@
 listings-langages:
+  bnf:
+    - sensitive: true
+    - comment: |
+        `[l]{//}`{=latex}
+    - morestring: |
+        `[b]"`{=latex}
+    # - emph: |
+    #     `[s]{<}{>}`{=latex}
+    - keywords: []
+    - otherkeywords: # symbols
+        list:
+          - "::="
+          - ":"
+          - |
+            `|`{=latex}
+          - "*"
+          - "+"
+          - "?"
+          - |
+            `~`{=latex}
   rdf:
     - sensitive: true
     - comment: |
@@ -12,6 +32,9 @@ listings-langages:
         list:
           - ":"
           - "."
+          - "_"
+          - |
+            `~`{=latex}
     - keywords:
         index: 3 # include
         list:
@@ -43,6 +66,7 @@ listings-langages:
         list:
           [
             ObjectProperty,
+            DatatypeProperty,
             AnnotationProperty,
             Ontology,
             Class,
@@ -66,7 +90,6 @@ listings-langages:
           - "="
           - "?"
           - "*"
-          - "~"
           - "_"
           - "!"
           - ":"
@@ -84,6 +107,7 @@ listings-langages:
             Boolean,
             Float,
             Integer,
+            Character,
             String,
             Literal,
             Group,
@@ -97,7 +121,208 @@ listings-langages:
             Statement,
             Quantifier,
           ]
-  Java:
+  pddl:
+    - sensitive: true
+    - comment: |
+        `[l]{;}`{=latex}
+    - morestring: |
+        `[b]"`{=latex}
+    - keywords: []
+    - alsodigit: "-"
+    - otherkeywords: # symbols
+        list:
+          - ":"
+          - "−"
+          - "?"
+          - "="
+    - keywords:
+        index: 3 # include
+        list:
+          - define
+          - requirements
+          - extends
+    - keywords:
+        index: 4 # file level
+        list:
+          - domain
+          - uri
+    - keywords:
+        index: 5 # access
+        list: [vars, variables, value, constants, lifted, freevars]
+    - keywords:
+        index: 6 # behaviour modifiers
+        list:
+          - parameters
+          - precondition
+          - pre
+          - effect
+          - post
+          - duration
+          - condition
+          - expansion
+          - formula
+          - ordered
+          - task
+          - tasks
+          - subtasks
+          - constraints
+          - implies
+          - context
+    - keywords:
+        index: 7 # types
+        list:
+          - types
+          - predicates
+          - functions
+          - action
+          - operator
+          - declare-method
+          - method
+          - axiom
+          - type-fun
+          - copound-tasks
+          - primitive-tasks
+          - state-variables
+          - durative-action
+          - facts
+    - keywords:
+        index: 8 # literals
+        list: ["true", "false"]
+    - keywords:
+        index: 9 # blocks and control
+        list:
+          [
+            at,
+            in,
+            start,
+            end,
+            and,
+            or,
+            not,
+            assign,
+            when,
+            before,
+            probabilistic
+          ]
+    - keywords:
+        index: 10 # lang
+        list:
+          [
+            object-fluents,
+            numeric-fluents,
+            action-costs,
+            durative-actions,
+            strips,
+            equality,
+            typing,
+            negative-preconditions,
+            disjunctive-preconditions,
+            quantified-preconditions,
+            existential-preconditions,
+            universal-preconditions,
+            duration-inequalities,
+            continious-effects,
+            conditional-effects,
+            timed-initial-literals,
+            derived-predicates,
+            constraints,
+            preferences,
+            multi-agent
+          ]
+  rddl:
+    - sensitive: true
+    - comment: |
+        `[l]{//}`{=latex}
+    - morecomment: |
+        `[s]{/*}{*/}`{=latex}
+    - morestring: |
+        `[b]'`{=latex}
+    - morestring: |
+        `[b]"`{=latex}
+    - keywords: []
+    - otherkeywords:
+        list:
+          - |
+            `>`{=latex}
+          - |
+            `<`{=latex}
+          - "="
+          - "+"
+          - "-"
+          #- '*'
+          - "!"
+          - "%"
+          - "?"
+          - ":"
+    - keywords:
+        index: 3
+        list: [requirements]
+    - keywords:
+        index: 4
+        list: [domain, instance]
+    - keywords:
+        index: 5
+        list:
+          [
+            final,
+            static,
+            abstract,
+            native,
+            const,
+            strictfp,
+            synchronized,
+            throws,
+            transient,
+            volatile,
+          ]
+    - keywords:
+        index: 6
+        list:
+          [
+            void,
+            byte,
+            short,
+            int,
+            long,
+            float,
+            double,
+            bool,
+            char,
+            state-fluent,
+            action-fluent,
+          ]
+    - keywords:
+        index: 7
+        list: [init, state, cpfs, pvariables, reward, deterministic, max, nondef, actions, horizon, discount, fluent, action]
+    - keywords:
+        index: 8
+        list: ["true", "false", 0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    - keywords:
+        index: 9
+        list:
+          [
+            assert,
+            break,
+            case,
+            catch,
+            try,
+            continue,
+            default,
+            do,
+            else,
+            finally,
+            for,
+            goto,
+            if,
+            then,
+            return,
+            switch,
+            throw,
+            while,
+          ]
+    - ndkeywords:
+        list: [Bernoulli, KronDelta]
+  java:
     - sensitive: true
     - comment: |
         `[l]{//}`{=latex}

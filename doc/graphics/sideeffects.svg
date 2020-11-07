@@ -29,17 +29,17 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="3840"
-   inkscape:window-height="2034"
+   inkscape:window-width="960"
+   inkscape:window-height="1017"
    id="namedview1066"
    showgrid="false"
-   inkscape:zoom="2.7763958"
-   inkscape:cx="279.5409"
-   inkscape:cy="47.130693"
+   inkscape:zoom="0.49080208"
+   inkscape:cx="313.20501"
+   inkscape:cy="102.97689"
    inkscape:window-x="1920"
-   inkscape:window-y="60"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="id59"
+   inkscape:window-y="31"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="g507"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
@@ -47,6 +47,52 @@
  <defs
    class="ClipPathGroup"
    id="defs8"><marker
+   inkscape:stockid="DiamondM"
+   orient="auto"
+   refY="0.0"
+   refX="0.0"
+   id="marker2060"
+   style="overflow:visible"
+   inkscape:isstock="true"><path
+     id="path2058"
+     d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+     style="fill-rule:evenodd;stroke:#657b83;stroke-width:1pt;stroke-opacity:1;fill:#657b83;fill-opacity:1"
+     transform="scale(0.4)" /></marker><marker
+   inkscape:isstock="true"
+   style="overflow:visible"
+   id="marker2008"
+   refX="0.0"
+   refY="0.0"
+   orient="auto"
+   inkscape:stockid="DiamondM"
+   inkscape:collect="always"><path
+     transform="scale(0.4)"
+     style="fill-rule:evenodd;stroke:#657b83;stroke-width:1pt;stroke-opacity:1;fill:#657b83;fill-opacity:1"
+     d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+     id="path2006" /></marker><marker
+   inkscape:isstock="true"
+   style="overflow:visible"
+   id="marker1941"
+   refX="0.0"
+   refY="0.0"
+   orient="auto"
+   inkscape:stockid="DiamondM"><path
+     transform="scale(0.4)"
+     style="fill-rule:evenodd;stroke:#657b83;stroke-width:1pt;stroke-opacity:1;fill:#657b83;fill-opacity:1"
+     d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+     id="path1939" /></marker><marker
+   inkscape:stockid="DiamondM"
+   orient="auto"
+   refY="0.0"
+   refX="0.0"
+   id="DiamondM"
+   style="overflow:visible"
+   inkscape:isstock="true"
+   inkscape:collect="always"><path
+     id="path1538"
+     d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+     style="fill-rule:evenodd;stroke:#657b83;stroke-width:1pt;stroke-opacity:1;fill:#657b83;fill-opacity:1"
+     transform="scale(0.4)" /></marker><marker
    inkscape:isstock="true"
    style="overflow:visible"
    id="marker6484"
@@ -55,48 +101,9 @@
    orient="auto"
    inkscape:stockid="EmptyTriangleOutM"><path
      transform="matrix(0.4,0,0,0.4,-1.8,0)"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:#657b83;stroke-width:1.00000003pt;stroke-opacity:1"
+     style="fill:#fdf6e3;fill-rule:evenodd;stroke:#657b83;stroke-width:1.00000003pt;stroke-opacity:1;fill-opacity:1"
      d="M 5.77,0 -2.88,5 V -5 Z"
      id="path6482"
-     inkscape:connector-curvature="0" /></marker><marker
-   inkscape:stockid="EmptyTriangleOutM"
-   orient="auto"
-   refY="0"
-   refX="0"
-   id="marker6153"
-   style="overflow:visible"
-   inkscape:isstock="true"
-   inkscape:collect="always"><path
-     id="path6151"
-     d="M 5.77,0 -2.88,5 V -5 Z"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:#657b83;stroke-width:1.00000003pt;stroke-opacity:1"
-     transform="matrix(0.4,0,0,0.4,-1.8,0)"
-     inkscape:connector-curvature="0" /></marker><marker
-   inkscape:isstock="true"
-   style="overflow:visible"
-   id="marker5747"
-   refX="0"
-   refY="0"
-   orient="auto"
-   inkscape:stockid="EmptyTriangleOutM"
-   inkscape:collect="always"><path
-     transform="matrix(0.4,0,0,0.4,-1.8,0)"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:#657b83;stroke-width:1.00000003pt;stroke-opacity:1"
-     d="M 5.77,0 -2.88,5 V -5 Z"
-     id="path5745"
-     inkscape:connector-curvature="0" /></marker><marker
-   inkscape:stockid="EmptyTriangleOutM"
-   orient="auto"
-   refY="0"
-   refX="0"
-   id="marker5671"
-   style="overflow:visible"
-   inkscape:isstock="true"
-   inkscape:collect="always"><path
-     id="path5669"
-     d="M 5.77,0 -2.88,5 V -5 Z"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:#657b83;stroke-width:1.00000003pt;stroke-opacity:1"
-     transform="matrix(0.4,0,0,0.4,-1.8,0)"
      inkscape:connector-curvature="0" /></marker><marker
    inkscape:stockid="TriangleOutM"
    orient="auto"
@@ -144,7 +151,7 @@
    inkscape:stockid="EmptyTriangleOutM"
    inkscape:collect="always"><path
      transform="matrix(0.4,0,0,0.4,-1.8,0)"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:#657b83;stroke-width:1.00000003pt;stroke-opacity:1"
+     style="fill:#fdf6e3;fill-rule:evenodd;stroke:#657b83;stroke-width:1.00000003pt;stroke-opacity:1;fill-opacity:1"
      d="M 5.77,0 -2.88,5 V -5 Z"
      id="path4598"
      inkscape:connector-curvature="0" /></marker><marker
@@ -156,22 +163,9 @@
    orient="auto"
    inkscape:stockid="EmptyTriangleOutM"><path
      transform="matrix(0.4,0,0,0.4,-1.8,0)"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:#93a1a1;stroke-width:1.00000003pt;stroke-opacity:1"
+     style="fill:#fdf6e3;fill-rule:evenodd;stroke:#93a1a1;stroke-width:1.00000003pt;stroke-opacity:1;fill-opacity:1"
      d="M 5.77,0 -2.88,5 V -5 Z"
      id="path4492"
-     inkscape:connector-curvature="0" /></marker><marker
-   inkscape:stockid="EmptyTriangleOutM"
-   orient="auto"
-   refY="0"
-   refX="0"
-   id="EmptyTriangleOutM"
-   style="overflow:visible"
-   inkscape:isstock="true"
-   inkscape:collect="always"><path
-     id="path4303"
-     d="M 5.77,0 -2.88,5 V -5 Z"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:#657b83;stroke-width:1.00000003pt;stroke-opacity:1"
-     transform="matrix(0.4,0,0,0.4,-1.8,0)"
      inkscape:connector-curvature="0" /></marker><marker
    inkscape:stockid="TriangleOutM"
    orient="auto"
@@ -890,6 +884,7 @@
 
 
 
+
        </g>
       </g><g
    id="g251"
@@ -925,6 +920,7 @@
 
 
 
+
        </g>
       </g><g
    id="g266"
@@ -946,21 +942,24 @@
    style="fill:none;stroke:#859900;stroke-width:84.1749649;stroke-linejoin:round"
    inkscape:connector-curvature="0"
    id="path255"
-   d="M 2148.0509,1916 H 744.14112 V 816 H 3551.9607 v 1100 z" />
+   d="M 2141.3124,1796.6896 H 737.40258 L 744.14112,816 H 3551.9607 l -6.7385,980.6896 z"
+   sodipodi:nodetypes="cccccc" />
         <text
    id="text263"
    class="TextShape"
-   style=""><tspan
+   x="-158.75002"
+   y="-105.83334"><tspan
      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:635px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"
      id="tspan261"
      font-weight="400"
      font-size="635px"
      class="TextParagraph"><tspan
        id="tspan259"
-       y="1586"
-       x="955"
+       y="1480.1667"
+       x="796.24994"
        class="TextPosition"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#859900;stroke:none">Subgoal</tspan></tspan></text>
+
 
 
 
@@ -986,21 +985,24 @@
    style="fill:none;stroke:#dc322f;stroke-width:83.38610077;stroke-linejoin:round"
    inkscape:connector-curvature="0"
    id="path270"
-   d="M 2172.2379,5066 H 1006.4758 V 3966 H 3338 v 1100 z" />
+   d="M 2165.4994,4893.7729 H 999.73726 L 1006.4758,3966 H 3338 l -6.7385,927.7729 z"
+   sodipodi:nodetypes="cccccc" />
         <text
    id="text278"
    class="TextShape"
-   style=""><tspan
+   x="-158.75002"
+   y="-52.916668"><tspan
      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:635px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"
      id="tspan276"
      font-weight="400"
      font-size="635px"
      class="TextParagraph"><tspan
        id="tspan274"
-       y="4736"
-       x="1205"
+       y="4683.0835"
+       x="1046.2501"
        class="TextPosition"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#dc322f;stroke:none">Threat</tspan></tspan></text>
+
 
 
 
@@ -1023,24 +1025,26 @@
    x="6135"
    class="BoundingBox" />
         <path
-   style="fill:#268bd2;stroke:none;stroke-width:29.15737534"
+   style="fill:#268bd2;stroke:none;stroke-width:26.7876606"
    inkscape:connector-curvature="0"
    id="path285"
-   d="M 7883.0273,1916 H 6068.4721 V 816 h 3629.1105 v 1100 z" />
+   d="M 7883.0273,1744.4647 H 6068.4721 V 816 h 3629.1105 v 928.4647 z" />
         <text
    id="text293"
    class="TextShape"
-   style=""><tspan
+   y="-105.83334"
+   x="-52.916668"><tspan
      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:635px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"
      id="tspan291"
      font-weight="400"
      font-size="635px"
      class="TextParagraph"><tspan
        id="tspan289"
-       y="1586"
-       x="6132"
+       y="1480.1667"
+       x="6079.0835"
        class="TextPosition"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#fdf6e3;stroke:none">Alternative</tspan></tspan></text>
+
 
 
 
@@ -1053,7 +1057,7 @@
    style="">
        <g
    id="id8"
-   style="">
+   transform="translate(-3.80363,0.8167)">
         <rect
    style="fill:none;stroke:none"
    id="rect298"
@@ -1063,24 +1067,25 @@
    x="6676"
    class="BoundingBox" />
         <path
-   style="fill:#d33682;stroke:none;stroke-width:29.08057594"
+   style="fill:#d33682;stroke:none;stroke-width:27.61865997"
    inkscape:connector-curvature="0"
    id="path300"
-   d="M 7792.8463,4966 H 6518.7223 V 3866 h 2548.248 v 1100 z" />
+   d="M 7792.8463,4858.1833 H 6518.7223 V 3866 h 2548.248 v 992.1833 z" />
         <text
    id="text308"
    class="TextShape"
-   style=""><tspan
+   y="-105.83334"><tspan
      style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:635px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"
      id="tspan306"
      font-weight="400"
      font-size="635px"
      class="TextParagraph"><tspan
        id="tspan304"
-       y="4636"
+       y="4530.167"
        x="6697"
        class="TextPosition"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#fdf6e3;stroke:none">Orphan</tspan></tspan></text>
+
 
 
 
@@ -1103,12 +1108,12 @@
    x="7665"
    class="BoundingBox" />
         <path
-   style="fill:none;stroke:#ffffff;stroke-width:81;stroke-linecap:round;stroke-linejoin:round"
+   style="fill:#657b83;stroke:#657b83;stroke-width:81;stroke-linecap:round;stroke-linejoin:round"
    inkscape:connector-curvature="0"
    id="path315"
    d="m 7876,2800 v 624" />
         <path
-   style="fill:#ffffff;stroke:none"
+   style="fill:#657b83;stroke:none"
    inkscape:connector-curvature="0"
    id="path317"
    d="m 7667,3430 187,419 9,12 12,5 14,-5 9,-11 186,-420 3,-6 v -3 l -3,-9 -5,-9 -7,-5 -8,-2 h -376 l -8,2 -9,5 -4,9 -1,9 v 3 z" />
@@ -1154,7 +1159,7 @@
    x="3337"
    class="BoundingBox" />
         <path
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker6153)"
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker2060)"
    inkscape:connector-curvature="0"
    id="path333"
    d="M 6626,2300 C 4160,2300 5143.7767,4510.8886 3411.8387,4507.2068"
@@ -1208,7 +1213,7 @@
    y="2831"
    x="2133"
    class="BoundingBox" /><path
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker5671)"
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker2008)"
    inkscape:connector-curvature="0"
    id="path357"
    d="M 2362,2884 V 3996.4559"
@@ -1390,7 +1395,7 @@
    x="3538"
    class="BoundingBox" />
         <path
-   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker5747)"
+   style="fill:none;stroke:#657b83;stroke-width:106;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker1941)"
    inkscape:connector-curvature="0"
    id="path502"
    d="M 6626,2300 C 4311.8694,2297.968 5344.2887,1305.3449 3612.0738,1321.0567"
@@ -1616,6 +1621,7 @@
 
 
 
+
         </g>
        </g>
        <g
@@ -1736,7 +1742,7 @@
    d="m 10253,1621 c -54,-45 -111,-85 -170,-119" />
         
        <path
-   style="fill:none;stroke:#657b83;stroke-width:106.00000763;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker4600)"
+   style="fill:#fdf6e3;stroke:#657b83;stroke-width:106.00000763;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker4600)"
    inkscape:connector-curvature="0"
    id="path628-4"
    d="m 9865.0703,1408.365 c 66.3216,-23.2895 129.8892,-51.7184 189.3307,-84.9406" /></g>
@@ -1761,7 +1767,7 @@
    x="1147"
    class="BoundingBox" />
          <path
-   style="fill:#ffffff;stroke:none"
+   style="fill:none;stroke:none"
    inkscape:connector-curvature="0"
    id="path637"
    d="m 1354,1800 c -83,0 -166,83 -166,166 v 668 c 0,83 83,167 166,167 h 1968 c 83,0 167,-84 167,-167 v -668 c 0,-83 -84,-166 -167,-166 z m -166,0 z m 2301,1001 z" />
@@ -1852,7 +1858,7 @@
    x="947"
    class="BoundingBox" />
          <path
-   style="fill:#ffffff;stroke:none"
+   style="fill:#fdf6e3;stroke:none"
    inkscape:connector-curvature="0"
    id="path668"
    d="m 1188,2100 c 113,0 200,87 200,200 0,113 -87,200 -200,200 -113,0 -200,-87 -200,-200 0,-113 87,-200 200,-200 z m -200,0 z m 401,401 z" />
@@ -1876,6 +1882,7 @@
        x="997.5"
        class="TextPosition"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none">+</tspan></tspan></text>
+
 
 
 
@@ -1945,7 +1952,7 @@
    x="1147"
    class="BoundingBox" />
          <path
-   style="fill:#ffffff;stroke:none"
+   style="fill:none;stroke:none"
    inkscape:connector-curvature="0"
    id="path702"
    d="m 1354,4900 c -83,0 -166,83 -166,166 v 668 c 0,83 83,167 166,167 h 1968 c 83,0 167,-84 167,-167 v -668 c 0,-83 -84,-166 -167,-166 z m -166,0 z m 2301,1001 z" />
@@ -1994,7 +2001,7 @@
    x="947"
    class="BoundingBox" />
          <path
-   style="fill:#ffffff;stroke:none"
+   style="fill:#fdf6e3;stroke:none"
    inkscape:connector-curvature="0"
    id="path718"
    d="m 1188,5200 c 113,0 200,87 200,200 0,113 -87,200 -200,200 -113,0 -200,-87 -200,-200 0,-113 87,-200 200,-200 z m -200,0 z m 401,401 z" />
@@ -2018,6 +2025,7 @@
        x="997.5"
        class="TextPosition"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">+</tspan></tspan></text>
+
 
 
 
@@ -2236,6 +2244,7 @@
 
 
 
+
 <rect
    class="BoundingBox"
    x="15419.434"
@@ -2260,6 +2269,7 @@
        id="tspan815"><tspan
          id="tspan813"
          style="fill:#839496;stroke:none">Causes</tspan></tspan></tspan></text>
+
 
 
 
@@ -2297,7 +2307,7 @@
    d="m 13625,5204.8518 h 209"
    id="path832"
    inkscape:connector-curvature="0"
-   style="fill:none;stroke:#93a1a1;stroke-width:106;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker4494)" />
+   style="fill:#fdf6e3;stroke:#93a1a1;stroke-width:106;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker4494)" />
         <path
    d="m 13897,5427 456,-203 14,-10 5,-13 -5,-15 -12,-10 -458,-203 -6,-2 h -3 l -10,2 -9,6 -6,7 -2,10 v 408 l 2,10 6,9 9,4 10,2 h 3 z"
    id="path834"
@@ -2340,6 +2350,7 @@
 
 
 
+
        </g>
       </g><g
    transform="translate(-29.316406)"
@@ -2353,7 +2364,7 @@
    y="5021"
    x="17693.703"
    class="BoundingBox" /><path
-   style="fill:none;stroke:#657b83;stroke-width:106.00971985;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#EmptyTriangleOutM)"
+   style="fill:none;stroke:#657b83;stroke-width:106.00815993;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#DiamondM)"
    inkscape:connector-curvature="0"
    id="path854"
    d="m 17894.023,5200 h 1625" />
@@ -2387,15 +2398,18 @@
 
 
 
+
       </g><g
    transform="translate(212.591)"
    class="Group"
    id="g913">
        <g
    class="com.sun.star.drawing.CustomShape"
-   id="g881">
+   id="g881"
+   style="fill:none">
         <g
-   id="id54">
+   id="id54"
+   style="fill:none">
          <rect
    class="BoundingBox"
    x="12531"
@@ -2408,7 +2422,7 @@
    d="m 12738,800 c -83,0 -166,83 -166,166 v 668 c 0,83 83,167 166,167 h 1696 c 83,0 167,-84 167,-167 V 966 c 0,-83 -84,-166 -167,-166 z m -166,0 z m 2029,1001 z"
    id="path876"
    inkscape:connector-curvature="0"
-   style="fill:#ffffff;stroke:none" />
+   style="fill:none;stroke:none" />
          <path
    d="m 12738,800 c -83,0 -166,83 -166,166 v 668 c 0,83 83,167 166,167 h 1696 c 83,0 167,-84 167,-167 V 966 c 0,-83 -84,-166 -167,-166 z"
    id="path878"
@@ -2433,7 +2447,7 @@
    d="m 12572,1100 c 113,0 200,87 200,200 0,113 -87,200 -200,200 -113,0 -200,-87 -200,-200 0,-113 87,-200 200,-200 z m -200,0 z m 401,401 z"
    id="path885"
    inkscape:connector-curvature="0"
-   style="fill:#ffffff;stroke:none" />
+   style="fill:#fdf6e3;stroke:none" />
          <path
    d="m 12572,1100 c 113,0 200,87 200,200 0,113 -87,200 -200,200 -113,0 -200,-87 -200,-200 0,-113 87,-200 200,-200 z"
    id="path887"
@@ -2454,6 +2468,7 @@
        y="1490.5"
        id="tspan891"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#657b83;stroke:none">+</tspan></tspan></text>
+
 
 
 
@@ -2487,6 +2502,7 @@
        y="1423"
        id="tspan904"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#586e75;stroke:none">Positive</tspan></tspan></text>
+
 
 
 
@@ -2525,6 +2541,7 @@
 
 
 
+
        </g>
       </g><g
    transform="translate(160.434)"
@@ -2552,7 +2569,7 @@
    d="m 15666,800 c -83,0 -166,83 -166,166 v 668 c 0,83 83,167 166,167 h 1968 c 83,0 167,-84 167,-167 V 966 c 0,-83 -84,-166 -167,-166 z"
    id="path932"
    inkscape:connector-curvature="0"
-   style="fill:none;stroke:#fdf6e3;stroke-width:81;stroke-linejoin:round" />
+   style="fill:none;stroke:#eee8d5;stroke-width:81;stroke-linejoin:round" />
         </g>
        </g>
        <g
@@ -2577,7 +2594,7 @@
    d="m 15500,1100 c 113,0 200,87 200,200 0,113 -87,200 -200,200 -113,0 -200,-87 -200,-200 0,-113 87,-200 200,-200 z"
    id="path941"
    inkscape:connector-curvature="0"
-   style="fill:none;stroke:#fdf6e3;stroke-width:81;stroke-linejoin:round" />
+   style="fill:none;stroke:#eee8d5;stroke-width:81;stroke-linejoin:round" />
          <text
    class="TextShape"
    id="text949"
@@ -2593,6 +2610,7 @@
        y="1490.1825"
        id="tspan945"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#fdf6e3;stroke:none">-</tspan></tspan></text>
+
 
 
 
@@ -2627,6 +2645,7 @@
        y="1467.8235"
        id="tspan958"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#fdf6e3;stroke:none">Negative</tspan></tspan></text>
+
 
 
 
@@ -2793,6 +2812,7 @@
 
 
 
+
        </g>
       </g><rect
    class="BoundingBox"
@@ -2816,6 +2836,7 @@
        id="tspan1034"><tspan
          id="tspan1032"
          style="fill:#839496;stroke:none">Affected</tspan></tspan></tspan></text>
+
 
 
 
@@ -2844,9 +2865,10 @@
 
 
 
+
 </g>
 <path
-   style="fill:none;stroke:#657b83;stroke-width:106.00000763;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker6484)"
+   style="fill:#fdf6e3;stroke:#657b83;stroke-width:106.00000763;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#marker6484)"
    inkscape:connector-curvature="0"
    id="path382-8"
    d="m 6514.2513,4443.5979 c 61.0106,9.471 126.6785,13.4366 197.5576,13.8184" /><g
@@ -3051,6 +3073,7 @@
 
 
 
+
         <path
    style="fill:none;stroke:#fdf6e3;stroke-width:81;stroke-linejoin:round"
    inkscape:connector-curvature="0"
@@ -3068,6 +3091,7 @@
      x="11439.209"
      y="666.21021"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'STIX Two Text';-inkscape-font-specification:'STIX Two Text Bold';fill:#839496;stroke-width:746.70709229">Legend</tspan></text>
+
 
 
 

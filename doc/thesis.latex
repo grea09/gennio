@@ -76,7 +76,7 @@ Static,       ]{Recursive Mono Linear Static}
 \newfontfamily\titlefont[       ]{Recursive Sn Lnr St XBk}
 
                   \addtokomafont{chapter}{\chapterfont }
-                                        \addtokomafont{section}{\sectionfont }
+                                          \addtokomafont{section}{\sectionfont }
           
 
 %%%% Geometry
@@ -130,7 +130,7 @@ Static,       ]{Recursive Mono Linear Static}
                   \newtcbtheorem[]{axiom}{Axiom}{coltitle=solarized-base2,colframe=solarized-magenta,colback=solarized-base2,}{axi}
                                 \newtcbtheorem[auto counter,number within=section,]{definition}{Definition}{coltitle=solarized-base2,colframe=solarized-green,colback=solarized-base2,}{def}
                                 \newtcbtheorem[]{example}{Example}{coltitle=solarized-base2,colframe=solarized-base01,colback=solarized-base2,}{ex}
-                        \newtcbtheorem[auto counter,number within=section,]{lemma}{Lemma}{coltitle=solarized-base2,colframe=solarized-orange,colback=solarized-base2,}{lem}
+                                \newtcbtheorem[auto counter,number within=section,]{lemma}{Lemma}{coltitle=solarized-base2,colframe=solarized-orange,colback=solarized-base2,}{lem}
                                         \newtcbtheorem[auto counter,number within=section,]{proofbox}{Proof}{coltitle=solarized-base2,colframe=solarized-red,colback=solarized-base2,}{pr}
                                         \newtcbtheorem[auto counter,number within=section,]{theorem}{Theorem}{coltitle=solarized-base2,colframe=solarized-yellow,colback=solarized-base2,}{theo}
             \renewcommand*{\proof}{\proofbox}
@@ -148,6 +148,7 @@ Static,       ]{Recursive Mono Linear Static}
 
   \usepackage{fancyvrb}
   \VerbatimFootnotes % allow verbatim text in footnotes
+
 
 
 %%%% Links
@@ -177,6 +178,11 @@ Static,       ]{Recursive Mono Linear Static}
 
   \usepackage{listings}
   \newcommand{\passthrough}[1]{#1}
+    \lstdefinelanguage{bnf}{
+        sensitive=true,
+        comment=[l]{//},
+        morestring=[b]",
+        otherkeywords={::=,:,|,*,+,?,~}  }
     \lstdefinelanguage{java}{
         sensitive=true,
         comment=[l]{//},
@@ -185,21 +191,49 @@ Static,       ]{Recursive Mono Linear Static}
         morestring=[b]",
         keywords=,
         otherkeywords={>,<,=,+,-,!,\%,?,:},
-        keywords=[3]{package,import},
-        keywords=[4]{class,interface,this,enum,extends,implements,instanceof,super,new},
-        keywords=[5]{public,private,protected},
-        keywords=[6]{final,static,abstract,native,const,strictfp,synchronized,throws,transient,volatile},
-        keywords=[7]{void,byte,short,int,long,float,double,boolean,char},
+        keywords=[3]{package,import,new},
+        keywords=[4]{class,interface,this,enum,extends,implements,instanceof,super},
+        keywords=[5]{final,static,abstract,native,const,strictfp,synchronized,throws,transient,volatile},
+        keywords=[6]{void,byte,short,int,long,float,double,boolean,char},
+        keywords=[7]{public,private,protected},
         keywords=[8]{true,false,0,1,2,3,4,5,6,7,8,9},
         keywords=[9]{assert,break,case,catch,try,continue,default,do,else,finally,for,goto,if,return,switch,throw,while},
-        keywords=[10]{Boolean,Byte,Character,Class,ClassLoader,Compiler,Double,Enum,Float,InheritableThreadLocal,Integer,Long,Math,Number,Object,Package,Process,ProcessBuilder,Runtime,RuntimePermission,SecurityManager,Short,StackTraceElement,StrictMath,String,StringBuffer,StringBuilder,System,Thread,ThreadGroup,ThreadLocal,Throwable,Void,Interface,Error,Exception,ArrayList,List,Set,HashSet,Map,HashMap}  }
+        ndkeywords={Boolean,Byte,Character,Class,ClassLoader,Compiler,Double,Enum,Float,InheritableThreadLocal,Integer,Long,Math,Number,Object,Package,Process,ProcessBuilder,Runtime,RuntimePermission,SecurityManager,Short,StackTraceElement,StrictMath,String,StringBuffer,StringBuilder,System,Thread,ThreadGroup,ThreadLocal,Throwable,Void,Interface,Error,Exception,ArrayList,List,Set,HashSet,Map,HashMap}  }
+    \lstdefinelanguage{pddl}{
+        sensitive=true,
+        comment=[l]{;},
+        morestring=[b]",
+        alsodigit=-,
+        otherkeywords={:,−,?,=},
+        keywords=[3]{define,requirements,extends},
+        keywords=[4]{domain},
+        keywords=[5]{vars,variables,value,constants},
+        keywords=[6]{parameters,precondition,effect,duration,condition,expansion,formula,ordered,task,subtasks,constraints},
+        keywords=[7]{types,predicates,functions,action,operator,declare-method,method,axiom,type-fun,copound-tasks,primitive-tasks,state-variables,durative-action},
+        keywords=[8]{true,false},
+        keywords=[9]{at,in,start,end,and,or,not,assign,when,before,probabilistic},
+        keywords=[10]{object-fluents,numeric-fluents,action-costs,durative-actions,strips,equality,typing,negative-preconditions,disjunctive-preconditions,quantified-preconditions,existential-preconditions,universal-preconditions,duration-inequalities,continious-effects,conditional-effects,timed-initial-literals,derived-predicates,constraints,preferences}  }
+    \lstdefinelanguage{rddl}{
+        sensitive=true,
+        comment=[l]{//},
+        morecomment=[s]{/*}{*/},
+        morestring=[b]',
+        morestring=[b]",
+        otherkeywords={>,<,=,+,-,!,\%,?,:},
+        keywords=[3]{requirements},
+        keywords=[4]{domain,instance},
+        keywords=[5]{final,static,abstract,native,const,strictfp,synchronized,throws,transient,volatile},
+        keywords=[6]{void,byte,short,int,long,float,double,bool,char,state-fluent,action-fluent},
+        keywords=[7]{init-state,cpfs,pvariables,reward},
+        keywords=[8]{true,false,0,1,2,3,4,5,6,7,8,9},
+        keywords=[9]{assert,break,case,catch,try,continue,default,do,else,finally,for,goto,if,then,return,switch,throw,while},
+        ndkeywords={Bernoulli,KronDelta}  }
     \lstdefinelanguage{rdf}{
         sensitive=true,
         comment=[l]{\#},
         morestring=[b]",
         morestring=[s]{<}{>},
-        keywords=,
-        otherkeywords={:,.},
+        otherkeywords={:,.,\_,~},
         keywords=[3]{@prefix,imports},
         keywords=[4]{@base},
         keywords=[5]{rdf,owl,xml,xsd,rdfs},
@@ -207,9 +241,19 @@ Static,       ]{Recursive Mono Linear Static}
         keywords=[7]{range},
         keywords=[8]{true,false},
         keywords=[9]{is,type},
-        keywords=[10]{ObjectProperty,AnnotationProperty,Ontology,Class,NamedIndividual,Statement,Property}  }
+        keywords=[10]{ObjectProperty,DatatypeProperty,AnnotationProperty,Ontology,Class,NamedIndividual,Statement,Property}  }
+    \lstdefinelanguage{self}{
+        sensitive=true,
+        comment=[l]{//},
+        morecomment=[s]{/*}{*/},
+        morestring=[b]',
+        morestring=[b]",
+        otherkeywords={=,?,*,\_,!,:,/},
+        keywords=[8]{true,false,0,1,2,3,4,5,6,7,8,9},
+        keywords=[9]{named,param,subject,property,object},
+        keywords=[10]{Boolean,Float,Integer,Character,String,Literal,Group,List,Set,Tuple,Collection,Property,Entity,Type,Statement,Quantifier}  }
     \lstset{
-        language=java,
+        language=self,
         basicstyle=\small\color{solarized-base02},
         commentstyle=\itshape\color{solarized-base0},
         keywordstyle=\bfseries,
@@ -237,7 +281,7 @@ Static,       ]{Recursive Mono Linear Static}
         backgroundcolor=\color{solarized-base2}  }
   \tcbuselibrary{listings}
   \tcbset{listing engine=listings}
-                                                                                                                                                  
+                                                                                                                                                          
 
 
 \usepackage{caption}
@@ -285,6 +329,7 @@ Static,       ]{Recursive Mono Linear Static}
 
   \usepackage{marginnote}
   \usepackage{textpos}
+  \usepackage{scalerel}
   \usepackage[strict]{changepage}
   \setlength{\TPVertModule}{1cm}
   \renewcommand*{\footnote}[1]{\marginnote{\begin{scriptsize}#1\end{scriptsize}}}
@@ -298,7 +343,8 @@ Static,       ]{Recursive Mono Linear Static}
       \fi
     \end{scriptsize}}}
   \usepackage[top=2cm, bottom=3cm, right=3.5cm, left=1cm, heightrounded, marginparwidth=2.5cm, marginparsep=0.5cm]{geometry}
-  \DeclareRobustCommand{\logo}[1]{\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{#1}}\endgroup}
+  \DeclareRobustCommand{\logo}[1]{\scalerel*{\includegraphics{#1}}{\strut}}
+  \makeatletter \def\lst@gkeywords@sty{\bfseries} \makeatother
   \usepackage{tfrupee}
   \usepackage{stmaryrd}
   \DeclareFontFamily{U}{mathb}{\hyphenchar\font45}
@@ -318,19 +364,13 @@ Static,       ]{Recursive Mono Linear Static}
 \def\defcommand@S#1{\let#1\outer\renewcommand*#1}
 \def\defcommand@N#1{\let#1\outer\renewcommand#1} \makeatother
 
-      \defcommand{\arc}{\textcolor{solarized-violet}{\vspace{0pt}\arcfont arc 2}\nobreakspace\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{logos/arc2_pastille.pdf}}\endgroup}
-        \defcommand{\liris}{\textcolor{solarized-base02}{\lirisfont LỊRIS}}
-        \defcommand{\sma}{\textcolor{solarized-base02}{\dispfont sma}\nobreakspace\vspace{0pt}\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{logos/sma_pastille.pdf}}\endgroup}
-        \defcommand{\polytech}{\vspace{0pt}
-
-\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{logos/polytech_pastille.pdf}}\endgroup\nobreakspace\textcolor{solarized-base03}{\perihelionbbfont POLYTECH}}
-        \defcommand{\ucbl}{\vspace{0pt}
-
-\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{logos/lyon1_pastille.pdf}}\endgroup\nobreakspace{\dinfont Lyon 1}}
-        \defcommand{\ara}{\vspace{0pt}{\graphikregfont Auvergne-Rhône-Alpes}
-
-\nobreakspace\vspace{0pt}\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{logos/ara_pastille.pdf}}\endgroup}
-        \defcommand{\lumiere}{\textcolor{solarized-red}{\lyondfont lumière lyon 2}}
+      \defcommand{\arc}{\textcolor{solarized-violet}{\arcfont arc 2}\nobreakspace\scalerel*{\includegraphics{logos/arc2_pastille.pdf}}{\strut}\space}
+        \defcommand{\liris}{\textcolor{solarized-base02}{\lirisfont LỊRIS}\space}
+        \defcommand{\sma}{\textcolor{solarized-base02}{\dispfont sma}\nobreakspace\scalerel*{\includegraphics{logos/sma_pastille.pdf}}{\strut}\space}
+        \defcommand{\polytech}{\scalerel*{\includegraphics{logos/polytech_pastille.pdf}}{\strut}\nobreakspace\textcolor{solarized-base03}{\perihelionbbfont POLYTECH}\space}
+        \defcommand{\ucbl}{\scalerel*{\includegraphics{logos/lyon1_pastille.pdf}}{\strut}\nobreakspace{\dinfont Lyon 1}\space}
+        \defcommand{\ara}{\textcolor{solarized-base02}{\graphikregfont Auvergne-Rhône-Alpes}\nobreakspace\scalerel*{\includegraphics{logos/ara_pastille.pdf}}{\strut}\space}
+        \defcommand{\lumiere}{\textcolor{solarized-red}{\lyondfont lumière lyon 2}\space}
         \defcommand{\colonvdash}{\mathrel{\ooalign{\hss$\vdash$\hss\cr\kern0.6ex\raise0.15ex\hbox{\scalebox{1}{$:$}}}}}
         \defcommand{\curlyveeinarrow}{\mathrel{\raisebox{.01em}{\rotatebox[origin=c]{90}{$\scriptstyle\pmb\curlyveedownarrow$}}}}
         \defcommand{\curlyveeoutarrow}{\mathrel{\raisebox{.01em}{\rotatebox[origin=c]{270}{$\scriptstyle\pmb\curlyveeuparrow$}}}}
@@ -529,8 +569,8 @@ searches}]{searches}{\searches}
         \glsxtrnewsymbol[description={Statements}]{sta}{\sta}
             \newcommand{\typ}{\ensuremath{T}}
         \glsxtrnewsymbol[description={Types}]{typ}{\typ}
-            \newcommand{\lit}{\ensuremath{L}}
-        \glsxtrnewsymbol[description={Literals}]{lit}{\lit}
+            \newcommand{\litteral}{\ensuremath{L}}
+        \glsxtrnewsymbol[description={Literals}]{litteral}{\litteral}
             \newcommand{\str}{\ensuremath{Str}}
         \glsxtrnewsymbol[description={Strings}]{str}{\str}
             \newcommand{\param}{\ensuremath{\rho}}
@@ -660,6 +700,177 @@ intent recognition}
 
   \mainmatter
 
+\hypertarget{pruxe9face}{%
+\chapter*{\texorpdfstring{Préface
+\protect\includegraphics[width=\textwidth,height=0.16667in]{logos/fr.svg}}{Préface }}\label{pruxe9face}}
+\addcontentsline{toc}{chapter}{Préface }
+
+\hypertarget{ruxe9sumuxe9}{%
+\section*{Résumé}\label{ruxe9sumuxe9}}
+\addcontentsline{toc}{section}{Résumé}
+
+L'interaction personne-machine fait partie des problèmes les plus
+complexes dans le domaine de l'intelligence artificielle (IA). En effet,
+les logiciels qui coopèrent avec des personnes dépendantes doivent avoir
+des qualités incompatibles telles que la rapidité et l'expressivité,
+voire la précision et la généralité. L'objectif est alors de concevoir
+des modèles et des mécanismes capables de faire un compromis entre
+efficacité et généralité. Ces modèles permettent d'élargir les
+possibilités d'adaptation de manière fluide et continue. Ainsi, la
+recherche d'une réponse complète et optimale a éclipsé l'utilité de ces
+modèles. En effet, l'explicabilité et l'interactivité sont au cœur des
+préoccupations populaires des systèmes modernes d'IA. Le principal
+problème avec de telles exigences est que l'information sémantique est
+difficile à transmettre à un programme. Une partie de la solution à ce
+problème réside dans la manière de représenter les connaissances.
+
+La formalisation est le meilleur moyen de définir rigoureusement un
+problème. Aussi, les mathématiques sont le meilleur ensemble d'outils
+pour exprimer des notions formelles. Cependant, comme notre approche
+exige des mathématiques non classiques, il est plus facile de définir
+une théorie cohérente qui correspond simplement à nos besoins. Cette
+théorie est une instance partielle de la théorie des catégories. On
+propose une algèbre fonctionnelle inspirée du lambda calcul. Il est
+alors possible de reconstruire des concepts mathématiques classiques
+ainsi que d'autres outils et structures utiles à notre usage.
+
+En se servant de ce formalisme, il devient possible d'axiomatiser un
+métalangage endomorphique. Celui-ci manipule une grammaire dynamique
+capable d'ajuster sa sémantique à l'usage. La reconnaissance des
+structures de base permet à ce langage de ne pas utiliser de mot-clés.
+Ceci, combiné à un nouveau modèle de représentation des connaissances,
+supporte la construction d'un modèle de représentation des connaissances
+expressive.
+
+Avec ce langage et ce formalisme, il devient envisageable de créer des
+cadriciels dans des champs jusqu'alors hétéroclites. Par exemple, en
+planification automatique, le modèle classique à état rend l'unification
+de la représentation des domaines de planification impossible. Il en
+résulte un cadriciel général de la planification permettant d'exprimer
+tout type de domaines en vigueur.
+
+On crée alors des algorithmes concrets qui montrent le principe des
+solutions intermédiaires. Deux nouvelles approches à la planification en
+temps réel sont présentées et évaluées. La première se base sur une
+euristique d'utilité des opérateurs de planification afin de réparer des
+plans existants. La seconde utilise la planification hiérarchique pour
+générer des plans valides qui sont des solutions abstraites et
+intermédiaires. Ces plans rendent possible un temps d'exécution plus
+court pour tout usage ne nécessitant pas le plan détaillé.
+
+On illustre alors l'usage de ces plans sur la reconnaissance d'intention
+par planification inversée. En effet, dans ce domaine, le fait de ne pas
+nécessiter de bibliothèques de plans rend la création de modèles de
+reconnaissance plus aisée. En exploitant les plans abstraits, il devient
+possible de réaliser un système théoriquement plus performant que ceux
+utilisant de la planification complète.
+
+\hypertarget{formatage}{%
+\section*{Formatage}\label{formatage}}
+\addcontentsline{toc}{section}{Formatage}
+
+Dans cette section, nous présentons un guide rapide de la présentation
+de l'information contenue dans ce document. Cela donnera sa structure
+globale et chaque type de formatage et de sa signification.
+
+\hypertarget{format-texte}{%
+\subsubsection*{Format texte}\label{format-texte}}
+\addcontentsline{toc}{subsubsection}{Format texte}
+
+Le texte peut être souligné \textbf{plus} ou \emph{moins} pour rendre un
+mot-clé plus visible.
+
+\begin{example*}{}{}
+
+Certaines parties sont dans des cadres afin de les séparer du reste.
+
+\end{example*}
+
+Les figures, extrait de code source, et autre présentation de données
+sont indexés par un numéro unique afin de pouvoir facilement y faire
+référence dans le texte.
+
+\hypertarget{ruxe9fuxe9rences}{%
+\subsubsection*{Références}\label{ruxe9fuxe9rences}}
+\addcontentsline{toc}{subsubsection}{Références}
+
+Les citations textuelles seront dans ce format : Auteur \emph{et al.}
+(\href{https://citationstyles.org/}{année})) pour que l'auteur fasse
+partie du texte et (Auteur \emph{et
+al.}\href{https://citationstyles.org/}{année}) lorsqu'on se contente de
+faire référence à l'œuvre. Cela peut aussi être des références internes
+qui sont aussi accessible par un lien.
+
+\hypertarget{citations}{%
+\subsubsection*{Citations}\label{citations}}
+\addcontentsline{toc}{subsubsection}{Citations}
+
+Parfois, les citations importantes doivent être mises en avant. Ils sont
+présentés comme :
+
+\begin{quote}
+\lettrine[lines=3]{\textcolor{solarized-base2}{\mathfont\Huge “}}{}``\emph{Ne
+me citez pas là-dessus !}''\footnote{Gréa (\href{antoine.grea.me}{2019})}
+\end{quote}
+
+\hypertarget{remerciements}{%
+\section*{Remerciements}\label{remerciements}}
+\addcontentsline{toc}{section}{Remerciements}
+
+Je voudrais remercier quelques personnes sans qui rien de cela n'aurait
+été possible.
+
+C'était une belle matinée de juin\footnote{\includegraphics{portraits/nature.jpg}
+  Photo de l'époque} que j'ai parcouru pour la première fois les allées
+boisées de la Doua afin de rencontrer mon équipe encadrante: Samir
+Aknine et Laetitia Matignon. Ces derniers m'ont accordé leur confiance
+dans la réussite de ce projet de thèse. Sans leur conseil et soutien
+rien de cela n'aurait été possible. Je remercie particulièrement Samir,
+qui en tant qu'encadrant, et ami, a su m'écouter et me soutenir même
+dans les moments les plus pénibles avec compassion et compréhension.
+
+Je souhaite également remercier Christine Gertosio, qui m'a offert une
+aide sans faille dans mon service d'enseignement et qui m'a donné
+l'opportunité d'une offre d'ATER à \polytech Lyon. C'était un véritable
+plaisir de donner des cours à des promotions d'élèves passionnés et
+enthousiastes.
+
+Je souhaite également offrir ma gratitude aux chercheurs qui m'ont aidé
+dans cette aventure, sans ordre particulier: Fabrice Jumel, Jacques
+Saraydaryan, Shirin Sohrabi, Damien Pelier. J'aimerais également
+remercier Linas Vepstas, qui m'a grandement aidé dans la partie
+mathématique de cette thèse.
+
+Sans financement, ce travail n'aurait pas été possible. Je tiens à
+remercier l'allocation de recherche du \arc (Academic Research
+Community) gracieuseté de la région de \ara en France. Cet organisme
+agit pour l'amélioration de la qualité de vie et du vieillissement.
+
+Ce travail a été réalisé avec l'université \ucbl dans le
+\liris (Laboratoire de calcul scientifique en Image et Systèmes
+d'Information). Je faisais partie d'une équipe dynamique et conviviale
+\sma (Multi-Agent System). Une partie du travail a été financée par
+l'enseignement à l'université \lumiere et à l'école d'ingénieurs
+Polytech.
+
+Je tiens à remercier également ma famille pour m'avoir supporté malgré
+mes périodes d'avolition. Je voudrais remercier tout particulièrement ma
+mère Charlotte et ma sœur Sarah\footnote{\includegraphics{portraits/sarah_grea.jpg}
+  Sarah Gréa m'aidant en utilisant la
+  \href{https://fr.wikipedia.org/wiki/M\%C3\%A9thode_du_canard_en_plastique}{méthode
+  du canard en plastique}.} pour avoir fait de leur mieux pour me tenir
+compagnie et faire semblant de m'écouter déblatérer des technicités de
+ma thèse afin de me faire avancer.
+
+Pour terminer je voulais remercier une personne spéciale qui m'a
+beaucoup aidé dans des moments compliqués de ma jeunesse. Une personne
+qui s'est ouverte à moi en partageant son goût de la lecture, de la
+connaissance et de l'imagination. Un grand merci à Marie Stoetzel
+aincienement documentaliste au collège Saint Pierre, pour avoir fait de
+moi la personne que je suis aujourd'hui.
+
+Encore merci.
+
 \hypertarget{preface}{%
 \chapter*{\texorpdfstring{Preface
 \protect\includegraphics[width=\textwidth,height=0.16667in]{logos/uk.svg}}{Preface }}\label{preface}}
@@ -735,8 +946,17 @@ each of the type of formatting and its meaning.
 The text can be emphasized \textbf{more} or \emph{less} to make a key
 word more noticeable.
 
-\hypertarget{citations}{%
-\subsection*{Citations}\label{citations}}
+\begin{example*}{}{}
+
+Some parts are in frames to separate them from the rest.
+
+\end{example*}
+
+Figures, source code excerpts, and other data presentations are indexed
+by a unique number so that they can be easily referenced in the text.
+
+\hypertarget{citations-1}{%
+\subsection*{Citations}\label{citations-1}}
 \addcontentsline{toc}{subsection}{Citations}
 
 In text citations will be in this format: Author \emph{et al.}
@@ -744,6 +964,9 @@ In text citations will be in this format: Author \emph{et al.}
 the text and (Author \emph{et al.}
 \href{https://citationstyles.org/}{year}) when simply referencing the
 work.
+
+It can also be internal references that are also accessible through a
+link.
 
 \hypertarget{quotes}{%
 \subsection*{Quotes}\label{quotes}}
@@ -794,7 +1017,7 @@ vibrant and wonderful \sma team (Multi-Agent System). Part of the work
 was funded by teaching at the university \lumiere and the
 \polytech engineering school.
 
-Finally, I would like to thank my family for supporting me despite my
+I would like to also thank my family for supporting me despite my
 periods of avolition. I would like to thank in particular my mother
 Charlotte and my sister Sarah\footnote{\includegraphics{portraits/sarah_grea.jpg}
   Sarah Gréa helping me do the
@@ -803,160 +1026,13 @@ Charlotte and my sister Sarah\footnote{\includegraphics{portraits/sarah_grea.jpg
 listen to me talk about the technicalities of my thesis in order to make
 me progress.
 
+Finally I wanted to thank a special person who helped me a lot in
+complicated moments of my youth. A person who opened himself to me by
+sharing his taste for reading, knowledge and imagination. A big thank
+you to Marie Stoetzel, a former librarian at St.~Pierre's middle school,
+for making me the person I am today.
+
 Thank you again.
-
-\hypertarget{pruxe9face}{%
-\chapter*{\texorpdfstring{Préface
-\protect\includegraphics[width=\textwidth,height=0.16667in]{logos/fr.svg}}{Préface }}\label{pruxe9face}}
-\addcontentsline{toc}{chapter}{Préface }
-
-\hypertarget{ruxe9sumuxe9}{%
-\section*{Résumé}\label{ruxe9sumuxe9}}
-\addcontentsline{toc}{section}{Résumé}
-
-L'interaction personne-machine fait partie des problèmes les plus
-complexes dans le domaine de l'intelligence artificielle (IA). En effet,
-les logiciels qui coopèrent avec des personnes dépendantes doivent avoir
-des qualités incompatibles telles que la rapidité et l'expressivité,
-voire la précision et la généralité. L'objectif est alors de concevoir
-des modèles et des mécanismes capables de faire un compromis entre
-efficacité et généralité. Ces modèles permettent d'élargir les
-possibilités d'adaptation de manière fluide et continue. Ainsi, la
-recherche d'une réponse complète et optimale a éclipsé l'utilité de ces
-modèles. En effet, l'explicabilité et l'interactivité sont au cœur des
-préoccupations populaires des systèmes modernes d'IA. Le principal
-problème avec de telles exigences est que l'information sémantique est
-difficile à transmettre à un programme. Une partie de la solution à ce
-problème réside dans la manière de représenter les connaissances.
-
-La formalisation est le meilleur moyen de définir rigoureusement un
-problème. Aussi, les mathématiques sont le meilleur ensemble d'outils
-pour exprimer des notions formelles. Cependant, comme notre approche
-exige des mathématiques non classiques, il est plus facile de définir
-une théorie cohérente qui correspond simplement à nos besoins. Cette
-théorie est une instance partielle de la théorie des catégories. On
-propose une algèbre fonctionnelle inspirée du lambda calcul. Il est
-alors possible de reconstruire des concepts mathématiques classiques
-ainsi que d'autres outils et structures utiles à notre usage.
-
-En se servant de ce formalisme, il devient possible d'axiomatiser un
-métalangage endomorphique. Celui-ci manipule une grammaire dynamique
-capable d'ajuster sa sémantique à l'usage. La reconnaissance des
-structures de base permet à ce langage de ne pas utiliser de mot-clés.
-Ceci, combiné à un nouveau modèle de représentation des connaissances,
-supporte la construction d'un modèle de représentation des connaissances
-expressive.
-
-Avec ce langage et ce formalisme, il devient envisageable de créer des
-cadriciels dans des champs jusqu'alors hétéroclites. Par exemple, en
-planification automatique, le modèle classique à état rend l'unification
-de la représentation des domaines de planification impossible. Il en
-résulte un cadriciel général de la planification permettant d'exprimer
-tout type de domaines en vigueur.
-
-On crée alors des algorithmes concrets qui montrent le principe des
-solutions intermédiaires. Deux nouvelles approches à la planification en
-temps réel sont présentées et évaluées. La première se base sur une
-euristique d'utilité des opérateurs de planification afin de réparer des
-plans existants. La seconde utilise la planification hiérarchique pour
-générer des plans valides qui sont des solutions abstraites et
-intermédiaires. Ces plans rendent possible un temps d'exécution plus
-court pour tout usage ne nécessitant pas le plan détaillé.
-
-On illustre alors l'usage de ces plans sur la reconnaissance d'intention
-par planification inversée. En effet, dans ce domaine, le fait de ne pas
-nécessiter de bibliothèques de plans rend la création de modèles de
-reconnaissance plus aisée. En exploitant les plans abstraits, il devient
-possible de réaliser un système théoriquement plus performant que ceux
-utilisant de la planification complète.
-
-\hypertarget{formatage}{%
-\section*{Formatage}\label{formatage}}
-\addcontentsline{toc}{section}{Formatage}
-
-Dans cette section, nous présentons un guide rapide de la présentation
-de l'information contenue dans ce document. Cela donnera sa structure
-globale et chacun du type de formatage et de sa signification.
-
-\hypertarget{format-texte}{%
-\subsubsection*{Format texte}\label{format-texte}}
-\addcontentsline{toc}{subsubsection}{Format texte}
-
-Le texte peut être souligné \textbf{plus} ou \emph{moins} pour rendre un
-mot-clé plus visible.
-
-\hypertarget{ruxe9fuxe9rences}{%
-\subsubsection*{Références}\label{ruxe9fuxe9rences}}
-\addcontentsline{toc}{subsubsection}{Références}
-
-Les citations textuelles seront dans ce format : Auteur \emph{et al.}
-(\href{https://citationstyles.org/}{année})) pour que l'auteur fasse
-partie du texte et (Auteur \emph{et
-al.}\href{https://citationstyles.org/}{année}) lorsqu'on se contente de
-faire référence à l'œuvre.
-
-\hypertarget{citations-1}{%
-\subsubsection*{Citations}\label{citations-1}}
-\addcontentsline{toc}{subsubsection}{Citations}
-
-Parfois, les citations importantes doivent être mises en avant. Ils sont
-présentés comme :
-
-\begin{quote}
-\lettrine[lines=3]{\textcolor{solarized-base2}{\mathfont\Huge “}}{}``\emph{Ne
-me citez pas là-dessus !}''\footnote{Gréa (\href{antoine.grea.me}{2019})}
-\end{quote}
-
-\hypertarget{remerciements}{%
-\section*{Remerciements}\label{remerciements}}
-\addcontentsline{toc}{section}{Remerciements}
-
-Je voudrais remercier quelques personnes sans qui rien de cela n'aurait
-été possible.
-
-C'était une belle matinée de juin\footnote{\includegraphics{portraits/nature.jpg}
-  Photo de l'époque} que j'ai parcouru pour la première fois les allées
-boisées de la Doua afin de rencontrer mon équipe encadrante: Samir
-Aknine et Laetitia Matignon. Ces derniers m'ont accordé leur confiance
-dans la réussite de ce projet de thèse. Sans leur conseil et soutien
-rien de cela n'aurait été possible. Je remercie particulièrement Samir,
-qui en tant qu'encadrant, et ami, a su m'écouter et me soutenir même
-dans les moments les plus pénibles avec compassion et compréhension.
-
-Je souhaite également remercier Christine Gertosio, qui m'a offert une
-aide sans faille dans mon service d'enseignement et qui m'a donné
-l'opportunité d'une offre d'ATER à \polytech Lyon. C'était un véritable
-plaisir de donner des cours à des promotions d'élèves passionnés et
-enthousiastes.
-
-Je souhaite également offrir ma gratitude aux chercheurs qui m'ont aidé
-dans cette aventure, sans ordre particulier: Fabrice Jumel, Jacques
-Saraydaryan, Shirin Sohrabi, Damien Pelier. J'aimerais également
-remercier Linas Vepstas, qui m'a grandement aidé dans la partie
-mathématique de cette thèse.
-
-Sans financement, ce travail n'aurait pas été possible. Je tiens à
-remercier l'allocation de recherche du \arc (Academic Research
-Community) gracieuseté de la région de \ara en France. Cet organisme
-agit pour l'amélioration de la qualité de vie et du vieillissement.
-
-Ce travail a été réalisé avec l'université \ucbl dans le
-\liris (Laboratoire de calcul scientifique en Image et Systèmes
-d'Information). Je faisais partie d'une équipe dynamique et conviviale
-\sma (Multi-Agent System). Une partie du travail a été financée par
-l'enseignement à l'université \lumiere et à l'école d'ingénieurs
-Polytech.
-
-Enfin, je tiens à remercier ma famille de m'avoir supporté malgré mes
-périodes d'avolition. Je voudrais remercier tout particulièrement ma
-mère Charlotte et ma sœur Sarah\footnote{\includegraphics{portraits/sarah_grea.jpg}
-  Sarah Gréa m'aidant en utilisant la
-  \href{https://fr.wikipedia.org/wiki/M\%C3\%A9thode_du_canard_en_plastique}{méthode
-  du canard en plastique}.} pour avoir fait de leur mieux pour me tenir
-compagnie et faire semblant de m'écouter déblatérer des technicités de
-ma thèse afin de me faire avancer.
-
-Encore merci.
 
 \hypertarget{ch:introuction}{%
 \chapter{Introduction}\label{ch:introuction}}
@@ -2715,7 +2791,7 @@ In computer science, popular metalanguage called \gls{bnf} was created
 shortly after Chomsky's work on \gls{cfg}. The syntax is of the
 following form :
 
-\begin{lstlisting}
+\begin{lstlisting}[language=bnf]
 <rule> ::= <other_rule> | <terminal_symbol> | "literals"
 \end{lstlisting}
 
@@ -2785,8 +2861,8 @@ transform the syntax tree of the grammar into executable code. This code
 is the generated compiler and is subject to our interest in this case.
 
 \hypertarget{fig:compiler-compiler}{}
-\begin{figure}[h]\begin{center}\subfloat[Classical compiler-compiler]{\includegraphics[width=0.7\textwidth]{/tmp/tmp5nigx_tt}
-\label{fig:compiler}}\subfloat[Dynamic grammar modification]{\includegraphics[width=0.28\textwidth]{/tmp/tmpmvujr9g5}
+\begin{figure}[h]\begin{center}\subfloat[Classical compiler-compiler]{\includegraphics[width=0.7\textwidth]{/tmp/tmp6uun_g9q}
+\label{fig:compiler}}\subfloat[Dynamic grammar modification]{\includegraphics[width=0.28\textwidth]{/tmp/tmp7h1uyznb}
 \label{fig:dynamic-parser}}\captionof{figure}{Illustration of the meta-process of compiler generation}\label{fig:compiler-compiler}\end{center}\end{figure}
 
 \hypertarget{dynamic-grammar}{%
@@ -2939,7 +3015,7 @@ thanks to the Turtle variant of \gls{rdf} (Beckett and Berners-Lee
 fundamental to \gls{rdf} and allow standard description of basic
 properties such as the type.
 
-\begin{lstlisting}[caption={Example of RDF turtle ontology}, label=lst:rdf]
+\begin{lstlisting}[language=rdf, caption={Example of RDF turtle ontology}, label=lst:rdf]
   ex:ontology rdf:type owl:Ontology .
   ex:name rdf:type owl:DatatypeProperty .
   ex:author rdf:type owl:ObjectProperty .
@@ -3265,9 +3341,9 @@ The \textbf{equality relation} \(= : \uv \mapsto \uv\), behaves like the
 classical operator. Since the knowledge database will be expressed
 through text, we also need to add an explicit way to identify entities.
 This identification is done through the \textbf{name relation}
-\(\nam : \uv \mapsto \lit_{\str}\) that affects a string literal to some
-entities. This leads us to introduce literals into \gls{self} that are
-also entities that have a native value.
+\(\nam : \uv \mapsto \litteral_{\str}\) that affects a string literal to
+some entities. This leads us to introduce literals into \gls{self} that
+are also entities that have a native value.
 
 The axiom~of~\nameref{axi:structure} puts a type restriction on
 property. Since it compartments \gls{uv} using various named subsets, we
@@ -3374,7 +3450,7 @@ grammar.
 The description of \gls{gram} is pretty straightforward: it mostly is
 just a triple representation separated by whitespaces. The goal is to
 add a minimal syntax consistent with the
-axiom~of~\nameref{axi:structure}. In listing~\ref{lst:grammar}, we give
+axiom~of~\nameref{axi:structure}. In grammar~\ref{grm:grammar}, we give
 a simplified version of \gls{gram}. It is written in a pseudo-\gls{bnf}
 fashion, which is extended with the classical repetition operators
 \passthrough{\lstinline!*!} and \passthrough{\lstinline!+!} along with
@@ -3393,14 +3469,14 @@ names in uppercase. We also add the following rule modifiers:
   section~\ref{sec:derivation}.
 \end{itemize}
 
-\begin{lstlisting}[caption={Simplified pseudo-<+bnf> description for basic <+self>.}, escapechar={$}, label=lst:grammar]
+\begin{lstlisting}[caption={Simplified pseudo-<+bnf> description for basic <+self>.}, escapechar={$}, language=bnf, label=grm:grammar]
 <~COMMENT: <INLINE: "//" (~["\n", "\r"])*>
-| <BLOCK: "/*" (~["*/"])*> > //Ignored
+         | <BLOCK: "/*" (~["*/"])*> > //Ignored
 <~WHITE_SPACE: " "|"\t"|"\n"|"\r"|"\f">
 <LITERAL: <INT> | <FLOAT> | <CHAR> | <STRING>> //Java definition$\label{line:literal}$
 <ID: <TYPE: <UPPERCASE>(<LETTERS>|<DIGITS>)* > $\label{line:uppercase}$
-| <ENTITY:  <LOWERCASE>(<LETTERS>|<DIGITS>)*>
-| <SYMBOL: (~[<LITERALS>, <LETTERS>, <DIGITS>])*>>
+   | <ENTITY:  <LOWERCASE>(<LETTERS>|<DIGITS>)*>
+   | <SYMBOL: (~[<LITERALS>, <LETTERS>, <DIGITS>])*>>
 
 <self> ::= <first> <statement>* <EOF>
 <first> ::= <subject> <?EQUAL> <?SOLVE> <?EOS> $\label{line:first_st}$
@@ -3417,7 +3493,7 @@ interpreted. Comments are there only for convenience since they do not
 serve any real purpose in the language. It was arbitrarily decided to
 use Java-style comments.
 
-Line~\ref{line:literal} uses the basic Java definition for liberals. In
+Line~\ref{line:literal} uses the basic Java definition for literals. In
 order to keep the independence from any natural language, boolean
 literals are not natively defined (since they are English words).
 
@@ -3607,7 +3683,7 @@ token \passthrough{\lstinline!<MIDDLE>!} independently from any
 container and therefore, all containers share the same pool of middle
 delimiters.
 
-\begin{lstlisting}[caption={Rules added to the current grammar for handling the new container for parenthesis}, escapechar={$}, label=lst:container]
+\begin{lstlisting}[caption={Rules added to the current grammar for handling the new container for parenthesis}, escapechar={$}, language=bnf, label=lst:container]
 <meta_entity> ::= <container>
 <container> :: = <parenthesis> | …
 <parenthesis> ::= "(" [<naked_entity>] (<?MIDDLE> <naked_entity>)* ")"
@@ -3684,7 +3760,7 @@ listing~\ref{lst:parameter}, replacing
 \passthrough{\lstinline!<?container>!} with the name of the container
 used.
 
-\begin{lstlisting}[language=Java, caption={Rules added to the current grammar for handling parameters}, escapechar={$}, label=lst:parameter]
+\begin{lstlisting}[caption={Rules added to the current grammar for handling parameters}, escapechar={$}, language=bnf, label=lst:parameter]
 <meta_entity> ::= <ID> <?container>
 <meta_property> ::= <ID> <?container>
 \end{lstlisting}
@@ -3744,7 +3820,7 @@ after reduction, the syntax will be accepted. From the call of
 listing~\ref{lst:modifier}. The call also adds the modifier entity to an
 inferred token \passthrough{\lstinline!<MOD>!}.
 
-\begin{lstlisting}[language=Java, caption={Rules added to the current grammar for handling modifiers}, escapechar={$}, label=lst:modifier]
+\begin{lstlisting}[caption={Rules added to the current grammar for handling modifiers}, escapechar={$}, language=bnf, label=lst:modifier]
 <meta_entity> ::= <?MOD> <ID>
 <meta_property> ::= <?MOD> <ID>
 \end{lstlisting}
@@ -4014,7 +4090,7 @@ there is no value, sort of like \passthrough{\lstinline!null!} or
 \passthrough{\lstinline!nil!} in programming languages.
 
 \marginpar{%
-\includegraphics{/tmp/tmp4slgmgaj}
+\includegraphics{/tmp/tmpsty4ql6f}
 
 }
 
@@ -4037,7 +4113,7 @@ In listing~\ref{lst:lang}, we present an example file that is meant to
 define most of the useful native properties along with default
 quantifiers.
 
-\begin{lstlisting}[language=Java, caption={The default lang.w file.}, escapechar={$}, label=lst:lang]
+\begin{lstlisting}[caption={The default lang.w file.}, escapechar={$}, language=self, label=lst:lang]
 * =? ;$\label{line:first}$
 ?(x) = x; //Optional definition
 ?~ = { };
@@ -4080,9 +4156,9 @@ If it is a string literal, then it must be either a file path or
 \begin{example*}{}{}
 
 Using the first statement, we can include external domains akin to the
-\passthrough{\lstinline!import!} directive in Java. Writing
-\passthrough{\lstinline!"path/lang.w" = ? ;!} as a first statement will
-make the process parse the file located at
+\passthrough{\lstinline[language=Java]!import!} directive in Java.
+Writing \passthrough{\lstinline!"path/lang.w" = ? ;!} as a first
+statement will make the process parse the file located at
 \passthrough{\lstinline!path/lang.w!} and insert it at this spot.
 
 \end{example*}
@@ -4297,11 +4373,15 @@ meta-statement as simple to express as any other statement. This chain
 of abstractions using meta-statements is where the higher order
 knowledge is encoded.
 
+\begin{example*}{}{}
+
 We present the previous example using \gls{rdf} (in
 listing~\ref{lst:modal_rdf}) and \gls{self} (in
 listing~\ref{lst:modal_self}) to describe knowledge of the gossip.
 
-\begin{lstlisting}[caption={RDF representation of the gossip example}, label=lst:modal_rdf]
+\end{example*}
+
+\begin{lstlisting}[caption={RDF representation of the gossip example}, language=rdf, label=lst:modal_rdf]
 @prefix : <http://genn.io/self/gossip#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -4366,7 +4446,7 @@ listing~\ref{lst:modal_self}) to describe knowledge of the gossip.
 :c2 rdf:type owl:NamedIndividual .
 \end{lstlisting}
 
-\begin{lstlisting}[caption={<+self> representation of the gossip example}, label=lst:modal_self]
+\begin{lstlisting}[caption={<+self> representation of the gossip example}, language=self, label=lst:modal_self]
 "lang.s" = ? ;
 a told(b) probably(c worsethan ctwo);
 b told(a) usually(c is good);
@@ -5046,8 +5126,7 @@ simple example.
 
 Bob is a machinist and plans to make a part using a mill. This part is
 needed for a bigger project and must be ready by a specific deadline.
-
-\footnote{\includegraphics{graphics/bob_yeet.svg}}
+\tcbnote{![](graphics/bob_yeet.svg)}
 
 While taking a tea break, Bob spills over his drink over the mill's
 electronics making it unusable. Bob originally planned to make the part
@@ -5426,7 +5505,7 @@ encountered the previous years. The current version of \gls{pddl} is
 \textbf{3.1} (Kovacs 2011). Its syntax goes similarly as described in
 listing~\ref{lst:pddl_syntax}.
 
-\begin{lstlisting}[caption={Simplified explanation of the syntax of PDDL.}, escapechar={$}, label=lst:pddl_syntax]
+\begin{lstlisting}[caption={Simplified explanation of the syntax of PDDL.}, escapechar={$}, language=pddl, label=lst:pddl_syntax]
 (define (domain <domain-name>)
   (:requirements :<requirement-name>)
   (:types <type-name>)
@@ -5462,7 +5541,7 @@ straightforward: \passthrough{\lstinline!stack!} and
 remove a block before doing it and \passthrough{\lstinline!pick-up!} and
 \passthrough{\lstinline!put-down!} manages the handling operations.
 
-\begin{lstlisting}[caption={Classical PDDL 3.0 definition of the domain Block world}, escapechar={$}, label=lst:block_pddl]
+\begin{lstlisting}[caption={Classical PDDL 3.0 definition of the domain Block world}, escapechar={$}, language=pddl, label=lst:block_pddl]
 (define (domain BLOCKS-object-fluents)
   (:requirements :typing :equality :object-fluents)
   (:types block)
@@ -5575,7 +5654,7 @@ are also available in \gls{pddl} 3.1, but the
 \passthrough{\lstinline!decrease!} rate of fluents is an exclusive
 feature of PDDL+.
 
-\begin{lstlisting}[caption={Example of PDDL+ durative action from Fox's paper.}, escapechar={$}, label=lst:pddl_plus]
+\begin{lstlisting}[caption={Example of PDDL+ durative action from Fox's paper.}, escapechar={$}, language=pddl, label=lst:pddl_plus]
 (:durative-action downlink
     :parameters (?r - recorder ?g - groundStation)
     :duration (> ?duration 0)
@@ -5608,7 +5687,7 @@ another while having a fixed duration. While it also does support
 \gls{htn} ploblem descriptions, the support seems to be still limited
 (To \emph{et al.} 2016).
 
-\begin{lstlisting}[caption={Example of a simple ANML action.}, label=lst:anml]
+\begin{lstlisting}[caption={Example of a simple ANML action.}, language=pddl, label=lst:anml]
 action Navigate (location from, to) {
   duration := 5 ;
   [all] { arm == stowed ;
@@ -5647,7 +5726,7 @@ that denotes the likelihood of them happening. This allows for planners
 to select actions with adverse effects if they deems the risks worth the
 damage.
 
-\begin{lstlisting}[caption={Example of PPDDL use of probabilistic effects from Younes's paper.}, escapechar={$}, label=lst:ppddl]
+\begin{lstlisting}[caption={Example of PPDDL use of probabilistic effects from Younes's paper.}, escapechar={$}, language=pddl, label=lst:ppddl]
 (define (domain bomb-and-toilet)
     (:requirements :conditional-effects :probabilistic-effects)
     (:predicates (bomb-in-package ?pkg) (toilet-clogged)
@@ -5677,7 +5756,7 @@ parameter that will influence the probability distribution of the events
 that conditioned the reward. This distribution is a part of the planning
 problem and is entirely defined in the listing~\ref{lst:rddl}.
 
-\begin{lstlisting}[caption={Example of RDDL syntax by Sanner.}, escapechar={$}, label=lst:rddl]
+\begin{lstlisting}[caption={Example of RDDL syntax by Sanner.}, escapechar={$}, language=rddl, label=lst:rddl]
 domain prop_dbn {
  requirements = { reward-deterministic };
  pvariables {
@@ -5693,7 +5772,7 @@ domain prop_dbn {
   q´ = if (q ^ r) then Bernoulli(.9)
       else if (a) then Bernoulli(.3) else Bernoulli(.8);
   // KronDelta is like a DiracDelta, but for discrete data (boolean or int)
-  r´ = if (~q) then KronDelta(r) else KronDelta(r <=> q);          
+  r´ = if (~q) then KronDelta(r) else KronDelta(r <=> q);
  };
 
  // A boolean functions as a 0/1 integer when a numerical value is needed
@@ -5743,7 +5822,7 @@ is possible only if it departs after the arrival of the previous
 connecting travel. This enables agents to plan their travel accordingly
 to maximize the sharing of ressources and enhance cooperative behaviors.
 
-\begin{lstlisting}[caption={Example of MAPL syntax by Brenner.}, escapechar={$}, label=lst:mapl]
+\begin{lstlisting}[caption={Example of MAPL syntax by Brenner.}, escapechar={$}, language=pddl, label=lst:mapl]
 (:state-variables
   (pos ?a - agent) - location
   (connection ?p1 ?p2 - place) - road
@@ -5776,7 +5855,7 @@ preconditions of actions or the ability to affect different goals to
 different agents. Later on, MA-PDDL was extended with probabilistic
 capabilities inspired by PPDDL (Kovács and Dobrowiecki 2013).
 
-\begin{lstlisting}[caption={Example of MA-PDDL syntax by Kovacs.}, escapechar={$}, label=lst:ma-pddl]
+\begin{lstlisting}[caption={Example of MA-PDDL syntax by Kovacs.}, escapechar={$}, language=pddl, label=lst:ma-pddl]
 (define (domain ma-lift-table)
 (:requirements :equality :negative-preconditions
                :existential-preconditions :typing :multi-agent)
@@ -5812,7 +5891,7 @@ that specifies how the plan should be constructed. It also has a
 pseudo-precondition with modal operators on the temporality of the
 validity of the literals.
 
-\begin{lstlisting}[language=Lisp, caption={Example of the syntax used by UCMP.}, escapechar={$}, label=lst:ucmp]
+\begin{lstlisting}[caption={Example of the syntax used by UCMP.}, escapechar={$}, language=pddl, label=lst:ucmp]
 (constants a b c table) ; declare constant symbols
 (predicates on clear) ; declare predicate symbols
 (compound-tasks move) ; declare compound task symbols
@@ -5859,7 +5938,7 @@ This Lisp-like language is using a \passthrough{\lstinline!:method!}
 keyword to define subtasks and their order. However, this only allows
 totally ordered plans.
 
-\begin{lstlisting}[language=Lisp, caption={Example of method in the SHOP2 language.}, escapechar={$}, label=lst:shop2]
+\begin{lstlisting}[caption={Example of method in the SHOP2 language.}, escapechar={$}, language=pddl, label=lst:shop2]
 (:method
   ; head
     (transport-person ?p ?c2)
@@ -5892,7 +5971,7 @@ totally ordered methods. With this complete example, it seams that
 defining several methods for a given task isn't possible in this
 language.
 
-\begin{lstlisting}[caption={Example of HDDL syntax as used in the PANDA framework.}, escapechar={$}, label=lst:hddl]
+\begin{lstlisting}[caption={Example of HDDL syntax as used in the PANDA framework.}, escapechar={$}, language=pddl, label=lst:hddl]
 (define (domain transport)
   (:requirements :typing :action-costs)
   (:types
@@ -5953,7 +6032,7 @@ listing~\ref{lst:hpddl} we give an example of HPDDL method. Its
 expressive power seems similar to that of UCMP and SHOP. It works in
 Java using the PDDL4J framework (Pellier and Fiorino 2018).
 
-\begin{lstlisting}[caption={Example of HPDDL syntax as described by Ramoul.}, escapechar={$}, label=lst:hpddl]
+\begin{lstlisting}[caption={Example of HPDDL syntax as described by Ramoul.}, escapechar={$}, language=pddl, label=lst:hpddl]
 (:method do_navigate
   :parameters(?x - rover ?from ?to - waypoint)
   :expansion((tag t1 (navigate ?x ?from ?mid))
@@ -5992,7 +6071,7 @@ variables that aren't dependent on their parameters. This allows for
 greater expressivity than regular \gls{pddl}, but can be partially
 emulated using \gls{pddl} 3.1 constraints and object fluents.
 
-\begin{lstlisting}[caption={Example of WebPDDL syntax by Mc Dermott.}, escapechar={$}, label=lst:webpddl]
+\begin{lstlisting}[caption={Example of WebPDDL syntax by Mc Dermott.}, escapechar={$}, language=pddl, label=lst:webpddl]
 (define (domain www-agents)
   (:extends (uri "http://www.yale.edu/domains/knowing")
             (uri "http://www.yale.edu/domains/regression-planning")
@@ -6039,7 +6118,7 @@ simpler names, the action notation was simplified to make the parameter
 and return value more natural. Axioms were replaced by facts with a
 different notation.
 
-\begin{lstlisting}[language=Lisp, caption={Example of the updated OPT syntax as described by Mc Dermott.}, escapechar={$}, label=lst:opt]
+\begin{lstlisting}[caption={Example of the updated OPT syntax as described by Mc Dermott.}, escapechar={$}, language=pddl, label=lst:opt]
 (define (domain www-agents)
   (:extends knowing regression-planning commerce)
   (:requirements :existential-preconditions :conditional-effects)
@@ -6058,7 +6137,7 @@ different notation.
   (:facts
     (freevars (?agt - Agent ?msg-id - Message-id
                ?sent ?reply - Message)
-      (<- (and (web-agent ?agt)$<!-- -->$
+      (<- (and (web-agent ?agt)
                (reply-pending ?agt ?msg-id ?sent)
                (expected-reply ?agt ?sent ?reply))
                (normal-value (receive ?agt ?msg-id) ?reply))))
@@ -6106,7 +6185,7 @@ durative primitive action is also shown with complex temporal
 constraints. The interesting aspect is the ability to express composite
 action with such complex temporalities.
 
-\begin{lstlisting}[caption={Example of SIADEX composite and durative actions.}, label=lst:siadex]
+\begin{lstlisting}[caption={Example of SIADEX composite and durative actions.}, language=pddl, label=lst:siadex]
 (:task travel-to
  :parameters (?destination)
  (:method Fly
@@ -6145,7 +6224,7 @@ In order to describe this planning framework into \gls{self}, we simply
 put all fields of the actions into properties. Entities are used as
 fluents, and the entire knowledge domain as constraints.
 
-\begin{lstlisting}[language=Java, caption={Definition of default planning notions in <+self>}, escapechar={$}, label=lst:planning]
+\begin{lstlisting}[caption={Definition of default planning notions in <+self>}, escapechar={$}, language=self, label=lst:planning]
 "lang.w" = ? ; //include default language file.
 Fluent = Entity;
 State = (Group(Fluent), Statement);
@@ -6197,7 +6276,7 @@ definition with new ones.
 Using the classical example domain used earlier, we can write the
 following file in listing~\ref{lst:block_world}.
 
-\begin{lstlisting}[language=Java, caption={Blockworld written in <+self> to work with Color}, escapechar={$}, label=lst:block_world]
+\begin{lstlisting}[caption={Blockworld written in <+self> to work with Color}, escapechar={$}, language=self, label=lst:block_world]
 "planning.w" = ? ; //include base terminology $\label{line:include}$
 
 (! on !, held(!), down(_)) :: Fluent;$\label{line:arity}$
@@ -7316,7 +7395,7 @@ Illegal operators are either inconsistent or toxic.
                 \ForAll{Link $l \in \con_{\outgo}(a)$}
                     \If{$f \in l$}
                         \State $l_o \gets \con_{\outgo}(l)$ \Comment{With $\con_{\outgo}(l)$ the target of $l$}
-                        \State \Call{addAlternative}{$a$, $f$, $a$, $l_o$, $\pb$} 
+                        \State \Call{addAlternative}{$a$, $f$, $a$, $l_o$, $\pb$}
                     \EndIf
                 \EndFor
             \EndFor
@@ -7360,18 +7439,19 @@ the toxic fluents (\(\pre(a) \nsubseteq \eff(a)\)) and by updating the
 effects with \(\eff(a) = \eff(a) \setminus \pre(a)\). If the effects
 become empty, the operator is removed from the domain.
 
-The {lollipopInit} function is executed during the initialization of the
-solving algorithm. We start by realizing the scores, then we add the
-initial and goal steps in the providing map by caching them. Once the
-ranking mechanism is ready, we sort the providing map. With the ordered
-providing map, the algorithm runs the fast generation of the safe
-operator graph for the problem's goal.
+The \passthrough{\lstinline!lollipopInit!} function is executed during
+the initialization of the solving algorithm. We start by realizing the
+scores, then we add the initial and goal steps in the providing map by
+caching them. Once the ranking mechanism is ready, we sort the providing
+map. With the ordered providing map, the algorithm runs the fast
+generation of the safe operator graph for the problem's goal.
 
 The last part of this initialization (line~\ref{line:populate}) is the
-agenda population that is detailed in the {populate} function. During
-this step, we perform a search of alternatives based on the list of
-updated fluents. Online updates can make the plan outdated relative to
-the domain. This forms liar links :
+agenda population that is detailed in the
+\passthrough{\lstinline!populate!} function. During this step, we
+perform a search of alternatives based on the list of updated fluents.
+Online updates can make the plan outdated relative to the domain. This
+forms liar links :
 
 \begin{definition}[nameref={Liar links},]{Liar links}{}
 
@@ -8865,7 +8945,7 @@ is quite possible to define literals by structure. First we can define
 boolean logic quite easily in SELF as demonstrated by
 listing~\ref{lst:bool}.
 
-\begin{lstlisting}[language=Java, caption={Possible definition of boolean logic in SELF.}, escapechar={$}, label=lst:bool]
+\begin{lstlisting}[language=Java, caption={Possible definition of boolean logic in SELF.}, escapechar={$}, language=java, label=lst:bool]
 ~(false) = true;$\label{line:negation}$
 ( false, true ) :: Boolean;$\label{line:boolean}$
 true =?; //conflicts with the first statement!$\label{line:true}$
@@ -8893,7 +8973,7 @@ inference to compute boolean logic will be terribly inefficient.
 We can use Peano's axioms (1889) to define integers in SELF. The attempt
 at this definition is presented in listing~\ref{lst:peano}.
 
-\begin{lstlisting}[language=Java, caption={Possible integration of the Peano axioms in SELF.}, label=lst:peano]
+\begin{lstlisting}[caption={Possible integration of the Peano axioms in SELF.}, language=self, label=lst:peano]
 0 :: Integer;
 *n : (++(n) :: Integer);
 (*m, *n) : ((m=n) : (++m = ++n));
