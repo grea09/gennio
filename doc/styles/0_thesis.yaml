@@ -316,6 +316,7 @@ header-includes:
   - \usepackage{marginnote}
   - \usepackage{textpos}
   - \usepackage{scalerel}
+  - \usepackage[final]{pdfpages}
   - \usepackage[strict]{changepage}
   - \setlength{\TPVertModule}{1cm}
   - |
@@ -334,6 +335,7 @@ header-includes:
   - \DeclareRobustCommand{\logo}[1]{\scalerel*{\includegraphics{#1}}{\strut}}
   #- \DeclareRobustCommand{\logo}[1]{\begingroup\normalfont\includegraphics[height=\fontcharht\font`\B]{{#1}}\endgroup}
   - \makeatletter \def\lst@gkeywords@sty{\bfseries} \makeatother
+  - \renewcommand\maketitle{\includepdf[pages=-,pagecommand={},width=\textwidth]{firstpage.pdf}}
 
   # MATH
   - \usepackage{tfrupee}
