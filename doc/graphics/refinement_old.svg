@@ -9,15 +9,18 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
-   width="261.6528mm"
-   height="133.24878mm"
-   viewBox="0 0 26165.277 13324.876"
+   width="268mm"
+   height="209.02mm"
+   viewBox="0 0 26800 20902"
    preserveAspectRatio="xMidYMid"
    xml:space="preserve"
    id="svg1335"
-   style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"
-   sodipodi:docname="refinement.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><sodipodi:namedview
+   sodipodi:docname="refinement_old.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   style="fill-rule:evenodd;stroke-width:28.22200012;stroke-linejoin:round"><metadata
+   id="metadata1339"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -27,23 +30,20 @@
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
    inkscape:window-width="1920"
-   inkscape:window-height="1017"
-   id="namedview684"
+   inkscape:window-height="1047"
+   id="namedview1337"
    showgrid="false"
-   fit-margin-top="4"
-   fit-margin-left="4"
-   fit-margin-right="4"
-   fit-margin-bottom="4"
-   inkscape:zoom="0.71933154"
-   inkscape:cx="242.17032"
-   inkscape:cy="249.13077"
-   inkscape:window-x="1920"
-   inkscape:window-y="31"
+   inkscape:zoom="0.62441665"
+   inkscape:cx="267.13395"
+   inkscape:cy="432.95583"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg1335" /><metadata
-   id="metadata1339"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+   inkscape:current-layer="g1327"
+   fit-margin-left="64"
+   fit-margin-right="64"
+   fit-margin-top="8"
+   fit-margin-bottom="8" />
  <defs
    class="ClipPathGroup"
    id="defs8">
@@ -67,9 +67,7 @@
    height="19960"
    id="rect5" />
   </clipPath>
- 
-     
-    </defs>
+ </defs>
  <defs
    id="defs69">
   <font
@@ -515,7 +513,7 @@
    id="defs176" />
  <g
    id="g181"
-   transform="translate(6376.3919,714.79245)">
+   transform="translate(6399.9997,700.99997)">
   <g
    id="id2"
    class="Master_Slide">
@@ -530,14 +528,18 @@
  <g
    class="SlideGroup"
    id="g1333"
-   transform="translate(6376.3919,714.79245)">
+   transform="translate(6399.9997,700.99997)">
   <g
    id="g1331">
    <g
    id="container-id1">
     <g
-   id="g1327"
-   class="Page">
+   id="id1"
+   class="Slide"
+   clip-path="url(#presentation_clip_path)">
+     <g
+   class="Page"
+   id="g1327">
       
       
       
@@ -551,362 +553,358 @@
       
       
       <g
-   transform="translate(5632.8841,-4913.7925)"
    id="g1686"><g
-     class="com.sun.star.drawing.ConnectorShape"
-     id="g188">
+     id="g188"
+     class="com.sun.star.drawing.ConnectorShape">
        <g
    id="id3">
         <rect
-   class="BoundingBox"
-   x="9447"
-   y="6397"
-   width="731"
-   height="1507"
+   style="fill:none;stroke:none"
    id="rect183"
-   style="fill:none;stroke:none" />
+   height="1507"
+   width="731"
+   y="6397"
+   x="9447"
+   class="BoundingBox" />
         <path
-   d="m 9500,6450 c 831,0 831,1400 0,1400"
-   id="path185"
    style="fill:none;stroke:#dc322f;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path185"
+   d="m 9500,6450 c 831,0 831,1400 0,1400" />
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g773">
+     id="g773"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id8">
         <rect
-   class="BoundingBox"
-   x="5447"
-   y="5947"
-   width="4108"
-   height="1009"
+   style="fill:none;stroke:none"
    id="rect638"
-   style="fill:none;stroke:none" />
+   height="1009"
+   width="4108"
+   y="5947"
+   x="5447"
+   class="BoundingBox" />
         <path
-   d="m 5650,6000 c -34,0 -69,16 -96,40"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path640"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5650,6000 c -34,0 -69,16 -96,40" />
         <path
-   d="m 5520,6081 c -12,21 -20,45 -20,69 v 33"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path642"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5520,6081 c -12,21 -20,45 -20,69 v 33" />
         <path
-   d="m 5500,6236 v 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path644"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5500,6236 v 106" />
         <path
-   d="m 5500,6395 v 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path646"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5500,6395 v 106" />
         <path
-   d="m 5500,6554 v 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path648"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5500,6554 v 106" />
         <path
-   d="m 5500,6713 v 37 c 0,23 7,45 18,66"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path650"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5500,6713 v 37 c 0,23 7,45 18,66" />
         <path
-   d="m 5551,6857 c 26,26 60,42 94,44"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path652"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5551,6857 c 26,26 60,42 94,44" />
         <path
-   d="m 5698,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path654"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5698,6901 h 106" />
         <path
-   d="m 5857,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path656"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5857,6901 h 106" />
         <path
-   d="m 6016,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path658"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6016,6901 h 106" />
         <path
-   d="m 6175,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path660"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6175,6901 h 106" />
         <path
-   d="m 6334,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path662"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6334,6901 h 106" />
         <path
-   d="m 6493,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path664"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6493,6901 h 106" />
         <path
-   d="m 6652,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path666"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6652,6901 h 106" />
         <path
-   d="m 6811,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path668"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6811,6901 h 106" />
         <path
-   d="m 6970,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path670"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6970,6901 h 106" />
         <path
-   d="m 7129,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path672"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7129,6901 h 106" />
         <path
-   d="m 7288,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path674"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7288,6901 h 106" />
         <path
-   d="m 7447,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path676"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7447,6901 h 106" />
         <path
-   d="m 7606,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path678"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7606,6901 h 106" />
         <path
-   d="m 7765,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path680"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7765,6901 h 106" />
         <path
-   d="m 7924,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path682"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7924,6901 h 106" />
         <path
-   d="m 8083,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path684"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 8083,6901 h 106" />
         <path
-   d="m 8242,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path686"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 8242,6901 h 106" />
         <path
-   d="m 8401,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path688"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 8401,6901 h 106" />
         <path
-   d="m 8560,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path690"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 8560,6901 h 106" />
         <path
-   d="m 8719,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path692"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 8719,6901 h 106" />
         <path
-   d="m 8878,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path694"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 8878,6901 h 106" />
         <path
-   d="m 9037,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path696"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 9037,6901 h 106" />
         <path
-   d="m 9196,6901 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path698"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 9196,6901 h 106" />
         <path
-   d="m 9355,6901 c 34,-2 68,-19 95,-43"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path700"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 9355,6901 c 34,-2 68,-19 95,-43" />
         <path
-   d="m 9482,6816 c 12,-21 19,-43 19,-66 v -37"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path702"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 9482,6816 c 12,-21 19,-43 19,-66 v -37" />
         <path
-   d="M 9501,6660 V 6554"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path704"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 9501,6660 V 6554" />
         <path
-   d="M 9501,6501 V 6395"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path706"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 9501,6501 V 6395" />
         <path
-   d="M 9501,6342 V 6236"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path708"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 9501,6342 V 6236" />
         <path
-   d="m 9501,6183 v -33 c 0,-24 -8,-48 -20,-69"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path710"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 9501,6183 v -33 c 0,-24 -8,-48 -20,-69" />
         <path
-   d="m 9447,6040 c -27,-24 -62,-40 -96,-40"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path712"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 9447,6040 c -27,-24 -62,-40 -96,-40" />
         <path
-   d="M 9298,6000 H 9192"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path714"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 9298,6000 H 9192" />
         <path
-   d="M 9139,6000 H 9033"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path716"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 9139,6000 H 9033" />
         <path
-   d="M 8980,6000 H 8874"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path718"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 8980,6000 H 8874" />
         <path
-   d="M 8821,6000 H 8715"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path720"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 8821,6000 H 8715" />
         <path
-   d="M 8662,6000 H 8556"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path722"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 8662,6000 H 8556" />
         <path
-   d="M 8503,6000 H 8397"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path724"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 8503,6000 H 8397" />
         <path
-   d="M 8344,6000 H 8238"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path726"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 8344,6000 H 8238" />
         <path
-   d="M 8185,6000 H 8079"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path728"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 8185,6000 H 8079" />
         <path
-   d="M 8026,6000 H 7920"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path730"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 8026,6000 H 7920" />
         <path
-   d="M 7867,6000 H 7761"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path732"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 7867,6000 H 7761" />
         <path
-   d="M 7708,6000 H 7602"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path734"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 7708,6000 H 7602" />
         <path
-   d="M 7549,6000 H 7443"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path736"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 7549,6000 H 7443" />
         <path
-   d="M 7390,6000 H 7284"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path738"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 7390,6000 H 7284" />
         <path
-   d="M 7231,6000 H 7125"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path740"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 7231,6000 H 7125" />
         <path
-   d="M 7072,6000 H 6966"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path742"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 7072,6000 H 6966" />
         <path
-   d="M 6913,6000 H 6807"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path744"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6913,6000 H 6807" />
         <path
-   d="M 6754,6000 H 6648"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path746"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6754,6000 H 6648" />
         <path
-   d="M 6595,6000 H 6489"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path748"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6595,6000 H 6489" />
         <path
-   d="M 6436,6000 H 6330"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path750"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6436,6000 H 6330" />
         <path
-   d="M 6277,6000 H 6171"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path752"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6277,6000 H 6171" />
         <path
-   d="M 6118,6000 H 6012"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path754"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6118,6000 H 6012" />
         <path
-   d="M 5959,6000 H 5853"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path756"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 5959,6000 H 5853" />
         <path
-   d="M 5800,6000 H 5694"
-   id="path758"
    style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path758"
+   d="M 5800,6000 H 5694" />
         <text
-   class="TextShape"
+   y="52.916664"
    id="text770"
-   y="52.916664"><tspan
-     class="TextParagraph"
-     font-size="529px"
-     font-weight="700"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan768"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="5594"
-       y="6608.9165"
+     font-weight="700"
+     font-size="529px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan766"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan760"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none">drink</tspan><tspan
-         id="tspan762"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none"> in</tspan><tspan
-         id="tspan764"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
-
-
-
+       y="6608.9165"
+       x="5594"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan760">drink</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none"
+         id="tspan762"> in</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan764"> cup</tspan></tspan></tspan></text>
 
 
 
@@ -917,45 +915,42 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g805">
+     id="g805"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id10">
         <rect
-   class="BoundingBox"
-   x="6099"
-   y="7400"
-   width="3403"
-   height="902"
+   style="fill:none;stroke:none"
    id="rect788"
-   style="fill:none;stroke:none" />
+   height="902"
+   width="3403"
+   y="7400"
+   x="6099"
+   class="BoundingBox" />
         <path
-   d="m 6250,7400 c -75,0 -150,75 -150,150 v 600 c 0,75 75,151 150,151 h 3100 c 75,0 151,-76 151,-151 v -600 c 0,-75 -76,-150 -151,-150 z m -150,0 z m 3401,901 z"
-   id="path790"
    style="fill:#eee8d5;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path790"
+   d="m 6250,7400 c -75,0 -150,75 -150,150 v 600 c 0,75 75,151 150,151 h 3100 c 75,0 151,-76 151,-151 v -600 c 0,-75 -76,-150 -151,-150 z m -150,0 z m 3401,901 z" />
         <text
-   class="TextShape"
-   id="text802"><tspan
-     class="TextParagraph"
-     font-size="529px"
-     font-weight="700"
+   id="text802"
+   class="TextShape"><tspan
+     style="font-weight:bold;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan800"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="6212"
-       y="8009"
+     font-weight="700"
+     font-size="529px"
+     class="TextParagraph"><tspan
+       style="-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
        id="tspan798"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan792"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none">tea</tspan><tspan
-         id="tspan794"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none"> in</tspan><tspan
-         id="tspan796"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
-
-
-
+       y="8009"
+       x="6212"
+       class="TextPosition"><tspan
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan792">tea</tspan><tspan
+         style="fill:#859900;stroke:none;-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan794"> in</tspan><tspan
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan796"> cup</tspan></tspan></tspan></text>
 
 
 
@@ -966,453 +961,450 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g988">
+     id="g988"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id11">
         <rect
-   class="BoundingBox"
-   x="147"
-   y="6486"
-   width="5408"
-   height="1329"
+   style="fill:none;stroke:none"
    id="rect807"
-   style="fill:none;stroke:none" />
+   height="1329"
+   width="5408"
+   y="6486"
+   x="147"
+   class="BoundingBox" />
         <path
-   d="m 200,6539 h 4697 l 604,611 -604,611 H 200 l 603,-611 z m 0,0 z m 5301,1222 z"
-   id="path809"
    style="fill:#fdf6e3;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path809"
+   d="m 200,6539 h 4697 l 604,611 -604,611 H 200 l 603,-611 z m 0,0 z m 5301,1222 z" />
         <path
-   d="M 200,6539 H 306"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path811"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 200,6539 H 306" />
         <path
-   d="M 359,6539 H 465"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path813"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 359,6539 H 465" />
         <path
-   d="M 518,6539 H 624"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path815"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 518,6539 H 624" />
         <path
-   d="M 677,6539 H 783"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path817"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 677,6539 H 783" />
         <path
-   d="M 836,6539 H 942"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path819"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 836,6539 H 942" />
         <path
-   d="m 995,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path821"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 995,6539 h 106" />
         <path
-   d="m 1154,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path823"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1154,6539 h 106" />
         <path
-   d="m 1313,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path825"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1313,6539 h 106" />
         <path
-   d="m 1472,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path827"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1472,6539 h 106" />
         <path
-   d="m 1631,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path829"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1631,6539 h 106" />
         <path
-   d="m 1790,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path831"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1790,6539 h 106" />
         <path
-   d="m 1949,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path833"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1949,6539 h 106" />
         <path
-   d="m 2108,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path835"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2108,6539 h 106" />
         <path
-   d="m 2267,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path837"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2267,6539 h 106" />
         <path
-   d="m 2426,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path839"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2426,6539 h 106" />
         <path
-   d="m 2585,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path841"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2585,6539 h 106" />
         <path
-   d="m 2744,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path843"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2744,6539 h 106" />
         <path
-   d="m 2903,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path845"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2903,6539 h 106" />
         <path
-   d="m 3062,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path847"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3062,6539 h 106" />
         <path
-   d="m 3221,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path849"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3221,6539 h 106" />
         <path
-   d="m 3380,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path851"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3380,6539 h 106" />
         <path
-   d="m 3539,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path853"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3539,6539 h 106" />
         <path
-   d="m 3698,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path855"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3698,6539 h 106" />
         <path
-   d="m 3857,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path857"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3857,6539 h 106" />
         <path
-   d="m 4016,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path859"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4016,6539 h 106" />
         <path
-   d="m 4175,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path861"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4175,6539 h 106" />
         <path
-   d="m 4334,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path863"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4334,6539 h 106" />
         <path
-   d="m 4493,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path865"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4493,6539 h 106" />
         <path
-   d="m 4652,6539 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path867"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4652,6539 h 106" />
         <path
-   d="m 4811,6539 h 86 l 14,14"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path869"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4811,6539 h 86 l 14,14" />
         <path
-   d="m 4948,6591 75,75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path871"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4948,6591 75,75" />
         <path
-   d="m 5060,6704 75,75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path873"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5060,6704 75,75" />
         <path
-   d="m 5172,6817 74,75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path875"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5172,6817 74,75" />
         <path
-   d="m 5284,6930 74,76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path877"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5284,6930 74,76" />
         <path
-   d="m 5395,7043 75,76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path879"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5395,7043 75,76" />
         <path
-   d="m 5495,7156 -75,76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path881"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5495,7156 -75,76" />
         <path
-   d="m 5383,7269 -75,76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path883"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5383,7269 -75,76" />
         <path
-   d="m 5271,7382 -74,76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path885"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5271,7382 -74,76" />
         <path
-   d="m 5159,7496 -74,75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path887"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5159,7496 -74,75" />
         <path
-   d="m 5048,7609 -75,75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path889"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5048,7609 -75,75" />
         <path
-   d="m 4936,7722 -39,39 h -51"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path891"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4936,7722 -39,39 h -51" />
         <path
-   d="M 4793,7761 H 4687"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path893"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4793,7761 H 4687" />
         <path
-   d="M 4634,7761 H 4528"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path895"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4634,7761 H 4528" />
         <path
-   d="M 4475,7761 H 4369"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path897"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4475,7761 H 4369" />
         <path
-   d="M 4316,7761 H 4210"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path899"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4316,7761 H 4210" />
         <path
-   d="M 4157,7761 H 4051"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path901"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4157,7761 H 4051" />
         <path
-   d="M 3998,7761 H 3892"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path903"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3998,7761 H 3892" />
         <path
-   d="M 3839,7761 H 3733"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path905"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3839,7761 H 3733" />
         <path
-   d="M 3680,7761 H 3574"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path907"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3680,7761 H 3574" />
         <path
-   d="M 3521,7761 H 3415"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path909"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3521,7761 H 3415" />
         <path
-   d="M 3362,7761 H 3256"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path911"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3362,7761 H 3256" />
         <path
-   d="M 3203,7761 H 3097"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path913"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3203,7761 H 3097" />
         <path
-   d="M 3044,7761 H 2938"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path915"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3044,7761 H 2938" />
         <path
-   d="M 2885,7761 H 2779"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path917"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2885,7761 H 2779" />
         <path
-   d="M 2726,7761 H 2620"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path919"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2726,7761 H 2620" />
         <path
-   d="M 2567,7761 H 2461"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path921"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2567,7761 H 2461" />
         <path
-   d="M 2408,7761 H 2302"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path923"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2408,7761 H 2302" />
         <path
-   d="M 2249,7761 H 2143"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path925"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2249,7761 H 2143" />
         <path
-   d="M 2090,7761 H 1984"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path927"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2090,7761 H 1984" />
         <path
-   d="M 1931,7761 H 1825"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path929"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1931,7761 H 1825" />
         <path
-   d="M 1772,7761 H 1666"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path931"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1772,7761 H 1666" />
         <path
-   d="M 1613,7761 H 1507"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path933"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1613,7761 H 1507" />
         <path
-   d="M 1454,7761 H 1348"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path935"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1454,7761 H 1348" />
         <path
-   d="M 1295,7761 H 1189"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path937"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1295,7761 H 1189" />
         <path
-   d="M 1136,7761 H 1030"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path939"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1136,7761 H 1030" />
         <path
-   d="M 977,7761 H 871"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path941"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 977,7761 H 871" />
         <path
-   d="M 818,7761 H 712"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path943"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 818,7761 H 712" />
         <path
-   d="M 659,7761 H 553"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path945"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 659,7761 H 553" />
         <path
-   d="M 500,7761 H 394"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path947"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 500,7761 H 394" />
         <path
-   d="M 341,7761 H 235"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path949"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 341,7761 H 235" />
         <path
-   d="m 212,7748 75,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path951"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 212,7748 75,-75" />
         <path
-   d="m 324,7635 75,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path953"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 324,7635 75,-75" />
         <path
-   d="m 436,7522 74,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path955"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 436,7522 74,-75" />
         <path
-   d="m 547,7409 75,-76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path957"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 547,7409 75,-76" />
         <path
-   d="m 659,7296 75,-76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path959"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 659,7296 75,-76" />
         <path
-   d="m 771,7183 32,-33 -42,-43"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path961"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 771,7183 32,-33 -42,-43" />
         <path
-   d="m 723,7069 -74,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path963"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 723,7069 -74,-75" />
         <path
-   d="m 612,6956 -75,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path965"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 612,6956 -75,-75" />
         <path
-   d="m 500,6843 -74,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path967"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 500,6843 -74,-75" />
         <path
-   d="m 388,6730 -74,-76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path969"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 388,6730 -74,-76" />
         <path
-   d="m 277,6617 -75,-76"
-   id="path971"
    style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path971"
+   d="m 277,6617 -75,-76" />
         <text
-   class="TextShape"
+   x="-105.83333"
    id="text985"
-   x="-105.83333"><tspan
-     class="TextParagraph"
-     font-size="635px"
-     font-weight="700"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan983"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="901.16663"
-       y="7305"
+     font-weight="700"
+     font-size="635px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan981"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan973"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">make</tspan><tspan
-         id="tspan975"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">(</tspan><tspan
-         id="tspan977"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">drink</tspan><tspan
-         id="tspan979"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
-
-
-
+       y="7305"
+       x="901.16663"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none"
+         id="tspan973">make</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan975">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
+         id="tspan977">drink</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan979">)</tspan></tspan></tspan></text>
 
 
 
@@ -1423,34 +1415,31 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.TextShape"
-     id="g1001">
+     id="g1001"
+     class="com.sun.star.drawing.TextShape">
        <g
    id="id12">
         <rect
-   class="BoundingBox"
-   x="100"
-   y="4599"
-   width="10001"
-   height="2386"
+   style="fill:none;stroke:none"
    id="rect990"
-   style="fill:none;stroke:none" />
+   height="2386"
+   width="10001"
+   y="4599"
+   x="100"
+   class="BoundingBox" />
         <text
-   class="TextShape"
-   id="text998"><tspan
-     class="TextParagraph"
-     font-size="917px"
-     font-weight="400"
+   id="text998"
+   class="TextShape"><tspan
+     style="font-weight:900;font-size:917px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan996"
-     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:917px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"><tspan
-       class="TextPosition"
-       x="350"
-       y="5575"
+     font-weight="400"
+     font-size="917px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#657b83;stroke:none"
        id="tspan994"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#657b83;stroke:none">2. Variable unification</tspan></tspan></text>
-
-
-
+       y="5575"
+       x="350"
+       class="TextPosition">2. Variable unification</tspan></tspan></text>
 
 
 
@@ -1461,50 +1450,47 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g1048">
+     id="g1048"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id15">
         <rect
-   class="BoundingBox"
-   x="9847"
-   y="6597"
-   width="3909"
-   height="1108"
+   style="fill:none;stroke:none"
    id="rect1029"
-   style="fill:none;stroke:none" />
+   height="1108"
+   width="3909"
+   y="6597"
+   x="9847"
+   class="BoundingBox" />
         <path
-   d="m 10066,6650 c -83,0 -166,83 -166,166 v 668 c 0,83 83,167 166,167 h 3468 c 83,0 167,-84 167,-167 v -668 c 0,-83 -84,-166 -167,-166 z m -166,0 z m 3801,1001 z"
-   id="path1031"
    style="fill:#eee8d5;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1031"
+   d="m 10066,6650 c -83,0 -166,83 -166,166 v 668 c 0,83 83,167 166,167 h 3468 c 83,0 167,-84 167,-167 v -668 c 0,-83 -84,-166 -167,-166 z m -166,0 z m 3801,1001 z" />
         <path
-   d="m 10066,6650 c -83,0 -166,83 -166,166 v 668 c 0,83 83,167 166,167 h 3468 c 83,0 167,-84 167,-167 v -668 c 0,-83 -84,-166 -167,-166 z"
-   id="path1033"
    style="fill:none;stroke:#dc322f;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1033"
+   d="m 10066,6650 c -83,0 -166,83 -166,166 v 668 c 0,83 83,167 166,167 h 3468 c 83,0 167,-84 167,-167 v -668 c 0,-83 -84,-166 -167,-166 z" />
         <text
-   class="TextShape"
-   id="text1045"><tspan
-     class="TextParagraph"
-     font-size="529px"
-     font-weight="700"
+   id="text1045"
+   class="TextShape"><tspan
+     style="font-weight:bold;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan1043"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="10053"
-       y="7301"
+     font-weight="700"
+     font-size="529px"
+     class="TextParagraph"><tspan
+       style="-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
        id="tspan1041"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan1035"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none">drink </tspan><tspan
-         id="tspan1037"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">:</tspan><tspan
-         id="tspan1039"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"> tea</tspan></tspan></tspan></text>
-
-
-
+       y="7301"
+       x="10053"
+       class="TextPosition"><tspan
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan1035">drink </tspan><tspan
+         style="fill:#dc322f;stroke:none;-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan1037">:</tspan><tspan
+         style="fill:#93a1a1;stroke:none;-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-family:'Recursive Mono Linear Static';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan1039"> tea</tspan></tspan></tspan></text>
 
 
 
@@ -1525,36 +1511,32 @@
       
       
       <g
-   transform="translate(-5976.392,-7190.9159)"
    id="g2065"><g
-     class="com.sun.star.drawing.TextShape"
-     id="g1183">
+     id="g1183"
+     class="com.sun.star.drawing.TextShape">
        <g
    id="id22">
         <rect
-   class="BoundingBox"
-   x="0"
-   y="16500"
-   width="10501"
-   height="1427"
+   style="fill:none;stroke:none"
    id="rect1172"
-   style="fill:none;stroke:none" />
+   height="1427"
+   width="10501"
+   y="16500"
+   x="0"
+   class="BoundingBox" />
         <text
-   class="TextShape"
-   id="text1180"><tspan
-     class="TextParagraph"
-     font-size="917px"
-     font-weight="400"
+   id="text1180"
+   class="TextShape"><tspan
+     style="font-weight:900;font-size:917px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan1178"
-     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:917px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"><tspan
-       class="TextPosition"
-       x="250"
-       y="17476"
+     font-weight="400"
+     font-size="917px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#657b83;stroke:none"
        id="tspan1176"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#657b83;stroke:none">5. Side effects search</tspan></tspan></text>
-
-
-
+       y="17476"
+       x="250"
+       class="TextPosition">5. Side effects search</tspan></tspan></text>
 
 
 
@@ -1565,53 +1547,50 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g1206">
+     id="g1206"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id23">
         <rect
-   class="BoundingBox"
-   x="4547"
-   y="18036"
-   width="4608"
-   height="1330"
+   style="fill:none;stroke:none"
    id="rect1185"
-   style="fill:none;stroke:none" />
+   height="1330"
+   width="4608"
+   y="18036"
+   x="4547"
+   class="BoundingBox" />
         <path
-   d="m 4600,18089 h 3964 l 537,611 -537,611 H 4600 l 537,-611 z m 0,0 z m 4501,1222 z"
-   id="path1187"
    style="fill:#fdf6e3;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1187"
+   d="m 4600,18089 h 3964 l 537,611 -537,611 H 4600 l 537,-611 z m 0,0 z m 4501,1222 z" />
         <path
-   d="m 4600,18089 h 3964 l 537,611 -537,611 H 4600 l 537,-611 z"
-   id="path1189"
    style="fill:none;stroke:#cb4b16;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1189"
+   d="m 4600,18089 h 3964 l 537,611 -537,611 H 4600 l 537,-611 z" />
         <text
-   class="TextShape"
+   x="-105.83333"
    id="text1203"
-   x="-105.83333"><tspan
-     class="TextParagraph"
-     font-size="635px"
-     font-weight="700"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan1201"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="5263.167"
-       y="18855"
+     font-weight="700"
+     font-size="635px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan1199"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan1191"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">make</tspan><tspan
-         id="tspan1193"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">(</tspan><tspan
-         id="tspan1195"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">tea</tspan><tspan
-         id="tspan1197"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
-
-
-
+       y="18855"
+       x="5263.167"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none"
+         id="tspan1191">make</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan1193">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
+         id="tspan1195">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan1197">)</tspan></tspan></tspan></text>
 
 
 
@@ -1622,48 +1601,45 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g1227">
+     id="g1227"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id24">
         <rect
-   class="BoundingBox"
-   x="1439"
-   y="18300"
-   width="3153"
-   height="802"
+   style="fill:none;stroke:none"
    id="rect1208"
-   style="fill:none;stroke:none" />
+   height="802"
+   width="3153"
+   y="18300"
+   x="1439"
+   class="BoundingBox" />
         <path
-   d="m 1633,18300 c -67,0 -133,66 -133,133 v 534 c 0,67 66,134 133,134 h 2824 c 66,0 133,-67 133,-134 v -534 c 0,-67 -67,-133 -133,-133 z m -133,0 z m 3091,801 z"
-   id="path1210"
    style="fill:#eee8d5;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1210"
+   d="m 1633,18300 c -67,0 -133,66 -133,133 v 534 c 0,67 66,134 133,134 h 2824 c 66,0 133,-67 133,-134 v -534 c 0,-67 -67,-133 -133,-133 z m -133,0 z m 3091,801 z" />
         <text
-   class="TextShape"
+   y="105.83333"
    id="text1224"
-   y="105.83333"><tspan
-     class="TextParagraph"
-     font-size="529px"
-     font-weight="700"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan1222"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="1456"
-       y="18918.832"
+     font-weight="700"
+     font-size="529px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan1220"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan1212"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none">taken</tspan><tspan
-         id="tspan1214"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">(</tspan><tspan
-         id="tspan1216"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none">tea</tspan><tspan
-         id="tspan1218"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">)</tspan></tspan></tspan></text>
-
-
-
+       y="18918.832"
+       x="1456"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none"
+         id="tspan1212">taken</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
+         id="tspan1214">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan1216">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
+         id="tspan1218">)</tspan></tspan></tspan></text>
 
 
 
@@ -1674,34 +1650,31 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.TextShape"
-     id="g1240">
+     id="g1240"
+     class="com.sun.star.drawing.TextShape">
        <g
    id="id25">
         <rect
-   class="BoundingBox"
-   x="700"
-   y="18000"
-   width="1001"
-   height="1401"
+   style="fill:none;stroke:none"
    id="rect1229"
-   style="fill:none;stroke:none" />
+   height="1401"
+   width="1001"
+   y="18000"
+   x="700"
+   class="BoundingBox" />
         <text
-   class="TextShape"
-   id="text1237"><tspan
-     class="TextParagraph"
-     font-size="917px"
-     font-weight="700"
+   id="text1237"
+   class="TextShape"><tspan
+     style="font-weight:bold;font-size:917px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan1235"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:917px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="950"
-       y="18976"
+     font-weight="700"
+     font-size="917px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
        id="tspan1233"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">?</tspan></tspan></text>
-
-
-
+       y="18976"
+       x="950"
+       class="TextPosition">?</tspan></tspan></text>
 
 
 
@@ -1713,620 +1686,653 @@
        </g>
       </g></g>
       <g
-   transform="translate(0,423.33328)"
-   id="g1247"
-   class="com.sun.star.drawing.LineShape">
+   class="com.sun.star.drawing.LineShape"
+   id="g1247">
        <g
    id="id26">
         <rect
-   style="fill:none;stroke:none"
-   id="rect1242"
-   height="107"
-   width="14107"
-   y="8647"
+   class="BoundingBox"
    x="-53"
-   class="BoundingBox" />
+   y="8647"
+   width="14107"
+   height="107"
+   id="rect1242"
+   style="fill:none;stroke:none" />
         <path
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   id="path1244"
    d="M 0,8700 H 14000"
-   inkscape:connector-curvature="0" />
+   id="path1244"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
        </g>
       </g>
       <g
-   transform="translate(0,-370.41662)"
-   id="g1254"
-   class="com.sun.star.drawing.LineShape">
+   class="com.sun.star.drawing.LineShape"
+   id="g1254">
        <g
    id="id27">
         <rect
-   style="fill:none;stroke:none"
-   id="rect1249"
-   height="107"
-   width="14107"
-   y="4647"
+   class="BoundingBox"
    x="-53"
-   class="BoundingBox" />
+   y="4647"
+   width="14107"
+   height="107"
+   id="rect1249"
+   style="fill:none;stroke:none" />
         <path
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   id="path1251"
    d="M 0,4700 H 14000"
-   inkscape:connector-curvature="0" />
+   id="path1251"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
        </g>
       </g>
-      
-      
       <g
-   transform="translate(-6022.392,-413.7925)"
-   id="g1929"><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g421">
+   class="com.sun.star.drawing.LineShape"
+   id="g1261">
+       <g
+   id="id28">
+        <rect
+   class="BoundingBox"
+   x="-53"
+   y="13347"
+   width="14107"
+   height="107"
+   id="rect1256"
+   style="fill:none;stroke:none" />
+        <path
+   d="M 0,13400 H 14000"
+   id="path1258"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
+       </g>
+      </g>
+      <g
+   class="com.sun.star.drawing.LineShape"
+   id="g1268">
+       <g
+   id="id29">
+        <rect
+   class="BoundingBox"
+   x="-53"
+   y="16547"
+   width="14107"
+   height="107"
+   id="rect1263"
+   style="fill:none;stroke:none" />
+        <path
+   d="M 0,16600 H 14000"
+   id="path1265"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round" />
+       </g>
+      </g>
+      <g
+   id="g1929"
+   transform="translate(808.9781,-179.77291)"><g
+     id="g421"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id4">
         <rect
-   class="BoundingBox"
-   x="47"
-   y="3047"
-   width="7508"
-   height="1208"
+   style="fill:none;stroke:none"
    id="rect190"
-   style="fill:none;stroke:none" />
+   height="1208"
+   width="7508"
+   y="3047"
+   x="47"
+   class="BoundingBox" />
         <path
-   d="m 100,3100 h 6963 l 438,550 -438,551 H 100 l 437,-551 z m 0,0 z m 7401,1101 z"
-   id="path192"
    style="fill:#fdf6e3;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path192"
+   d="m 100,3100 h 6963 l 438,550 -438,551 H 100 l 437,-551 z m 0,0 z m 7401,1101 z" />
         <path
-   d="m 127,3134 -27,-34 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path194"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 127,3134 -27,-34 h 106" />
         <path
-   d="M 259,3100 H 365"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path196"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 259,3100 H 365" />
         <path
-   d="M 418,3100 H 524"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path198"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 418,3100 H 524" />
         <path
-   d="M 577,3100 H 683"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path200"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 577,3100 H 683" />
         <path
-   d="M 736,3100 H 842"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path202"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 736,3100 H 842" />
         <path
-   d="m 895,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path204"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 895,3100 h 106" />
         <path
-   d="m 1054,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path206"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1054,3100 h 106" />
         <path
-   d="m 1213,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path208"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1213,3100 h 106" />
         <path
-   d="m 1372,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path210"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1372,3100 h 106" />
         <path
-   d="m 1531,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path212"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1531,3100 h 106" />
         <path
-   d="m 1690,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path214"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1690,3100 h 106" />
         <path
-   d="m 1849,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path216"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1849,3100 h 106" />
         <path
-   d="m 2008,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path218"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2008,3100 h 106" />
         <path
-   d="m 2167,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path220"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2167,3100 h 106" />
         <path
-   d="m 2326,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path222"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2326,3100 h 106" />
         <path
-   d="m 2485,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path224"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2485,3100 h 106" />
         <path
-   d="m 2644,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path226"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2644,3100 h 106" />
         <path
-   d="m 2803,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path228"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2803,3100 h 106" />
         <path
-   d="m 2962,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path230"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2962,3100 h 106" />
         <path
-   d="m 3121,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path232"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3121,3100 h 106" />
         <path
-   d="m 3280,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path234"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3280,3100 h 106" />
         <path
-   d="m 3439,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path236"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3439,3100 h 106" />
         <path
-   d="m 3598,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path238"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3598,3100 h 106" />
         <path
-   d="m 3757,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path240"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3757,3100 h 106" />
         <path
-   d="m 3916,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path242"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3916,3100 h 106" />
         <path
-   d="m 4075,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path244"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4075,3100 h 106" />
         <path
-   d="m 4234,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path246"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4234,3100 h 106" />
         <path
-   d="m 4393,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path248"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4393,3100 h 106" />
         <path
-   d="m 4552,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path250"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4552,3100 h 106" />
         <path
-   d="m 4711,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path252"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4711,3100 h 106" />
         <path
-   d="m 4870,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path254"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4870,3100 h 106" />
         <path
-   d="m 5029,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path256"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5029,3100 h 106" />
         <path
-   d="m 5188,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path258"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5188,3100 h 106" />
         <path
-   d="m 5347,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path260"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5347,3100 h 106" />
         <path
-   d="m 5506,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path262"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5506,3100 h 106" />
         <path
-   d="m 5665,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path264"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5665,3100 h 106" />
         <path
-   d="m 5824,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path266"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5824,3100 h 106" />
         <path
-   d="m 5983,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path268"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5983,3100 h 106" />
         <path
-   d="m 6142,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path270"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6142,3100 h 106" />
         <path
-   d="m 6301,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path272"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6301,3100 h 106" />
         <path
-   d="m 6460,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path274"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6460,3100 h 106" />
         <path
-   d="m 6619,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path276"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6619,3100 h 106" />
         <path
-   d="m 6778,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path278"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6778,3100 h 106" />
         <path
-   d="m 6937,3100 h 106"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path280"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 6937,3100 h 106" />
         <path
-   d="m 7084,3126 66,83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path282"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7084,3126 66,83" />
         <path
-   d="m 7183,3250 66,83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path284"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7183,3250 66,83" />
         <path
-   d="m 7282,3375 66,82"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path286"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7282,3375 66,82" />
         <path
-   d="m 7381,3499 66,83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path288"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7381,3499 66,83" />
         <path
-   d="m 7480,3623 21,27 -45,56"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path290"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7480,3623 21,27 -45,56" />
         <path
-   d="m 7423,3748 -66,83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path292"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7423,3748 -66,83" />
         <path
-   d="m 7324,3872 -66,83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path294"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7324,3872 -66,83" />
         <path
-   d="m 7225,3997 -66,83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path296"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7225,3997 -66,83" />
         <path
-   d="m 7126,4121 -63,80 h -4"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path298"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 7126,4121 -63,80 h -4" />
         <path
-   d="M 7006,4201 H 6900"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path300"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 7006,4201 H 6900" />
         <path
-   d="M 6847,4201 H 6741"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path302"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6847,4201 H 6741" />
         <path
-   d="M 6688,4201 H 6582"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path304"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6688,4201 H 6582" />
         <path
-   d="M 6529,4201 H 6423"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path306"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6529,4201 H 6423" />
         <path
-   d="M 6370,4201 H 6264"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path308"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6370,4201 H 6264" />
         <path
-   d="M 6211,4201 H 6105"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path310"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6211,4201 H 6105" />
         <path
-   d="M 6052,4201 H 5946"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path312"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 6052,4201 H 5946" />
         <path
-   d="M 5893,4201 H 5787"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path314"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 5893,4201 H 5787" />
         <path
-   d="M 5734,4201 H 5628"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path316"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 5734,4201 H 5628" />
         <path
-   d="M 5575,4201 H 5469"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path318"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 5575,4201 H 5469" />
         <path
-   d="M 5416,4201 H 5310"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path320"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 5416,4201 H 5310" />
         <path
-   d="M 5257,4201 H 5151"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path322"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 5257,4201 H 5151" />
         <path
-   d="M 5098,4201 H 4992"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path324"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 5098,4201 H 4992" />
         <path
-   d="M 4939,4201 H 4833"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path326"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4939,4201 H 4833" />
         <path
-   d="M 4780,4201 H 4674"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path328"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4780,4201 H 4674" />
         <path
-   d="M 4621,4201 H 4515"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path330"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4621,4201 H 4515" />
         <path
-   d="M 4462,4201 H 4356"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path332"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4462,4201 H 4356" />
         <path
-   d="M 4303,4201 H 4197"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path334"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4303,4201 H 4197" />
         <path
-   d="M 4144,4201 H 4038"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path336"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4144,4201 H 4038" />
         <path
-   d="M 3985,4201 H 3879"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path338"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3985,4201 H 3879" />
         <path
-   d="M 3826,4201 H 3720"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path340"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3826,4201 H 3720" />
         <path
-   d="M 3667,4201 H 3561"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path342"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3667,4201 H 3561" />
         <path
-   d="M 3508,4201 H 3402"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path344"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3508,4201 H 3402" />
         <path
-   d="M 3349,4201 H 3243"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path346"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3349,4201 H 3243" />
         <path
-   d="M 3190,4201 H 3084"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path348"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3190,4201 H 3084" />
         <path
-   d="M 3031,4201 H 2925"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path350"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3031,4201 H 2925" />
         <path
-   d="M 2872,4201 H 2766"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path352"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2872,4201 H 2766" />
         <path
-   d="M 2713,4201 H 2607"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path354"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2713,4201 H 2607" />
         <path
-   d="M 2554,4201 H 2448"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path356"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2554,4201 H 2448" />
         <path
-   d="M 2395,4201 H 2289"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path358"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2395,4201 H 2289" />
         <path
-   d="M 2236,4201 H 2130"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path360"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2236,4201 H 2130" />
         <path
-   d="M 2077,4201 H 1971"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path362"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2077,4201 H 1971" />
         <path
-   d="M 1918,4201 H 1812"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path364"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1918,4201 H 1812" />
         <path
-   d="M 1759,4201 H 1653"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path366"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1759,4201 H 1653" />
         <path
-   d="M 1600,4201 H 1494"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path368"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1600,4201 H 1494" />
         <path
-   d="M 1441,4201 H 1335"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path370"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1441,4201 H 1335" />
         <path
-   d="M 1282,4201 H 1176"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path372"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1282,4201 H 1176" />
         <path
-   d="M 1123,4201 H 1017"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path374"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1123,4201 H 1017" />
         <path
-   d="M 964,4201 H 858"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path376"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 964,4201 H 858" />
         <path
-   d="M 805,4201 H 699"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path378"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 805,4201 H 699" />
         <path
-   d="M 646,4201 H 540"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path380"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 646,4201 H 540" />
         <path
-   d="M 487,4201 H 381"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path382"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 487,4201 H 381" />
         <path
-   d="M 328,4201 H 222"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path384"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 328,4201 H 222" />
         <path
-   d="m 169,4201 h -69 l 23,-29"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path386"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 169,4201 h -69 l 23,-29" />
         <path
-   d="m 156,4130 66,-83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path388"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 156,4130 66,-83" />
         <path
-   d="m 255,4006 66,-83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path390"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 255,4006 66,-83" />
         <path
-   d="m 354,3881 65,-83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path392"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 354,3881 65,-83" />
         <path
-   d="m 452,3757 66,-83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path394"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 452,3757 66,-83" />
         <path
-   d="m 523,3632 -66,-83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path396"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 523,3632 -66,-83" />
         <path
-   d="m 424,3508 -66,-83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path398"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 424,3508 -66,-83" />
         <path
-   d="m 325,3383 -66,-83"
+   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path400"
-   style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 325,3383 -66,-83" />
         <path
-   d="m 226,3259 -66,-83"
-   id="path402"
    style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path402"
+   d="m 226,3259 -66,-83" />
         <text
-   class="TextShape"
-   id="text418"><tspan
-     class="TextParagraph"
-     font-size="635px"
-     font-weight="700"
+   id="text418"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan416"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="721"
-       y="3866"
+     font-weight="700"
+     font-size="635px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan414"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan404"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">pour</tspan><tspan
-         id="tspan406"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">(</tspan><tspan
-         id="tspan408"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none">thing</tspan><tspan
-         id="tspan410"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">, into</tspan><tspan
-         id="tspan412"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
-
-
-
+       y="3866"
+       x="721"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none"
+         id="tspan404">pour</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan406">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan408">thing</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
+         id="tspan410">, into</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan412">)</tspan></tspan></tspan></text>
 
 
 
@@ -2337,453 +2343,450 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g604">
+     id="g604"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id5">
         <rect
-   class="BoundingBox"
-   x="46"
-   y="1563"
-   width="5409"
-   height="1329"
+   style="fill:none;stroke:none"
    id="rect423"
-   style="fill:none;stroke:none" />
+   height="1329"
+   width="5409"
+   y="1563"
+   x="46"
+   class="BoundingBox" />
         <path
-   d="m 100,1616 h 4697 l 604,611 -604,611 H 100 l 603,-611 z m 0,0 z m 5301,1222 z"
-   id="path425"
    style="fill:#fdf6e3;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path425"
+   d="m 100,1616 h 4697 l 604,611 -604,611 H 100 l 603,-611 z m 0,0 z m 5301,1222 z" />
         <path
-   d="M 100,1616 H 206"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path427"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 100,1616 H 206" />
         <path
-   d="M 259,1616 H 365"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path429"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 259,1616 H 365" />
         <path
-   d="M 418,1616 H 524"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path431"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 418,1616 H 524" />
         <path
-   d="M 577,1616 H 683"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path433"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 577,1616 H 683" />
         <path
-   d="M 736,1616 H 842"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path435"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 736,1616 H 842" />
         <path
-   d="m 895,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path437"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 895,1616 h 106" />
         <path
-   d="m 1054,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path439"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1054,1616 h 106" />
         <path
-   d="m 1213,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path441"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1213,1616 h 106" />
         <path
-   d="m 1372,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path443"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1372,1616 h 106" />
         <path
-   d="m 1531,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path445"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1531,1616 h 106" />
         <path
-   d="m 1690,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path447"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1690,1616 h 106" />
         <path
-   d="m 1849,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path449"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 1849,1616 h 106" />
         <path
-   d="m 2008,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path451"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2008,1616 h 106" />
         <path
-   d="m 2167,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path453"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2167,1616 h 106" />
         <path
-   d="m 2326,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path455"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2326,1616 h 106" />
         <path
-   d="m 2485,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path457"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2485,1616 h 106" />
         <path
-   d="m 2644,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path459"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2644,1616 h 106" />
         <path
-   d="m 2803,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path461"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2803,1616 h 106" />
         <path
-   d="m 2962,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path463"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 2962,1616 h 106" />
         <path
-   d="m 3121,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path465"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3121,1616 h 106" />
         <path
-   d="m 3280,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path467"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3280,1616 h 106" />
         <path
-   d="m 3439,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path469"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3439,1616 h 106" />
         <path
-   d="m 3598,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path471"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3598,1616 h 106" />
         <path
-   d="m 3757,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path473"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3757,1616 h 106" />
         <path
-   d="m 3916,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path475"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 3916,1616 h 106" />
         <path
-   d="m 4075,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path477"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4075,1616 h 106" />
         <path
-   d="m 4234,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path479"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4234,1616 h 106" />
         <path
-   d="m 4393,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path481"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4393,1616 h 106" />
         <path
-   d="m 4552,1616 h 106"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path483"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4552,1616 h 106" />
         <path
-   d="m 4711,1616 h 86 l 14,14"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path485"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4711,1616 h 86 l 14,14" />
         <path
-   d="m 4848,1668 75,75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path487"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4848,1668 75,75" />
         <path
-   d="m 4960,1781 75,75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path489"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4960,1781 75,75" />
         <path
-   d="m 5072,1894 74,75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path491"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5072,1894 74,75" />
         <path
-   d="m 5184,2007 74,76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path493"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5184,2007 74,76" />
         <path
-   d="m 5295,2120 75,76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path495"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5295,2120 75,76" />
         <path
-   d="m 5395,2233 -75,76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path497"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5395,2233 -75,76" />
         <path
-   d="m 5283,2346 -75,76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path499"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5283,2346 -75,76" />
         <path
-   d="m 5171,2459 -74,76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path501"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5171,2459 -74,76" />
         <path
-   d="m 5059,2573 -74,75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path503"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 5059,2573 -74,75" />
         <path
-   d="m 4948,2686 -75,75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path505"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4948,2686 -75,75" />
         <path
-   d="m 4836,2799 -39,39 h -51"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path507"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 4836,2799 -39,39 h -51" />
         <path
-   d="M 4693,2838 H 4587"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path509"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4693,2838 H 4587" />
         <path
-   d="M 4534,2838 H 4428"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path511"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4534,2838 H 4428" />
         <path
-   d="M 4375,2838 H 4269"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path513"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4375,2838 H 4269" />
         <path
-   d="M 4216,2838 H 4110"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path515"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4216,2838 H 4110" />
         <path
-   d="M 4057,2838 H 3951"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path517"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 4057,2838 H 3951" />
         <path
-   d="M 3898,2838 H 3792"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path519"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3898,2838 H 3792" />
         <path
-   d="M 3739,2838 H 3633"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path521"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3739,2838 H 3633" />
         <path
-   d="M 3580,2838 H 3474"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path523"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3580,2838 H 3474" />
         <path
-   d="M 3421,2838 H 3315"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path525"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3421,2838 H 3315" />
         <path
-   d="M 3262,2838 H 3156"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path527"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3262,2838 H 3156" />
         <path
-   d="M 3103,2838 H 2997"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path529"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 3103,2838 H 2997" />
         <path
-   d="M 2944,2838 H 2838"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path531"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2944,2838 H 2838" />
         <path
-   d="M 2785,2838 H 2679"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path533"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2785,2838 H 2679" />
         <path
-   d="M 2626,2838 H 2520"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path535"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2626,2838 H 2520" />
         <path
-   d="M 2467,2838 H 2361"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path537"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2467,2838 H 2361" />
         <path
-   d="M 2308,2838 H 2202"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path539"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2308,2838 H 2202" />
         <path
-   d="M 2149,2838 H 2043"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path541"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 2149,2838 H 2043" />
         <path
-   d="M 1990,2838 H 1884"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path543"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1990,2838 H 1884" />
         <path
-   d="M 1831,2838 H 1725"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path545"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1831,2838 H 1725" />
         <path
-   d="M 1672,2838 H 1566"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path547"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1672,2838 H 1566" />
         <path
-   d="M 1513,2838 H 1407"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path549"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1513,2838 H 1407" />
         <path
-   d="M 1354,2838 H 1248"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path551"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1354,2838 H 1248" />
         <path
-   d="M 1195,2838 H 1089"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path553"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1195,2838 H 1089" />
         <path
-   d="M 1036,2838 H 930"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path555"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 1036,2838 H 930" />
         <path
-   d="M 877,2838 H 771"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path557"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 877,2838 H 771" />
         <path
-   d="M 718,2838 H 612"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path559"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 718,2838 H 612" />
         <path
-   d="M 559,2838 H 453"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path561"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 559,2838 H 453" />
         <path
-   d="M 400,2838 H 294"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path563"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 400,2838 H 294" />
         <path
-   d="M 241,2838 H 135"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path565"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="M 241,2838 H 135" />
         <path
-   d="m 112,2825 75,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path567"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 112,2825 75,-75" />
         <path
-   d="m 224,2712 75,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path569"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 224,2712 75,-75" />
         <path
-   d="m 336,2599 74,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path571"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 336,2599 74,-75" />
         <path
-   d="m 447,2486 75,-76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path573"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 447,2486 75,-76" />
         <path
-   d="m 559,2373 75,-76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path575"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 559,2373 75,-76" />
         <path
-   d="m 671,2260 32,-33 -42,-43"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path577"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 671,2260 32,-33 -42,-43" />
         <path
-   d="m 623,2146 -74,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path579"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 623,2146 -74,-75" />
         <path
-   d="m 512,2033 -75,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path581"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 512,2033 -75,-75" />
         <path
-   d="m 400,1920 -74,-75"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path583"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 400,1920 -74,-75" />
         <path
-   d="m 288,1807 -74,-76"
+   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
+   inkscape:connector-curvature="0"
    id="path585"
-   style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   d="m 288,1807 -74,-76" />
         <path
-   d="m 177,1694 -75,-76"
-   id="path587"
    style="fill:none;stroke:#839496;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path587"
+   d="m 177,1694 -75,-76" />
         <text
-   class="TextShape"
+   x="-105.83333"
    id="text601"
-   x="-105.83333"><tspan
-     class="TextParagraph"
-     font-size="635px"
-     font-weight="700"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan599"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="801.16663"
-       y="2382"
+     font-weight="700"
+     font-size="635px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan597"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan589"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">make</tspan><tspan
-         id="tspan591"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">(</tspan><tspan
-         id="tspan593"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">drink</tspan><tspan
-         id="tspan595"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
-
-
-
+       y="2382"
+       x="801.16663"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none"
+         id="tspan589">make</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan591">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
+         id="tspan593">drink</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan595">)</tspan></tspan></tspan></text>
 
 
 
@@ -2794,45 +2797,42 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g623">
+     id="g623"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id6">
         <rect
-   class="BoundingBox"
-   x="6600"
-   y="1777"
-   width="3402"
-   height="902"
+   style="fill:none;stroke:none"
    id="rect606"
-   style="fill:none;stroke:none" />
+   height="902"
+   width="3402"
+   y="1777"
+   x="6600"
+   class="BoundingBox" />
         <path
-   d="M 6757.2681,1777 C 6678.634,1777 6600,1852 6600,1927 v 600 c 0,75 78.634,151 157.2681,151 h 3250.2069 c 78.634,0 158.317,-76 158.317,-151 v -600 c 0,-75 -79.683,-150 -158.317,-150 z M 6600,1777 Z m 3565.792,901 z"
-   id="path608"
    style="fill:#eee8d5;stroke:none;stroke-width:28.89764595"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path608"
+   d="M 6757.2681,1777 C 6678.634,1777 6600,1852 6600,1927 v 600 c 0,75 78.634,151 157.2681,151 h 3250.2069 c 78.634,0 158.317,-76 158.317,-151 v -600 c 0,-75 -79.683,-150 -158.317,-150 z M 6600,1777 Z m 3565.792,901 z" />
         <text
-   class="TextShape"
-   id="text620"><tspan
-     class="TextParagraph"
-     font-size="529px"
-     font-weight="700"
+   id="text620"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan618"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="6712"
-       y="2386"
+     font-weight="700"
+     font-size="529px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan616"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan610"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none">tea</tspan><tspan
-         id="tspan612"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none"> in</tspan><tspan
-         id="tspan614"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
-
-
-
+       y="2386"
+       x="6712"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan610">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none"
+         id="tspan612"> in</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan614"> cup</tspan></tspan></tspan></text>
 
 
 
@@ -2843,34 +2843,31 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.TextShape"
-     id="g636">
+     id="g636"
+     class="com.sun.star.drawing.TextShape">
        <g
    id="id7">
         <rect
-   class="BoundingBox"
-   x="5600"
-   y="1527"
-   width="1001"
-   height="1401"
+   style="fill:none;stroke:none"
    id="rect625"
-   style="fill:none;stroke:none" />
+   height="1401"
+   width="1001"
+   y="1527"
+   x="5600"
+   class="BoundingBox" />
         <text
-   class="TextShape"
-   id="text633"><tspan
-     class="TextParagraph"
-     font-size="917px"
-     font-weight="700"
+   id="text633"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:917px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan631"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:917px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="5850"
-       y="2503"
+     font-weight="700"
+     font-size="917px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
        id="tspan629"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">?</tspan></tspan></text>
-
-
-
+       y="2503"
+       x="5850"
+       class="TextPosition">?</tspan></tspan></text>
 
 
 
@@ -2881,34 +2878,31 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.TextShape"
-     id="g786">
+     id="g786"
+     class="com.sun.star.drawing.TextShape">
        <g
    id="id9">
         <rect
-   class="BoundingBox"
-   x="200"
-   y="99"
-   width="10401"
-   height="2386"
+   style="fill:none;stroke:none"
    id="rect775"
-   style="fill:none;stroke:none" />
+   height="2386"
+   width="10401"
+   y="99"
+   x="200"
+   class="BoundingBox" />
         <text
-   class="TextShape"
-   id="text783"><tspan
-     class="TextParagraph"
-     font-size="917px"
-     font-weight="400"
+   id="text783"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:917px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"
      id="tspan781"
-     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:917px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"><tspan
-       class="TextPosition"
-       x="450"
-       y="1075"
+     font-weight="400"
+     font-size="917px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#657b83;stroke:none"
        id="tspan779"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#657b83;stroke:none">1. Resolver candidates</tspan></tspan></text>
-
-
-
+       y="1075"
+       x="450"
+       class="TextPosition">1. Resolver candidates</tspan></tspan></text>
 
 
 
@@ -2919,49 +2913,46 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
+     transform="translate(264.58334)"
      id="g1287"
-     transform="translate(264.58334)">
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id30">
         <rect
-   class="BoundingBox"
-   x="9789"
-   y="1600"
-   width="1213"
-   height="1202"
+   style="fill:none;stroke:none"
    id="rect1270"
-   style="fill:none;stroke:none" />
+   height="1202"
+   width="1213"
+   y="1600"
+   x="9789"
+   class="BoundingBox" />
         <path
-   d="m 10395,1600 c 343,0 605,260 605,600 0,340 -262,600 -605,600 -343,0 -605,-260 -605,-600 0,-340 262,-600 605,-600 z m -605,0 z m 1211,1201 z"
-   id="path1272"
    style="fill:#d33682;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1272"
+   d="m 10395,1600 c 343,0 605,260 605,600 0,340 -262,600 -605,600 -343,0 -605,-260 -605,-600 0,-340 262,-600 605,-600 z m -605,0 z m 1211,1201 z" />
         <text
-   class="TextShape"
-   id="text1284"><tspan
-     class="TextParagraph"
-     font-size="573px"
-     font-weight="400"
+   id="text1284"
+   class="TextShape"><tspan
+     style="font-weight:400;font-size:573px;font-family:'STIX Two Math'"
      id="tspan1282"
-     style="font-weight:400;font-size:573px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="10016"
+     font-weight="400"
+     font-size="573px"
+     class="TextParagraph"><tspan
+       id="tspan1276"
        y="2465"
-       id="tspan1276"><tspan
-         font-size="988px"
-         font-style="italic"
+       x="10016"
+       class="TextPosition"><tspan
+         style="font-style:italic;font-size:988px;font-family:'STIX Two Text';fill:#fdf6e3;stroke:none"
          id="tspan1274"
-         style="font-style:italic;font-size:988px;font-family:'STIX Two Text';fill:#fdf6e3;stroke:none">a</tspan></tspan><tspan
-       class="TextPosition"
-       x="10541"
+         font-style="italic"
+         font-size="988px">a</tspan></tspan><tspan
+       id="tspan1280"
        y="2139"
-       id="tspan1280"><tspan
-         id="tspan1278"
-         style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
-
-
-
+       x="10541"
+       class="TextPosition"><tspan
+         style="fill:#fdf6e3;stroke:none"
+         id="tspan1278">*</tspan></tspan></tspan></text>
 
 
 
@@ -2973,36 +2964,32 @@
        </g>
       </g></g>
       <g
-   transform="translate(-6076.392,-4176.8547)"
    id="g1988"><g
-     class="com.sun.star.drawing.TextShape"
-     id="g1014">
+     id="g1014"
+     class="com.sun.star.drawing.TextShape">
        <g
    id="id13">
         <rect
-   class="BoundingBox"
-   x="100"
-   y="8674"
-   width="10001"
-   height="2386"
+   style="fill:none;stroke:none"
    id="rect1003"
-   style="fill:none;stroke:none" />
+   height="2386"
+   width="10001"
+   y="8674"
+   x="100"
+   class="BoundingBox" />
         <text
-   class="TextShape"
-   id="text1011"><tspan
-     class="TextParagraph"
-     font-size="917px"
-     font-weight="400"
+   id="text1011"
+   class="TextShape"><tspan
+     style="font-weight:900;font-size:917px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan1009"
-     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:917px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"><tspan
-       class="TextPosition"
-       x="350"
-       y="9650"
+     font-weight="400"
+     font-size="917px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#657b83;stroke:none"
        id="tspan1007"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#657b83;stroke:none">3. Resolver selection</tspan></tspan></text>
-
-
-
+       y="9650"
+       x="350"
+       class="TextPosition">3. Resolver selection</tspan></tspan></text>
 
 
 
@@ -3013,55 +3000,52 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g1073">
+     id="g1073"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id16">
         <rect
-   class="BoundingBox"
-   x="147"
-   y="11620"
-   width="6308"
-   height="1208"
+   style="fill:none;stroke:none"
    id="rect1050"
-   style="fill:none;stroke:none" />
+   height="1208"
+   width="6308"
+   y="11620"
+   x="147"
+   class="BoundingBox" />
         <path
-   d="m 200,11673 h 5763 l 438,550 -438,551 H 200 l 438,-551 z m 0,0 z m 6201,1101 z"
-   id="path1052"
    style="fill:#fdf6e3;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1052"
+   d="m 200,11673 h 5763 l 438,550 -438,551 H 200 l 438,-551 z m 0,0 z m 6201,1101 z" />
         <path
-   d="m 200,11673 h 5763 l 438,550 -438,551 H 200 l 438,-551 z"
-   id="path1054"
    style="fill:none;stroke:#eee8d5;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1054"
+   d="m 200,11673 h 5763 l 438,550 -438,551 H 200 l 438,-551 z" />
         <text
-   class="TextShape"
+   x="-52.916664"
    id="text1070"
-   x="-52.916664"><tspan
-     class="TextParagraph"
-     font-size="635px"
-     font-weight="700"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan1068"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="711.08331"
-       y="12439"
+     font-weight="700"
+     font-size="635px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan1066"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan1056"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">pour</tspan><tspan
-         id="tspan1058"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">(</tspan><tspan
-         id="tspan1060"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none">tea</tspan><tspan
-         id="tspan1062"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">, cup</tspan><tspan
-         id="tspan1064"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
-
-
-
+       y="12439"
+       x="711.08331"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none"
+         id="tspan1056">pour</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan1058">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan1060">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
+         id="tspan1062">, cup</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan1064">)</tspan></tspan></tspan></text>
 
 
 
@@ -3072,46 +3056,43 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g1092">
+     id="g1092"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id17">
         <rect
-   class="BoundingBox"
-   x="6700"
-   y="10350"
-   width="3702"
-   height="902"
+   style="fill:none;stroke:none"
    id="rect1075"
-   style="fill:none;stroke:none" />
+   height="902"
+   width="3702"
+   y="10350"
+   x="6700"
+   class="BoundingBox" />
         <path
-   d="m 6850,10350 c -75,0 -150,75 -150,150 v 600 c 0,75 75,151 150,151 h 3400 c 75,0 151,-76 151,-151 v -600 c 0,-75 -76,-150 -151,-150 z m -150,0 z m 3701,901 z"
-   id="path1077"
    style="fill:#eee8d5;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1077"
+   d="m 6850,10350 c -75,0 -150,75 -150,150 v 600 c 0,75 75,151 150,151 h 3400 c 75,0 151,-76 151,-151 v -600 c 0,-75 -76,-150 -151,-150 z m -150,0 z m 3701,901 z" />
         <text
-   class="TextShape"
+   x="-105.83333"
    id="text1089"
-   x="-105.83333"><tspan
-     class="TextParagraph"
-     font-size="529px"
-     font-weight="700"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan1087"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="6856.167"
-       y="10959"
+     font-weight="700"
+     font-size="529px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan1085"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan1079"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none">tea</tspan><tspan
-         id="tspan1081"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none"> in</tspan><tspan
-         id="tspan1083"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
-
-
-
+       y="10959"
+       x="6856.167"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan1079">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none"
+         id="tspan1081"> in</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan1083"> cup</tspan></tspan></tspan></text>
 
 
 
@@ -3122,34 +3103,31 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.TextShape"
-     id="g1105">
+     id="g1105"
+     class="com.sun.star.drawing.TextShape">
        <g
    id="id18">
         <rect
-   class="BoundingBox"
-   x="5700"
-   y="10100"
-   width="1001"
-   height="1401"
+   style="fill:none;stroke:none"
    id="rect1094"
-   style="fill:none;stroke:none" />
+   height="1401"
+   width="1001"
+   y="10100"
+   x="5700"
+   class="BoundingBox" />
         <text
-   class="TextShape"
-   id="text1102"><tspan
-     class="TextParagraph"
-     font-size="917px"
-     font-weight="700"
+   id="text1102"
+   class="TextShape"><tspan
+     style="font-weight:bold;font-size:917px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan1100"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:917px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="5950"
-       y="11076"
+     font-weight="700"
+     font-size="917px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
        id="tspan1098"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">?</tspan></tspan></text>
-
-
-
+       y="11076"
+       x="5950"
+       class="TextPosition">?</tspan></tspan></text>
 
 
 
@@ -3160,53 +3138,50 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g1128">
+     id="g1128"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id19">
         <rect
-   class="BoundingBox"
-   x="1347"
-   y="10136"
-   width="4608"
-   height="1329"
+   style="fill:none;stroke:none"
    id="rect1107"
-   style="fill:none;stroke:none" />
+   height="1329"
+   width="4608"
+   y="10136"
+   x="1347"
+   class="BoundingBox" />
         <path
-   d="m 1400,10189 h 3964 l 537,611 -537,611 H 1400 l 537,-611 z m 0,0 z m 4501,1222 z"
-   id="path1109"
    style="fill:#fdf6e3;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1109"
+   d="m 1400,10189 h 3964 l 537,611 -537,611 H 1400 l 537,-611 z m 0,0 z m 4501,1222 z" />
         <path
-   d="m 1400,10189 h 3964 l 537,611 -537,611 H 1400 l 537,-611 z"
-   id="path1111"
    style="fill:none;stroke:#cb4b16;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1111"
+   d="m 1400,10189 h 3964 l 537,611 -537,611 H 1400 l 537,-611 z" />
         <text
-   class="TextShape"
+   x="-105.83333"
    id="text1125"
-   x="-105.83333"><tspan
-     class="TextParagraph"
-     font-size="635px"
-     font-weight="700"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan1123"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="2063.1665"
-       y="10955"
+     font-weight="700"
+     font-size="635px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan1121"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan1113"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">make</tspan><tspan
-         id="tspan1115"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">(</tspan><tspan
-         id="tspan1117"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">tea</tspan><tspan
-         id="tspan1119"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
-
-
-
+       y="10955"
+       x="2063.1665"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none"
+         id="tspan1113">make</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan1115">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
+         id="tspan1117">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan1119">)</tspan></tspan></tspan></text>
 
 
 
@@ -3217,48 +3192,45 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g1306">
+     id="g1306"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id31">
         <rect
-   class="BoundingBox"
-   x="10190"
-   y="10200"
-   width="1212"
-   height="1202"
+   style="fill:none;stroke:none"
    id="rect1289"
-   style="fill:none;stroke:none" />
+   height="1202"
+   width="1212"
+   y="10200"
+   x="10190"
+   class="BoundingBox" />
         <path
-   d="m 10795,10200 c 343,0 605,260 605,600 0,340 -262,600 -605,600 -343,0 -605,-260 -605,-600 0,-340 262,-600 605,-600 z m -605,0 z m 1211,1201 z"
-   id="path1291"
    style="fill:#d33682;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1291"
+   d="m 10795,10200 c 343,0 605,260 605,600 0,340 -262,600 -605,600 -343,0 -605,-260 -605,-600 0,-340 262,-600 605,-600 z m -605,0 z m 1211,1201 z" />
         <text
-   class="TextShape"
-   id="text1303"><tspan
-     class="TextParagraph"
-     font-size="573px"
-     font-weight="400"
+   id="text1303"
+   class="TextShape"><tspan
+     style="font-weight:400;font-size:573px;font-family:'STIX Two Math'"
      id="tspan1301"
-     style="font-weight:400;font-size:573px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="10416"
+     font-weight="400"
+     font-size="573px"
+     class="TextParagraph"><tspan
+       id="tspan1295"
        y="11065"
-       id="tspan1295"><tspan
-         font-size="988px"
-         font-style="italic"
+       x="10416"
+       class="TextPosition"><tspan
+         style="font-style:italic;font-size:988px;font-family:'STIX Two Text';fill:#fdf6e3;stroke:none"
          id="tspan1293"
-         style="font-style:italic;font-size:988px;font-family:'STIX Two Text';fill:#fdf6e3;stroke:none">a</tspan></tspan><tspan
-       class="TextPosition"
-       x="10941"
+         font-style="italic"
+         font-size="988px">a</tspan></tspan><tspan
+       id="tspan1299"
        y="10739"
-       id="tspan1299"><tspan
-         id="tspan1297"
-         style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
-
-
-
+       x="10941"
+       class="TextPosition"><tspan
+         style="fill:#fdf6e3;stroke:none"
+         id="tspan1297">*</tspan></tspan></tspan></text>
 
 
 
@@ -3270,36 +3242,32 @@
        </g>
       </g></g>
       <g
-   transform="translate(5732.8841,-8776.8547)"
    id="g2028"><g
-     class="com.sun.star.drawing.TextShape"
-     id="g1027">
+     id="g1027"
+     class="com.sun.star.drawing.TextShape">
        <g
    id="id14">
         <rect
-   class="BoundingBox"
-   x="0"
-   y="13274"
-   width="10501"
-   height="2386"
+   style="fill:none;stroke:none"
    id="rect1016"
-   style="fill:none;stroke:none" />
+   height="2386"
+   width="10501"
+   y="13274"
+   x="0"
+   class="BoundingBox" />
         <text
-   class="TextShape"
-   id="text1024"><tspan
-     class="TextParagraph"
-     font-size="917px"
-     font-weight="400"
+   id="text1024"
+   class="TextShape"><tspan
+     style="font-weight:900;font-size:917px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';font-style:normal;font-stretch:normal;font-variant:normal"
      id="tspan1022"
-     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:917px;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy'"><tspan
-       class="TextPosition"
-       x="250"
-       y="14250"
+     font-weight="400"
+     font-size="917px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#657b83;stroke:none"
        id="tspan1020"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'Recursive Sans Linear Static';-inkscape-font-specification:'Recursive Sans Linear Static Heavy';fill:#657b83;stroke:none">4. Resolver application</tspan></tspan></text>
-
-
-
+       y="14250"
+       x="250"
+       class="TextPosition">4. Resolver application</tspan></tspan></text>
 
 
 
@@ -3310,46 +3278,43 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g1147">
+     id="g1147"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id20">
         <rect
-   class="BoundingBox"
-   x="5243"
-   y="14872"
-   width="3658"
-   height="902"
+   style="fill:none;stroke:none"
    id="rect1130"
-   style="fill:none;stroke:none" />
+   height="902"
+   width="3658"
+   y="14872"
+   x="5243"
+   class="BoundingBox" />
         <path
-   d="m 5394,14872 c -75,0 -150,75 -150,150 v 600 c 0,75 75,151 150,151 h 3355 c 75,0 151,-76 151,-151 v -600 c 0,-75 -76,-150 -151,-150 z m -150,0 z m 3656,901 z"
-   id="path1132"
    style="fill:#eee8d5;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1132"
+   d="m 5394,14872 c -75,0 -150,75 -150,150 v 600 c 0,75 75,151 150,151 h 3355 c 75,0 151,-76 151,-151 v -600 c 0,-75 -76,-150 -151,-150 z m -150,0 z m 3656,901 z" />
         <text
-   class="TextShape"
+   x="-52.916664"
    id="text1144"
-   x="-52.916664"><tspan
-     class="TextParagraph"
-     font-size="529px"
-     font-weight="700"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan1142"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:529px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="5430.0835"
-       y="15481"
+     font-weight="700"
+     font-size="529px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan1140"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan1134"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none">tea</tspan><tspan
-         id="tspan1136"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none"> in</tspan><tspan
-         id="tspan1138"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"> cup</tspan></tspan></tspan></text>
-
-
-
+       y="15481"
+       x="5430.0835"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan1134">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#859900;stroke:none"
+         id="tspan1136"> in</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#93a1a1;stroke:none"
+         id="tspan1138"> cup</tspan></tspan></tspan></text>
 
 
 
@@ -3360,53 +3325,50 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g1170">
+     id="g1170"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id21">
         <rect
-   class="BoundingBox"
-   x="591"
-   y="14658"
-   width="4663"
-   height="1329"
+   style="fill:none;stroke:none"
    id="rect1149"
-   style="fill:none;stroke:none" />
+   height="1329"
+   width="4663"
+   y="14658"
+   x="591"
+   class="BoundingBox" />
         <path
-   d="m 644,14711 h 4020 l 536,611 -536,611 H 644 l 535,-611 z m 0,0 z m 4556,1222 z"
-   id="path1151"
    style="fill:#fdf6e3;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1151"
+   d="m 644,14711 h 4020 l 536,611 -536,611 H 644 l 535,-611 z m 0,0 z m 4556,1222 z" />
         <path
-   d="m 644,14711 h 4020 l 536,611 -536,611 H 644 l 535,-611 z"
-   id="path1153"
    style="fill:none;stroke:#cb4b16;stroke-width:106;stroke-linejoin:round"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1153"
+   d="m 644,14711 h 4020 l 536,611 -536,611 H 644 l 535,-611 z" />
         <text
-   class="TextShape"
+   x="-158.75"
    id="text1167"
-   x="-158.75"><tspan
-     class="TextParagraph"
-     font-size="635px"
-     font-weight="700"
+   class="TextShape"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
      id="tspan1165"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:635px;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-       class="TextPosition"
-       x="1309.2501"
-       y="15477"
+     font-weight="700"
+     font-size="635px"
+     class="TextParagraph"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"
        id="tspan1163"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold'"><tspan
-         id="tspan1155"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none">make</tspan><tspan
-         id="tspan1157"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">(</tspan><tspan
-         id="tspan1159"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none">tea</tspan><tspan
-         id="tspan1161"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none">)</tspan></tspan></tspan></text>
-
-
-
+       y="15477"
+       x="1309.2501"
+       class="TextPosition"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#dc322f;stroke:none"
+         id="tspan1155">make</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan1157">(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#839496;stroke:none"
+         id="tspan1159">tea</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Recursive Mono Linear Static';-inkscape-font-specification:'Recursive Mono Linear Static Bold';fill:#073642;stroke:none"
+         id="tspan1161">)</tspan></tspan></tspan></text>
 
 
 
@@ -3417,48 +3379,45 @@
 
        </g>
       </g><g
-     class="com.sun.star.drawing.CustomShape"
-     id="g1325">
+     id="g1325"
+     class="com.sun.star.drawing.CustomShape">
        <g
    id="id32">
         <rect
-   class="BoundingBox"
-   x="8800"
-   y="14700"
-   width="1212"
-   height="1203"
+   style="fill:none;stroke:none"
    id="rect1308"
-   style="fill:none;stroke:none" />
+   height="1203"
+   width="1212"
+   y="14700"
+   x="8800"
+   class="BoundingBox" />
         <path
-   d="m 9405,14700 c 343,0 605,260 605,600 0,340 -262,600 -605,600 -343,0 -605,-260 -605,-600 0,-340 262,-600 605,-600 z m -605,0 z m 1211,1201 z"
-   id="path1310"
    style="fill:#d33682;stroke:none"
-   inkscape:connector-curvature="0" />
+   inkscape:connector-curvature="0"
+   id="path1310"
+   d="m 9405,14700 c 343,0 605,260 605,600 0,340 -262,600 -605,600 -343,0 -605,-260 -605,-600 0,-340 262,-600 605,-600 z m -605,0 z m 1211,1201 z" />
         <text
-   class="TextShape"
-   id="text1322"><tspan
-     class="TextParagraph"
-     font-size="573px"
-     font-weight="400"
+   id="text1322"
+   class="TextShape"><tspan
+     style="font-weight:400;font-size:573px;font-family:'STIX Two Math'"
      id="tspan1320"
-     style="font-weight:400;font-size:573px;font-family:'STIX Two Math'"><tspan
-       class="TextPosition"
-       x="9026"
+     font-weight="400"
+     font-size="573px"
+     class="TextParagraph"><tspan
+       id="tspan1314"
        y="15565"
-       id="tspan1314"><tspan
-         font-size="988px"
-         font-style="italic"
+       x="9026"
+       class="TextPosition"><tspan
+         style="font-style:italic;font-size:988px;font-family:'STIX Two Text';fill:#fdf6e3;stroke:none"
          id="tspan1312"
-         style="font-style:italic;font-size:988px;font-family:'STIX Two Text';fill:#fdf6e3;stroke:none">a</tspan></tspan><tspan
-       class="TextPosition"
-       x="9551"
+         font-style="italic"
+         font-size="988px">a</tspan></tspan><tspan
+       id="tspan1318"
        y="15239"
-       id="tspan1318"><tspan
-         id="tspan1316"
-         style="fill:#fdf6e3;stroke:none">*</tspan></tspan></tspan></text>
-
-
-
+       x="9551"
+       class="TextPosition"><tspan
+         style="fill:#fdf6e3;stroke:none"
+         id="tspan1316">*</tspan></tspan></tspan></text>
 
 
 
@@ -3470,6 +3429,7 @@
        </g>
       </g></g>
      </g>
+    </g>
    </g>
   </g>
  </g>
